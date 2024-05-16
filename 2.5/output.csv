@@ -1,0 +1,119 @@
+1. Distinct protein annotations,9703,"== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[InterPro_accession#224], functions=[])
+   +- Exchange hashpartitioning(InterPro_accession#224, 200), ENSURE_REQUIREMENTS, [plan_id=34]
+      +- HashAggregate(keys=[InterPro_accession#224], functions=[])
+         +- Project [_c11#28 AS InterPro_accession#224]
+            +- Filter (isnotnull(_c11#28) AND NOT (_c11#28 = -))
+               +- FileScan csv [_c11#28] Batched: false, DataFilters: [isnotnull(_c11#28), NOT (_c11#28 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c11), Not(EqualTo(_c11,-))], ReadSchema: struct<_c11:string>
+
+"
+2. Average annotations,5.775124333258208,"== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[], functions=[avg(count(InterPro_accession)#312L)])
+   +- Exchange SinglePartition, ENSURE_REQUIREMENTS, [plan_id=161]
+      +- HashAggregate(keys=[], functions=[partial_avg(count(InterPro_accession)#312L)])
+         +- HashAggregate(keys=[Protein_accession#47], functions=[count(InterPro_accession#224)])
+            +- Exchange hashpartitioning(Protein_accession#47, 200), ENSURE_REQUIREMENTS, [plan_id=157]
+               +- HashAggregate(keys=[Protein_accession#47], functions=[partial_count(InterPro_accession#224)])
+                  +- Project [_c0#17 AS Protein_accession#47, _c11#28 AS InterPro_accession#224]
+                     +- Filter (isnotnull(_c11#28) AND NOT (_c11#28 = -))
+                        +- FileScan csv [_c0#17,_c11#28] Batched: false, DataFilters: [isnotnull(_c11#28), NOT (_c11#28 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c11), Not(EqualTo(_c11,-))], ReadSchema: struct<_c0:string,_c11:string>
+
+"
+3. Most common GO Term,GO:0005524,"== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [count#373L DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(count#373L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=260]
+      +- HashAggregate(keys=[go_a#339], functions=[count(1)])
+         +- Exchange hashpartitioning(go_a#339, 200), ENSURE_REQUIREMENTS, [plan_id=257]
+            +- HashAggregate(keys=[go_a#339], functions=[partial_count(1)])
+               +- Generate explode(split(GO_annotations#256, [|], -1)), false, [go_a#339]
+                  +- Project [_c13#30 AS GO_annotations#256]
+                     +- Filter (isnotnull(_c13#30) AND NOT (_c13#30 = -))
+                        +- FileScan csv [_c13#30] Batched: false, DataFilters: [isnotnull(_c13#30), NOT (_c13#30 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c13), Not(EqualTo(_c13,-))], ReadSchema: struct<_c13:string>
+
+"
+4. Average size of an InterPRO,131.73178916966685,"== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[], functions=[avg(size#379)])
+   +- Exchange SinglePartition, ENSURE_REQUIREMENTS, [plan_id=348]
+      +- HashAggregate(keys=[], functions=[partial_avg(size#379)])
+         +- Project [(_c7#24 - _c6#23) AS size#379]
+            +- FileScan csv [_c6#23,_c7#24] Batched: false, DataFilters: [], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [], ReadSchema: struct<_c6:int,_c7:int>
+
+"
+5. Top 10 most common InterPRO features,"['IPR027417', 'IPR002347', 'IPR003439', 'IPR036388', 'IPR036259', 'IPR003593', 'IPR036390', 'IPR036291', 'IPR000515', 'IPR001789']","== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [count#441L DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(count#441L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=396]
+      +- HashAggregate(keys=[InterPro_accession#224], functions=[count(1)])
+         +- Exchange hashpartitioning(InterPro_accession#224, 200), ENSURE_REQUIREMENTS, [plan_id=393]
+            +- HashAggregate(keys=[InterPro_accession#224], functions=[partial_count(1)])
+               +- Project [_c11#28 AS InterPro_accession#224]
+                  +- Filter (isnotnull(_c11#28) AND NOT (_c11#28 = -))
+                     +- FileScan csv [_c11#28] Batched: false, DataFilters: [isnotnull(_c11#28), NOT (_c11#28 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c11), Not(EqualTo(_c11,-))], ReadSchema: struct<_c11:string>
+
+"
+6. Top 10 InterPRO features that are almost the same size (within 90-100%),"['IPR006308', 'IPR006308', 'IPR006308', 'IPR012103', 'IPR006308', 'IPR006308', 'IPR006308', 'IPR006308', 'IPR006308', 'IPR006308']","== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [size#464 DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(size#464 DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=473]
+      +- Project [Protein_accession#47, MD5#64, Seq_len#80, Analysis#96, Signature_accession#112, Signature_description#128, Start#144, Stop#160, Score#176, Status#192, Date#208, InterPro_accession#224, InterPro_description#240, GO_annotations#256, Pathways#272, size_ipf#447, (cast(size_ipf#447 as double) / cast(Seq_len#80 as double)) AS size#464]
+         +- Project [_c0#17 AS Protein_accession#47, _c1#18 AS MD5#64, _c2#19 AS Seq_len#80, _c3#20 AS Analysis#96, _c4#21 AS Signature_accession#112, _c5#22 AS Signature_description#128, _c6#23 AS Start#144, _c7#24 AS Stop#160, _c8#25 AS Score#176, _c9#26 AS Status#192, _c10#27 AS Date#208, _c11#28 AS InterPro_accession#224, _c12#29 AS InterPro_description#240, _c13#30 AS GO_annotations#256, _c14#31 AS Pathways#272, (_c7#24 - _c6#23) AS size_ipf#447]
+            +- Filter (((((isnotnull(_c11#28) AND isnotnull(_c7#24)) AND isnotnull(_c6#23)) AND isnotnull(_c2#19)) AND NOT (_c11#28 = -)) AND ((cast((_c7#24 - _c6#23) as double) / cast(_c2#19 as double)) > 0.9))
+               +- FileScan csv [_c0#17,_c1#18,_c2#19,_c3#20,_c4#21,_c5#22,_c6#23,_c7#24,_c8#25,_c9#26,_c10#27,_c11#28,_c12#29,_c13#30,_c14#31] Batched: false, DataFilters: [isnotnull(_c11#28), isnotnull(_c7#24), isnotnull(_c6#23), isnotnull(_c2#19), NOT (_c11#28 = -), ..., Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c11), IsNotNull(_c7), IsNotNull(_c6), IsNotNull(_c2), Not(EqualTo(_c11,-))], ReadSchema: struct<_c0:string,_c1:string,_c2:int,_c3:string,_c4:string,_c5:string,_c6:int,_c7:int,_c8:string,...
+
+"
+7. Top 10 most common word,"['domain', 'superfamily', 'protein', 'C-terminal', 'site', 'hydrolase', 'DNA-binding', 'N-terminal', 'conserved', 'family']","== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [count#532L DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(count#532L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=521]
+      +- HashAggregate(keys=[desc#498], functions=[count(1)])
+         +- Exchange hashpartitioning(desc#498, 200), ENSURE_REQUIREMENTS, [plan_id=518]
+            +- HashAggregate(keys=[desc#498], functions=[partial_count(1)])
+               +- Generate explode(split(InterPro_description#240,  , -1)), false, [desc#498]
+                  +- Project [_c12#29 AS InterPro_description#240]
+                     +- Filter (isnotnull(_c12#29) AND NOT (_c12#29 = -))
+                        +- FileScan csv [_c12#29] Batched: false, DataFilters: [isnotnull(_c12#29), NOT (_c12#29 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c12), Not(EqualTo(_c12,-))], ReadSchema: struct<_c12:string>
+
+"
+8. Top 10 least common,"['Hopanoid-associated', 'Receptor,', 'DUF4168', 'PrlF', 'HigB-like', '6-like', 'C2-methyltransferase,', 'Ycf48/Hcf136-like', 'Phosphoglucomutase', 'HpnB']","== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [count#532L DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(count#532L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=521]
+      +- HashAggregate(keys=[desc#498], functions=[count(1)])
+         +- Exchange hashpartitioning(desc#498, 200), ENSURE_REQUIREMENTS, [plan_id=518]
+            +- HashAggregate(keys=[desc#498], functions=[partial_count(1)])
+               +- Generate explode(split(InterPro_description#240,  , -1)), false, [desc#498]
+                  +- Project [_c12#29 AS InterPro_description#240]
+                     +- Filter (isnotnull(_c12#29) AND NOT (_c12#29 = -))
+                        +- FileScan csv [_c12#29] Batched: false, DataFilters: [isnotnull(_c12#29), NOT (_c12#29 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c12), Not(EqualTo(_c12,-))], ReadSchema: struct<_c12:string>
+
+"
+9. The 10 most commons words found for the largest InterPRO features,"['superfamily', 'protein', 'domain', 'subunit', 'family', 'Ribosomal', 'hydrolase', 'synthase', 'transporter', 'Protein']","== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- Sort [count#653L DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(count#653L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=699]
+      +- HashAggregate(keys=[desc#615], functions=[count(1)])
+         +- Exchange hashpartitioning(desc#615, 200), ENSURE_REQUIREMENTS, [plan_id=696]
+            +- HashAggregate(keys=[desc#615], functions=[partial_count(1)])
+               +- Generate explode(split(InterPro_description#240,  , -1)), false, [desc#615]
+                  +- Project [InterPro_description#240]
+                     +- Sort [size#596 DESC NULLS LAST], true, 0
+                        +- Exchange rangepartitioning(size#596 DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [plan_id=690]
+                           +- Project [_c12#29 AS InterPro_description#240, (cast((_c7#24 - _c6#23) as double) / cast(_c2#19 as double)) AS size#596]
+                              +- Filter (((((isnotnull(_c11#28) AND isnotnull(_c7#24)) AND isnotnull(_c6#23)) AND isnotnull(_c2#19)) AND NOT (_c11#28 = -)) AND ((cast((_c7#24 - _c6#23) as double) / cast(_c2#19 as double)) > 0.9))
+                                 +- FileScan csv [_c2#19,_c6#23,_c7#24,_c11#28,_c12#29] Batched: false, DataFilters: [isnotnull(_c11#28), isnotnull(_c7#24), isnotnull(_c6#23), isnotnull(_c2#19), NOT (_c11#28 = -), ..., Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c11), IsNotNull(_c7), IsNotNull(_c6), IsNotNull(_c2), Not(EqualTo(_c11,-))], ReadSchema: struct<_c2:int,_c6:int,_c7:int,_c11:string,_c12:string>
+
+"
+10. Coefficient of correlation,0.31961294035697546,"== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[Protein_accession#47, Seq_len#80], functions=[count(1)])
+   +- Exchange hashpartitioning(Protein_accession#47, Seq_len#80, 200), ENSURE_REQUIREMENTS, [plan_id=862]
+      +- HashAggregate(keys=[Protein_accession#47, Seq_len#80], functions=[partial_count(1)])
+         +- Project [_c0#17 AS Protein_accession#47, _c2#19 AS Seq_len#80]
+            +- Filter (isnotnull(_c11#28) AND NOT (_c11#28 = -))
+               +- FileScan csv [_c0#17,_c2#19,_c11#28] Batched: false, DataFilters: [isnotnull(_c11#28), NOT (_c11#28 = -)], Format: CSV, Location: InMemoryFileIndex(1 paths)[file:/data/dataprocessing/interproscan/all_bacilli.tsv], PartitionFilters: [], PushedFilters: [IsNotNull(_c11), Not(EqualTo(_c11,-))], ReadSchema: struct<_c0:string,_c2:int,_c11:string>
+
+"
