@@ -1,0 +1,2167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Public Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">BMC Public Health</journal-id>
+      <journal-title-group>
+        <journal-title>BMC Public Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1471-2458</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37864144</article-id>
+      <article-id pub-id-type="pmc">10590010</article-id>
+      <article-id pub-id-type="publisher-id">16741</article-id>
+      <article-id pub-id-type="doi">10.1186/s12889-023-16741-1</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Resisting and disrupting HIV-related stigma: a photovoice study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Restall</surname>
+            <given-names>Gayle</given-names>
+          </name>
+          <address>
+            <email>gayle.restall@umanitoba.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ukoli</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mehta</surname>
+            <given-names>Punam</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hydesmith</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Payne</surname>
+            <given-names>Mike</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02gfys938</institution-id><institution-id institution-id-type="GRID">grid.21613.37</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 9609</institution-id><institution>Department of Occupational Therapy, Faculty of Health Sciences, </institution><institution>University of Manitoba, </institution></institution-wrap>Winnipeg, MB R3E 0T6 Canada </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02gfys938</institution-id><institution-id institution-id-type="GRID">grid.21613.37</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 9609</institution-id><institution>Faculty of Social Work, </institution><institution>University of Manitoba, </institution></institution-wrap>Winnipeg, MB Canada </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02gfys938</institution-id><institution-id institution-id-type="GRID">grid.21613.37</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 9609</institution-id><institution>Department of Community Health Sciences, Faculty of Health Sciences, </institution><institution>University of Manitoba, </institution></institution-wrap>Winnipeg, MB Canada </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02gfys938</institution-id><institution-id institution-id-type="GRID">grid.21613.37</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 9609</institution-id><institution>Department of Anthropology, Faculty of Arts, </institution><institution>University of Manitoba, </institution></institution-wrap>Winnipeg, MB Canada </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0113kt106</institution-id><institution-id institution-id-type="GRID">grid.422680.a</institution-id><institution>Nine Circles Community Health Centre, </institution></institution-wrap>Winnipeg, MB Canada </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>21</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>23</volume>
+      <elocation-id>2062</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>9</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2023</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">The stigma associated with human immunodeficiency virus (HIV) is a significant global public health concern. Health care providers and policy makers continue to struggle with understanding and implementing strategies to reduce HIV-related stigma in particular contexts and at the intersections of additional oppressions. Perspectives and direction from people living with HIV are imperative.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">In this project we amplified the voices of people living with HIV about their experiences of HIV-related stigma in Manitoba, Canada. We used an arts-based qualitative case study research design using photovoice and narrative interviews. Adults living with HIV participated by taking pictures that represented their stigma experiences. The photos were a catalyst for conversations about HIV and stigma during follow-up individual narrative interviews. Journaling provided opportunities for participants to reflect on their experiences of, and resistance to, stigma. Interviews were audio recorded and transcribed. Photos, journals, and transcribed interviews were analyzed using inductive qualitative methods</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">Through pictures and dialogue, participants (<italic>N</italic>&#x2009;=&#x2009;11; 64% women) expressed the emotional and social impacts of stigmas that were created and supported by oppressive structures and interpersonal attitudes and behaviours. These experiences were compounded by intersecting forms of oppression including racism, sexism, and homophobia. Participants also relayed stories of their personal strategies and transitions toward confronting stigma. Strategies were themed as caring for oneself, caring for children and pets, reconstituting social support networks, and resisting and disrupting stigma. Participants made important recommendations for system and policy change.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p id="Par4">These stories of oppression and resistance can inspire action to reduce HIV-related stigma. People living with HIV can consider the strategies to confront stigma that were shared in these stories. Health care providers and policy makers can take concerted actions to support peoples&#x2019; transitions to resisting stigmas. They can facilitate supportive and anti-oppressive health and social service systems that address medical care as well as basic needs for food, shelter, income, and positive social and community connections.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>HIV stigma</kwd>
+        <kwd>Oppression</kwd>
+        <kwd>Resistance</kwd>
+        <kwd>Qualitative research</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par5">The stigma associated with human immunodeficiency virus (HIV) is a significant global public health concern [<xref ref-type="bibr" rid="CR1">1</xref>]. HIV-related stigma has persisted despite acknowledgement of its negative impacts on people&#x2019;s lives and society. Systematic reviews have highlighted attempts to reduce stigma and its impacts, primarily through education, skill building, and support [<xref ref-type="bibr" rid="CR2">2</xref>&#x2013;<xref ref-type="bibr" rid="CR4">4</xref>]. Although some stigma reduction strategies have demonstrated success, the evidence is not robust and lived experiences confirm the persistence of stigma. The ability of HIV-related stigma to continue to perpetuate prejudice and discrimination toward people living with HIV is exacerbated by the intersectionality of additional forms of stigma and discrimination created and maintained through colonial, social, and political structures. Racism, sexism, and homophobia [<xref ref-type="bibr" rid="CR4">4</xref>], along with additional social structures and attitudes that place people at increased risk for HIV, contribute to the intractability of the stigma experienced by people living with HIV. Greater investments in stigma reduction is required to achieve the World Health Organization 2030 targets to end the AIDS epidemic [<xref ref-type="bibr" rid="CR5">5</xref>].</p>
+      <p id="Par6">Research has been accumulating on the experiences of HIV-related stigma and its negative impacts on health and well-being [<xref ref-type="bibr" rid="CR6">6</xref>&#x2013;<xref ref-type="bibr" rid="CR8">8</xref>]. Photovoice has been recognized as an important way for adults living with HIV to share their experiences of stigma [<xref ref-type="bibr" rid="CR9">9</xref>]. Greater opportunities for adults living with HIV to share their stigma experiences while highlighting what is required to resist and disrupt stigma can provide guidance for system and structural change. In this community-based case study research we amplified the voices of people living with HIV through photovoice methodology to learn how participants experienced and built resistance to stigma. We identified the actions that health and social services need to take to disrupt stigma and improve the health and well-being of people living with HIV.</p>
+      <sec id="Sec2">
+        <title>The impact of stigma</title>
+        <p id="Par7">HIV stigma has been described in various ways. The mechanisms by which stigma affects individuals have been conceptualized as functioning through enacted, anticipated, and internalized stigma [<xref ref-type="bibr" rid="CR10">10</xref>]. Enacted stigma includes discriminatory behaviour toward people with a stigmatized health condition and encompasses all the ways people have experienced discrimination through violence, exclusion, blame, and additional behaviors that place them at a disadvantage socially, economically, and in their pursuit of health and well-being [<xref ref-type="bibr" rid="CR11">11</xref>&#x2013;<xref ref-type="bibr" rid="CR13">13</xref>]. Anticipated stigma refers to the extent to which people expect they will experience prejudice and discrimination from other people [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. Internalized stigma includes negative attitudes and feelings that someone with HIV may have that are directed toward themselves [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR17">17</xref>].</p>
+        <p id="Par8">The extent to which people living with HIV experience stigma and how they react to stigma varies considerably. However, a body of research has demonstrated the profound negative effects of all three dimensions of stigma. For example, enacted stigma can increase the likelihood that people will experience violence [<xref ref-type="bibr" rid="CR18">18</xref>&#x2013;<xref ref-type="bibr" rid="CR20">20</xref>], social rejection [<xref ref-type="bibr" rid="CR20">20</xref>], and exclusion from rights and opportunities that contribute to lower rates of employment [<xref ref-type="bibr" rid="CR21">21</xref>], housing insecurity [<xref ref-type="bibr" rid="CR22">22</xref>] and unmet health and social care needs [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>]. Anticipated and internalized stigma can reduce treatment adherence [<xref ref-type="bibr" rid="CR25">25</xref>] and increase people&#x2019;s reluctance to disclose their HIV positive status creating barriers to obtaining social supports, including health care [<xref ref-type="bibr" rid="CR26">26</xref>]. Anticipated stigma has been negatively associated the willingness to seek life opportunities such as employment [<xref ref-type="bibr" rid="CR27">27</xref>]. Internalized stigma has been associated with a lower likelihood of initiating anti-retroviral therapy [<xref ref-type="bibr" rid="CR28">28</xref>], more mental health concerns [<xref ref-type="bibr" rid="CR29">29</xref>], and poorer overall self-reported health [<xref ref-type="bibr" rid="CR6">6</xref>]. The interactions of these dimensions of stigma are complex. Turan and colleagues [<xref ref-type="bibr" rid="CR26">26</xref>] illustrated the ways that perceived community stigma (i.e. the degree to which people with HIV perceive HIV-related stigma in their communities) can influence internalized and anticipated stigma and their effects on medical and social outcomes. Thus, the dimensions of stigma influence each other in their scope, expression, and outcomes across a variety of contexts and life situations [<xref ref-type="bibr" rid="CR30">30</xref>].</p>
+        <p id="Par9">In the context of HIV-related stigma and its variable effects on people&#x2019;s lives we wanted to better understand how people with HIV live with stigma. The purpose of this study was to explore: a) the ways that people with HIV experienced stigma and its emotional and social effects, b) how they strive toward well-being to resist and disrupt stigma, and c) the social and structural supports and resources that can promote living well with HIV.</p>
+      </sec>
+    </sec>
+    <sec id="Sec3">
+      <title>Methods</title>
+      <sec id="Sec4">
+        <title>Design</title>
+        <p id="Par10">This study used an arts-based qualitative case study [<xref ref-type="bibr" rid="CR31">31</xref>] research design using photovoice [<xref ref-type="bibr" rid="CR32">32</xref>] and narrative interviews [<xref ref-type="bibr" rid="CR33">33</xref>]. Photovoice methodology facilitates communication about everyday experiences and promotes critical discussion about those experiences to influence public policy [<xref ref-type="bibr" rid="CR32">32</xref>]. Photovoice has been used as a community-based research approach for diverse areas of concerns, priorities, and promotion of practice and policy change affecting people living with HIV [<xref ref-type="bibr" rid="CR9">9</xref>], including examining the experiences of HIV-related stigma [<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>]. Through photovoice, participants take photos that become a catalyst for the narration of their stories during subsequent interviews. In this way, they take more control of the interview than traditional interview methods because they determine the pictures they take and the stories they tell related to the pictures. The methodology also promotes inclusiveness through communication of experience in pictures as well as words.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Case</title>
+        <p id="Par11">The research was bounded by a particular case, that of adults living with HIV in Manitoba, Canada. Although exact numbers of people living with HIV in the jurisdiction are difficult to determine, McClarty and colleagues reported that in the first quarter of 2019 there were 1357 clients of the Manitoba HIV Program, the primary provider of HIV treatment, care and support in the province [<xref ref-type="bibr" rid="CR36">36</xref>]. The largest proportion (64.2%) of clients were aged 40 to 64&#xA0;years. Distribution of self-identified ethnicity was reported as 36.2% White, 39.9% Indigenous, and 19.1% Sub-Sahara African/Caribbean/Black. The client population was predominantly male at 64.7%. However, there have been greater proportions of females being diagnosed in recent years [<xref ref-type="bibr" rid="CR37">37</xref>]. Self-reported potential risk exposure for both females and males newly diagnosed in the jurisdiction in 2020 was highest in people who inject drugs followed by heterosexual sex [<xref ref-type="bibr" rid="CR37">37</xref>]. The impact of the social determinants of health has been evident in, for example, the relationship between HIV and lower income in both urban and rural areas, with a high prevalence of people who live with HIV being in the lowest income quintile [<xref ref-type="bibr" rid="CR38">38</xref>]. Despite Manitoba having the second highest rate of HIV infections among the Canadian provinces and territories [<xref ref-type="bibr" rid="CR39">39</xref>], there has been little research that has explored the ways that people living in the province have built resistance to their experiences of stigma.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Participants</title>
+        <p id="Par12">We purposefully recruited people, 18&#xA0;years of age and older, who had been diagnosed with HIV a minimum of one year previously and were living in Manitoba. Participants had to be able to communicate in English. The research was approved by a local university Research Ethics Board. All participants provided informed consent, either in writing or recorded and documented via audio consent necessitated by social distancing public health orders due to the COVID-19 pandemic.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Recruitment</title>
+        <p id="Par13">We recruited participants through: posters at a community health centre specializing in the care, treatment, and support of people living with HIV; by contacting people who had participated in a previous study on HIV-related stigma and had agreed to be contacted for future research; through existing networks; and word-of-mouth.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Procedures</title>
+        <p id="Par14">We began the study in February 2020 with a small group of six potential participants who attended a group orientation session lasting approximately two hours in which members of the research team explained the purpose of the research, confidentially collected demographic and background information related to age, citizenship status, ethnic and racial identity, sex at birth, gender, sexual orientation, and years since HIV diagnosis. Participants were provided with training on photovoice, picture taking, use of a camera, ethics of picture taking, and safety considerations. Participants were asked to take a minimum of five pictures and to journal the meaning of the photograph using a version of the SHOWED technique described by Shaffer and reported by Catalani and Minkler [<xref ref-type="bibr" rid="CR40">40</xref>]. Journaling prompts were: what is seen; what is happening; how does this relate to our/my life; why are things this way; how could this image educate people; and what can I do about it. We asked participants to take pictures of their experiences of stigma and provided the following suggested topics: what stigma is; why stigma exists; how to personally overcome stigma; and how to reduce systemic stigma. We gave participants great latitude on what topics they felt were most important to represent in their pictures and discuss in their follow-up interview. Although we had a general discussion about stigma in the photovoice training session, we did not tie participants to a particular definition of stigma.</p>
+        <p id="Par15">Public health orders related to the COVID-19 pandemic that were implemented shortly after the first group session prevented further in-person research processes. One participant from the initial group did not continue after the orientation session. Orientation sessions for an additional six participants and all subsequent follow-up interviews were done individually via virtual teleconferencing software. In one case the individual&#x2019;s partner was in the background during sessions, at the participant&#x2019;s request.</p>
+        <p id="Par16">Follow-up interviews were conducted once a participant had gathered at least five pictures. Interviews were facilitated by the research coordinator with support from either a peer research assistant or principal investigator. Semi-structured interviews were guided by a modified version of the SHOWED framework, as described above, with prompts to relate the conversation specifically to stigma. Participants were also asked about key messages for people living with HIV, service providers, and policymakers. The interviews were audio-recorded and transcribed verbatim.</p>
+      </sec>
+      <sec id="Sec9">
+        <title>Analysis</title>
+        <p id="Par17">Photos, journals, and interview transcripts were sources of data that were analysed using inductive thematic qualitative methods adapted from Miles, Huberman, and Saldana [<xref ref-type="bibr" rid="CR41">41</xref>] and following the traditions of Braun and Clarke [<xref ref-type="bibr" rid="CR42">42</xref>]. Inductive thematic analysis has been employed in previous photovoice studies [<xref ref-type="bibr" rid="CR43">43</xref>]. It was chosen as the analytical approach because of its flexibility. It also places emphasis on participants&#x2019; interpretations, in this case as elicited through their photos, journals, and individual interviews, rather than relying on the researcher&#x2019;s theoretical perspective [<xref ref-type="bibr" rid="CR42">42</xref>]. In addition, it is consistent with the researchers&#x2019; social justice approach demonstrated by forefronting the perspectives of participants as they spoke about the ways that stigma impacted their lives and their perspectives of remedies for social stigmatization.</p>
+        <p id="Par18">Two team members were involved in data analysis. One team member began first cycle analysis by developing a basic coding structure through line-by-line coding of the first interview transcript in the context of the photos and journal. A second team member, who became the primary data analyst, read the transcript and reviewed the coding structure. The two team members met to discuss the coding and interpretations. Next, the primary analyst conducted first cycle analysis on all subsequent transcripts through line-by-line coding using the initial coding structure and adding new codes as they were conceptualized from the data. The two team members met on a regular basis during the coding process to discuss codes and interpretations. The primary analyst noted salient points through memo writing [<xref ref-type="bibr" rid="CR40">40</xref>]. Definitions of codes were refined and discrepancies in interpretations resolved through discussion. Next, second cycle pattern analysis involved the primary analyst searching for and reviewing themes [<xref ref-type="bibr" rid="CR42">42</xref>] by grouping first cycle codes into larger thematic categories. These larger categories were refined and reorganized by the two team members with attention to identifying cross case confirming and disconfirming comparisons [<xref ref-type="bibr" rid="CR41">41</xref>]. Themes and subthemes were defined and named [<xref ref-type="bibr" rid="CR42">42</xref>]. Photos and journals were consulted iteratively during the process of describing the themes.</p>
+      </sec>
+    </sec>
+    <sec id="Sec10">
+      <title>Results</title>
+      <p id="Par19">Eleven [<xref ref-type="bibr" rid="CR11">11</xref>] participants completed the photovoice process. Table <xref rid="Tab1" ref-type="table">1</xref> summarizes their demographic and social background information. All participants identified as cis-gender.
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Participant demographics</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Variable</th><th align="left">Frequency</th></tr></thead><tbody><tr><td align="left" colspan="2">Age (years)</td></tr><tr><td align="left">&#x2003;<italic>M</italic>&#x2009;=&#x2009;46 (<italic>SD</italic>&#x2009;=&#x2009;10.35) (Range: 36&#x2014;64)</td><td align="left"/></tr><tr><td align="left" colspan="2">Length of time since diagnosis (years)</td></tr><tr><td align="left">&#x2003;<italic>M</italic>&#x2009;=&#x2009;14 (<italic>SD</italic>&#x2009;=&#x2009;6.71) (Range: 6&#x2014;27)</td><td align="left"/></tr><tr><td align="left" colspan="2">Sex/Gender</td></tr><tr><td align="left">&#x2003;Male/Man</td><td align="left">4</td></tr><tr><td align="left">&#x2003;Female/Woman</td><td align="left">7</td></tr><tr><td align="left" colspan="2">Sexual orientation</td></tr><tr><td align="left">&#x2003;Heterosexual</td><td align="left">6</td></tr><tr><td align="left">&#x2003;Bisexual</td><td align="left">2</td></tr><tr><td align="left">&#x2003;Gay</td><td align="left">2</td></tr><tr><td align="left">&#x2003;Prefer not to answer</td><td align="left">1</td></tr><tr><td align="left" colspan="2">Ethnic or racial group (self-identity)</td></tr><tr><td align="left">&#x2003;Indigenous</td><td align="left">4</td></tr><tr><td align="left">&#x2003;White</td><td align="left">3</td></tr><tr><td align="left">&#x2003;Black or African</td><td align="left">3</td></tr><tr><td align="left">&#x2003;Asian/White</td><td align="left">1</td></tr></tbody></table></table-wrap></p>
+      <p id="Par20">In this manuscript we highlight the ways that participants strove for a good life in which they could experience well-being in the face of HIV-related stigma. All participants shared the emotional pain and social rejection precipitated by HIV-related stigma. Yet, they found new ways of living a life. Although stigma continued to create barriers to their well-being, they shared stories of their inner strengths and resources, as well as external factors that helped them along that journey.</p>
+      <p id="Par21">We begin by describing the <italic>experiences of intersecting stigmas and the emotional and social impacts of stigma</italic> that participants chose to share to provide context for the factors that supported participants as they were <italic>striving toward well-being</italic>. We then describe the four themes that emerged about the factors that supported well-being a) <italic>caring for oneself,</italic> b) <italic>caring for children and pets</italic>; c) <italic>reconstituting social support networks</italic>; and d) <italic>resisting and disrupting stigma</italic>. We end by summarizing the system and structural resources that participants identified as important to flourishing in the context of HIV stigma. Quotes are identified according to the participant&#x2019;s gender woman (W) or man (M) and a code number.</p>
+      <sec id="Sec11">
+        <title>Experiences of intersecting stigmas</title>
+        <p id="Par22">Although participants were asked about their experiences of HIV-related stigma, for many, these experiences could not be disengaged from the intersectionality of stigma associated with additional social identities. Stories of intersecting stigmas focused on racism, sexism, and homophobia.</p>
+        <p id="Par23">Racism was identified by several participants as having significant negative effects on their lives both prior to, and after, being diagnosed with HIV. For example, one participant spoke about the verbal abuse and social marginalization experienced as a Black person growing up in a predominately White community and how that prompted them to leave school and the community. Indigenous participants talked about being bullied and verbally abused. Another participant explained how being Black, and an immigrant to Canada both intersected with HIV in their experience of stigma and discrimination.</p>
+        <p id="Par24">Sexism was described in the context of stigma and discrimination by two women participants who noted the challenges that women often faced. They identified attitudes and behaviours focused on blaming women. One participant noted that:<disp-quote><p id="Par25">There is an idea that women ask for it, you know, that they ask to be in&#x2026; abusive relationships&#x2026;. There is a perverse idea that they have to explain themselves. You know, otherwise, they just must fit into a category. It must be their fault&#x201D; (W03).</p></disp-quote></p>
+        <p id="Par26">Another participant who was an immigrant to Canada shared her perspective of how women in some cultures can be blamed in particular ways for anything that is perceived as wrong, leading to abuse and being trapped in marriages with no way out. Another woman spoke about prevailing assumptions that people who are diagnosed with HIV must be either street workers or injection drug users. These assumptions were connected to a blaming culture inside and outside health and social care systems that tied HIV infection to people&#x2019;s personal behaviours rather than the structural systems that placed people at risk.</p>
+        <p id="Par27">Homophobia was also a source of discrimination. Participants who identified as gay talked about the ways that having HIV compounded negative attitudes from family and other social networks. One participant said:<disp-quote><p id="Par28">Well you know, for me it [is my] family that doesn&#x2019;t respect me, &#x2026; like my mother is embarrassed about me. It was bad enough that I was gay, but HIV was a complete no, no. She loved me anyways, but she was embarrassed, and it was shameful [for her] (M09).</p></disp-quote></p>
+        <p id="Par29">For this participant and another, there was an overlay of religious belief systems that exacerbated negative attitudes toward both homosexuality and HIV. One participant described this as the perception in some religious communities that HIV was &#x201C;punishment&#x201D; for being gay. Another participant noted the impact of colonization and the imposition of dominant Western worldviews that consider sex a taboo subject resulting in barriers to education about HIV in some communities. She noted, &#x201C;Western philosophy is that you get married and you don&#x2019;t deal with [sexually transmitted infections]; because of colonization you don&#x2019;t talk about things &#x2026; that&#x2019;s a very taboo subject&#x201D; (W06).</p>
+      </sec>
+      <sec id="Sec12">
+        <title>The emotional and social impacts of stigma</title>
+        <p id="Par30">The system, structural, and social attitudes and behaviours toward people living with HIV had deep emotional impacts. Stigmatizing attitudes toward HIV often resulted in their own feelings of shame and self-stigma. For many participants these feelings were most prominent immediately after diagnosis but could last for years.</p>
+        <p id="Par31">Interpersonal and structural oppressions from HIV and intersecting stigmas led to the experience of fear for many participants. Fear was most often related to worries about how a partner, family, or friends would react when they discovered the person&#x2019;s diagnosis. In many cases people were fearful of violence and rejection. For some, enacted physical and emotional violence led to increased fear of additional and exacerbated violence related to disclosing an HIV diagnosis.</p>
+        <p id="Par32">The fear of, or previous experience with, rejection tended to result in deep emotional pain. For many participants, although feelings of shame and internalized stigma dissipated over time, the fear of rejection from sexual partners, family, friends, and acquaintances often persisted. Participants responded to the fear of rejection in various ways such as avoiding intimate relationships in which they felt disclosure might be necessary. Some participants noted that fear of rejection prevented disclosure when there was a desire to talk more openly about HIV to family, friends, and acquaintances.</p>
+        <p id="Par33">Social isolation and pervasive feelings of loneliness was a prominent outcome of stigma. Stigma precipitated disruption in previous relationships. Participants talked about losing relationships once their friends or family found out they were HIV-positive. One participant said: &#x201C;Like nobody won't want to come close to me because what I have, or visit me. I lost a lot of friends because of it &#x2026; I don&#x2019;t go around people anymore because they always bully me&#x201D; (W12). Fear of rejection was often the impetus for long term isolation and loneliness. Several participants talked about their strategies for protecting themselves emotionally by &#x201C;isolating&#x201D; themselves, &#x201C;hiding,&#x201D; or &#x201C;building a wall.&#x201D;</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Striving toward well-being</title>
+        <p id="Par34">Despite the many negative impacts of stigma on participants&#x2019; lives, they all strove toward well-being in their own ways, and were at various stages of having lives they considered to be good. Participants shared their perspectives about the factors that supported their journey toward well-being in the context of HIV and intersecting forms of stigma. Four themes related to these factors were conceptualized from the data: a) caring for oneself; b) caring for people and pets, c) reconstituting social supports, and d) resisting and disrupting stigma.</p>
+        <sec id="Sec14">
+          <title>Caring for oneself</title>
+          <p id="Par35">Participants reported that being diagnosed with HIV was a disruption that caused personal distress and was difficult to endure. Those who mentioned this disruption also indicated that they needed time to personally deal with their diagnosis. For one participant, &#x201C;HIV was the biggest rock thrown at me&#x201D; (W03). In response to the diagnosis of HIV, some participants stated that they dealt with the diagnosis through behaviours they later saw as self-destructive. For example, one participant noted that there is &#x201C;devastation finding out that you are HIV positive&#x201D; and that &#x201C;it is common you hear people self-medicating, you know like whatever drugs or alcohol and especially the first year, and it [is] usually the hardest year&#x201D; (W03).</p>
+          <p id="Par36">Many participants spoke about the transition toward looking after themselves physically. This was not always a smooth or direct path but evolved as they gained a greater understanding of how they could live well with HIV. Although some participants talked about taking care of their physical health though good nutrition and exercise, adherence to a strict medication regime was challenging for many. One participant who initially struggled with making HIV medications a part of her life referred to the picture of pills (Fig. <xref rid="Fig1" ref-type="fig">1</xref>) stating said,<disp-quote><p id="Par37">&#x201C;I think of this picture, a very powerful picture for people living with HIV, you know, because that&#x2019;s what you have to remember. You gotta remember that every day, you know&#x2026;. You gotta have that glass of water. You gotta have those drugs&#x2026;. And, uh, it&#x2019;s helping me in my life, my life span&#x201D; (W01).</p></disp-quote><fig id="Fig1"><label>Fig. 1</label><caption><p>Pills</p></caption><graphic xlink:href="12889_2023_16741_Fig1_HTML" id="MO1"/></fig></p>
+          <p id="Par38">Participants talked about the importance of taking care of themselves emotionally. Overcoming the self-stigma that affected their self-esteem was central to improving their emotional well-being. One participant described addressing the anger they felt when they were first diagnosed:<disp-quote><p id="Par39">I am totally a different person then I was when I was first diagnosed. I had a lot of anger issues about society, religion, my parents, and my friends, and with this stigma of HIV and through the years, just working with the counsellor has really burst the bubble, the venom that was inside me. I learned to love myself and respect myself (M09).</p></disp-quote></p>
+          <p id="Par40">Another participant echoed a common perspective of the importance of maintaining hope: &#x201C;I will feel down if I lost hope with myself and about my future living with HIV&#x2026; I don&#x2019;t want to lose that hope&#x201D; (W05). Self-respect and maintaining hope translated into acts of resistance for participants: &#x201C;I guess the strength is to hold your head up high, even during adversity &#x2026; and never give in to people&#x2019;s bigotry and stigma they have against you. Just hold your head up high&#x201D; (M09). Another participant used the analogy of a snake (Fig.&#xA0;<xref rid="Fig2" ref-type="fig">2</xref>) to describe her approach to dealing with stigma.<disp-quote><p id="Par41">[The snake] is a powerful creature and he is god&#x2019;s gift and that&#x2019;s how I feel about myself and about stigma. Yeah sure it burns and hurts for a little bit and then you get over it and you take everybody&#x2019;s words and opinions into consideration. If your opinion is ignorant and if it demeans me in anyway, I am not going to take that and carry that negativity with me. I am going to dispose it, just like that snake sheds its skin (W06).</p></disp-quote><fig id="Fig2"><label>Fig. 2</label><caption><p>White snake</p></caption><graphic xlink:href="12889_2023_16741_Fig2_HTML" id="MO2"/></fig></p>
+          <p id="Par42">Taking care of oneself emotionally and physically also had spiritual and cultural dimensions in which participants sought &#x201C;peace&#x201D; and grounding in particular environments. For some, spending time in nature and the natural environment was important. One participant stated: &#x201C;I find that nature brings me a lot of peace&#x2026; I can breathe in the air I can just be in the moment&#x2026; I find that so makes me feel relaxed&#x201D; (W03).</p>
+          <p id="Par43">Another participant used a photo of a trapline to talk about her hope to live in the wilderness and teach her grandchildren about that way of life. Although she recognized that she needed to be close to an urban centre to access health services, her wish to be connected to nature was a prominent theme in her story.<disp-quote><p id="Par44">You won&#x2019;t hear vehicles going by and you will just hear the leaves dancing around and the water flowing. That is how I would like to live. I know that I have HIV, but I would like to live in the wilderness with my grandchildren (W12).</p></disp-quote></p>
+          <p id="Par45">Some participants found &#x201C;peace&#x201D; in spaces that they created for themselves. One participant described a place in his home that he had created and the spiritual value it held for him:<disp-quote><p id="Par46">It is a very peaceful place, remembrance of people who have passed on, family and friends that are still alive, and momentums of people and my dogs that passed away.&#x2026; It is a place that I can be; centre myself with my creator and creatoress. I light the incense and I put the light on, and I mediate a little bit (M09).</p></disp-quote></p>
+          <p id="Par47">Taking care of oneself emotionally and spiritually including cultural aspects of healing, were essential. For one participant participation in a group that took part in sweat lodges, shake tents, drumming and singing was essential to her well-being. She said: &#x201C;we reach back down to our roots and our ancestry to heal with HIV&#x201D; (W06).</p>
+        </sec>
+        <sec id="Sec15">
+          <title>Caring for people and pets</title>
+          <p id="Par48">Participants talked about the importance of caring for, and about, people and pets as vital to their own well-being. Several women participants identified the importance of children and mothering in their lives. The knowledge that they could have children who would be HIV-negative was life changing. One participant remembered the hope she felt when she learned she could give birth to a baby who would be HIV-negative: &#x201C;I am going to love my baby to no end. My baby is going to be born healthy. My baby is going to be born HIV negative, and they are going to grow up, and they are going to have lives of their own&#x201D; (W07). Another participant talked about her children being the source of her resilience.</p>
+          <p id="Par49">Some participants noted the mutual caring they experienced from pets, particularly cats and dogs. Pets helped these participants feel less lonely and to enjoy the things that make them feel good, like one participant who talked about going outside for a winter walk&#x2014;not alone but in company of her dog (Fig.&#xA0;<xref rid="Fig3" ref-type="fig">3</xref>).<disp-quote><p id="Par50">We go for walks&#x2026; It makes me feel good because that is something that I really enjoy &#x2026; and I am not alone, and I don&#x2019;t have to stifle by having people around me. Sometimes you just need to be alone but not completely alone. Makes me feel good anyways (W03).</p></disp-quote><fig id="Fig3"><label>Fig. 3</label><caption><p>Dog</p></caption><graphic xlink:href="12889_2023_16741_Fig3_HTML" id="MO3"/></fig></p>
+          <p id="Par51">Another participant described her cat as being unquestionably supportive &#x201C;a cat doesn&#x2019;t care,&#x2026; doesn&#x2019;t care if you&#x2019;re sick&#x2026; the cat will actually try and take care of you most of the time&#x201D; (W01).</p>
+          <p id="Par52">Some participants also highlighted their responsibility to reduce risks to other people, particularly sexual partners. &#x201C;We have to be careful; we have to &#x2026; minimize the risk for other people and that includes me taking my medication. If I didn&#x2019;t take my medication, I would be a greater risk to society&#x201D; (M02). One participant used the analogy of driving a car and how the driver is &#x201C;responsible for the rest of the people in the vehicle&#x201D; (W01). In addition to reducing risks to people, reciprocity of caring was identified as being very meaningful. Another participant said that people &#x201C;cannot live individually. We have to support each other; we have to care for each other no matter what&#x2026;. All human beings [need] to support each other or otherwise it is meaningless&#x201D; (W05).</p>
+        </sec>
+        <sec id="Sec16">
+          <title>Reconfiguring social networks</title>
+          <p id="Par53">Participants experienced disrupted, lost, and missed opportunities for relationships due to stigma and needed to reconfigure some of their social networks in response. Of particular importance for many participants was connecting with a community of peers who helped relieve the emotional burden of stigma. This ability to find connection could be life-affirming and life changing. One participant noted the importance of:<disp-quote><p id="Par54">Meeting other people who are HIV positive, knowing that I was not alone. There are so many people who are dealing with the same thing. I think that was probably what brought me out of it, it just being able to talk with other people (W03).</p></disp-quote></p>
+          <p id="Par55">This peer support assisted her emotionally and gave her the strength to talk openly with her family about being HIV-positive. She viewed disclosure of her HIV-positive status to her family as a major step in moving on with her life.</p>
+          <p id="Par56">Finding a network of support was core to many participants&#x2019; connection with others and to nurturing a positive sense of self. Participants described peer connections as comforting, as instilling feelings of power, and as providing role models who have prevailed over oppression and discrimination.</p>
+        </sec>
+        <sec id="Sec17">
+          <title>Resisting and disrupting stigma</title>
+          <p id="Par57">Participants resisted stigma in their own lives. Several participants worked diligently to disrupt stigma within their social circles, and a few had become strong advocates for social change. Resisting stigma tended to be a personal journey. As participants learned more about HIV and spent time with people who were accepting and non-judgmental, the oppressive social attitudes and structures that created and sustained stigma and the intersections across racism, sexism, and homophobia became more evident and lessened self-blame.</p>
+          <p id="Par58">Although often challenging, some participants spoke about the ways they resisted the stigmas that were directed toward them personally. This included educating people in their social circles, such as family, friends, and acquaintances. Educating other people was sometimes in the context of the disclosure about their own HIV-positive status with the goal of negotiating and preserving relationships. At other times it was motivated by helping people feel more comfortable around them as described by a participant who educated women who were incarcerated about HIV. Another participant spoke about wanting to educate people in her community without disclosing her own status:<disp-quote><p id="Par59">Like with my friends, I don&#x2019;t want to tell them about my stigma, about my HIV but sometimes I try to share [HIV information with] them without telling them [details about me] (W05).</p></disp-quote></p>
+          <p id="Par60">A few participants became strong advocates for social change by speaking publicly about their own HIV experiences. They became peer mentors and spoke in variety of forums, such as workshops and conferences, with the goal of disrupting HIV stigma.</p>
+        </sec>
+      </sec>
+      <sec id="Sec18">
+        <title>Resources and supports</title>
+        <p id="Par61">The journey toward wellness was not a smooth or direct path. Understanding and supportive partners, families, and friends were essential. Participants recognized the social and structural drivers of stigma and resource availability. They also identified several structural and system supports and resources that they believed were necessary to improve well-being of people living with HIV and disrupt stigmas. These were themed as: a) financial, housing, and food security; b) health, social, and justice services that are trauma-informed, culturally safer and responsive, and HIV evidence-informed; c) anti-oppressive community spaces; d) timely, factual, and universal access to education about HIV; e) access to peer and professional supports related to strategies to address the social and emotional aspects of stigma; and f) training, support, and opportunities to engage in peer mentorship, public education, and anti-stigma advocacy for people living with HIV.</p>
+        <sec id="Sec19">
+          <title>Financial, housing, and food security</title>
+          <p id="Par62">Several participants spoke about the importance of securing financial resources for housing and food security. Financial insecurity could predate an HIV diagnosis but the increased need for medications and a healthy diet, along with gaps in their ability to work due to illness after an HIV diagnosis, could exacerbate vulnerability. For example, one participant used the photo of a downtown bus shelter as a catalyst to talk about a time when he was hospitalized, couldn&#x2019;t work, and didn&#x2019;t have sufficient funds to pay for his rent or the insurance deductible for his medications. He said, &#x201C;that&#x2019;s what that image burned in my mind is [I] could have been [sleeping in a bus shelter]; thank [my] lucky stars that [I] didn&#x2019;t end up totally homeless&#x201D; (M02). He went on to say that governments need to provide enough funding to prevent homelessness. Several additional participants reinforced the importance of social supports to the well-being of people living with HIV. For example, a woman who identified as an immigrant to Canada noted the role of social supports in meeting the holistic needs of people living with HIV &#x201C;emotionally, mentally, physically and spiritually.&#x201D;</p>
+        </sec>
+        <sec id="Sec20">
+          <title>Health, social, and justice services that are trauma-informed, culturally safer and responsive, and HIV evidence-informed</title>
+          <p id="Par63">Several participants spoke about having negative experiences within health, social, and justice systems and how these experiences could increase the trauma of HIV stigma and discrimination. At the time of diagnosis, these experiences included not being allowed to have a friend with them when given the results of their HIV test or not being provided with important information. Experiences also included questions from health and social care providers that the participant felt were stigmatizing. One participant talked about health promotion materials in the waiting room that they felt depicted people with HIV as being from particular racial and ethnic groups. In several cases participants felt that health and social care workers were ill-informed about current evidence related to HIV and that more needed to be done to ensure they were well-educated.</p>
+        </sec>
+        <sec id="Sec21">
+          <title>Anti-oppressive community spaces</title>
+          <p id="Par64">Participants&#x2019; stories about their experiences of racism, sexism, homophobia, and HIV-related stigma frequently occurred in schools, churches, health and social care institutions, and other community spaces. The need for strategies to reduce and eliminate oppression in these spaces was a desire of several participants.</p>
+        </sec>
+        <sec id="Sec22">
+          <title>Timely, factual, and universal access to education about HIV</title>
+          <p id="Par65">Like the need for education for workers in health and social service systems, participants talked about the need for more universal access to HIV-related education. This was expressed variously as doing workshops and sessions in locations such as schools to increase the public&#x2019;s education about HIV and stigma reduction. Participant W03 noted,<disp-quote><p id="Par66">We need to address stigma at many levels. There is a stigma in the healthcare system, there is stigma in the general population, there is stigma in employers. Like how do we address that? More education, having that conversation.</p></disp-quote></p>
+          <p id="Par67">Several participants shared the view that conversations about HIV were needed to ensure that the most up-to-date information about HIV was available to people living with HIV as well as the public. Examples of ways that participants felt this universal educational approach would be beneficial included reducing internalized stigma and grief when people are first diagnosed, and increasing employers&#x2019; understanding of HIV to facilitate employment opportunities and retention for people living with HIV.</p>
+        </sec>
+        <sec id="Sec23">
+          <title>Access to peer and professional supports related to strategies to address the social and emotional aspects of stigma</title>
+          <p id="Par68">Several participants spoke about the importance of peer supports. One participant described the positive difference that finding peer support in a health clinic made to her. In talking about peers that she met at the clinic she said,<disp-quote><p id="Par69">You really just need to be given an HIV mentor when you are first diagnosed&#x2026; you need someone that lives with it [HIV]. Only they can explain what it&#x2019;s going to be like for the rest of your life. A doctor can&#x2019;t tell you what it is like for the rest of your life. But getting to talk to people who live with it and knowing their experiences and how they dealt with it and how they&#x2019;re doing now. I really could have used that when I first got diagnosed. I really could have used that family in the beginning. I am so grateful that I found them when I needed them (W07).</p></disp-quote></p>
+          <p id="Par70">This quote represented the idea that multiple types of supports were needed that emphasized different perspectives. Important medical needs could be addressed by a doctor while participants also found peer support and professional counselling valuable in addressing social and emotional needs including resisting stigma.</p>
+        </sec>
+        <sec id="Sec24">
+          <title>Training, support, and opportunities to engage in peer mentorship, public education, and anti-stigma advocacy for people living with HIV</title>
+          <p id="Par71">A few participants spoke about their experiences being mentors, educators, and advocates. One participant spoke about the importance of these experiences and the need for more opportunities.<disp-quote><p id="Par72">I have come so far since my first diagnosis 10 years ago to where I am. [I am now] going to national conferences and speaking to the media, to being a support system for other Indigenous women or anyone in general with HIV. One of my big concerns is that I would like to see in future&#x2026; a peer mentorship program where&#x2026; I can speak to someone&#x2026; especially newly diagnosed, to normalize it (HIV) and to actually let them know somebody cares (W06).</p></disp-quote></p>
+          <p id="Par73">Although this participant had found opportunities for peer mentorship, education, and advocacy, she also believed that more were needed. These opportunities needed to come with dedicated funding to support activities like a formal peer mentorship program.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec25">
+      <title>Discussion</title>
+      <p id="Par74">Photovoice methodology created an environment in which participants had control over what they chose to talk about when discussing HIV-related stigma by choosing photos as a catalyst for their conversations about stigma. All stories were unique, yet several themes were evident across multiple stories.</p>
+      <p id="Par75">All participants talked about the many ways that stigma was deeply embedded with a diagnosis of HIV and had affected them emotionally and socially. Stigma was an added burden compounding the distress of coming to terms with, and adjusting their everyday activities to, living with a chronic and potentially life-threatening health condition. Participants highlighted the impact of shame and internalized stigma associated with HIV on their social and emotional well-being.</p>
+      <p id="Par76">The challenge of internalized stigma has been identified in previous research and is prominent for people living with HIV [<xref ref-type="bibr" rid="CR44">44</xref>]. Internalized stigma has been recognized as originating from the social and structural drivers of stigma pervading society [<xref ref-type="bibr" rid="CR45">45</xref>] and has been shown to have complex relationships with anticipated stigma [<xref ref-type="bibr" rid="CR46">46</xref>] and perceived community stigma [<xref ref-type="bibr" rid="CR26">26</xref>]. For several participants, overcoming internalized stigma was pivotal to living well with HIV. Emlet et al. [<xref ref-type="bibr" rid="CR47">47</xref>] found in their sample of people with HIV, 50&#xA0;years and older, that older age was associated with less internalized stigma suggesting that it may be an important aspect of people&#x2019;s long term stigma management strategies. On the other hand, the negative associations between stigma and well-being can be stronger for older adults, perhaps because of the added effects of ageism [<xref ref-type="bibr" rid="CR48">48</xref>].</p>
+      <p id="Par77">For participants in the current study, enacted and anticipated stigma contributed to fear of rejection and, in some cases, violence. Enacted stigma was experienced by participants in a variety of ways both interpersonally and structurally. Examples included women participants who experienced new or increased intimate partner violence related to their HIV status, and gay men who experienced community violence. Participants also experienced rejection from family and friends or anticipated that they would, a finding consistent with participants in Reinius et al.&#x2019;s [<xref ref-type="bibr" rid="CR49">49</xref>] study. These experiences of enacted and anticipated stigma prompted some participants to leave relationships or avoid situations in which additional rejection or violence related to HIV stigma was anticipated. These avoidance experiences could be a highly adaptive response to cope with extremely difficult situations [<xref ref-type="bibr" rid="CR7">7</xref>]. However, this response can also result in the loss of important opportunities for life affirming social support networks.</p>
+      <p id="Par78">For participants in the current study internalized, enacted, and anticipated HIV stigma intersected with additional stigmas in complex ways to contribute to disrupted, lost, and missed opportunities for relationships and social support networks. Loneliness was a common outcome and previous research has suggested a complex relationship among HIV stigma, loneliness, and depression [<xref ref-type="bibr" rid="CR50">50</xref>], and reduced social support [<xref ref-type="bibr" rid="CR7">7</xref>]. Rejection, social isolation, and the loss of social supports can have negative effects on people&#x2019;s health [<xref ref-type="bibr" rid="CR26">26</xref>] and has been shown to be a barrier to HIV treatment and care [<xref ref-type="bibr" rid="CR51">51</xref>] including adherence to antiretroviral treatment [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+      <p id="Par79">Intersectionality of HIV-related stigma with additional stigmas was a prominent theme in the current study. Building on the work of Crenshaw [<xref ref-type="bibr" rid="CR52">52</xref>], Logie and colleagues described intersectional stigma as the &#x201C;interdependent and mutually constitutive relationship between social identities and structural inequities&#x201D; ([<xref ref-type="bibr" rid="CR53">53</xref>],p.9). Participants in the current study spoke about HIV-related stigma at the intersections of additional forms of oppression. Consistent with previous research, intersectionality was experienced related to race [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR53">53</xref>&#x2013;<xref ref-type="bibr" rid="CR55">55</xref>], sex and gender [<xref ref-type="bibr" rid="CR53">53</xref>, <xref ref-type="bibr" rid="CR54">54</xref>], and sexuality [<xref ref-type="bibr" rid="CR55">55</xref>]. These additional oppressions were often experienced prior to an HIV diagnosis and many participants perceived that being diagnosed with HIV compounded their experiences of oppression. Earnshaw and colleagues [<xref ref-type="bibr" rid="CR56">56</xref>] found that internalized stigmas related to race and sexual orientation before HIV diagnosis were associated with greater HIV-related internalized stigma after diagnosis. This suggests both the independent and compounding effects of intersecting stigmas. The implication is that, to improve the well-being of people living with HIV, the social systems and structures that perpetuate stigmas of all forms need to be addressed at their common root causes, including coloniality. Intersectionality is an important consideration in studies on HIV stigma and we support calls for additional attention to this research [<xref ref-type="bibr" rid="CR57">57</xref>, <xref ref-type="bibr" rid="CR58">58</xref>]. Ongoing anti-racism interventions and the development of culturally safer spaces must consider intersecting identities.</p>
+      <p id="Par80">Participants talked about the ways they adapted to a life with HIV in the context of pervasive social stigma. Caring for themselves was a way of addressing the physical, mental health, and spiritual challenges of living with a stigmatized chronic health condition. Good nutrition, exercise, and medication adherence were important to maintaining physical health. Looking after their own emotional and spiritual health were important as well. Maintaining hope and working to increase self-respect in the context of internalized stigma were important parts of this journey. Finding places that could help them find peace were often, but not always, in nature. For some, as previously identified by Indigenous scholars (e.g., [<xref ref-type="bibr" rid="CR59">59</xref>]), culturally-based healing practices were instrumental to promoting well-being. Attention to culture and spirituality has long been neglected in Western Eurocentric health care and our findings suggest that this needs to change. Respectful collaboration with communities is essential. For example, collaboration with communities in the design and implementation of HIV-related health care is important in providing relevant health education and care targeted to African, Caribbean, and Black people [<xref ref-type="bibr" rid="CR60">60</xref>]. Community involvement and leadership can increase access of Indigenous people to culturally responsive health programs such as land-based healing [<xref ref-type="bibr" rid="CR61">61</xref>].</p>
+      <p id="Par81">Having a person or an animal to care for, and about, was an important part of some participants&#x2019; lives. Not surprisingly, caring for children emerged has having special significance. In addition, caring for pets and having the companionship of pets was perceived as being important to emotional well-being. Previous research has also highlighted the positive effects of pet ownership for people with HIV [<xref ref-type="bibr" rid="CR62">62</xref>&#x2013;<xref ref-type="bibr" rid="CR64">64</xref>]. Pets can provide comfort, a sense of purpose, and a buffer against stress and loneliness. Health and social care providers should be aware of the potential benefit for some people living with HIV.</p>
+      <p id="Par82">Reconstituting social networks was an important process for many participants in their journey toward greater wellness. There was particular emphasis on connecting with people who were also living with HIV. Participants in the present study discussed the importance of peer support, often in the context of a support group. They identified the value of peers in providing information that helped them to live with HIV and supporting their positive life choices such as negotiating disclosure decisions with friends and family. A recent systematic review of randomized controlled trials found evidence for the positive effects of peer support in clinical care cascade outcomes, particularly retention in care, medication adherence, and viral suppression [<xref ref-type="bibr" rid="CR65">65</xref>]. There was inconclusive, yet promising, evidence for positive effects on mental health outcomes. The current qualitative study, points to the importance of peer support for emotional, and in some cases, spiritual, well-being.</p>
+      <p id="Par83">Resisting and disrupting stigma in their own lives and in the wider population were important processes for participants in the current study. They identified structural and social supports that can promote stigma reduction and increase opportunities to flourish. We agree with Nyblade et al. [<xref ref-type="bibr" rid="CR5">5</xref>] that, to end the AIDS epidemic, stigma reduction needs to be the highest priority. Participants in the present study provided guideposts for action. Some of these actions will be relatively easy to implement while others are considerably more difficult and will require concerted system and policy contributions.</p>
+      <p id="Par84">Access to peer and professional support to address the personal and emotional effects of HIV and associated stigma must be a priority. Programs of research focused on treatment are important; yet reducing stigma and the emotional impacts of stigma continues to be neglected as a source of well-being and a pathway to adherence to medical interventions. Newly diagnosed individuals need access to supports that buffer the effects of stigma. Participants in the current study emphasized the importance of peers with whom they strongly identified (e.g., Indigenous women living with HIV), and/or for whom there was a sustained connection such as in an ongoing support group or relationship. Associated with implementation of peer supports is the development of training, support, and opportunities for people living with HIV to become peer mentors, public educators, and anti-stigma advocates. Timely, factual, and universally accessible public education about HIV needs to be a priority. These interventions can be implemented relatively easily once they are considered essential to wholistic care.</p>
+      <p id="Par85">Participants noted the oppressions they experienced in various organizations and in public and private spaces. Promoting anti-oppressive community organizations and spaces is essential. This finding draws attention to the anti-oppression role of religious, cultural, recreational, educational, employment, and additional public and private organizations and environments where people meet, gather, and contribute to the social fabric of society. Importantly, health, social, and justice services need to become universally trauma-informed [<xref ref-type="bibr" rid="CR66">66</xref>], culturally safer [<xref ref-type="bibr" rid="CR67">67</xref>, <xref ref-type="bibr" rid="CR68">68</xref>], and HIV evidence-informed to resist and disrupt all forms and intersections of stigma, discrimination, and oppression.</p>
+      <p id="Par86">Addressing the root structural socio-political drivers that limit people&#x2019;s ability to flourish while living with HIV will have a great impact. Directly related to HIV stigma, participants highlighted the essential need for people to have financial, housing, and food security to resist stigma and live a good life. These largely neglected structural and system interventions require resources and commitments that recognize their essential contribution to people flourishing while living with HIV.</p>
+      <sec id="Sec26">
+        <title>Limitations and strengths</title>
+        <p id="Par87">As a case study, this research may be limited in its application to other contexts and jurisdictions. The small sample size meant that we did not have perspectives of people with a full range of gender, racial, and ethnic identities. Recruitment efforts were hampered by COVID-19 pandemic lockdowns. Although sample sizes in photovoice studies vary considerably, our sample of 11 participants was slightly above the 6 to 10 range recommended by Wang &amp; Burris [<xref ref-type="bibr" rid="CR32">32</xref>].</p>
+        <p id="Par88">Photovoice methodology was limited by the need to collect data individually due to COVID-19 pandemic lockdowns reducing opportunities for collective discovery and action planning among the participants as a group. However, photovoice methodology gave participants the tools to choose what they, as individuals, felt was important in telling their stories of stigma and how they built resistance to stigma over time. Despite variations of experiences and responses there were patterns that suggest important actions that can reduce stigma and its impacts on people living with HIV.</p>
+        <p id="Par89">Participants highlighted intersections of HIV stigma with stigmas related to race, sex and gender, and sexual orientation. Other research has identified intersections with additional social identities and inequities including substance use [<xref ref-type="bibr" rid="CR69">69</xref>], poverty [<xref ref-type="bibr" rid="CR70">70</xref>], shelter insecurity [<xref ref-type="bibr" rid="CR22">22</xref>], illness [<xref ref-type="bibr" rid="CR55">55</xref>], disability [<xref ref-type="bibr" rid="CR71">71</xref>], and roles and expectations [<xref ref-type="bibr" rid="CR55">55</xref>]. Although these additional stigmas may have been experienced by, and affected, participants, the nature of the photovoice methodology meant that participants identified the stigmas and intersections that they themselves prioritized in the interviews. These priorities may have been influenced by the location and timeframe of the interviews, the characteristics of the participants, and the significance of the particular stigma to the participant. Intravenous drug use is a risk factor for HIV transmission in the jurisdiction in which this study took place, yet none of the participants spoke specifically about experiences of intravenous drug use or its associated stigmatization at the intersection of HIV. However, the clear message from participants in this study is that it is important for practitioners, policy makers, and researchers to consider the intersectionality of stigmas, whatever their source, in all of their work.</p>
+      </sec>
+    </sec>
+    <sec id="Sec27">
+      <title>Conclusion</title>
+      <p id="Par90">Participants&#x2019; experiences of their journeys toward living well within the context of HIV-related stigma were unique and an ongoing process. However, the results of this research suggest important patterns. HIV-related stigma is pervasive and intersects with additional stigmas to compound the ways that stigma is experienced in enacted, anticipated, and internalized dimensions. These experiences profoundly affect health and social outcomes for people living with HIV and society. The transitions from internalizing to resisting stigma can be expedited by people&#x2019;s personal assets and supported by health and social service system resources that extend beyond medical care to address basic needs for food, shelter, income, and positive social and community connections. To achieve goals of people living well with HIV and ending the AIDS epidemic, increased health care, social, and policy attention needs to be paid to reducing the foundational system and structural drivers of HIV and intersecting stigmas.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors thank the participants for sharing their stories. We are grateful to REACH Nexus for their ongoing facilitation of anti-stigma research.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>G.R. and M.P conceptualized the study. G.R. and E.H. wrote the main manuscript text. P.M. provided photovoice training with G.R's&#xA0;support. P.U. P.M. and G.R. conducted interviews. E.H. G.R. and P.M. did the majority of the data analysis with input from P.U. All authors reviewed the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>Canadian Institutes of Health Research #FRN HRE-97105.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>The datasets generated and analyzed during the current study are not publicly available due the personal nature of the narrative stories obtained through the interviews which makes ensuring anonymity and confidentiality of participants extremely difficult. Some collated data may be available from the corresponding author on reasonable request.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par91">Approval was received from the University of Manitoba Health Research Ethics Board. Informed consent was obtained from all participants included in the study. All methods were carried out in accordance with relevant guidelines and regulations.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par92">Not applicable.</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par93">The authors declare no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">World Health Organization. HIV AIDS 2022. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.who.int/news-room/fact-sheets/detail/hiv-aids">https://www.who.int/news-room/fact-sheets/detail/hiv-aids</ext-link>. Accessed 13 Jan 2022.</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dunbar</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Labat</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Raccurt</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sohler</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Pape</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Maulet</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A realist systematic review of stigma reduction interventions for HIV prevention and care continuum outcomes among men who have sex with men</article-title>
+          <source>Int J STD AIDS</source>
+          <year>2020</year>
+          <volume>31</volume>
+          <issue>8</issue>
+          <fpage>712</fpage>
+          <lpage>723</lpage>
+          <pub-id pub-id-type="doi">10.1177/0956462420924984</pub-id>
+          <pub-id pub-id-type="pmid">32631213</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feyissa</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Lockwood</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Woldie</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Munn</surname>
+              <given-names>Z</given-names>
+            </name>
+          </person-group>
+          <article-title>Reducing HIV-related stigma and discrimination in healthcare settings: A systematic review of quantitative evidence</article-title>
+          <source>PLoS One.</source>
+          <year>2019</year>
+          <volume>14</volume>
+          <issue>1</issue>
+          <fpage>e0211298</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0211298</pub-id>
+          <pub-id pub-id-type="pmid">30682131</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson-Best</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>
+          <source>BMC Public Health</source>
+          <year>2018</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>919</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id>
+          <pub-id pub-id-type="pmid">30049270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nyblade</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mingkwan</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Stockton</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma reduction: an essential ingredient to ending AIDS by 2030</article-title>
+          <source>The Lancet HIV</source>
+          <year>2021</year>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>e106</fpage>
+          <lpage>e113</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2352-3018(20)30309-X</pub-id>
+          <pub-id pub-id-type="pmid">33539757</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <mixed-citation publication-type="other">Lo Hog Tian JM, Watson JR, Ib&#xE1;&#xF1;ez-Carrasco F, Tran B, Parsons JA, Maunder RG, et al. Impact of experienced HIV stigma on health is mediated by internalized stigma and depression: results from the people living with HIV stigma index in Ontario. BMC Public Health. 2021;21(1):1595. 10.1186/s12889-021-11596-w.</mixed-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <mixed-citation publication-type="other">Rueda S, Mitra S, Chen S, Gogolishvili D, Globerman J, Chambers L, et al. Examining the associations between HIV-related stigma and health outcomes in people living with HIV/AIDS: a series of meta-analyses. BMJ Open. 2016;6(7):e011453.&#xA0;10.1136/bmjopen-2016-011453.</mixed-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Travaglini</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Himelhoch</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Fang</surname>
+              <given-names>LJ</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV stigma and its relation to mental, physical and social health among black women living with HIV/AIDS</article-title>
+          <source>AIDS Behav</source>
+          <year>2018</year>
+          <volume>22</volume>
+          <issue>12</issue>
+          <fpage>3783</fpage>
+          <lpage>3794</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-018-2037-1</pub-id>
+          <pub-id pub-id-type="pmid">29417351</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teti</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Koegler</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Conserve</surname>
+              <given-names>DF</given-names>
+            </name>
+            <name>
+              <surname>Handler</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bedford</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>A scoping review of photovoice research among people with HIV</article-title>
+          <source>J Assoc Nurses AIDS Care</source>
+          <year>2018</year>
+          <volume>29</volume>
+          <issue>4</issue>
+          <fpage>504</fpage>
+          <lpage>527</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jana.2018.02.010</pub-id>
+          <pub-id pub-id-type="pmid">29576252</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Chaudoir</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>From conceptualizing to measuring HIV stigma: A review of HIV stigma mechanism measures</article-title>
+          <source>AIDS Behav</source>
+          <year>2009</year>
+          <volume>13</volume>
+          <issue>6</issue>
+          <fpage>1160</fpage>
+          <lpage>1177</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-009-9593-3</pub-id>
+          <pub-id pub-id-type="pmid">19636699</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Herek</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Capitanio</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Widaman</surname>
+              <given-names>KF</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV-related stigma and knowledge in the United States: Prevalence and trends, 1991&#x2013;1999</article-title>
+          <source>Am J Public Health</source>
+          <year>2002</year>
+          <volume>92</volume>
+          <issue>3</issue>
+          <fpage>371</fpage>
+          <lpage>377</lpage>
+          <pub-id pub-id-type="doi">10.2105/ajph.92.3.371</pub-id>
+          <pub-id pub-id-type="pmid">11867313</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nyblade</surname>
+              <given-names>LC</given-names>
+            </name>
+          </person-group>
+          <article-title>Measuring HIV stigma: Existing knowledge and gaps</article-title>
+          <source>Psychol Health Med</source>
+          <year>2006</year>
+          <volume>11</volume>
+          <issue>3</issue>
+          <fpage>335</fpage>
+          <lpage>345</lpage>
+          <pub-id pub-id-type="doi">10.1080/13548500600595178</pub-id>
+          <pub-id pub-id-type="pmid">17130069</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <mixed-citation publication-type="other">Jacoby A. Felt versus enacted stigma: A concept revisited. Evidence from a study of people with epilepsy in remission. Soc Sci Med. 1994;38(2):269&#x2013;74.10.1016/0277-9536(94)90396-4.</mixed-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Chaudoir</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Amico</surname>
+              <given-names>KR</given-names>
+            </name>
+            <name>
+              <surname>Copenhaver</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV stigma mechanisms and well-being among PLWH: A test of the HIV Stigma Framework</article-title>
+          <source>AIDS Beh</source>
+          <year>2013</year>
+          <volume>17</volume>
+          <issue>5</issue>
+          <fpage>1785</fpage>
+          <lpage>1795</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-013-0437-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markowitz</surname>
+              <given-names>FE</given-names>
+            </name>
+          </person-group>
+          <article-title>The effects of stigma on the psychological well-being and life satisfaction of persons with mental illness</article-title>
+          <source>J Health Soc Behav</source>
+          <year>1998</year>
+          <volume>39</volume>
+          <issue>4</issue>
+          <fpage>335</fpage>
+          <lpage>347</lpage>
+          <pub-id pub-id-type="doi">10.2307/2676342</pub-id>
+          <pub-id pub-id-type="pmid">9919855</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Chaudoir</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>From conceptualizing to measuring HIV stigma: A Review of HIV stigma mechanism measures</article-title>
+          <source>AIDS Beh</source>
+          <year>2009</year>
+          <volume>13</volume>
+          <issue>6</issue>
+          <fpage>1160</fpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-009-9593-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Kochman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sikkema</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Internalized stigma among people living with HIV-AIDS</article-title>
+          <source>AIDS Behav</source>
+          <year>2002</year>
+          <volume>6</volume>
+          <issue>4</issue>
+          <fpage>309</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="doi">10.1023/A:1021144511957</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deering</surname>
+              <given-names>KN</given-names>
+            </name>
+            <name>
+              <surname>Braschel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Logie</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Ranville</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Kr&#xFC;si</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Duff</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Exploring pathways from violence and HIV disclosure without consent to depression, social support, and HIV medication self-efficacy among women living with HIV in Metro Vancouver, Canada</article-title>
+          <source>Health Psychol Open</source>
+          <year>2020</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>2055102919897384</fpage>
+          <pub-id pub-id-type="doi">10.1177/2055102919897384</pub-id>
+          <pub-id pub-id-type="pmid">32010448</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Marcus</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kaida</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>O'Campo</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ahmed</surname>
+              <given-names>U</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A longitudinal study of associations between HIV-related stigma, recent violence and depression among women living with HIV in a Canadian cohort study</article-title>
+          <source>J Int AIDS Soc</source>
+          <year>2019</year>
+          <volume>22</volume>
+          <issue>7</issue>
+          <fpage>e25341</fpage>
+          <pub-id pub-id-type="doi">10.1002/jia2.25341</pub-id>
+          <pub-id pub-id-type="pmid">31328891</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smit</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Brady</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Carter</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Lamore</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Meulbroek</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>HIV-related stigma within communities of gay men: A literature review</article-title>
+          <source>AIDS Care</source>
+          <year>2012</year>
+          <volume>24</volume>
+          <issue>4</issue>
+          <fpage>405</fpage>
+          <lpage>412</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540121.2011.613910</pub-id>
+          <pub-id pub-id-type="pmid">22117138</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perri</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Craig-Neil</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gaspar</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hunter</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Kendall</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Alexander</surname>
+              <given-names>O</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A qualitative study of barriers to employment experienced by people living with HIV in Toronto and Ottawa</article-title>
+          <source>Int J Equity Health</source>
+          <year>2021</year>
+          <volume>20</volume>
+          <issue>1</issue>
+          <fpage>36</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12939-020-01356-4</pub-id>
+          <pub-id pub-id-type="pmid">33446215</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Jenkinson</surname>
+              <given-names>JIR</given-names>
+            </name>
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Tharao</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Loutfy</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <article-title>A structural equation model of HIV-related stigma, racial discrimination, housing insecurity and wellbeing among African and Caribbean Black women living with HIV in Ontario, Canada</article-title>
+          <source>PLoS One.</source>
+          <year>2016</year>
+          <volume>11</volume>
+          <issue>9</issue>
+          <fpage>e0162826-e</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0162826</pub-id>
+          <pub-id pub-id-type="pmid">27669510</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dasgupta</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tie</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Beer</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Weiser</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Unmet needs for ancillary care services are associated with HIV clinical outcomes among adults with diagnosed HIV</article-title>
+          <source>AIDS Care</source>
+          <year>2022</year>
+          <volume>34</volume>
+          <issue>5</issue>
+          <fpage>606</fpage>
+          <lpage>614</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540121.2021.1946001</pub-id>
+          <pub-id pub-id-type="pmid">34180733</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wiginton</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Maksut</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Augustinavicius</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Kall</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Delpech</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Brief report: HIV-related healthcare stigma/discrimination and unmet needs among persons living with HIV in England and Wales</article-title>
+          <source>Prev Med Rep.</source>
+          <year>2021</year>
+          <volume>24</volume>
+          <fpage>101580</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.pmedr.2021.101580</pub-id>
+          <pub-id pub-id-type="pmid">34976641</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>IT</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Onuegbu</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Psaros</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Weiser</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Bangsberg</surname>
+              <given-names>DR</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impact of HIV-related stigma on treatment adherence: systematic review and meta-synthesis</article-title>
+          <source>J Int AIDS Soc</source>
+          <year>2013</year>
+          <volume>16</volume>
+          <issue>3 Suppl 2</issue>
+          <fpage>18640</fpage>
+          <pub-id pub-id-type="doi">10.7448/IAS.16.3.18640</pub-id>
+          <pub-id pub-id-type="pmid">24242258</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Budhwani</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Fazeli</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Browning</surname>
+              <given-names>WR</given-names>
+            </name>
+            <name>
+              <surname>Raper</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Mugavero</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>How does stigma affect people living with HIV? The mediating roles of internalized and anticipated HIV stigma in the effects of perceived community stigma on health and psychosocial outcomes</article-title>
+          <source>AIDS Behav</source>
+          <year>2017</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>283</fpage>
+          <lpage>291</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-016-1451-5</pub-id>
+          <pub-id pub-id-type="pmid">27272742</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <mixed-citation publication-type="other">Lightner JS, Rajabiun S, Cabral HJ, Flaherty J, Shank J, Brooks R. Associations of internalized and anticipated HIV stigma with returning to work for persons living with HIV. PLoS One. 2021;16(6 June). 10.1371/journal.pone.0252783.</mixed-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Lacombe-Duncan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kaida</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Pathways from HIV-related stigma to antiretroviral therapy measures in the HIV care cascade for women living with HIV in Canada</article-title>
+          <source>J Acquir Immune Defic Syndr</source>
+          <year>2018</year>
+          <volume>77</volume>
+          <issue>2</issue>
+          <fpage>144</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="doi">10.1097/QAI.0000000000001589</pub-id>
+          <pub-id pub-id-type="pmid">29135650</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Eaton</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Collier</surname>
+              <given-names>ZK</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Maksut</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Rucinski</surname>
+              <given-names>KB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>HIV Stigma, depressive symptoms, and substance use</article-title>
+          <source>AIDS Patient Care STDS</source>
+          <year>2020</year>
+          <volume>34</volume>
+          <issue>6</issue>
+          <fpage>275</fpage>
+          <lpage>280</lpage>
+          <pub-id pub-id-type="doi">10.1089/apc.2020.0021</pub-id>
+          <pub-id pub-id-type="pmid">32484742</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Hatcher</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Weiser</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>MO</given-names>
+            </name>
+            <name>
+              <surname>Rice</surname>
+              <given-names>WS</given-names>
+            </name>
+            <name>
+              <surname>Turan</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Framing mechanisms linking HIV-related stigma, adherence to treatment, and health outcomes</article-title>
+          <source>Am J Public Health</source>
+          <year>2017</year>
+          <volume>107</volume>
+          <issue>6</issue>
+          <fpage>863</fpage>
+          <lpage>869</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2017.303744</pub-id>
+          <pub-id pub-id-type="pmid">28426316</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yin</surname>
+              <given-names>RK</given-names>
+            </name>
+          </person-group>
+          <source>Case study research: Design and methods (6th ed)</source>
+          <year>2018</year>
+          <publisher-loc>Thousand Oaks</publisher-loc>
+          <publisher-name>Sage</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Burris</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <article-title>Photovoice: concept, methodology, and use for participatory needs assessment</article-title>
+          <source>Health Educ Behav</source>
+          <year>1997</year>
+          <volume>24</volume>
+          <issue>3</issue>
+          <fpage>369</fpage>
+          <lpage>387</lpage>
+          <pub-id pub-id-type="doi">10.1177/109019819702400309</pub-id>
+          <pub-id pub-id-type="pmid">9158980</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clandinin</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <source>Engaging in narritive inquiry</source>
+          <year>2016</year>
+          <publisher-loc>New York, NY</publisher-loc>
+          <publisher-name>Routledge</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davtyan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Farmer</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sami</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Frederick</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Women of color reflect on HIV-related stigma through photovoice</article-title>
+          <source>J Assoc Nurses AIDS Care</source>
+          <year>2016</year>
+          <volume>27</volume>
+          <issue>4</issue>
+          <fpage>404</fpage>
+          <lpage>418</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jana.2016.03.003</pub-id>
+          <pub-id pub-id-type="pmid">27085253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teti</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Epping</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Myroniuk</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Evans-Agnew</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV stigma and its metaphors: Photos, symbols, and solutions</article-title>
+          <source>J HIV AIDS Soc Serv</source>
+          <year>2021</year>
+          <volume>20</volume>
+          <issue>1</issue>
+          <fpage>97</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1080/15381501.2021.1911903</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McClarty</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Cheuk</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ireland</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cohort profile: the LHIV-Manitoba clinical cohort of people living with HIV in Manitoba, Canada</article-title>
+          <source>BMJ Open.</source>
+          <year>2020</year>
+          <volume>10</volume>
+          <issue>5</issue>
+          <fpage>e034259</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjopen-2019-034259</pub-id>
+          <pub-id pub-id-type="pmid">32467251</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <mixed-citation publication-type="other">Government of Manitoba, Manitoba Health and Seniors Care, Epidemiology and Surveillance. (2021). 2020 Annual Statistical Update: HIV in Manitoba. Available at:<ext-link ext-link-type="uri" xlink:href="https://www.gov.mb.ca/health/publichealth/surveillance/hivaids/docs/dec2020.pdf">https://www.gov.mb.ca/health/publichealth/surveillance/hivaids/docs/dec2020.pdf</ext-link>. Accessed&#xA0; 31&#xA0;Mar 2022</mixed-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <mixed-citation publication-type="other">Fransoo R, Mahar A, Anderson A, Prior H, Koseva I, McCulloch S, et al. The 2019 RHA Indicators Atlas. Winnipeg, MB: Manitoba Centre for Health Policy; 2019.</mixed-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haddad</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Weeks</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Robert</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Totten</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV in Canada-surveillance report, 2019</article-title>
+          <source>Can Commun Dis Rep</source>
+          <year>2021</year>
+          <volume>47</volume>
+          <issue>1</issue>
+          <fpage>77</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="doi">10.14745/ccdr.v47i01a11</pub-id>
+          <pub-id pub-id-type="pmid">33679250</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Catalani</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Minkler</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Photovoice: a review of the literature in health and public health</article-title>
+          <source>Health Educ Behav</source>
+          <year>2010</year>
+          <volume>37</volume>
+          <issue>3</issue>
+          <fpage>424</fpage>
+          <lpage>451</lpage>
+          <pub-id pub-id-type="doi">10.1177/1090198109342084</pub-id>
+          <pub-id pub-id-type="pmid">19797541</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miles</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Huberman</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Saldana</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source>Qualitative data analysis: A methods sourcebook</source>
+          <year>2019</year>
+          <edition>4</edition>
+          <publisher-loc>Thousand Oaks, CA</publisher-loc>
+          <publisher-name>Sage</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Braun</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Clarke</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Using thematic analysis in psychology</article-title>
+          <source>Qual Res Psychol</source>
+          <year>2006</year>
+          <volume>3</volume>
+          <issue>2</issue>
+          <fpage>77</fpage>
+          <lpage>101</lpage>
+          <pub-id pub-id-type="doi">10.1191/1478088706qp063oa</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mooney</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bhui</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysing multimodal data thathave been collected using photovoice as a research method</article-title>
+          <source>BMJ Open.</source>
+          <year>2023</year>
+          <volume>13</volume>
+          <issue>4</issue>
+          <fpage>e068289</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjopen-2022-06828944</pub-id>
+          <pub-id pub-id-type="pmid">37068902</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dos Santos</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Kruger</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Mellors</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Wolvaardt</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>van der Ryst</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>An exploratory survey measuring stigma and discrimination experienced by people living with HIV/AIDS in South Africa: the People Living with HIV Stigma Index</article-title>
+          <source>BMC Public Health.</source>
+          <year>2014</year>
+          <volume>14</volume>
+          <fpage>80</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2458-14-80</pub-id>
+          <pub-id pub-id-type="pmid">24461042</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <mixed-citation publication-type="other">Pantelic M, Sprague L, Stangl AL. It's not "all in your head": critical knowledge gaps on internalized HIV stigma and a call for integrating social and structural conceptualizations. BMC Infect. Dis. 2019;19(1):210. 10.1186/s12879-019-3704-1</mixed-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pantelic</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Boyes</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cluver</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Meinck</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV, violence, blame and shame: pathways of risk to internalized HIV stigma among South African adolescents living with HIV</article-title>
+          <source>J. Int. AIDS Soc.</source>
+          <year>2017</year>
+          <volume>20</volume>
+          <issue>1</issue>
+          <fpage>21771</fpage>
+          <pub-id pub-id-type="doi">10.7448/IAS.20.1.21771</pub-id>
+          <pub-id pub-id-type="pmid">28853517</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Emlet</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Brennan</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Brennenstuhl</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rueda</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Rourke</surname>
+              <given-names>SB</given-names>
+            </name>
+          </person-group>
+          <article-title>Protective and risk factors associated with stigma in a population of older adults living with HIV in Ontario</article-title>
+          <source>Canada AIDS Care</source>
+          <year>2013</year>
+          <volume>25</volume>
+          <issue>10</issue>
+          <fpage>1330</fpage>
+          <lpage>1339</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540121.2013.774317</pub-id>
+          <pub-id pub-id-type="pmid">23452022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rzeszutek</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gruszczy&#x144;ska</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pi&#x119;ta</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Malinowska</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV/AIDS stigma and psychological well-being after 40 years of HIV/AIDS: a systematic review and meta-analysis</article-title>
+          <source>Eur J Psychotraumatol</source>
+          <year>2021</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>1990527</fpage>
+          <pub-id pub-id-type="doi">10.1080/20008198.2021.1990527</pub-id>
+          <pub-id pub-id-type="pmid">34868481</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reinius</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Zeluf Andersson</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Svedhem</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Wettergren</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wiklander</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Eriksson</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>Towards a new understanding of HIV-related stigma in the era of efficient treatment- A qualitative reconceptualization of existing theory</article-title>
+          <source>J Adv Nurs</source>
+          <year>2021</year>
+          <volume>77</volume>
+          <issue>5</issue>
+          <fpage>2472</fpage>
+          <lpage>2480</lpage>
+          <pub-id pub-id-type="doi">10.1111/jan.14774</pub-id>
+          <pub-id pub-id-type="pmid">33599309</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grov</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Golub</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Parsons</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Brennan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Karpiak</surname>
+              <given-names>SE</given-names>
+            </name>
+          </person-group>
+          <article-title>Loneliness and HIV-related stigma explain depression among older HIV-positive adults</article-title>
+          <source>AIDS Care</source>
+          <year>2010</year>
+          <volume>22</volume>
+          <issue>5</issue>
+          <fpage>630</fpage>
+          <lpage>639</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540120903280901</pub-id>
+          <pub-id pub-id-type="pmid">20401765</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Geter</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sutton</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Hubbard</surname>
+              <given-names>MD</given-names>
+            </name>
+          </person-group>
+          <article-title>Social and structural determinants of HIV treatment and care among black women living with HIV infection: a systematic review: 2005&#x2013;2016</article-title>
+          <source>AIDS Care</source>
+          <year>2018</year>
+          <volume>30</volume>
+          <issue>4</issue>
+          <fpage>409</fpage>
+          <lpage>416</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540121.2018.1426827</pub-id>
+          <pub-id pub-id-type="pmid">29376409</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crenshaw</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Demarginalizing the intersection of race and sex: A Black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics</article-title>
+          <source>Univ Chic Leg Forum</source>
+          <year>1989</year>
+          <volume>1989</volume>
+          <issue>1</issue>
+          <fpage>139</fpage>
+          <lpage>167</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Tharao</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Loutfy</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV, gender, race, sexual orientation, and sex work: a qualitative study of intersectional stigma experienced by HIV-positive women in Ontario, Canada</article-title>
+          <source>PLoS Med.</source>
+          <year>2011</year>
+          <volume>8</volume>
+          <issue>11</issue>
+          <fpage>e1001124</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1001124</pub-id>
+          <pub-id pub-id-type="pmid">22131907</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Lacombe-Duncan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Kaida</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>HIV-related stigma, racial discrimination, and gender discrimination: Pathways to physical and mental health-related quality of life among a national cohort of women living with HIV</article-title>
+          <source>Prev Med</source>
+          <year>2018</year>
+          <volume>107</volume>
+          <fpage>36</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ypmed.2017.12.018</pub-id>
+          <pub-id pub-id-type="pmid">29277410</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Teti</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Myroniuk</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Epping</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lewis</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Liebenberg</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>A photovoice exploration of the lived experience of intersectional stigma among people living with HIV</article-title>
+          <source>Arch Sex Behav</source>
+          <year>2021</year>
+          <volume>50</volume>
+          <issue>7</issue>
+          <fpage>3223</fpage>
+          <lpage>3235</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10508-021-02058-w</pub-id>
+          <pub-id pub-id-type="pmid">34642838</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Maksut</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Eaton</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Intersectional internalized stigma among Black gay and bisexual men: A longitudinal analysis spanning HIV/sexually transmitted infection diagnosis</article-title>
+          <source>J Health Psychol</source>
+          <year>2021</year>
+          <volume>26</volume>
+          <issue>3</issue>
+          <fpage>465</fpage>
+          <lpage>476</lpage>
+          <pub-id pub-id-type="doi">10.1177/1359105318820101</pub-id>
+          <pub-id pub-id-type="pmid">30599761</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Nyblade</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Turan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stangl</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Poteat</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A scoping review of the integration of empowerment-based perspectives in quantitative intersectional stigma research</article-title>
+          <source>Glob Public Health</source>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1080/17441692.2021.1934061</pub-id>
+          <pub-id pub-id-type="pmid">34278957</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turan</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Elafros</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Banik</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Turan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Crockett</surname>
+              <given-names>KB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Challenges and opportunities in examining and addressing intersectional stigma and health</article-title>
+          <source>BMC Med</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>7</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-018-1246-9</pub-id>
+          <pub-id pub-id-type="pmid">30764816</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bartlett</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Two-Eyed Seeing and other lessons learned within a co-learning journey of bringing together indigenous and mainstream knowledges and ways of knowing</article-title>
+          <source>J Environ Stud Sci</source>
+          <year>2012</year>
+          <volume>2</volume>
+          <issue>4</issue>
+          <fpage>331</fpage>
+          <lpage>340</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13412-012-0086-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Etowa</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tharao</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Mbuagbaw</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Baidoobonso</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hyman</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Obiorah</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Community perspectives on addressing and responding to HIV-testing, pre-exposure prophylaxis (PrEP) and post-exposure prophylaxis (PEP) among African, Caribbean and Black (ACB) people in Ontario, Canada</article-title>
+          <source>BMC Public Health</source>
+          <year>2022</year>
+          <volume>22</volume>
+          <issue>1</issue>
+          <fpage>913</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12889-022-13093-0</pub-id>
+          <pub-id pub-id-type="pmid">35525946</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jennifer</surname>
+              <given-names>MR</given-names>
+            </name>
+          </person-group>
+          <article-title>"The land is a healer": Perspectives on land-based healing from Indigenous practitioners in northern Canada</article-title>
+          <source>Int J Indig Health</source>
+          <year>2020</year>
+          <volume>15</volume>
+          <issue>1</issue>
+          <fpage>90</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="doi">10.32799/ijih.v15i1.34046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allen</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Kellegrew</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Jaffe</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>The experience of pet ownership as a meaningful occupation</article-title>
+          <source>Can J Occup Ther</source>
+          <year>2000</year>
+          <volume>67</volume>
+          <issue>4</issue>
+          <fpage>271</fpage>
+          <lpage>278</lpage>
+          <pub-id pub-id-type="doi">10.1177/000841740006700409</pub-id>
+          <pub-id pub-id-type="pmid">11147376</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <mixed-citation publication-type="other">Muldoon AL, Kuhns LM, Supple J, Jacobson KC, Garofalo R. A web-based study of dog ownership and depression among people living with HIV. JMIR Mental Health. 2017;4(4).</mixed-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kabel</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Khosla</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Teti</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The dog narratives: Benefits of the human&#x2013;animal bond for women with HIV</article-title>
+          <source>J HIV AIDS Soc Serv</source>
+          <year>2015</year>
+          <volume>14</volume>
+          <issue>4</issue>
+          <fpage>405</fpage>
+          <lpage>416</lpage>
+          <pub-id pub-id-type="doi">10.1080/15381501.2013.860069</pub-id>
+          <pub-id pub-id-type="pmid">26617472</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berg</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Page</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>&#xD8;g&#xE5;rd-Rep&#xE5;l</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>The effectiveness of peer-support for people living with HIV: A systematic review and meta-analysis</article-title>
+          <source>PLoS One.</source>
+          <year>2021</year>
+          <volume>16</volume>
+          <issue>6</issue>
+          <fpage>e0252623</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0252623</pub-id>
+          <pub-id pub-id-type="pmid">34138897</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <mixed-citation publication-type="other">Government of Canada. Trauma and violence-informed approaches to policy and practice. 2018. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.canada.ca/en/public-health/services/publications/health-risks-safety/trauma-violence-informed-approaches-policy-practice.html">https://www.canada.ca/en/public-health/services/publications/health-risks-safety/trauma-violence-informed-approaches-policy-practice.html</ext-link>. Accessed 15 June 2022.</mixed-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <mixed-citation publication-type="other">Baba L. Cultural safety in First Nations, Inuit and M&#xE9;tis public health: Environmental scan of cultural competency and safety in education, training and health services. Prince George, BC: National Collaborating Centre for Aboriginal Health. 2013.</mixed-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <mixed-citation publication-type="other">First Nations Health Authority. Creating a climate for change: Cultural safety and humility in health services for First Nations and Aboriginal Peoples in British Columbia. no date. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.fnha.ca/Documents/FNHA-Creating-a-Climate-For-Change-Cultural-Humility-Resource-Booklet.pdf">https://www.fnha.ca/Documents/FNHA-Creating-a-Climate-For-Change-Cultural-Humility-Resource-Booklet.pdf</ext-link>. Accessed 15 June 2022.</mixed-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <mixed-citation publication-type="other">Batchelder AW, Foley JD, Kim J, Thiim A, Kelly J, Mayer K, et al. Intersecting internalized stigmas and HIV self-care among men who have sex with men and who use substances. Soc Sci Med. 2021;275. 10.1016/j.socscimed.2021.113824</mixed-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <mixed-citation publication-type="other">Leddy AM, Turan JM, Johnson MO, Neilands TB, Kempf M-C, Konkle-Parker D, et al. Poverty stigma is associated with suboptimal HIV care and treatment outcomes among women living with HIV in the United States. AIDS. 2019;33(8). 10.1097/QAD.0000000000002189</mixed-citation>
+      </ref>
+      <ref id="CR71">
+        <label>71.</label>
+        <mixed-citation publication-type="other">Williams R, Cook R, Brumback B, Cook C, Ezenwa M, Spencer E, et al. The relationship between individual characteristics and HIV-related stigma in adults living with HIV: Medical monitoring project, Florida, 2015&#x2013;2016. BMC Public Health. 2020;20(1). 10.1186/s12889-020-08891-3</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

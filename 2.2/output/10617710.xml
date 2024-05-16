@@ -1,0 +1,1192 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+      <journal-id journal-id-type="iso-abbrev">PLoS One</journal-id>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-title-group>
+        <journal-title>PLOS ONE</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1932-6203</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, CA USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37906579</article-id>
+      <article-id pub-id-type="pmc">10617710</article-id>
+      <article-id pub-id-type="doi">10.1371/journal.pone.0292064</article-id>
+      <article-id pub-id-type="publisher-id">PONE-D-22-32837</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>People and Places</subject>
+          <subj-group>
+            <subject>Population Groupings</subject>
+            <subj-group>
+              <subject>Age Groups</subject>
+              <subj-group>
+                <subject>Children</subject>
+                <subj-group>
+                  <subject>Adolescents</subject>
+                </subj-group>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>People and Places</subject>
+          <subj-group>
+            <subject>Population Groupings</subject>
+            <subj-group>
+              <subject>Families</subject>
+              <subj-group>
+                <subject>Children</subject>
+                <subj-group>
+                  <subject>Adolescents</subject>
+                </subj-group>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Physical Sciences</subject>
+          <subj-group>
+            <subject>Physics</subject>
+            <subj-group>
+              <subject>Classical Mechanics</subject>
+              <subj-group>
+                <subject>Reflection</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Social Sciences</subject>
+          <subj-group>
+            <subject>Economics</subject>
+            <subj-group>
+              <subject>Economic Geography</subject>
+              <subj-group>
+                <subject>Low and Middle Income Countries</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Earth Sciences</subject>
+          <subj-group>
+            <subject>Geography</subject>
+            <subj-group>
+              <subject>Economic Geography</subject>
+              <subj-group>
+                <subject>Low and Middle Income Countries</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>People and Places</subject>
+          <subj-group>
+            <subject>Population Groupings</subject>
+            <subj-group>
+              <subject>Age Groups</subject>
+              <subj-group>
+                <subject>Children</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>People and Places</subject>
+          <subj-group>
+            <subject>Population Groupings</subject>
+            <subj-group>
+              <subject>Families</subject>
+              <subj-group>
+                <subject>Children</subject>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Research and Analysis Methods</subject>
+          <subj-group>
+            <subject>Research Assessment</subject>
+            <subj-group>
+              <subject>Systematic Reviews</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Medicine and Health Sciences</subject>
+          <subj-group>
+            <subject>Mental Health and Psychiatry</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Medicine and Health Sciences</subject>
+          <subj-group>
+            <subject>Public and Occupational Health</subject>
+            <subj-group>
+              <subject>Behavioral and Social Aspects of Health</subject>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="Discipline-v3">
+          <subject>Medicine and Health Sciences</subject>
+          <subj-group>
+            <subject>Medical Conditions</subject>
+            <subj-group>
+              <subject>Infectious Diseases</subject>
+              <subj-group>
+                <subject>Viral Diseases</subject>
+                <subj-group>
+                  <subject>Covid 19</subject>
+                </subj-group>
+              </subj-group>
+            </subj-group>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reducing stigma impacting children and adolescents in low- and middle-income countries: The development of a common multi-component stigma reduction intervention</article-title>
+        <alt-title alt-title-type="running-head">The development of a child-focused stigma reduction intervention in low- and middle-income countries</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-7404-524X</contrib-id>
+          <name>
+            <surname>Hartog</surname>
+            <given-names>Kim</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role>
+          <role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role>
+          <xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="cor001" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Peters</surname>
+            <given-names>Ruth M. H.</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tukahiirwa</surname>
+            <given-names>Racheal Kisakye</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jordans</surname>
+            <given-names>Mark J. D.</given-names>
+          </name>
+          <role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role>
+          <role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role>
+          <role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+          <role content-type="http://credit.niso.org/contributor-roles/validation/">Validation</role>
+          <role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role>
+          <xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff001"><label>1</label>
+<addr-line>Amsterdam Institute for Social Science Research (AISSR), University of Amsterdam, Amsterdam, The Netherlands</addr-line></aff>
+      <aff id="aff002"><label>2</label>
+<addr-line>Research and Development Department, War Child, Amsterdam, The Netherlands</addr-line></aff>
+      <aff id="aff003"><label>3</label>
+<addr-line>Faculty of Science, Athena Institute, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands</addr-line></aff>
+      <aff id="aff004"><label>4</label>
+<addr-line>Mental Health and Psychosocial Support Department, TPO Uganda, Kampala, Uganda</addr-line></aff>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Olorunlana</surname>
+            <given-names>Adetayo</given-names>
+          </name>
+          <role>Editor</role>
+          <xref rid="edit1" ref-type="aff"/>
+        </contrib>
+      </contrib-group>
+      <aff id="edit1">
+<addr-line>Caleb University, NIGERIA</addr-line>
+</aff>
+      <author-notes>
+        <fn fn-type="COI-statement" id="coi001">
+          <p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p>
+        </fn>
+        <corresp id="cor001">* E-mail: <email>kim.hartog@warchild.nl</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>31</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>18</volume>
+      <issue>10</issue>
+      <elocation-id>e0292064</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>1</day>
+          <month>12</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>9</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2023 Hartog et al</copyright-statement>
+        <copyright-year>2023</copyright-year>
+        <copyright-holder>Hartog et al</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="pone.0292064.pdf"/>
+      <abstract>
+        <sec id="sec001">
+          <title>Introduction</title>
+          <p>Stigmatisation impedes health and quality of life. Evidence regarding stigma reduction interventions is, albeit growing, limited. There is a gap in the availability and evidence of interventions for reducing stigma among children and adolescents, especially in low- and middle-income countries. This paper describes the process that led to a stigma reduction intervention impacting children and adolescents in low- and middle-income countries, following previously conducted formative research.</p>
+        </sec>
+        <sec id="sec002">
+          <title>Methods</title>
+          <p>In this study, we conducted (i) online stakeholder consultations (FGD) (n = 43), including a survey assessing intervention acceptability, appropriateness, feasibility and scalability (n = 16); and (ii) preliminary field-testing of intervention content online and in a refugee settlement in Uganda.</p>
+        </sec>
+        <sec id="sec003">
+          <title>Findings</title>
+          <p>Stakeholder consultation showed the initial version of STRETCH (Stigma Reduction to Trigger Change for Children), albeit positively received, required adaptations. We made adjustments to i) take into account implementation duration, intervention flexibility and intersectionality; (ii) strengthen the involvement of individuals, including adolescents/youth, with lived stigma experience; (iii) target people close to individuals with lived stigma experience; and (iv) address feasibility and sustainability concerns. Preliminary field-testing simplified STRETCH while adding a community outreach component and revisiting the intervention setup, to ensure STRETCH can also be applied from a modular perspective.</p>
+        </sec>
+        <sec id="sec004">
+          <title>Conclusion</title>
+          <p>We conducted a process to develop a child-focused multi-component stigma reduction intervention, with intended applicability across stigmas and settings. This paper provides an overview of the intervention development process, generating intervention-specific learnings with generic value. STRETCH aims to reduce stigmatisation at the implementing organisation, create community-wide reflection and stigma reduction demand, and reduce stigmatisation among various target groups.</p>
+        </sec>
+      </abstract>
+      <funding-group>
+        <award-group id="award001">
+          <funding-source>
+<institution>STRETCH development process</institution>
+</funding-source>
+          <award-id>Through the Dutch Relief Alliance</award-id>
+          <principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-7404-524X</contrib-id>
+<name><surname>Hartog</surname><given-names>Kim</given-names></name>
+</principal-award-recipient>
+        </award-group>
+        <award-group id="award002">
+          <funding-source>
+<institution>STRETCH development process</institution>
+</funding-source>
+          <award-id>Through the Dutch Relief Alliance</award-id>
+          <principal-award-recipient>
+<name><surname>Peters</surname><given-names>Ruth M. H.</given-names></name>
+</principal-award-recipient>
+        </award-group>
+        <award-group id="award003">
+          <funding-source>
+<institution>STRETCH development process</institution>
+</funding-source>
+          <award-id>Through the Dutch Relief Alliance</award-id>
+          <principal-award-recipient>
+<name><surname>Tukahiirwa</surname><given-names>Racheal Kisakye</given-names></name>
+</principal-award-recipient>
+        </award-group>
+        <funding-statement>The Dutch Relief Alliance (DRA) funded part of the STRETCH development process. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</funding-statement>
+      </funding-group>
+      <counts>
+        <fig-count count="3"/>
+        <table-count count="2"/>
+        <page-count count="19"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta id="data-availability">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The data has been uploaded publicly and without restriction to FigShare. The link is: <ext-link xlink:href="https://figshare.com/s/954f9a72009746a62e85" ext-link-type="uri">https://figshare.com/s/954f9a72009746a62e85</ext-link>.</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The data has been uploaded publicly and without restriction to FigShare. The link is: <ext-link xlink:href="https://figshare.com/s/954f9a72009746a62e85" ext-link-type="uri">https://figshare.com/s/954f9a72009746a62e85</ext-link>.</p>
+    </notes>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec005">
+      <title>Introduction</title>
+      <p>The concept of stigmatisation developed from an individualistic undesirable and shameful trait [<xref rid="pone.0292064.ref001" ref-type="bibr">1</xref>] into a multi-dimensional societal process of labelling differences, attaching negative attributes, separation between &#x2018;us&#x2019; and &#x2018;them&#x2019;, status loss, and discrimination [<xref rid="pone.0292064.ref002" ref-type="bibr">2</xref>]. A global phenomenon, stigmatisation occurs within a context of power [<xref rid="pone.0292064.ref003" ref-type="bibr">3</xref>] and is deeply rooted in socially constructed norms of what is deemed good or bad, moral or immoral in that specific setting [<xref rid="pone.0292064.ref004" ref-type="bibr">4</xref>]. Examples of identities facing stigmatisation include one&#x2019;s ability [<xref rid="pone.0292064.ref005" ref-type="bibr">5</xref>], gender orientation and sexual identity [<xref rid="pone.0292064.ref006" ref-type="bibr">6</xref>], refugee status [<xref rid="pone.0292064.ref007" ref-type="bibr">7</xref>] or mental health condition [<xref rid="pone.0292064.ref008" ref-type="bibr">8</xref>]. Age can be a determining, intersecting factor in how some stigmatised identities are perceived; one study concluded that children with depression were perceived as more dangerous than adults [<xref rid="pone.0292064.ref009" ref-type="bibr">9</xref>] while other research showed that children with HIV/AIDS were perceived as more innocent than adults [<xref rid="pone.0292064.ref010" ref-type="bibr">10</xref>].</p>
+      <p>Detrimental consequences can include increased levels of depressive symptoms [<xref rid="pone.0292064.ref011" ref-type="bibr">11</xref>, <xref rid="pone.0292064.ref012" ref-type="bibr">12</xref>] such as social withdrawal [<xref rid="pone.0292064.ref013" ref-type="bibr">13</xref>], decreased help-seeking behaviour [<xref rid="pone.0292064.ref014" ref-type="bibr">14</xref>, <xref rid="pone.0292064.ref015" ref-type="bibr">15</xref>] and adherence to treatment [<xref rid="pone.0292064.ref016" ref-type="bibr">16</xref>], social rejection [<xref rid="pone.0292064.ref017" ref-type="bibr">17</xref>] and impaired social and academic functioning [<xref rid="pone.0292064.ref018" ref-type="bibr">18</xref>]. Internalised or self-stigmatisation can lead to more secrecy and avoidance [<xref rid="pone.0292064.ref019" ref-type="bibr">19</xref>], while experiencing stigmatisation during childhood may lead to a cumulative burden of distress [<xref rid="pone.0292064.ref020" ref-type="bibr">20</xref>], potentially altering the activation of the stress response system during adulthood [<xref rid="pone.0292064.ref021" ref-type="bibr">21</xref>]. Stigma is an important social determinant of health and health inequity [<xref rid="pone.0292064.ref022" ref-type="bibr">22</xref>] and people with lived stigma experience (PWLE) have described stigmatisation as worse than the disease itself [<xref rid="pone.0292064.ref023" ref-type="bibr">23</xref>&#x2013;<xref rid="pone.0292064.ref026" ref-type="bibr">26</xref>]. The burden of stigma can exceed the burden of disease [<xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>], impact child survival and health outcomes [<xref rid="pone.0292064.ref028" ref-type="bibr">28</xref>], and trigger suicidal ideation [<xref rid="pone.0292064.ref029" ref-type="bibr">29</xref>].</p>
+      <p>While the number of intervention studies has increased in recent years [<xref rid="pone.0292064.ref030" ref-type="bibr">30</xref>, <xref rid="pone.0292064.ref031" ref-type="bibr">31</xref>], evidence-based stigma reduction interventions remain scarce [<xref rid="pone.0292064.ref025" ref-type="bibr">25</xref>, <xref rid="pone.0292064.ref032" ref-type="bibr">32</xref>&#x2013;<xref rid="pone.0292064.ref034" ref-type="bibr">34</xref>]. Stigma reduction regarding children and adolescents in Low- and Middle-Income Countries (LMIC) seems to be specifically under-researched [<xref rid="pone.0292064.ref035" ref-type="bibr">35</xref>]. This is disconcerting as 90% of the global child population resides in LMIC [<xref rid="pone.0292064.ref036" ref-type="bibr">36</xref>, <xref rid="pone.0292064.ref037" ref-type="bibr">37</xref>], and interventions originating in High-Income Countries (HIC) may not fit the local drivers of stigmatisation, such as perspectives on recovery [<xref rid="pone.0292064.ref038" ref-type="bibr">38</xref>, <xref rid="pone.0292064.ref039" ref-type="bibr">39</xref>] nor its available resources, for example, the constraint (health) infrastructure [<xref rid="pone.0292064.ref038" ref-type="bibr">38</xref>].</p>
+      <sec id="sec006">
+        <title>Towards a child-focused stigma reduction intervention</title>
+        <p>The direct and indirect deleterious effects of stigmatisation on children and adolescents are undisputed, as well as the window of opportunity that childhood years provide concerning relationship building, self-regulation, social cognition and brain development [<xref rid="pone.0292064.ref040" ref-type="bibr">40</xref>]. The humanitarian organisation War Child, dedicated to improving the psychosocial well-being and resilience of children and communities affected by armed conflict, integrated stigma reduction into their Theory of Change and research agenda [<xref rid="pone.0292064.ref041" ref-type="bibr">41</xref>]. War Child embarked on an iterative process of stigma reduction intervention development with four main steps (see <xref rid="pone.0292064.g001" ref-type="fig">Fig 1</xref>). In this paper we aim to present the development of the intervention, drawing on previously conducted formative research and systematic review (steps 1 and 2) [<xref rid="pone.0292064.ref042" ref-type="bibr">42</xref>, <xref rid="pone.0292064.ref043" ref-type="bibr">43</xref>] described in this introduction section, followed by stakeholder consultation and preliminary field-testing of intervention components (steps 3 and 4), reported within this paper.</p>
+        <fig position="float" id="pone.0292064.g001">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0292064.g001</object-id>
+          <label>Fig 1</label>
+          <caption>
+            <title>Formative research and steps to develop STRETCH.</title>
+          </caption>
+          <graphic xlink:href="pone.0292064.g001" position="float"/>
+        </fig>
+        <p>As part of continuous literature scoping, a systematic review [<xref rid="pone.0292064.ref042" ref-type="bibr">42</xref>] to identify stigma reduction interventions across stigmas in LMIC with a focus on children and adolescents, was one of the first activities undertaken. The review confirmed that children and adolescents were underrepresented in stigma reduction interventions in Low- and Middle-Income Countries (LMIC), with 23% of the included studies targeting or impacting adolescents. This review further demonstrated that most child-focused stigma reduction research was restricted to HIV/AIDS or mental health stigma, while children and adolescents are, like adults, impacted by more distinct stigmas such as teenage motherhood [<xref rid="pone.0292064.ref044" ref-type="bibr">44</xref>], association with armed forces and groups [<xref rid="pone.0292064.ref045" ref-type="bibr">45</xref>] and albinism [<xref rid="pone.0292064.ref046" ref-type="bibr">46</xref>]. A third conclusion drawn from this review was that most stigma reduction interventions, for children and adults alike, address stigmatisation at one socio-ecological level, while research has indicated the importance of addressing stigma at multiple levels [<xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>, <xref rid="pone.0292064.ref047" ref-type="bibr">47</xref>]. Lastly, our review demonstrated that stigma reduction interventions applied a limited set of strategies, with similarities across stigmas, amplifying the value of cross-stigma research and interventions, as recommended [<xref rid="pone.0292064.ref048" ref-type="bibr">48</xref>, <xref rid="pone.0292064.ref049" ref-type="bibr">49</xref>]. This review, supported by other research, led to the decision to develop a new common intervention, informed by other interventions, instead of adopting or adjusting an existing single-level and single-stigma intervention. This intervention intended to (i) have children and adolescents both as target and impact group; (ii) be applicable across stigmas, increasing its relevance as set out in recent research that advocates for moving away from stigma-siloed approaches [<xref rid="pone.0292064.ref048" ref-type="bibr">48</xref>, <xref rid="pone.0292064.ref050" ref-type="bibr">50</xref>]; (iii) apply a combination of promising and often-used stigma reduction ingredients such as social contact [<xref rid="pone.0292064.ref025" ref-type="bibr">25</xref>], knowledge and awareness raising [<xref rid="pone.0292064.ref051" ref-type="bibr">51</xref>], popular opinion leaders [<xref rid="pone.0292064.ref052" ref-type="bibr">52</xref>] and empowerment of PWLE [<xref rid="pone.0292064.ref053" ref-type="bibr">53</xref>]; (iv) address stigma at multiple levels within the community&#x2013;from targeting PWLE to strengthen their stigma resistance and coping to the community at large&#x2014;to be most effective [<xref rid="pone.0292064.ref002" ref-type="bibr">2</xref>, <xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>, <xref rid="pone.0292064.ref048" ref-type="bibr">48</xref>] and; (v) be implementable by non-specialists to increase its usability [<xref rid="pone.0292064.ref054" ref-type="bibr">54</xref>, <xref rid="pone.0292064.ref055" ref-type="bibr">55</xref>]. The conclusions on cross-stigma applicability and the need for a socio-ecological response were confirmed by qualitative research carried out in DR Congo, which additionally highlighted the need for a simplified contexualisation tool [<xref rid="pone.0292064.ref043" ref-type="bibr">43</xref>].</p>
+        <p>The above steps led to the initial version called STRETCH (Stigma Reduction to Trigger Change for Children), inspired by the Health Stigma and Discrimination Framework (HSDF) [<xref rid="pone.0292064.ref048" ref-type="bibr">48</xref>] as a four-phased intervention estimated to be implemented in six to nine months. Phase 1 focused on stigma reduction among staff from the implementing organisation and the selection of a stigma to address; Phase 2 focused on understanding the context&#x2013;e.g. drivers, manifestations, socio-ecological levels&#x2013;of a specific stigmatised characteristic through the implementation of a specific process, called StigMapp; Phase 3 targeted (in)formal community leaders with and without the stigmatised characteristic with parallel stigma reduction strategies and then bring them together to get acquainted and engaged in regular community activities; and Phase 4 intended to be implemented by a collaboration of community leaders and the implementing organisation, to target those places in the community where stigmatisation occurs, with adapted versions of predeveloped stigma reduction strategies. This version was the starting point for the two intervention development steps presented in this paper. <xref rid="pone.0292064.s001" ref-type="supplementary-material">S1 Table</xref> provides details of each phase of this initial version in comparison to the final version of STRETCH, with the main adaptations highlighted.</p>
+      </sec>
+    </sec>
+    <sec sec-type="materials|methods" id="sec007">
+      <title>Materials and methods</title>
+      <p>This paper presents the two process steps in the development of STRETCH, a multi-component stigma reduction intervention applicable across stigmas and settings. The steps discussed in this section are (i) stakeholder consultation; and (ii) preliminary field-testing.</p>
+      <sec id="sec008">
+        <title>Step 1: Stakeholder consultations</title>
+        <sec id="sec009">
+          <title>Ethical approval</title>
+          <p>Ethical approval was provided by the internal ethics approval committee of War Child, under whose authority STRETCH is being developed.</p>
+        </sec>
+        <sec id="sec010">
+          <title>Research design and methods</title>
+          <p>Stakeholder consultations were organised to solicit feedback on the initial version of STRETCH in its entirety and two specific STRETCH components. Consultations were divided into four categories and conducted by the first author [KH].</p>
+        </sec>
+        <sec id="sec011">
+          <title>Qualitative</title>
+          <p>Category 1 focused on &#x2018;high-level feedback&#x2019; on the initial version. In a two-hour session, STRETCH was presented through short videos and additional explanations. Participants could ask clarifying questions. The four guiding questions for feedback were: (i) &#x2018;what is good about STRETCH to reduce stigmatisation?&#x2019;; (ii) &#x2018;what needs to be removed due to potential harm or lack of evidence?&#x2019;; (iii) &#x2018;what are implementation concerns?&#x2019;; and (iv) &#x2018;what are suggestions for adaptation?&#x2019;</p>
+          <p>In category 2 the entire intervention was presented, in three sub-sessions of three hours each. The participants were asked to react immediately during the presentation, with the same guiding questions as category 1.</p>
+          <p>Category 3 focused on a process to facilitate contextual understanding of drivers, manifestations and places of stigmatisation, to strengthen both contextualisation and relevance of the intervention. Per participant, a 2.5-hour session was conducted. The entire process was discussed: qualitative and quantitative data collection exercises, offline formats to facilitate note-taking, online data insertion and online visualisation to support the interpretation of the data.</p>
+          <p>Category 4 finally concerned a card game called Community Tales, developed as a tool for potential implementing organisations to reflect on stigmatisation and create a high-level understanding of STRETCH. The participants played Community Tales in small groups, for an estimated 1.5&#x2013;2 hours. Participants were asked if and how to adapt the game.</p>
+        </sec>
+        <sec id="sec012">
+          <title>Quantitative</title>
+          <p>The participants of categories 1 and 2 were asked to complete a survey after participation, to capture their perceptions concerning the appropriateness, acceptability, feasibility and scalability of the initial version of STRETCH. Three instruments with good psychometric properties in other research [<xref rid="pone.0292064.ref056" ref-type="bibr">56</xref>] were used to measure intervention appropriateness (IAM), acceptability (AIM) and feasibility (FIM). Potential scalability was measured with an adjusted version of the QUALIDEC measure [<xref rid="pone.0292064.ref057" ref-type="bibr">57</xref>] to have the same format as the other measurements. The adjustment was endorsed by the creator of QUALIDEC.</p>
+        </sec>
+        <sec id="sec013">
+          <title>Study population and sampling</title>
+          <p>Inclusion criteria for categories 1 and 2 were being i) a stigma reduction practitioner or researcher and ii) from LMIC or having LMIC experience. We aimed for diverse representation across LMIC contexts and stigma backgrounds. Purposive sampling was applied: potential participants were identified through existing networks of the authors or identified through Linked-In, ResearchGate and stigma reduction articles. Associations of PWLE were specifically approached. Inclusion criteria for categories 3 and 4 were being a practitioner in humanitarian settings; no stigma reduction experience was required. To identify these participants convenience sampling was applied, using the existing networks of the first author [KH].</p>
+        </sec>
+        <sec sec-type="materials|methods" id="sec014">
+          <title>Procedures</title>
+          <p>The participants were approached and requested if they wanted to participate in a specific category. Per category, a participant information sheet was developed and shared with the request for participation. Participants were able to ask questions regarding the study, and indicate their convenience. Informed consent was collected digitally or online. Each session was recorded and transcribed. This study took place during Covid-19; all consultations were held online.</p>
+        </sec>
+        <sec id="sec015">
+          <title>Data analysis</title>
+          <p>The qualitative data were analysed by the first author (KH) using thematic analysis, conducted in NVivo12. The four guiding questions provided deductive themes (good; requiring removal; triggering concerns; and adaptation suggestions) concerning the STRETCH phases and components. Simultaneously, themes cutting across these components and phases were inductively identified. Preliminary qualitative analyses were shared with the participants for feedback and validation, and one validation workshop to ask for responses on the main findings was held to provide further insights on proposed adaptations. Quantitative data were analysed descriptively in Excel.</p>
+        </sec>
+      </sec>
+      <sec id="sec016">
+        <title>Step 2: Preliminary field-testing</title>
+        <p>While restricted by Covid-19, we managed to preliminary field-test two STRETCH strategies with humanitarian staff&#x2013;colleagues of War Child and a partner organisation&#x2014;in Uganda. Five exercises of the STRETCH strategy focusing on organisations and service providers were transferred to an online environment and tested with two groups of humanitarian staff (n = 30 in total). The participants could provide feedback through an online survey and during the session. Secondly, two online training sessions and one refresher session were held in preparation to test the card game Community Tales, as mentioned in category 4, onsite in a refugee setting in Uganda. As part of regular programming, four rounds were conducted with more than twenty community members by three facilitators. The facilitators shared their implementation experiences and the content of the discussions in writing, while a colleague from the implementing organisation overseeing this process was informally interviewed by the first author [KH].</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec017">
+      <title>Results</title>
+      <p>The results will be described in three sections. Section 1 describes <italic toggle="yes">which learnings</italic> were derived from stakeholder consultations; Section 2 describes the feedback from preliminary field-testing. Section 3 details how these steps <italic toggle="yes">informed the adaptation</italic> of the initial into the final version of STRETCH.</p>
+      <sec id="sec018">
+        <title>Section 1: Stakeholder consultation</title>
+        <sec id="sec019">
+          <title>STRETCH consultation</title>
+          <p>Twenty-five practitioners and researchers participated in category 1 and two in category 2 consultation sessions; 63% were female and three of the participants disclosed they experienced stigmatisation themselves. The participants had experience across a wide variety of contexts and stigmas; multiple participants had experience in more than one stigma and more than one country. See <xref rid="pone.0292064.t001" ref-type="table">Table 1</xref> for more information. Sixteen of these participants (59%) filled in the survey to assess STRETCH acceptability, appropriateness, feasibility and scalability. In general, 97% found STRETCH (completely) acceptable, 91% found it (completely) appropriate, 83% found it (completely) feasible and 64% found it (completely) scalable. See <xref rid="pone.0292064.g002" ref-type="fig">Fig 2</xref> for more details. This quantitative data, supported by qualitative data, highlighted that specific attention needed to be given to the scalability of STRETCH, strengthen the perception of advantage over other stigma reduction interventions, and further investigate the affordability of STRETCH implementation.</p>
+          <fig position="float" id="pone.0292064.g002">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0292064.g002</object-id>
+            <label>Fig 2</label>
+            <caption>
+              <title>STRETCH acceptability, appropriateness, feasibility and scalability (n = 16).</title>
+            </caption>
+            <graphic xlink:href="pone.0292064.g002" position="float"/>
+          </fig>
+          <table-wrap position="float" id="pone.0292064.t001">
+            <object-id pub-id-type="doi">10.1371/journal.pone.0292064.t001</object-id>
+            <label>Table 1</label>
+            <caption>
+              <title>Stakeholder consultation participant details (category 1 and 2 sessions).</title>
+            </caption>
+            <alternatives>
+              <graphic xlink:href="pone.0292064.t001" id="pone.0292064.t001g" position="float"/>
+              <table frame="hsides" rules="groups">
+                <colgroup span="1">
+                  <col align="left" valign="middle" span="1"/>
+                  <col align="left" valign="middle" span="1"/>
+                  <col align="left" valign="middle" span="1"/>
+                </colgroup>
+                <thead>
+                  <tr>
+                    <th align="center" colspan="3" rowspan="1">
+<italic toggle="yes">Stigmas represented by the participants (n = 27)</italic>
+</th>
+                  </tr>
+                  <tr>
+                    <th align="center" colspan="3" rowspan="1">Researchers (51%)</th>
+                  </tr>
+                  <tr>
+                    <th align="center" colspan="3" rowspan="1">Female (66%)</th>
+                  </tr>
+                  <tr>
+                    <th align="center" colspan="3" rowspan="1">Participants disclosing having a stigmatised identity (11%)</th>
+                  </tr>
+                  <tr>
+                    <th align="center" rowspan="1" colspan="1">Health-related stigmas</th>
+                    <th align="center" rowspan="1" colspan="1">Non-health related stigmas</th>
+                    <th align="left" rowspan="1" colspan="1">Overarching</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td align="left" rowspan="1" colspan="1">&#x2022; Neglected Tropical Diseases, often leprosy/ Hansen&#x2019;s disease (n = 6)<break/>&#x2022; HIV (n = 6)<break/>&#x2022; Disabilities (n = 3)<break/>&#x2022; Albinism (n = 1)<break/>&#x2022; Tuberculosis (n = 1)<break/>&#x2022; Skin conditions (n = 1)<break/>&#x2022; Mental Health (n = 6) including substance abuse</td>
+                    <td align="left" rowspan="1" colspan="1">&#x2022; LGTBQI (n = 3)<break/>&#x2022; Gender/ sexism (n = 2)<break/>&#x2022; Racism (n = 2)<break/>&#x2022; Safe abortion (n = 1)<break/>&#x2022; Adolescents contraception (n = 1)<break/>&#x2022; Occupation (n = 1)<break/>&#x2022; Sexual Rights and health (n = 1)<break/>&#x2022; Sexual violence (n = 1)</td>
+                    <td align="left" rowspan="1" colspan="1">&#x2022; Social stigma (n = 2)<break/>&#x2022; (Healthcare workers) self-stigma (n = 2)<break/>&#x2022; Intersectional (n = 1)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </alternatives>
+          </table-wrap>
+          <p>In general, the participants seemed to appreciate the initial version of STRETCH for (i) being a comprehensive multi-level intervention; (ii) integrating evidence-based key ingredients, specifically social contact and information, including myth-busting; (iii) involving PWLE; (iv) recognising potential stigmatisation by the implementing organisation and addressing that early in the intervention and; (v) the focus on contextualisation and local relevance.</p>
+          <p>Importantly, implementation concerns, adaptation suggestions and important stigma reduction themes were defined and are described below. Additional details, including quotes and how this feedback informed the adaptation of the initial version of STRETCH to its final version, can be found in <xref rid="pone.0292064.s002" ref-type="supplementary-material">S2 Table</xref>.</p>
+          <p>Major implementation concerns were (i) the duration of the intervention or specific exercises and sessions, with participants indicating they were either too short or too long; (ii) potential stigma by association for participants due to their involvement with PWLE; (iii) the commitment of the service provider to implement the intervention as is, additional to their daily tasks; (iv) hierarchy between people &#x2018;with stigmatised identities&#x2019; and &#x2018;without&#x2019;; (v) distinguishing between &#x2018;stigmatiser&#x2019; and &#x2018;stigmatised&#x2019;, as the reality is not binary; (vi) that intentions to reduce stigmatisation can also be harmful; and (vii) the extended engagement of community leaders as they might not have the time.</p>
+          <p>Suggestions for adaptations were, among others, to: (i) facilitate the target group to take actions to reduce stigmatisation, by providing checklists and examples; (ii) strengthen the understandability of the intervention setup and content for potential implementing organisations; (iii) strengthen the understanding of power dynamics as key to stigmatisation; (iv) strengthen earlier and stronger involvement of families and people close to PWLE; (v) focus on practical abilities to reduce self-devaluation; (vi) set monitoring moments regarding the actions identified by the implementing organisation to reduce stigmatisation; and (vii) strengthen the flow and underlying theory of the I-STRETCH strategy as part of STRETCH, specifically targeting PWLE.</p>
+          <p>Inductive analysis led to several overarching themes. These were (i) to take into account intersectionality, as people can experience stigmatisation due to multiple identities; (ii) to strengthen the involvement and influence of stakeholders and PWLE at the earliest possible opportunity; (iii) to provide more information on facilitators&#x2019; competence and profile, such as mental health experience and dealing with resistance; (iv) to reflect on the sustainability of outcomes, and identify whether additional activities are required for sustained change; (v) the challenge of the promising strategy social contact, especially when a stigma is invisible, as it requires people to disclose; (vi) to include children and adolescents more intensively as a target group; and (vii) whether an adaptable, common intervention is feasible. An additional theme did not discuss content but research feasibility: how to measure the effectiveness of STRETCH due to its multi-level character. For further details how these themes influenced STRETCH development, please see <xref rid="pone.0292064.s002" ref-type="supplementary-material">S2 Table</xref>.</p>
+        </sec>
+        <sec id="sec020">
+          <title>StigMapp stakeholder consultation</title>
+          <p>In category 3, five sessions with one participant each were held to discuss StigMapp&#x2014;the data analysis process developed in response to the DR Congo formative study&#x2014;to simplify the method for contextual understanding. Participants came from Colombia, Uganda and the Netherlands. While appreciated, feedback revealed that the process of StigMapp was too complicated as well. Although after the stakeholder consultation we simplified StigMapp by removing a lot of detail, also with these simplifications, implementation remained tedious. In the final version of STRETCH, StigMapp has therefore been removed and replaced by Community Tales (see below) as creating insight into pertinent stigmas remained crucial for contextualising stigma reduction efforts.</p>
+        </sec>
+        <sec id="sec021">
+          <title>Community Tales stakeholder consultation</title>
+          <p>Within category 4, to test the card game Community Tales, four sessions were held online with ten participants in total, which means two sessions with three persons and two with two persons. For pragmatic reasons, one additional session was conducted with one participant to review the suggested adjustments. Participants came from Uganda, Colombia, Lebanon and Syria. Based on the feedback, Community Tales expanded, both in content and use. A card deck was added to support reflection on <italic toggle="yes">the consequences of stigmatisation</italic>, and the order of the cards was changed to create a better flow in the discussion. Additionally, next to its intended use to explain STRETCH as an intervention, two spin-offs of the game were created: Community Tales-Coping, for PWLE with a focus on coping strategies and resisting stigmatisation, and Community Tales-StandUp, for individuals to identify which actions they could take when witnessing stigmatisation. Community Tales has become an integral part of other STRETCH strategies; I-STRETCH, Inter-STRETCH for people close to PWLE and Team-STRETCH, for organisations and service providers.</p>
+        </sec>
+      </sec>
+      <sec id="sec022">
+        <title>Section 2: Preliminary field-testing of STRETCH strategies</title>
+        <p>Five of the eleven exercises of Team-STRETCH were conducted in three online sessions with two groups (varying between 10 and 20 participants). Reflection concerning the exercises and their content demonstrated that these reflective exercises created insight into stigmatisation, with participants sharing examples they had witnessed in their environment. It also triggered reflection concerning their own identities and how these identities could influence attitude and behaviour towards others. Subsequently, three online training sessions were held with Ugandan humanitarian practitioners (n = 15), to implement the adjusted Community Tales with small community groups (n = 5, between 4&#x2013;6 pax), as part of regular programming. Within the sessions, community members reflected among others on Covid-19, HIV/AIDS and suicidal ideation stigma, discussed its existence, the consequences, their potential role and the need to reduce stigmatisation. The insights gathered during the Community Tales sessions were translated into six radio talk-shows, which were not originally planned in STRETCH, to strengthen wider community reflection. Anecdotal reporting indicated that Community Tales and the outreach through radio seemed to trigger community demand for stigma reduction. This led to a more central position of Community Tales in STRETCH, with the card game used for multiple purposes. First, Community Tales is used for its original purpose: reflection by the implementing organisation about stigmatisation while learning about STRETCH. Second, Community Tales is now used as a stand-alone strategy, a conversation starter and reflection tool with several community groups with minimum time investment. Third, the implementing organisation can use the Community Tales scenarios as content, after learning from the community conversations and reflections held on the stigma(s) of concern, for the Community Outreach strategy, in which two-way communication with the community is intended. A Community Outreach strategy was added based on the radio talk-shows held, with the assumption that the amplified reflection and awareness will lead to various people requesting stigma reduction activities; for themselves if they experience stigmatisation, within families who include people facing stigmatisation, with service providers who realise that they need to make changes to improve the reach and quality of their work, and with community leaders who recognise they can play a role. This change led to STRETCH becoming more community-requested or community-driven than initially foreseen.</p>
+      </sec>
+      <sec id="sec023">
+        <title>Section 3: STRETCH adaptations</title>
+        <p>While retaining core elements such as impacting children and adolescents, stigma reduction within the implementing organisation, the cross-stigma applicability, intervening at multiple socio-ecological levels and integrating various promising strategies, STRETCH has been simplified as a result of the development process. From a strict four-phased initial version, the final structure of STRETCH is more flexible to implement. The complex data collection and interpretation process StigMapp has been replaced by Community Tales, a 2&#x2013;3 hr card game, and the role of community leaders has been reduced, though retained, for reasons of feasibility. PWLE and other stakeholders have been given a stronger position in guiding and contextualising the implementation. This, and community-wide communication and reflection on the stigmatised identity/ies to generate demand to reduce stigmatisation, hase made STRETCH a more community-driven intervention. Due to the repetition of some strategies (Community Tales, Team-STRETCH), preparation and contextualisation time have been reduced. Lastly, while STRETCH is developed to be implemented in its entirety, stakeholder feedback made clear that the implementation of a multi-level, multi-component, multi-month intervention will not always be feasible. STRETCH will be presented in such a way that its components can be implemented separately if the situation so requires. STRETCH is visualised in <xref rid="pone.0292064.g003" ref-type="fig">Fig 3</xref>; more details on the content of the separate STRETCH strategies can be found in <xref rid="pone.0292064.t002" ref-type="table">Table 2</xref>.</p>
+        <fig position="float" id="pone.0292064.g003">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0292064.g003</object-id>
+          <label>Fig 3</label>
+          <caption>
+            <title>Visualisation of STRETCH final version.</title>
+          </caption>
+          <graphic xlink:href="pone.0292064.g003" position="float"/>
+        </fig>
+        <table-wrap position="float" id="pone.0292064.t002">
+          <object-id pub-id-type="doi">10.1371/journal.pone.0292064.t002</object-id>
+          <label>Table 2</label>
+          <caption>
+            <title>Structure and content of STRETCH strategies.</title>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="pone.0292064.t002" id="pone.0292064.t002g" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+                <col align="left" valign="middle" span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="center" colspan="4" rowspan="1">
+<italic toggle="yes">Summary per STRETCH strategy</italic>
+</th>
+                </tr>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1"><italic toggle="yes">Strategy (number</italic>: <italic toggle="yes">type of participants)</italic></th>
+                  <th align="left" rowspan="1" colspan="1"><underline><italic toggle="yes">Estimated</italic></underline>
+<italic toggle="yes">duration</italic></th>
+                  <th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Stigma reduction ingredients</italic>
+</th>
+                  <th align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Content and setup</italic>
+</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Community Tales (3&#x2013;6: community members with and without the stigma; management of implementing organisation)</td>
+                  <td align="left" rowspan="1" colspan="1">1*2hr session</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2022; Information-based<break/>&#x2022; Contact-based (imagined)</td>
+                  <td align="left" rowspan="1" colspan="1">A card game guiding players to reflect on: (i) a positive outcome they want to create; (ii) the stigmatised identity/ies and name of the &#x2018;main character&#x2019;; (iii) where stigmatisation can occur; (iv) by whom stigmatisation can be conducted; (v) how stigmatisation can manifest; (vi) why stigmatisation can happen; (vii) consequences of stigmatisation; (viii) potential actions to address the source or stress of stigmatisation. Reflection moments are included. The game ends by imagining positive/pleasant contact with (someone like) the main character, leading to personal resolutions. For PWLE this short imagination exercise concerns resisting stigma.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">I-STRETCH (10&#x2013;12: PWLE)</td>
+                  <td align="left" rowspan="1" colspan="1">8*2hr sessions, including optional disclosure session.</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2022; Information-based<break/>&#x2022; Peer group-based</td>
+                  <td align="left" rowspan="1" colspan="1">Session (1): Identity; (2) &amp; (3): Coping mechanisms (Community Tales-Coping); (4): Myth-busting; (5): Disclosure strategies (optional; based on the stigma); (6) Inspirational peer learning; (7) Strengthening the support base; (8) Positive perspective. Including monitoring/follow-up visits.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Inter-STRETCH (4&#x2013;10: people close to PWLE)</td>
+                  <td align="left" rowspan="1" colspan="1">2*2.5 hr sessions.</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2022; Information-based<break/>&#x2022; Contact-based (testimonial, conversation, dialogue).</td>
+                  <td align="left" rowspan="1" colspan="1">Session 2: Exercise (1): Community Tales-StandUp/Coping. Discussing (dealing with) stigma (by association).<break/>Session 1: Exercise (1): experiencing exclusion; (2) myth-busting; (3) &amp; (4) (in)direct testimonial, facilitated dialogue.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Team-STRETCH (10&#x2013;16: service providers)</td>
+                  <td align="left" rowspan="1" colspan="1">11 exercises, in total 3 days. Can be implemented in separate sessions.</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2022; Information-based<break/>&#x2022; Contact-based (conversation)</td>
+                  <td align="left" rowspan="1" colspan="1"><italic toggle="yes">Stigmatisation process</italic>: Exercise (1): identity *; (2) prejudice and influence on attitude/ behaviour *; (3) experiencing exclusion; (4) Stigmatisation, consequences and actions (Community Tales-StandUp)*. <italic toggle="yes">Stigmatisation constructs</italic>: (5) intersectionality*; (6) privilege; (7) personal experience; (8) power dynamics.<break/><italic toggle="yes">Actions</italic>: (9) adapting activities; (10) action plan*; and (11) contact-based dialogue.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Comi-STRETCH (10&#x2013;14: community influencers and PWLE, reaching more community members)</td>
+                  <td align="left" rowspan="1" colspan="1">At least 1*2hr session (to get to know each other) + daily activities.</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2022; Popular opinion leaders-based<break/>&#x2022; Contact-based (contact, conversation, connection, collaboration)</td>
+                  <td align="left" rowspan="1" colspan="1">Some sessions in which community influencers with and without the stigma(s) STRETCH intends to address are; connected; starting a conversation; starting collaboration; and conducting regular, daily community activities (e.g. market visits) together.</td>
+                </tr>
+                <tr>
+                  <td align="left" rowspan="1" colspan="1">Community Outreach (unknown: community members)</td>
+                  <td align="left" rowspan="1" colspan="1">1-week development, 1&#x2013;2 weeks outreach</td>
+                  <td align="left" rowspan="1" colspan="1">&#x2022; Information-based<break/>&#x2022; Contact-based (indirect, testimonials)</td>
+                  <td align="left" rowspan="1" colspan="1">Awareness raising about stigmatisation, consequences and actions through local communication channels (radio, community meetings, posters). Specific guidance to reach children/adolescents. Information from Community Tales.</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+          <table-wrap-foot>
+            <fn id="t002fn001">
+              <p>*Preliminary tested</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>STRETCH is distinct from most interventions in its ambition to be applicable across stigmas and settings. Additionally, STRETCH stands out given its focus on children and adolescents. It is a community-level stigma reduction intervention including three consecutive parts. (1) Part one <italic toggle="yes">(Organisational Reflection)</italic> focuses on stigma reduction amongst staff of the organisation implementing the intervention, applying two strategies: the card game &#x2018;Community Tales&#x2019; and &#x2018;Team-STRETCH&#x2019;, the strategy developed for service providers and organisations. STRETCH starts with this focus on the implementing organisation to practice stigma reduction internally before facilitating a community process, as service providers and humanitarian organisations can stigmatise as well [<xref rid="pone.0292064.ref058" ref-type="bibr">58</xref>]. Subsequently, the organisation reaches out to PWLE, including adolescents and youth, and other key stakeholders to form a committee to guide contextualisation and implementation. (2) Part two <italic toggle="yes">(Demand creation)</italic> aims to ensure community-wide reflection about stigmatisation, its consequences and potential actions, to generate demand for stigma reduction. Two strategies are employed, the card game &#x2018;Community Tales&#x2019; and the communication strategy &#x2018;Community Outreach&#x2019;. In both strategies, adolescents are one of the target groups. (3) Part three <italic toggle="yes">(Targeted Actions)</italic> employs various strategies to target PWLE, including adolescents and youth (I-STRETCH), people close to PWLE (Inter-STRETCH), local service providers and organisations (Team-STRETCH) and the community at large through the involvement of community influencers (Comi-STRETCH). The implementing organisation, community implementation committee and potentially other stakeholders will thereafter discuss whether additional actions are required to sustain or strengthen stigma reduction. While it is intended to implement STRETCH in its entirety, we anticipate that contextual reality may hamper this. As such, we have developed STRETCH as a modular approach as well, where different constellations of intervention components can be chosen for a specific target group, e.g. a service provider or a school setting, if so required. This setup will inform future feasibility and effectiveness studies.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec024">
+      <title>Discussion</title>
+      <p>This paper describes the process of the development of a stigma reduction intervention. During three years, literature reviews, stakeholder feedback and preliminary field-testing led to multiple iterations until its final version. This has resulted in a multi-component stigma reduction intervention to target and impact children and adolescents, intended to be applicable across stigmas in LMIC. While some stakeholders questioned whether a common, cross-stigma intervention was feasible, recent exceptions in LMIC support that it can be: the common health-related internalised stigma reduction approach for people with schizophrenia, diabetes, HIV and leprosy in Indonesia [<xref rid="pone.0292064.ref059" ref-type="bibr">59</xref>] and the Human Library Methodology, where students converse with a representative of persons with lived experience, applied in Turkey [<xref rid="pone.0292064.ref060" ref-type="bibr">60</xref>]. Moreover, recent research has advocated for more overarching stigma reduction such as the HSDF [<xref rid="pone.0292064.ref048" ref-type="bibr">48</xref>] or for general strategies linked to the cross-cutting &#x201C;Stigma Intervention Matrix&#x201D; [<xref rid="pone.0292064.ref049" ref-type="bibr">49</xref>].</p>
+      <p>STRETCH consists of three parts, which in its entirety target stigma reduction at the intrapersonal, interpersonal, organisational and community levels, by using promising mechanisms such as social contact, myth-busting, popular opinion leaders, and empowerment through coping. Assessing STRETCH against a recent review of six core components for effective stigma reduction interventions [<xref rid="pone.0292064.ref031" ref-type="bibr">31</xref>] shows that the intervention has taken these into account. First, in response to the component <underline>culture</underline>, STRETCH follows clear theories and intervention rationale, while embedding guidance and contextualisation of processes and promising strategies [<xref rid="pone.0292064.ref061" ref-type="bibr">61</xref>] by PWLE and other stakeholders. Second, when looking at <underline>programme design</underline>, STRETCH integrates multiple intervention methods and mechanisms, disseminated through several channels, reaching a large section of the catchment area. Third, STRETCH <underline>targets</underline> a diversity of groups at several socio-ecological levels [<xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>], including children and adolescents. A layered response has been recommended by multiple studies [<xref rid="pone.0292064.ref002" ref-type="bibr">2</xref>, <xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>], although a recent review stated that complex interventions are not necessarily more effective [<xref rid="pone.0292064.ref031" ref-type="bibr">31</xref>]. Fourth, regarding the component <underline>staffing</underline>, STRETCH will be implemented by a locally embedded organisation. This organisation is the first target of STRETCH to strengthen both the legitimacy and capacity to tackle stigmatisation, and creating facilitators showcasing behaviour change as a key ingredient to reduce stigmatisation [<xref rid="pone.0292064.ref062" ref-type="bibr">62</xref>]. Additionally, PWLE, including adolescents and youth, and other important local stakeholders are at the core of guiding and contextualising STRETCH, an important stigma reduction principle [<xref rid="pone.0292064.ref052" ref-type="bibr">52</xref>]. At the end of each part, the implementing organisation and the STRETCH committee will evaluate the implementation so far, including looking at potential harms and preparing for the next intervention part. Fifth, in terms of <underline>messaging</underline>, as it is key to have targeted messages towards target groups [<xref rid="pone.0292064.ref063" ref-type="bibr">63</xref>], the content will be informed by local insights gained through implementation and reflection, specifically through Community Tales. Lastly, regarding the component <underline>follow-up</underline>, which looks at the outcome assessment and duration of the intervention, we recognise that implementing STRETCH in its entirety might be intensive, specifically in the understanding that most of the, single-level, stigma reduction interventions in LMIC last at most one week [<xref rid="pone.0292064.ref042" ref-type="bibr">42</xref>]. However, implementation can be adapted to the local situation, influencing its duration. Additionally, in the final part of STRETCH, reflections will be held on additional actions that may be required to amplify or sustain change.</p>
+      <p>We drew six main conclusions from the development of the intervention:</p>
+      <p>First, the duration of the intervention, or the session time of the underlying strategies or exercises, was repeated feedback with two main conflicting messages: the intervention, strategies or sessions were either too long or too short. We interpreted this information from two perspectives: feasibility (both for the implementing organisation and the participant) and effectiveness. The shorter an intervention, strategy or exercise, the more feasible it in principle is to implement or participate in; this was a lesson learnt in the development study of Lusli and colleagues [<xref rid="pone.0292064.ref064" ref-type="bibr">64</xref>]. On the other hand, the longer and more intensive the intervention, the more effective it in principle is; this has been confirmed in various studies [<xref rid="pone.0292064.ref053" ref-type="bibr">53</xref>, <xref rid="pone.0292064.ref065" ref-type="bibr">65</xref>&#x2013;<xref rid="pone.0292064.ref067" ref-type="bibr">67</xref>]. Within STRETCH, we have tried to address these conflicting points through (i) the integration of short activities to be conducted with multiple groups of people, and (ii) having more intensive strategies, flexible to plan and implement, with fewer groups of people. As these strategies can be &#x2018;re-used&#x2019; with different target groups, contextualisation time for the implementing organisation diminishes. Additionally, the setup of STRETCH was made more flexible, which should allow the implementing organisation to embed STRETCH better in their activity plans. This integration aims to strengthen affordability and is an important factor for scalability [<xref rid="pone.0292064.ref057" ref-type="bibr">57</xref>].</p>
+      <p>Second, a recurrent point of feedback was intersectionality. Recent research has highlighted that intersectional stigmas are a common but poorly understood reality, and that it is vital to integrate intersectionality into interventions [<xref rid="pone.0292064.ref068" ref-type="bibr">68</xref>]. A global systematic review of systematic reviews concerning HIV/AIDS, ill mental health and physical disability stigma demonstrated that in only 17% of the reviews the construct of intersectionality was examined [<xref rid="pone.0292064.ref069" ref-type="bibr">69</xref>]. A recent study produced a checklist for health interventions to strengthen intersectionality, highlighting intersectionality-guiding principles such as power, reflexivity and multi-level analysis across three intervention implementation stages [<xref rid="pone.0292064.ref070" ref-type="bibr">70</xref>]. We have attempted to integrate multiple of these intersectionality principles into STRETCH.</p>
+      <p>Third, the importance of meaningful involvement of PWLE in the implementation of the intervention itself has been repeatedly stated. During our literature scoping, we identified a limited number of community-led or strong PWLE-involved stigma reduction interventions [<xref rid="pone.0292064.ref071" ref-type="bibr">71</xref>&#x2013;<xref rid="pone.0292064.ref073" ref-type="bibr">73</xref>]. This is confirmed by a review that stated that few interventions to reduce HIV-stigma have involved PWLE in the design or implementation of the intervention [<xref rid="pone.0292064.ref074" ref-type="bibr">74</xref>]. A recent systematic review on mental illness stigma reduction concluded that 40% of the included interventions had PWLE involved in intervention development or delivery [<xref rid="pone.0292064.ref031" ref-type="bibr">31</xref>]: the review does not detail how strong this involvement is. Another recent review demonstrated promising effects of community participation in health interventions; the authors do however emphasise that there is no &#x2018;one size fits all&#x2019; and community participation needs to be tailored to the context [<xref rid="pone.0292064.ref075" ref-type="bibr">75</xref>]. Within STRETCH, we have integrated the involvement of PWLE and other stakeholders through the establishment of an official implementation guiding committee. We hypothesise that this committee will strengthen local ownership [<xref rid="pone.0292064.ref076" ref-type="bibr">76</xref>] and will help contextualising the intervention, encourage intermittent reflection to make adjustments, and create space to identify additional actions if required for sustained change. Additionally, the community outreach strategy is intended to encourage community members, including PWLE, but also service providers and community influencers, to request stigma reduction activities as well as use their position to influence change.</p>
+      <p>Fourth, the sustainability of STRETCH was a recurrent comment. The longer-term effect of stigma reduction interventions is a common challenge, as various reviews have emphasised. Gronholm and colleagues [<xref rid="pone.0292064.ref077" ref-type="bibr">77</xref>] have concluded that observed effects are often small-to-moderate in regard to knowledge and attitudes, with limited evidence on longer-term impacts. Other reviews on stigma reduction interventions discussed the poor quality of studies [<xref rid="pone.0292064.ref034" ref-type="bibr">34</xref>, <xref rid="pone.0292064.ref078" ref-type="bibr">78</xref>], which impedes conclusions about sustainability. Applying a community-driven approach is one strategy to strengthen sustainability, although concerns have been raised about the overtaxing of people&#x2019;s time [<xref rid="pone.0292064.ref079" ref-type="bibr">79</xref>]. In STRETCH we have therefore aimed to target many people with limited time investment while including people with higher stakes more intensely. We hypothesise that targeting multiple people such as local influencers, general community members and organisations with limited time investment will lead to requests for stigma reduction activities. We hold the assumption that if stigma reduction activities are requested, people&#x2019;s motivation to participate increases and the effects will be stronger and more sustained.</p>
+      <p>Fifth, an additional point of contention was the paradoxical role of social contact. While recognising the outstanding concerns regarding its evidence [<xref rid="pone.0292064.ref034" ref-type="bibr">34</xref>], social contact is regarded as one of the most promising stigma reduction strategies [<xref rid="pone.0292064.ref025" ref-type="bibr">25</xref>, <xref rid="pone.0292064.ref080" ref-type="bibr">80</xref>]. However, various stakeholders, supported by research [<xref rid="pone.0292064.ref080" ref-type="bibr">80</xref>, <xref rid="pone.0292064.ref081" ref-type="bibr">81</xref>] emphasised the constraints of community members and leaders to disclose a stigmatised identity. Social contact has remained an important part of stigma reduction within STRETCH, with the assumption that community-wide awareness of stigmatisation and support for people experiencing stigmatisation, will create conducive circumstances for people to come forward to engage in stigma reduction activities.</p>
+      <p>Lastly, stakeholders showed, while recognising that a multi-level intervention is key to confronting the power dynamics of stigmatisation [<xref rid="pone.0292064.ref002" ref-type="bibr">2</xref>, <xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>, <xref rid="pone.0292064.ref050" ref-type="bibr">50</xref>, <xref rid="pone.0292064.ref082" ref-type="bibr">82</xref>&#x2013;<xref rid="pone.0292064.ref084" ref-type="bibr">84</xref>] concern regarding measuring its effectiveness, presumably due to implementation and research complexity [<xref rid="pone.0292064.ref027" ref-type="bibr">27</xref>]. Besides the more flexible setup of the final version of STRETCH, the underlying strategies can also be applied stand-alone. The points of feasibility and effectiveness will inform upcoming on-site mixed-methods studies regarding STRETCH, to highlight key ingredients and assess STRETCH both in its entirety and focus on separate components or intervention constellations. These studies will also provide further insights into the feasibility of an adaptable intervention across stigmas; while this has been identified as significantly challenging [<xref rid="pone.0292064.ref049" ref-type="bibr">49</xref>], recent research has highlighted similarities between stigmas and a more common approach to stigma research as the way forward [<xref rid="pone.0292064.ref048" ref-type="bibr">48</xref>, <xref rid="pone.0292064.ref050" ref-type="bibr">50</xref>, <xref rid="pone.0292064.ref058" ref-type="bibr">58</xref>]. Recent stigma reduction studies, albeit it intervening at one socio-ecological level, have shown promise [<xref rid="pone.0292064.ref059" ref-type="bibr">59</xref>, <xref rid="pone.0292064.ref060" ref-type="bibr">60</xref>].</p>
+    </sec>
+    <sec id="sec025">
+      <title>Strengths and limitations</title>
+      <p>One of the strengths of this paper is that it describes the iterative process of intervention development of an intervention as STRETCH, bringing together the multiple studies conducted. Strengths and limitations of the systematic review and qualitative study have been described in their respective publications. In the stakeholder consultation, stigma reduction experts, across stigma experiences and contexts, with a research or practitioner background, have provided feedback before preliminary field-testing part of the intervention. These steps provided the opportunity to already adjust potentially harmful or non-effective intervention elements, before the feasibility study phase. While we are aware that the numbers of the feasibility survey were too small to draw conclusions, we do believe it provides an indication and have used it to improve the intervention.</p>
+      <p>This paper also has its limitations. While experts with lived stigma experience have provided feedback, this has been limited so far. The planned on-site studies will ensure that PWLE, among others, can provide feedback on the intervention. Moreover, the purposive and convenience sampling of participants could have led to bias, although at this stage of development we do not feel that as particularly disturbing. Additionally, the data from the stakeholder consultations have been analysed and interpreted by the first author only. The main outcomes of the data have been discussed with a group of stigma reduction researchers for validation. Covid-19 restricted more robust testing of various STRETCH strategies onsite. However, they have been interpreted in their own right, through informal feedback, and influenced the setup of the intervention. As STRETCH is now developed as a final version, upcoming feasibility and effectiveness studies will prioritise this.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec026">
+      <title>Conclusions</title>
+      <p>This paper describes the iterative process of the development of the multi-component stigma reduction intervention STRETCH, intended to be applicable across stigmas and contexts. It outlines the current content and setup of the intervention and describes six key learnings. STRETCH responds to a gap in available interventions addressing stigma among children and adolescents in LMIC and is developed by building upon research recommendations and following the recent HSDF. This led to an intervention process, with predeveloped, adaptable strategies at multiple socio-ecological levels and embedded contextualisation steps. This paper specifically focuses on STRETCH development, though we believe its learnings are applicable across stigma reduction interventions. The intervention is now ready for piloting; future research will tell whether STRETCH is a feasible, effective and scalable stigma reduction intervention targeting and impacting children and adolescents, applicable across stigmas and in multiple contexts.</p>
+    </sec>
+    <sec id="sec027" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pone.0292064.s001" position="float" content-type="local-data">
+        <label>S1 Table</label>
+        <caption>
+          <title>STRETCH initial version, adaptations and final version.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0292064.s001.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="pone.0292064.s002" position="float" content-type="local-data">
+        <label>S2 Table</label>
+        <caption>
+          <title>STRETCH Stakeholder feedback and adaptations made.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pone.0292064.s002.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We would like to thank Wim van Brakel, Petra Gronholm, Tjitske de Groot, Lagen Marjorie Judith, Ochaka Richard Okot and Eva Smallegange for their support during the development and adaptation of STRETCH. We thank Vandejong Creative Agency, specifically Jordy Ringeling, for the development and adaptation of Community Tales, and PeaceTech Lab NL, specifically Herman Nelissen, for creating Community Tales online. We thank Aafke Mertens from Curly Sketches for the visualisation of STRETCH. We would like to thank War Child Uganda and TPO Uganda staff for supporting STRETCH development research.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="pone.0292064.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="book"><name><surname>Goffman</surname><given-names>E.</given-names></name>
+<source>Stigma; Notes on the management of spoiled identity</source>. <publisher-loc>New York</publisher-loc>
+<publisher-name>Prentiss-Hall</publisher-name>. <year>1963</year>;</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="journal"><name><surname>Link</surname><given-names>BG</given-names></name>, <name><surname>Phelan</surname><given-names>JC</given-names></name>. <article-title>Conceptualizing stigma.</article-title>
+<source>Annu Rev Sociol.</source>
+<year>2001</year>
+<month>Aug</month>;<volume>27</volume>(<issue>1</issue>):<fpage>363</fpage>&#x2013;<lpage>85</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="journal"><name><surname>Link</surname><given-names>BG</given-names></name>, <name><surname>Phelan</surname><given-names>JC</given-names></name>, <name><surname>Hatzenbuehler</surname><given-names>ML</given-names></name>. <article-title>Stigma and Social Inequality.</article-title>
+<source>Handbooks Sociol Soc Res.</source>
+<year>2014</year>;<fpage>49</fpage>&#x2013;<lpage>64</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Pescosolido</surname><given-names>BA</given-names></name>, <name><surname>Martin</surname><given-names>JK</given-names></name>, <name><surname>Lang</surname><given-names>A</given-names></name>, <name><surname>Olafsdottir</surname><given-names>S</given-names></name>. <article-title>Rethinking theoretical approaches to stigma: A Framework Integrating Normative Influences on Stigma (FINIS).</article-title>
+<source>Soc Sci Med.</source>
+<year>2008</year>
+<month>Aug</month>
+<day>1</day>;<volume>67</volume>(<issue>3</issue>):<fpage>431</fpage>&#x2013;<lpage>40</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.socscimed.2008.03.018</pub-id>
+<pub-id pub-id-type="pmid">18436358</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="book"><name><surname>Parnes</surname><given-names>P</given-names></name>, <name><surname>Cameron</surname><given-names>D</given-names></name>, <name><surname>Christie</surname><given-names>N</given-names></name>, <name><surname>Cockburn</surname><given-names>L</given-names></name>, <name><surname>Hashemi</surname><given-names>G</given-names></name>, <name><surname>Yoshida</surname><given-names>K</given-names></name>. <part-title>Disability in low-income countries: Issues and implications.</part-title> Vol. <volume>31</volume>, <publisher-name>Disability and Rehabilitation</publisher-name>. <year>2009</year>. p. <fpage>1170</fpage>&#x2013;<lpage>80</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>King</surname><given-names>R</given-names></name>, <name><surname>Barker</surname><given-names>J</given-names></name>, <name><surname>Nakayiwa</surname><given-names>S</given-names></name>, <name><surname>Katuntu</surname><given-names>D</given-names></name>, <name><surname>Lubwama</surname><given-names>G</given-names></name>, <name><surname>Bagenda</surname><given-names>D</given-names></name>, <etal>et al</etal>. <article-title>Men at risk; a qualitative study on HIV risk, gender identity and violence among men who have sex with men who report high risk behavior in Kampala, Uganda.</article-title>
+<source>PLoS One.</source>
+<year>2013</year>
+<month>Dec</month>
+<day>17</day>;<volume>8</volume>(<issue>12</issue>):<fpage>e82937</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0082937</pub-id>
+<pub-id pub-id-type="pmid">24358239</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Jarlby</surname><given-names>F</given-names></name>, <name><surname>Goosen</surname><given-names>S</given-names></name>, <name><surname>Derluyn</surname><given-names>I</given-names></name>, <name><surname>Vitus</surname><given-names>K</given-names></name>, <name><surname>Jervelund</surname><given-names>SS</given-names></name>. <article-title>What can we learn from unaccompanied refugee adolescents&#x2019; perspectives on mental health care in exile</article-title>? <source>Eur J Pediatr</source>. <year>2018</year>
+<month>Dec</month>
+<day>1</day>;<volume>177</volume>(<issue>12</issue>):<fpage>1767</fpage>&#x2013;<lpage>74</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s00431-018-3249-0</pub-id>
+<pub-id pub-id-type="pmid">30225635</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Swed</surname><given-names>S</given-names></name>, <name><surname>Sohib</surname><given-names>S</given-names></name>, <name><surname>Hassan</surname><given-names>NAIF</given-names></name>, <name><surname>Almoshantaf</surname><given-names>MB</given-names></name>, <name><surname>Alkadi</surname><given-names>SMS</given-names></name>, <name><surname>AbdelQadir</surname><given-names>YH</given-names></name>, <etal>et al</etal>. <article-title>Stigmatizing attitudes towards depression among university students in Syria.</article-title>
+<source>PLoS One.</source>
+<year>2022</year>
+<month>Sep</month>
+<day>1</day>;<volume>17</volume>(<issue>9 September</issue>):e0273483. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0273483</pub-id>
+<pub-id pub-id-type="pmid">36107932</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Perry</surname><given-names>BL</given-names></name>, <name><surname>Pescosolido</surname><given-names>BA</given-names></name>, <name><surname>Martin</surname><given-names>JK</given-names></name>, <name><surname>McLeod</surname><given-names>JD</given-names></name>, <name><surname>Jensen</surname><given-names>PS</given-names></name>. <article-title>Comparison of public attributions, attitudes, and stigma in regard to depression among children and adults.</article-title>
+<source>Psychiatr Serv.</source>
+<year>2007</year>;<volume>58</volume>(<issue>5</issue>):<fpage>632</fpage>&#x2013;<lpage>5</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1176/ps.2007.58.5.632</pub-id>
+<pub-id pub-id-type="pmid">17463343</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="journal"><source>International Center for Research on Women. Common at its core: HIV-related stigma across contexts</source>. <year>2005</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Cadden</surname><given-names>MH</given-names></name>, <name><surname>Arnett</surname><given-names>PA</given-names></name>, <name><surname>Tyry</surname><given-names>TM</given-names></name>, <name><surname>Cook</surname><given-names>JE</given-names></name>. Judgm<article-title>ent hurts: The psychological consequences of experiencing</article-title> stigma in multiple sclerosis. <source>Soc Sci Med.</source>
+<year>2018</year>
+<month>Jul</month>
+<day>1</day>;<volume>208</volume>:<fpage>158</fpage>&#x2013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">29439818</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Y&#x131;ld&#x131;r&#x131;m</surname><given-names>Z</given-names></name>, <name><surname>Ertem</surname><given-names>DH</given-names></name>, <name><surname>Ceyhan Dirican</surname><given-names>A</given-names></name>, <name><surname>Bayba&#x15F;</surname><given-names>S</given-names></name>. <article-title>Stigma accounts for depression in patients with epilepsy.</article-title>
+<source>Epilepsy Behav.</source>
+<year>2018</year>
+<month>Jan</month>
+<day>1</day>;<volume>78</volume>:<fpage>1</fpage>&#x2013;<lpage>6</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.yebeh.2017.10.030</pub-id>
+<pub-id pub-id-type="pmid">29161628</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="book"><name><surname>Mitter</surname><given-names>N</given-names></name>, <name><surname>Ali</surname><given-names>A</given-names></name>, <name><surname>Scior</surname><given-names>K</given-names></name>. <part-title>Stigma experienced by families of individuals with intellectual disabilities and autism: A systematic review.</part-title> Vol. <volume>89</volume>, <publisher-name>Research in Developmental Disabilities</publisher-name>. <publisher-loc>Pergamon</publisher-loc>; <year>2019</year>. p. <fpage>10</fpage>&#x2013;<lpage>21</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="book"><name><surname>Clement</surname><given-names>S</given-names></name>, <name><surname>Schauman</surname><given-names>O</given-names></name>, <name><surname>Graham</surname><given-names>T</given-names></name>, <name><surname>Maggioni</surname><given-names>F</given-names></name>, <name><surname>Evans-Lacko</surname><given-names>S</given-names></name>, <name><surname>Bezborodovs</surname><given-names>N</given-names></name>, <etal>et al</etal>. <part-title>What is the impact of mental health-related stigma on help-seeking? A systematic review of quantitative and qualitative studies</part-title>. Vol. <volume>45</volume>, <source>Psychological Medicine</source>. <publisher-name>Cambridge University Press</publisher-name>; <year>2015</year>. p. <fpage>11</fpage>&#x2013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">24569086</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Overstreet</surname><given-names>NM</given-names></name>, <name><surname>Quinn</surname><given-names>DM</given-names></name>. <article-title>The Intimate Partner Violence Stigmatization Model and Barriers to Help Seeking.</article-title> Vol. <volume>35</volume>, <source>Basic and Applied Social Psychology</source>. <year>2013</year>. p. <fpage>109</fpage>&#x2013;<lpage>22</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/01973533.2012.746599</pub-id>
+<pub-id pub-id-type="pmid">23524454</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Mahajan</surname><given-names>AP</given-names></name>, <name><surname>Sayles</surname><given-names>JN</given-names></name>, <name><surname>Patel</surname><given-names>VA</given-names></name>, <name><surname>Remien</surname><given-names>RH</given-names></name>, <name><surname>Sawires</surname><given-names>SR</given-names></name>, <name><surname>Ortiz</surname><given-names>DJ</given-names></name>, <etal>et al</etal>. <article-title>Stigma in the HIV/AIDS epidemic: A review of the literature and recommendations for the way forward</article-title>. <source>AIDS</source>. <year>2008</year>;<volume>22</volume>(<issue>Suppl 2</issue>):<fpage>S67</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1097/01.aids.0000327438.13291.62</pub-id>
+<pub-id pub-id-type="pmid">18641472</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Denis-Ramirez</surname><given-names>E</given-names></name>, <name><surname>S&#xF8;rensen</surname><given-names>KH</given-names></name>, <name><surname>Skovdal</surname><given-names>M</given-names></name>. <article-title>In the midst of a &#x2018;perfect storm&#x2019;: Unpacking the causes and consequences of Ebola-related stigma for children orphaned by Ebola in Sierra Leone.</article-title>
+<source>Child Youth Serv Rev.</source>
+<year>2017</year>
+<month>Feb</month>
+<day>1</day>;<volume>73</volume>:<fpage>445</fpage>&#x2013;<lpage>53</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="book"><name><surname>Puhl</surname><given-names>RM</given-names></name>, <name><surname>Lessard</surname><given-names>LM</given-names></name>. <part-title>Weight Stigma in Youth: Prevalence, Consequences, and Considerations for Clinical Practice.</part-title> Vol. <volume>9</volume>, <source>Current Obesity Reports</source>. <publisher-name>Springer</publisher-name>; <year>2020</year>. p. <fpage>402</fpage>&#x2013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">33079337</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>Kaushik</surname><given-names>A</given-names></name>, <name><surname>Kostaki</surname><given-names>E</given-names></name>, <name><surname>Kyriakopoulos</surname><given-names>M</given-names></name>. <article-title>The stigma of mental illness in children and adolescents: A systematic review.</article-title>
+<source>Psychiatry Res.</source>
+<year>2016</year>
+<month>Sep</month>
+<day>30</day>;<volume>243</volume>:<fpage>469</fpage>&#x2013;<lpage>94</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.psychres.2016.04.042</pub-id>
+<pub-id pub-id-type="pmid">27517643</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Brody</surname><given-names>GH</given-names></name>, <name><surname>Lei</surname><given-names>MK</given-names></name>, <name><surname>Chae</surname><given-names>DH</given-names></name>, <name><surname>Yu</surname><given-names>T</given-names></name>, <name><surname>Kogan</surname><given-names>SM</given-names></name>, <name><surname>Beach</surname><given-names>SRH</given-names></name>. <article-title>Perceived Discrimination Among African American Adolescents and Allostatic Load: A Longitudinal Analysis With Buffering Effects.</article-title>
+<source>Child Dev.</source>
+<year>2014</year>;<volume>85</volume>(<issue>3</issue>):<fpage>989</fpage>&#x2013;<lpage>1002</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/cdev.12213</pub-id>
+<pub-id pub-id-type="pmid">24673162</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Currie</surname><given-names>CL</given-names></name>, <name><surname>Copeland</surname><given-names>JL</given-names></name>, <name><surname>Metz</surname><given-names>GA</given-names></name>. <article-title>Childhood racial discrimination and adult allostatic load: The role of Indigenous cultural continuity in allostatic resiliency.</article-title>
+<source>Soc Sci Med.</source>
+<year>2019</year>
+<month>Nov</month>
+<day>1</day>;<volume>241</volume>:<fpage>112564</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.socscimed.2019.112564</pub-id>
+<pub-id pub-id-type="pmid">31605950</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="journal"><name><surname>Hatzenbuehler</surname><given-names>ML</given-names></name>, <name><surname>Phelan</surname><given-names>JC</given-names></name>, <name><surname>Link</surname><given-names>BG</given-names></name>. <article-title>Stigma as a fundamental cause of population health inequalities.</article-title>
+<source>Am J Public Health</source>. <year>2013</year>
+<month>May</month>;<volume>103</volume>(<issue>5</issue>):<fpage>813</fpage>&#x2013;<lpage>21</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.2105/AJPH.2012.301069</pub-id>
+<pub-id pub-id-type="pmid">23488505</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Barrett</surname><given-names>R.</given-names></name>
+<article-title>Self-Mortification and the Stigma of Leprosy in Northern India.</article-title>
+<source>Med Anthropol Q.</source>
+<year>2005</year>
+<month>Jun</month>
+<day>1</day>;<volume>19</volume>(<issue>2</issue>):<fpage>216</fpage>&#x2013;<lpage>30</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1525/maq.2005.19.2.216</pub-id>
+<pub-id pub-id-type="pmid">15974328</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Goodyear</surname><given-names>T</given-names></name>, <name><surname>Brown</surname><given-names>H</given-names></name>, <name><surname>Browne</surname><given-names>AJ</given-names></name>, <name><surname>Hoong</surname><given-names>P</given-names></name>, <name><surname>Ti</surname><given-names>L</given-names></name>, <name><surname>Knight</surname><given-names>R</given-names></name>. <article-title>&#x201C;Stigma is where the harm comes from&#x201D;: Exploring expectations and lived experiences of hepatitis C virus post-treatment trajectories among people who inject drugs.</article-title>
+<source>Int J Drug Policy.</source>
+<year>2021</year>
+<month>Oct</month>
+<day>1</day>;<volume>96</volume>:<fpage>103238</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.drugpo.2021.103238</pub-id>
+<pub-id pub-id-type="pmid">33902968</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Thornicroft</surname><given-names>G</given-names></name>, <name><surname>Mehta</surname><given-names>N</given-names></name>, <name><surname>Clement</surname><given-names>S</given-names></name>, <name><surname>Evans-Lacko</surname><given-names>S</given-names></name>, <name><surname>Doherty</surname><given-names>M</given-names></name>, <name><surname>Rose</surname><given-names>D</given-names></name>, <etal>et al</etal>. <article-title>Evidence for effective interventions to reduce mental-health-related stigma and discrimination</article-title>. <source>Lancet</source>. <year>2016</year>;<volume>387</volume>(<issue>10023</issue>):<fpage>1123</fpage>&#x2013;<lpage>32</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(15)00298-6</pub-id>
+<pub-id pub-id-type="pmid">26410341</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Poku</surname><given-names>OB</given-names></name>, <name><surname>Eschliman</surname><given-names>EL</given-names></name>, <name><surname>Entaile</surname><given-names>P</given-names></name>, <name><surname>Rampa</surname><given-names>S</given-names></name>, <name><surname>Mehta</surname><given-names>H</given-names></name>, <name><surname>Tal</surname><given-names>D</given-names></name>, <etal>et al</etal>. <article-title>&#x201C;It&#x2019;s Better If I Die Because Even in the Hospital, There is a Stigma, People Still Gossip&#x201D;: Gossip as a Culturally Shaped Labeling Process and Its Implications for HIV-Related Stigma in Botswana.</article-title>
+<source>AIDS Behav</source>. <year>2023</year>
+<month>Jan</month>
+<day>17</day>;<volume>1</volume>:<fpage>1</fpage>&#x2013;<lpage>13</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10461-023-03980-x</pub-id>
+<pub-id pub-id-type="pmid">36646928</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="book"><name><surname>Rao</surname><given-names>D</given-names></name>, <name><surname>Elshafei</surname><given-names>A</given-names></name>, <name><surname>Nguyen</surname><given-names>M</given-names></name>, <name><surname>Hatzenbuehler</surname><given-names>ML</given-names></name>, <name><surname>Frey</surname><given-names>S</given-names></name>, <name><surname>Go</surname><given-names>VF</given-names></name>. <part-title>A systematic review of multi-level stigma interventions: State of the science and future directions.</part-title> Vol. <volume>17</volume>, <source>BMC Medicine</source>. <publisher-name>BioMed Central Ltd</publisher-name>.; <year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Nayar</surname><given-names>US</given-names></name>, <name><surname>Stangl</surname><given-names>AL</given-names></name>, <name><surname>De Zalduondo</surname><given-names>B</given-names></name>, <name><surname>Brady</surname><given-names>LM</given-names></name>. <article-title>Reducing Stigma and Discrimination to Improve Child Health and Survival in Low- and Middle-Income Countries: Promising Approaches and Implications for Future Research.</article-title>
+<source>J Health Commun.</source>
+<year>2014</year>
+<month>May</month>
+<day>6</day>;<volume>19</volume>(<issue>sup1</issue>):<fpage>142</fpage>&#x2013;<lpage>63</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/10810730.2014.930213</pub-id>
+<pub-id pub-id-type="pmid">25207451</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="journal"><name><surname>Necho</surname><given-names>M</given-names></name>, <name><surname>Tsehay</surname><given-names>M</given-names></name>, <name><surname>Zenebe</surname><given-names>Y</given-names></name>. <article-title>Suicidal ideation, attempt, and its associated factors among HIV/AIDS patients in Africa: a systematic review and meta-analysis study.</article-title>
+<source>Int J Ment Health Syst</source>. <year>2021</year>
+<month>Dec</month>
+<day>1</day>;<volume>15</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>16</lpage>.<pub-id pub-id-type="pmid">33407731</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="journal"><name><surname>Pescosolido</surname><given-names>BA</given-names></name>, <name><surname>Martin</surname><given-names>JK</given-names></name>. <article-title>The Stigma Complex.</article-title>
+<source>Annu Rev Sociol.</source>
+<year>2015</year>
+<month>Aug</month>
+<day>14</day>;<volume>41</volume>(<issue>1</issue>):<fpage>87</fpage>&#x2013;<lpage>116</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1146/annurev-soc-071312-145702</pub-id>
+<pub-id pub-id-type="pmid">26855471</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>Clay</surname><given-names>J</given-names></name>, <name><surname>Eaton</surname><given-names>J</given-names></name>, <name><surname>Gronholm</surname><given-names>PC</given-names></name>, <name><surname>Semrau</surname><given-names>M</given-names></name>, <name><surname>Votruba</surname><given-names>N</given-names></name>. <article-title>Core components of mental health stigma reduction interventions in low- and middle-income countries: a systematic review.</article-title>
+<source>Epidemiol Psychiatr Sci</source>. <year>2020</year>;<volume>29</volume>:<fpage>e164</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1017/S2045796020000797</pub-id>
+<pub-id pub-id-type="pmid">32883399</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="journal"><name><surname>Bos</surname><given-names>Pryor</given-names></name>, <name><surname>Reeder</surname><given-names>Stutterheim</given-names></name>. <article-title>Stigma: Advances in Theory and Research.</article-title>
+<source>Basic Appl Soc Psych.</source>
+<year>2013</year>;<volume>35</volume>(<issue>March</issue>):<fpage>1</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>Cross</surname><given-names>HA</given-names></name>, <name><surname>Heijnders</surname><given-names>M</given-names></name>, <name><surname>Dalal</surname><given-names>A</given-names></name>, <name><surname>Sermrittirong</surname><given-names>S</given-names></name>, <name><surname>Mak</surname><given-names>S</given-names></name>. <article-title>Interventions for stigma reduction-part 1: Theoretical considerations.</article-title> Vol. <volume>22</volume>, <source>Asia Pacific Disability Rehabilitation Journal</source>. <year>2011</year>. p. <fpage>62</fpage>&#x2013;<lpage>70</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><collab>Jorm</collab>. <article-title>Effect of Contact-Based Interventions on Stigma and Discrimination: A Critical Examination of the Evidence OPEN FORUM.</article-title>
+<source>Psychiatr Serv Adv</source>. <year>2020</year>;</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Kane</surname><given-names>JC</given-names></name>, <name><surname>Elafros</surname><given-names>MA</given-names></name>, <name><surname>Murray</surname><given-names>SM</given-names></name>, <name><surname>Mitchell</surname><given-names>EMH</given-names></name>, <name><surname>Augustinavicius</surname><given-names>JL</given-names></name>, <name><surname>Causevic</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>A scoping review of health-related stigma outcomes for high-burden diseases in low- and middle-income countries.</article-title> Vol. <volume>17</volume>, <source>BMC Medicine</source>. <year>2019</year>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12916-019-1250-8</pub-id>
+<pub-id pub-id-type="pmid">30764819</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Kieling</surname><given-names>C</given-names></name>, <name><surname>Baker-Henningham</surname><given-names>H</given-names></name>, <name><surname>Belfer</surname><given-names>M</given-names></name>, <name><surname>Conti</surname><given-names>G</given-names></name>, <name><surname>Ertem</surname><given-names>I</given-names></name>, <name><surname>Omigbodun</surname><given-names>O</given-names></name>, <etal>et al</etal>. <article-title>Child and adolescent mental health worldwide: Evidence for action.</article-title> Vol. <volume>378</volume>, <source>The Lancet</source>. <year>2011</year>. p. <fpage>1515</fpage>&#x2013;<lpage>25</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(11)60827-1</pub-id>
+<pub-id pub-id-type="pmid">22008427</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><collab>UNICEF, World Bank</collab>. <source>State of the World&#x2019;s Children (UNICEF 2021) combined with Country Classification (World Bank 2023)</source>. <year>2023</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="book"><name><surname>Smith</surname><given-names>MK</given-names></name>, <name><surname>Xu</surname><given-names>RH</given-names></name>, <name><surname>Hunt</surname><given-names>SL</given-names></name>, <name><surname>Wei</surname><given-names>C</given-names></name>, <name><surname>Tucker</surname><given-names>JD</given-names></name>, <name><surname>Tang</surname><given-names>W</given-names></name>, <etal>et al</etal>. <part-title>Combating HIV stigma in low- and middle-income healthcare settings: a scoping review.</part-title> Vol. <volume>23</volume>, <source>Journal of the International AIDS Society</source>. <publisher-name>John Wiley &amp; Sons, Ltd</publisher-name>; <year>2020</year>. p. <fpage>e25553</fpage>.<pub-id pub-id-type="pmid">32844580</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Mascayano</surname><given-names>F</given-names></name>, <name><surname>Toso-Salman</surname><given-names>J</given-names></name>, <name><surname>Ho</surname><given-names>YCS</given-names></name>, <name><surname>Dev</surname><given-names>S</given-names></name>, <name><surname>Tapia</surname><given-names>T</given-names></name>, <name><surname>Thornicroft</surname><given-names>G</given-names></name>, <etal>et al</etal>. <article-title>Including culture in programs to reduce stigma toward people with mental disorders in low- and middle-income countries.</article-title>
+<source>Transcult Psychiatry</source>. <year>2020</year>
+<month>Feb</month>
+<day>1</day>;<volume>57</volume>(<issue>1</issue>):<fpage>140</fpage>&#x2013;<lpage>60</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/1363461519890964</pub-id>
+<pub-id pub-id-type="pmid">31856688</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><name><surname>Osher</surname><given-names>D</given-names></name>, <name><surname>Cantor</surname><given-names>P</given-names></name>, <name><surname>Berg</surname><given-names>J</given-names></name>, <name><surname>Steyer</surname><given-names>L</given-names></name>, <name><surname>Rose</surname><given-names>T</given-names></name>. <article-title>Drivers of human development: How relationships and context shape learning and development.</article-title>
+<source>Appl Dev Sci</source>. <year>2020</year>
+<month>Jan</month>
+<day>2</day>;<volume>24</volume>(<issue>1</issue>):<fpage>6</fpage>&#x2013;<lpage>36</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="book"><name><surname>Jordans</surname><given-names>MJD</given-names></name>, <name><surname>Broek</surname><given-names>M Van Den</given-names></name>, <name><surname>Brown</surname><given-names>F</given-names></name>, <name><surname>Coetzee</surname><given-names>A</given-names></name>, <name><surname>Ellermeijer</surname><given-names>REC</given-names></name>, <name><surname>Hartog</surname><given-names>K</given-names></name>, <etal>et al</etal>. <part-title>Supporting Children Affected by War: Towards an Evidence Based Care Care System: Theory, Research and Clinical Practice.</part-title> In: <name><surname>Morina</surname><given-names>N</given-names></name>, <name><surname>Nickerson</surname><given-names>A</given-names></name>, editors. <source>Mental Health of Refugee and Conflict-Affected Populations</source>. <publisher-name>Springer Nature</publisher-name>
+<publisher-loc>Switzerland AG</publisher-loc>
+<year>2018</year>; 2018. p. <fpage>261</fpage>&#x2013;<lpage>81</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="book"><name><surname>Hartog</surname><given-names>K</given-names></name>, <name><surname>Hubbard</surname><given-names>CD</given-names></name>, <name><surname>Krouwer</surname><given-names>AF</given-names></name>, <name><surname>Thornicroft</surname><given-names>G</given-names></name>, <name><surname>Kohrt</surname><given-names>BA</given-names></name>, <name><surname>Jordans</surname><given-names>MJD</given-names></name>. <part-title>Stigma reduction interventions for children and adolescents in low- and middle-income countries: Systematic review of intervention strategies.</part-title> Vol. <volume>246</volume>, <source>Social Science and Medicine</source>. <publisher-name>Elsevier</publisher-name>
+<source>Ltd</source>; <year>2020</year>. p. <fpage>112749</fpage>.<pub-id pub-id-type="pmid">31978636</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Hartog</surname><given-names>K</given-names></name>, <name><surname>Peters</surname><given-names>RMH</given-names></name>, <name><surname>Jordans</surname><given-names>MJD</given-names></name>. <article-title>Understanding Stigmatisation: Results of a Qualitative Formative Study with Adolescents and Adults in DR Congo.</article-title>
+<source>Found Sci.</source>
+<year>2020</year>
+<month>Oct</month>
+<day>3</day>;<volume>27</volume>(<issue>2</issue>):<fpage>805</fpage>&#x2013;<lpage>28</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><name><surname>Ruzibiza</surname><given-names>Y.</given-names></name>
+<article-title>&#x2018;They are a shame to the community &#x2026; &#x2018; stigma, school attendance, solitude and resilience among pregnant teenagers and teenage mothers in Mahama refugee camp, Rwanda.</article-title>
+<source>Glob Public Health</source>. <year>2021</year>;<volume>16</volume>(<issue>5</issue>):<fpage>763</fpage>&#x2013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">32264792</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><name><surname>Betancourt</surname><given-names>TS</given-names></name>, <name><surname>Borisova</surname><given-names>I</given-names></name>, <name><surname>Williams</surname><given-names>TP</given-names></name>, <name><surname>Meyers-Ohki</surname><given-names>SE</given-names></name>, <name><surname>Rubin-Smith</surname><given-names>JE</given-names></name>, <name><surname>Annan</surname><given-names>J</given-names></name>, <etal>et al</etal>. <article-title>Research review: Psychosocial adjustment and mental health in former child soldiers&#x2014;A systematic review of the literature and recommendations for future research.</article-title> Vol. <volume>54</volume>, <source>Journal of Child Psychology and Psychiatry and Allied Disciplines</source>. <year>2013</year>. p. <fpage>17</fpage>&#x2013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">23061830</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><name><surname>De Groot</surname><given-names>T</given-names></name>, <name><surname>Peters</surname><given-names>R</given-names></name>, <name><surname>Van Brakel</surname><given-names>W</given-names></name>, <name><surname>Meurs</surname><given-names>P</given-names></name>, <name><surname>Jacquet</surname><given-names>W</given-names></name>. <article-title>The cultural validation of two scales assessing albinism-related social stigma among high school students in Tanzania.</article-title>
+<source>Disabil CBR Incl Dev</source>. <year>2019</year>;<volume>30</volume>(<issue>4</issue>):<fpage>11</fpage>&#x2013;<lpage>38</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="journal"><name><surname>SA</surname><given-names>L</given-names></name>, <name><surname>Maman</surname><given-names>S</given-names></name>, <name><surname>MacPhail</surname><given-names>C</given-names></name>, <name><surname>Twine</surname><given-names>R</given-names></name>, <name><surname>Peacock</surname><given-names>D</given-names></name>, <name><surname>Kahn</surname><given-names>K</given-names></name>, <etal>et al</etal>. <article-title>Conceptualizing community mobilization for HIV prevention: implications for HIV prevention programming in the African context.</article-title>
+<source>PLoS One</source>. <year>2013</year>;<volume>8</volume>(<issue>10</issue>):<fpage>e78208</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0078208</pub-id>
+<pub-id pub-id-type="pmid">24147121</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref048">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><name><surname>Stangl</surname><given-names>AL</given-names></name>, <name><surname>Earnshaw</surname><given-names>VA</given-names></name>, <name><surname>Logie</surname><given-names>CH</given-names></name>, <name><surname>van Brakel</surname><given-names>W</given-names></name>, <name><surname>Simbayi</surname><given-names>LC</given-names></name>, <name><surname>Barr&#xE9;</surname><given-names>I</given-names></name>, <etal>et al</etal>. <article-title>The Health Stigma and Discrimination Framework: a global, crosscutting framework to inform research, intervention development, and policy on health-related stigmas.</article-title>
+<source>BMC Med.</source>
+<year>2019</year>
+<month>Feb</month>;<volume>17</volume>(<issue>1</issue>):<fpage>31</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12916-019-1271-3</pub-id>
+<pub-id pub-id-type="pmid">30764826</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref049">
+        <label>49</label>
+        <mixed-citation publication-type="journal"><name><surname>Cross</surname><given-names>HA</given-names></name>, <name><surname>Heijnders</surname><given-names>M</given-names></name>, <name><surname>Dalal</surname><given-names>A</given-names></name>, <name><surname>Sermrittirong</surname><given-names>S</given-names></name>, <name><surname>Mak</surname><given-names>S</given-names></name>. <article-title>Interventions for stigma reduction-part 2: Practical applications.</article-title> Vol. <volume>22</volume>, <source>Asia Pacific Disability Rehabilitation Journal</source>. <year>2011</year>. p. <fpage>71</fpage>&#x2013;<lpage>80</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref050">
+        <label>50</label>
+        <mixed-citation publication-type="journal"><name><surname>Brakel</surname><given-names>V</given-names></name>, <name><surname>Cataldo</surname><given-names>J</given-names></name>, <name><surname>Grover</surname><given-names>S</given-names></name>, <name><surname>Kohrt</surname><given-names>BA</given-names></name>, <name><surname>Nyblade</surname><given-names>L</given-names></name>, <name><surname>Stockton</surname><given-names>M</given-names></name>, <etal>et al</etal>. <article-title>Out of the silos: Identifying cross-cutting features of health-related stigma to advance measurement and intervention.</article-title>
+<source>BMC Med.</source>
+<year>2019</year>;<volume>17</volume>(<issue>1</issue>). <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12916-018-1245-x</pub-id>
+<pub-id pub-id-type="pmid">30764817</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref051">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><name><surname>Brown</surname><given-names>L</given-names></name>, <name><surname>Macintyre</surname><given-names>K</given-names></name>, <name><surname>Trujillo</surname><given-names>L</given-names></name>. <part-title>Interventions to reduce HIV/AIDS stigma: What have we learned?</part-title> Vol. <volume>15</volume>, <source>AIDS Education and Prevention</source>. <year>2003</year>. p. <fpage>49</fpage>&#x2013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">12627743</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref052">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><name><surname>Nyblade</surname><given-names>L</given-names></name>, <name><surname>Mingkwan</surname><given-names>P</given-names></name>, <name><surname>Stockton</surname><given-names>MA</given-names></name>. <article-title>Stigma reduction: an essential ingredient to ending AIDS by 2030.</article-title>
+<source>Lancet HIV</source>. <year>2021</year>
+<month>Feb</month>
+<day>1</day>;<volume>8</volume>(<issue>2</issue>):<fpage>e106</fpage>&#x2013;<lpage>13</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(20)30309-X</pub-id>
+<pub-id pub-id-type="pmid">33539757</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref053">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><name><surname>Van&#x2019;T Noordende</surname><given-names>AT</given-names></name>, <name><surname>Kuipers</surname><given-names>P</given-names></name>, <name><surname>Pereira</surname><given-names>ZBDS</given-names></name>. <article-title>Strengthening personal and family resilience: a literature review for the leprosy context.</article-title>
+<source>Lepr Rev.</source>
+<year>2019</year>
+<month>Mar</month>
+<day>1</day>;<volume>90</volume>(<issue>1</issue>):<fpage>88</fpage>&#x2013;<lpage>104</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref054">
+        <label>54</label>
+        <mixed-citation publication-type="journal"><name><surname>Patel</surname><given-names>V</given-names></name>, <name><surname>Saxena</surname><given-names>S</given-names></name>, <name><surname>Lund</surname><given-names>C</given-names></name>, <name><surname>Thornicroft</surname><given-names>G</given-names></name>, <name><surname>Baingana</surname><given-names>F</given-names></name>, <name><surname>Bolton</surname><given-names>P</given-names></name>, <etal>et al</etal>. <article-title>The Lancet Commission on global mental health and sustainable development.</article-title> Vol. <volume>392</volume>, <source>The Lancet</source>. <year>2018</year>. p. <fpage>1553</fpage>&#x2013;<lpage>98</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S0140-6736(18)31612-X</pub-id>
+<pub-id pub-id-type="pmid">30314863</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref055">
+        <label>55</label>
+        <mixed-citation publication-type="journal"><name><surname>Chowdhary</surname><given-names>N</given-names></name>, <name><surname>Sikander</surname><given-names>S</given-names></name>, <name><surname>Atif</surname><given-names>N</given-names></name>, <name><surname>Singh</surname><given-names>N</given-names></name>, <name><surname>Ahmad</surname><given-names>I</given-names></name>, <name><surname>Fuhr</surname><given-names>DC</given-names></name>, <etal>et al</etal>. <article-title>The content and delivery of psychological interventions for perinatal depression by non-specialist health workers in low and middle income countries: A systematic review.</article-title>
+<source>Best Pract Res Clin Obstet Gynaecol.</source>
+<year>2014</year>
+<source>Jan 1</source>;<volume>28</volume>(<issue>1</issue>):<fpage>113</fpage>&#x2013;<lpage>33</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.bpobgyn.2013.08.013</pub-id>
+<pub-id pub-id-type="pmid">24054170</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref056">
+        <label>56</label>
+        <mixed-citation publication-type="journal"><name><surname>Weiner</surname><given-names>BJ</given-names></name>, <name><surname>Lewis</surname><given-names>CC</given-names></name>, <name><surname>Stanick</surname><given-names>C</given-names></name>, <name><surname>Powell</surname><given-names>BJ</given-names></name>, <name><surname>Dorsey</surname><given-names>CN</given-names></name>, <name><surname>Clary</surname><given-names>AS</given-names></name>, <etal>et al</etal>. <article-title>Psychometric assessment of three newly developed implementation outcome measures.</article-title>
+<source>Implement Sci.</source>
+<year>2017</year>
+<month>Aug</month>
+<day>29</day>;<volume>12</volume>(<issue>1</issue>):<fpage>108</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s13012-017-0635-3</pub-id>
+<pub-id pub-id-type="pmid">28851459</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref057">
+        <label>57</label>
+        <mixed-citation publication-type="journal"><name><surname>Zamboni</surname><given-names>K</given-names></name>, <name><surname>Schellenberg</surname><given-names>J</given-names></name>, <name><surname>Hanson</surname><given-names>C</given-names></name>, <name><surname>Betran</surname><given-names>AP</given-names></name>, <name><surname>Dumont</surname><given-names>A</given-names></name>. <article-title>Assessing scalability of an intervention: Why, how and who?</article-title>
+<source>Health Policy Plan</source>. <year>2019</year>;<volume>34</volume>(<issue>7</issue>):<fpage>544</fpage>&#x2013;<lpage>52</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1093/heapol/czz068</pub-id>
+<pub-id pub-id-type="pmid">31365066</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref058">
+        <label>58</label>
+        <mixed-citation publication-type="journal"><name><surname>Nyblade</surname><given-names>L</given-names></name>, <name><surname>Stockton</surname><given-names>MA</given-names></name>, <name><surname>Giger</surname><given-names>K</given-names></name>, <name><surname>Bond</surname><given-names>V</given-names></name>, <name><surname>Ekstrand</surname><given-names>ML</given-names></name>, <name><surname>Mc Lean</surname><given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Stigma in health facilities: why it matters and how we can change it.</article-title>
+<ext-link xlink:href="http://researchonline.lshtm.ac.uk" ext-link-type="uri">researchonline.lshtm.ac.uk</ext-link>. <year>2019</year>
+<month>Feb</month>
+<day>15</day>;<volume>17</volume>(<issue>1</issue>). <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12916-019-1256-2</pub-id>
+<pub-id pub-id-type="pmid">30764806</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref059">
+        <label>59</label>
+        <mixed-citation publication-type="journal"><name><surname>Rai</surname><given-names>SS</given-names></name>, <name><surname>Syurina E</surname><given-names>V</given-names></name>., <name><surname>Peters</surname><given-names>RMH</given-names></name>, <name><surname>Irwanto</surname><given-names>I</given-names></name>, <name><surname>Naniche</surname><given-names>D</given-names></name>, <name><surname>Zweekhorst</surname><given-names>MBM</given-names></name>. <article-title>Assessing the prospect of a common health-related stigma reduction response: Cross-perspectives of people living with stigmatised health conditions in Indonesia.</article-title>
+<source>Glob Public Health</source>. <year>2021</year>;<volume>16</volume>(<issue>12</issue>):<fpage>1856</fpage>&#x2013;<lpage>69</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/17441692.2020.1850834</pub-id>
+<pub-id pub-id-type="pmid">33253049</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref060">
+        <label>60</label>
+        <mixed-citation publication-type="journal"><name><surname>Bagci</surname><given-names>SC</given-names></name>, <name><surname>Blazhenkova</surname><given-names>O</given-names></name>. <article-title>Unjudge Someone: Human Library as a Tool to Reduce Prejudice toward Stigmatized Group Members.</article-title>
+<source>Basic Appl Soc Psych.</source>
+<year>2020</year>;<fpage>413</fpage>&#x2013;<lpage>31</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref061">
+        <label>61</label>
+        <mixed-citation publication-type="journal"><name><surname>Ungar</surname><given-names>T</given-names></name>, <name><surname>Knaak</surname><given-names>S</given-names></name>, <name><surname>Szeto</surname><given-names>ACH</given-names></name>. <article-title>Theoretical and Practical Considerations for Combating Mental Illness Stigma in Health Care.</article-title>
+<source>Community Ment Health J.</source>
+<year>2016</year>
+<month>Apr</month>
+<day>1</day>;<volume>52</volume>(<issue>3</issue>):<fpage>262</fpage>&#x2013;<lpage>71</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10597-015-9910-4</pub-id>
+<pub-id pub-id-type="pmid">26173403</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref062">
+        <label>62</label>
+        <mixed-citation publication-type="journal"><name><surname>Knaak</surname><given-names>S</given-names></name>, <name><surname>Modgill</surname><given-names>G</given-names></name>, <name><surname>Patten</surname><given-names>SB</given-names></name>. <article-title>Key ingredients of anti-stigma programs for health care providers: a data synthesis of evaluative studies</article-title>. <source>Can J Psychiatry</source>. <year>2014</year>;<volume>59</volume>(<issue>10</issue>):<fpage>S19</fpage>&#x2013;<lpage>26</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/070674371405901s06</pub-id>
+<pub-id pub-id-type="pmid">25565698</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref063">
+        <label>63</label>
+        <mixed-citation publication-type="journal"><name><surname>Ashton</surname><given-names>LJ</given-names></name>, <name><surname>Gordon</surname><given-names>SE</given-names></name>, <name><surname>Reeves</surname><given-names>RA</given-names></name>. <article-title>Key Ingredients&#x2014;Target Groups, Methods and Messages, and Evaluation&#x2014;of Local-Level, Public Interventions to Counter Stigma and Discrimination: A Lived Experience Informed Selective Narrative Literature Review.</article-title>
+<source>Community Ment Health J.</source>
+<year>2018</year>
+<month>Apr</month>
+<day>1</day>;<volume>54</volume>(<issue>3</issue>):<fpage>312</fpage>&#x2013;<lpage>33</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10597-017-0189-5</pub-id>
+<pub-id pub-id-type="pmid">29185150</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref064">
+        <label>64</label>
+        <mixed-citation publication-type="journal"><name><surname>Lusli</surname><given-names>M</given-names></name>, <name><surname>Peters</surname><given-names>R</given-names></name>, <name><surname>Bunders</surname><given-names>J</given-names></name>, <name><surname>Irwanto</surname><given-names>I</given-names></name>, <name><surname>Zweekhorst</surname><given-names>M</given-names></name>. <article-title>Development of a rights-based counselling practice and module to reduce leprosy-related stigma and empower people affected by leprosy in Cirebon District, Indonesia.</article-title>
+<source>Lepr Rev.</source>
+<year>2017</year>
+<month>Sep</month>
+<day>1</day>;<volume>88</volume>(<issue>3</issue>):<fpage>318</fpage>&#x2013;<lpage>33</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref065">
+        <label>65</label>
+        <mixed-citation publication-type="journal"><name><surname>Ma</surname><given-names>H</given-names></name>, <name><surname>Loke</surname><given-names>AY</given-names></name>. <article-title>A Scoping Review of an HIV/AIDS-Related Stigma-Reduction Intervention for Professionals and Students from Health-Related Disciplines.</article-title>
+<source>Int J Sex Heal.</source>
+<year>2020</year>
+<month>Apr</month>
+<day>2</day>;<volume>32</volume>(<issue>2</issue>):<fpage>94</fpage>&#x2013;<lpage>129</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref066">
+        <label>66</label>
+        <mixed-citation publication-type="journal"><name><surname>Alonso</surname><given-names>M</given-names></name>, <name><surname>Guill&#xE9;n</surname><given-names>AI</given-names></name>, <name><surname>Mun&#xF5;z</surname><given-names>M</given-names></name>. <article-title>Interventions to Reduce Internalized Stigma in individuals with Mental Illness: A Systematic Review.</article-title>
+<source>Span J Psychol.</source>
+<year>2019</year>;<fpage>22</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1017/sjp.2019.9</pub-id>
+<pub-id pub-id-type="pmid">31084665</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref067">
+        <label>67</label>
+        <mixed-citation publication-type="journal"><name><surname>Clement</surname><given-names>S</given-names></name>, <name><surname>Lassman</surname><given-names>F</given-names></name>, <name><surname>Barley</surname><given-names>E</given-names></name>, <name><surname>Evans-Lacko</surname><given-names>S</given-names></name>, <name><surname>Williams</surname><given-names>P</given-names></name>, <name><surname>Yamaguchi</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Mass media interventions for reducing mental health-related stigma.</article-title>
+<source>Cochrane database Syst Rev.</source>
+<year>2013</year>;<volume>7</volume>(<issue>7</issue>):CD009453. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/14651858.CD009453.pub2</pub-id>
+<pub-id pub-id-type="pmid">23881731</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref068">
+        <label>68</label>
+        <mixed-citation publication-type="journal"><name><surname>Turan</surname><given-names>JM</given-names></name>, <name><surname>Elafros</surname><given-names>MA</given-names></name>, <name><surname>Logie</surname><given-names>CH</given-names></name>, <name><surname>Banik</surname><given-names>S</given-names></name>, <name><surname>Turan</surname><given-names>B</given-names></name>, <name><surname>Crockett</surname><given-names>KB</given-names></name>, <etal>et al</etal>. <article-title>Challenges and opportunities in examining and addressing intersectional stigma and health.</article-title>
+<source>BMC Med.</source>
+<year>2019</year>
+<month>Feb</month>
+<day>15</day>;<volume>17</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">30651111</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref069">
+        <label>69</label>
+        <mixed-citation publication-type="book"><name><surname>Jackson-Best</surname><given-names>F</given-names></name>, <name><surname>Edwards</surname><given-names>N</given-names></name>. <source>Stigma and intersectionality: A systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability.</source> Vol. <volume>18</volume>, <publisher-name>BMC Public Health. BioMed Central</publisher-name>; <year>2018</year>. p. <fpage>1</fpage>&#x2013;<lpage>19</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref070">
+        <label>70</label>
+        <mixed-citation publication-type="journal"><name><surname>Ghasemi</surname><given-names>E</given-names></name>, <name><surname>Majdzadeh</surname><given-names>R</given-names></name>, <name><surname>Rajabi</surname><given-names>F</given-names></name>, <name><surname>Vedadhir</surname><given-names>AA</given-names></name>, <name><surname>Negarandeh</surname><given-names>R</given-names></name>, <name><surname>Jamshidi</surname><given-names>E</given-names></name>, <etal>et al</etal>. <article-title>Applying Intersectionality in designing and implementing health interventions: A scoping review.</article-title>
+<source>BMC Public Health.</source>
+<year>2021</year>
+<month>Jul</month>
+<day>16</day>;<volume>21</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">33388037</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref071">
+        <label>71</label>
+        <mixed-citation publication-type="journal"><name><surname>Rai</surname><given-names>S</given-names></name>, <name><surname>Gurung</surname><given-names>D</given-names></name>, <name><surname>Kaiser</surname><given-names>BN</given-names></name>, <name><surname>Sikkema</surname><given-names>KJ</given-names></name>, <name><surname>Dhakal</surname><given-names>M</given-names></name>, <name><surname>Bhardwaj</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>A service user co-facilitated intervention to reduce mental illness stigma among primary healthcare workers: Utilizing perspectives of family members and caregivers.</article-title>
+<source>Fam Syst Health</source>. <year>2018</year>;<volume>36</volume>(<issue>2</issue>):<fpage>198</fpage>&#x2013;<lpage>209</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1037/fsh0000338</pub-id>
+<pub-id pub-id-type="pmid">29902036</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref072">
+        <label>72</label>
+        <mixed-citation publication-type="journal"><name><surname>Apinundecha</surname><given-names>C</given-names></name>, <name><surname>Laohasiriwong</surname><given-names>W</given-names></name>, <name><surname>Cameron</surname><given-names>MP</given-names></name>, <name><surname>Lim</surname><given-names>S</given-names></name>. <article-title>A community participation intervention to reduce HIV/AIDS stigma, Nakhon Ratchasima province, northeast Thailand.</article-title>
+<source>Aids Care-Psychological Socio-Medical Asp Aids/hiv.</source>
+<year>2007</year>
+<month>Oct</month>;<volume>19</volume>(<issue>9</issue>):<fpage>1157</fpage>&#x2013;<lpage>65</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/09540120701335204</pub-id>
+<pub-id pub-id-type="pmid">18058400</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref073">
+        <label>73</label>
+        <mixed-citation publication-type="journal"><name><surname>Chidrawi</surname><given-names>HC</given-names></name>, <name><surname>Greeff</surname><given-names>M</given-names></name>, <name><surname>Temane</surname><given-names>QM</given-names></name>. <article-title>Health behaviour change of people living with HIV after a comprehensive community-based HIV stigma reduction intervention in North-West Province in South Africa</article-title>. <source>Sahara J</source>. <year>2014</year>;<volume>11</volume>(<issue>1</issue>):<fpage>222</fpage>&#x2013;<lpage>32</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/17290376.2014.985700</pub-id>
+<pub-id pub-id-type="pmid">25495580</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref074">
+        <label>74</label>
+        <mixed-citation publication-type="book"><name><surname>Andersson</surname><given-names>GZ</given-names></name>, <name><surname>Reinius</surname><given-names>M</given-names></name>, <name><surname>Eriksson</surname><given-names>LE</given-names></name>, <name><surname>Svedhem</surname><given-names>V</given-names></name>, <name><surname>Esfahani</surname><given-names>FM</given-names></name>, <name><surname>Deuba</surname><given-names>K</given-names></name>, <etal>et al</etal>. <part-title>Stigma reduction interventions in people living with HIV to improve health-related quality of life.</part-title> Vol. <volume>7</volume>, <source>The Lancet HIV</source>. <publisher-name>Elsevier Ltd</publisher-name>; <year>2020</year>. p. <fpage>e129</fpage>&#x2013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">31776098</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref075">
+        <label>75</label>
+        <mixed-citation publication-type="book"><name><surname>Haldane</surname><given-names>V</given-names></name>, <name><surname>Chuah</surname><given-names>FLH</given-names></name>, <name><surname>Srivastava</surname><given-names>A</given-names></name>, <name><surname>Singh</surname><given-names>SR</given-names></name>, <name><surname>Koh</surname><given-names>GCH</given-names></name>, <name><surname>Seng</surname><given-names>CK</given-names></name>, <etal>et al</etal>. <part-title>Community participation in health services development, implementation, and evaluation: A systematic review of empowerment, health, community, and process outcomes.</part-title> Vol. <volume>14</volume>, <source>PLoS ONE</source>. <publisher-name>Public Library of Science</publisher-name>; <year>2019</year>. p. <fpage>e0216112</fpage>.<pub-id pub-id-type="pmid">31075120</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref076">
+        <label>76</label>
+        <mixed-citation publication-type="journal"><name><surname>Aga</surname><given-names>DA</given-names></name>, <name><surname>Noorderhaven</surname><given-names>N</given-names></name>, <name><surname>Vallejo</surname><given-names>B</given-names></name>. <article-title>Project beneficiary participation and behavioural intentions promoting project sustainability: The mediating role of psychological ownership.</article-title>
+<source>Dev Policy Rev</source>. <year>2018</year>;<volume>36</volume>(<issue>5</issue>):<fpage>527</fpage>&#x2013;<lpage>46</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref077">
+        <label>77</label>
+        <mixed-citation publication-type="journal"><name><surname>Gronholm</surname><given-names>PC</given-names></name>, <name><surname>Henderson</surname><given-names>C</given-names></name>, <name><surname>Deb</surname><given-names>T</given-names></name>, <name><surname>Thornicroft</surname><given-names>G</given-names></name>. <article-title>Interventions to reduce discrimination and stigma: the state of the art.</article-title>
+<source>Soc Psychiatry Psychiatr Epidemiol.</source>
+<year>2017</year>;</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref078">
+        <label>78</label>
+        <mixed-citation publication-type="journal"><name><surname>Sengupta</surname><given-names>S</given-names></name>, <name><surname>Banks</surname><given-names>B</given-names></name>, <name><surname>Jonas</surname><given-names>D</given-names></name>, <name><surname>Miles</surname><given-names>MS</given-names></name>, <name><surname>Smith</surname><given-names>GC</given-names></name>. <article-title>HIV interventions to reduce HIV/AIDS stigma: A systematic review.</article-title> Vol. <source>15, AIDS and Behavior.</source>
+<year>2011</year>. p. <fpage>1075</fpage>&#x2013;<lpage>87</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10461-010-9847-0</pub-id>
+<pub-id pub-id-type="pmid">21088989</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref079">
+        <label>79</label>
+        <mixed-citation publication-type="journal"><name><surname>Casey</surname><given-names>K.</given-names></name>
+<article-title>Radical Decentralization: Does Community-Driven Development Work?</article-title> Vol. <volume>10</volume>, <source>Annual Review of Economics. Annual Reviews</source>; <year>2018</year>. p. <fpage>139</fpage>&#x2013;<lpage>63</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref080">
+        <label>80</label>
+        <mixed-citation publication-type="journal"><name><surname>Adu</surname><given-names>J</given-names></name>, <name><surname>Oudshoorn</surname><given-names>A</given-names></name>, <name><surname>Anderson</surname><given-names>K</given-names></name>, <name><surname>Marshall</surname><given-names>CA</given-names></name>, <name><surname>Stuart</surname><given-names>H</given-names></name>. <article-title>Social Contact: Next Steps in an Effective Strategy to Mitigate the Stigma of Mental Illness.</article-title>
+<source>Issues Ment Health Nurs.</source>
+<year>2022</year>;<volume>43</volume>(<issue>5</issue>):<fpage>485</fpage>&#x2013;<lpage>8</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/01612840.2021.1986757</pub-id>
+<pub-id pub-id-type="pmid">34652979</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref081">
+        <label>81</label>
+        <mixed-citation publication-type="journal"><name><surname>Evans-Lacko</surname><given-names>S</given-names></name>, <name><surname>London</surname><given-names>J</given-names></name>, <name><surname>Japhet</surname><given-names>S</given-names></name>, <name><surname>R&#xFC;sch</surname><given-names>N</given-names></name>, <name><surname>Flach</surname><given-names>C</given-names></name>, <name><surname>Corker</surname><given-names>E</given-names></name>, <etal>et al</etal>. <article-title>Mass social contact interventions and their effect on mental health related stigma and intended discrimination.</article-title>
+<source>BMC Public Health.</source>
+<year>2012</year>
+<month>Jun</month>
+<day>28</day>;<volume>12</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>8</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/1471-2458-12-489</pub-id>
+<pub-id pub-id-type="pmid">22214479</pub-id></mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref082">
+        <label>82</label>
+        <mixed-citation publication-type="book"><name><surname>Kemp</surname><given-names>CG</given-names></name>, <name><surname>Jarrett</surname><given-names>BA</given-names></name>, <name><surname>Kwon</surname><given-names>CS</given-names></name>, <name><surname>Song</surname><given-names>L</given-names></name>, <name><surname>Jett&#xE9;</surname><given-names>N</given-names></name>, <name><surname>Sapag</surname><given-names>JC</given-names></name>, <etal>et al</etal>. <part-title>Implementation science and stigma reduction interventions in low- and middle-income countries: A systematic review.</part-title> Vol. <volume>17</volume>, <source>BMC Medicine</source>. <publisher-name>BioMed Central Ltd</publisher-name>.; <year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref083">
+        <label>83</label>
+        <mixed-citation publication-type="journal"><collab>Richman, Smart, Hatzenbuehler.</collab>
+<article-title>A Multilevel Analysis of Stigma and Health: Implications for Research and Policy.</article-title>
+<source>Policy Insights from Behav Brain Sci</source>. <year>2014</year>;<volume>1</volume>(<issue>1</issue>):<fpage>213</fpage>&#x2013;<lpage>21</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pone.0292064.ref084">
+        <label>84</label>
+        <mixed-citation publication-type="journal"><name><surname>Heijnders</surname><given-names>M</given-names></name>, <name><surname>Van Der Meij</surname><given-names>S</given-names></name>. <article-title>The fight against stigma: an overview of stigma-reduction strategies and interventions.</article-title> Vol. <source>11, Psychology, health &amp; medicine.</source>
+<year>2006</year>. p. <fpage>353</fpage>&#x2013;<lpage>63</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/13548500600595327</pub-id>
+<pub-id pub-id-type="pmid">17130071</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

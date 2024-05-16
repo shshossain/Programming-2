@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+  <?properties manuscript?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">101673746</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">44718</journal-id>
+      <journal-id journal-id-type="nlm-ta">Stigma Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Stigma Health</journal-id>
+      <journal-title-group>
+        <journal-title>Stigma and health</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">2376-6972</issn>
+      <issn pub-type="epub">2376-6964</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">38292669</article-id>
+      <article-id pub-id-type="pmc">10824403</article-id>
+      <article-id pub-id-type="doi">10.1037/sah0000299</article-id>
+      <article-id pub-id-type="manuscript">NIHMS1733684</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>HIV-related Stigma and Discrimination in Health Care and Health-related Quality of Life among People Living with HIV in England and Wales: A Latent Class Analysis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wiginton</surname>
+            <given-names>John Mark</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Murray</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kall</surname>
+            <given-names>Meaghan</given-names>
+          </name>
+          <xref rid="A3" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Maksut</surname>
+            <given-names>Jessica L</given-names>
+          </name>
+          <xref rid="A4" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Augustinavicius</surname>
+            <given-names>Jura</given-names>
+          </name>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Delpech</surname>
+            <given-names>Valerie</given-names>
+          </name>
+          <xref rid="A3" ref-type="aff">3</xref>
+          <xref rid="FN1" ref-type="author-notes">**</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Baral</surname>
+            <given-names>Stefan D</given-names>
+          </name>
+          <xref rid="A4" ref-type="aff">4</xref>
+          <xref rid="FN1" ref-type="author-notes">**</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><label>1</label>Department of Health, Behavior &amp; Society, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA</aff>
+      <aff id="A2"><label>2</label>Department of Mental Health, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA</aff>
+      <aff id="A3"><label>3</label>HIV/STI Department, National Infection Service, Public Health England, London, UK</aff>
+      <aff id="A4"><label>4</label>Center for Public Health and Human Rights, Department of Epidemiology, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA</aff>
+      <author-notes>
+        <fn id="FN1">
+          <label>**</label>
+          <p id="P1">Joint senior authors</p>
+        </fn>
+        <corresp id="CR1">Correspondence concerning this article should be addressed to John Mark Wiginton, Department of Health, Behavior &amp; Society, Johns Hopkins University Bloomberg School of Public Health, 624 N Broadway St., Baltimore, MD 21205, United States. <email>jwigint2@jhmi.edu</email></corresp>
+        <fn fn-type="COI-statement" id="FN2">
+          <p id="P33">The authors have no conflicts of interest to report.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>27</day>
+        <month>8</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>11</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>01</day>
+        <month>11</month>
+        <year>2024</year>
+      </pub-date>
+      <volume>8</volume>
+      <issue>4</issue>
+      <fpage>487</fpage>
+      <lpage>496</lpage>
+      <abstract id="ABS1">
+        <p id="P2">Though life expectancy of people living with HIV (PLHIV) is now comparable to that of HIV-negative persons, their health-related quality of life (HRQoL) lags behind. Lower HRQoL among PLHIV may vary meaningfully, shaped in part by social factors, including stigma. Using data from Positive Voices, a national cross-sectional probability survey of adults &#x2265; 18 years living with HIV and accessing HIV care services in England and Wales (<italic toggle="yes">N</italic> = 4,422), we conducted latent class analysis on responses to a HRQoL measure (problems with mobility, usual activities, self-care, pain/discomfort, anxiety/depression) to identify HRQoL patterns, followed by multinomial logistic regression to examine relationships between HRQoL classes and a 4-item measure of HIV-related stigma and discrimination in health care. Four classes emerged: All Problems (18% prevalence); Pain and Distress (18%); Pain and Mobility (9%); No Problems (55%). Scale scores of HIV-related stigma and discrimination in health care were positively, significantly associated with membership in the All Problems (adjusted odds ratio [<italic toggle="yes">aOR</italic>] = 2.05; 95% confidence interval [<italic toggle="yes">CI</italic>] = 1.85, 2.28), Pain and Distress (<italic toggle="yes">aOR</italic> = 1.56; <italic toggle="yes">CI</italic> = 1.41, 1.73), and Pain and Mobility classes (<italic toggle="yes">aOR</italic> = 1.33; <italic toggle="yes">CI</italic> = 1.16, 1.52) compared to the No Problems class. A similar trend was observed for individual stigma and discrimination items. HRQoL among PLHIV in England and Wales varies and may be underpinned or exacerbated by HIV-related stigma and discrimination in health care. Ensuring stigma-mitigation interventions reach all health care systems/providers and emotional support services reach all PLHIV may improve HRQoL for PLHIV.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>health-related quality of life</kwd>
+        <kwd>people living with HIV</kwd>
+        <kwd>stigma</kwd>
+        <kwd>latent class analysis</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+</article>
+</pmc-articleset>

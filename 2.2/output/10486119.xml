@@ -1,0 +1,2200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Pregnancy Childbirth</journal-id>
+      <journal-id journal-id-type="iso-abbrev">BMC Pregnancy Childbirth</journal-id>
+      <journal-title-group>
+        <journal-title>BMC Pregnancy and Childbirth</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1471-2393</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">37679674</article-id>
+      <article-id pub-id-type="pmc">10486119</article-id>
+      <article-id pub-id-type="publisher-id">5902</article-id>
+      <article-id pub-id-type="doi">10.1186/s12884-023-05902-0</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Typologies of interactions between abortion seekers and healthcare workers in Australia: a qualitative study exploring the impact of stigma on quality of care</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Makleff</surname>
+            <given-names>Shelly</given-names>
+          </name>
+          <address>
+            <email>shelly.makleff@monash.edu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Belfrage</surname>
+            <given-names>Madeleine</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wickramasinghe</surname>
+            <given-names>Sethini</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fisher</surname>
+            <given-names>Jane</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bateson</surname>
+            <given-names>Deborah</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Black</surname>
+            <given-names>Kirsten I.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/02bfwt286</institution-id><institution-id institution-id-type="GRID">grid.1002.3</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7857</institution-id><institution>Global and Women&#x2019;s Health, School of Public Health and Preventive Medicine, </institution><institution>Monash University, </institution></institution-wrap>Level 4, 553 St Kilda Rd, Melbourne, VIC 3004 Australia </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/00rqy9422</institution-id><institution-id institution-id-type="GRID">grid.1003.2</institution-id><institution-id institution-id-type="ISNI">0000 0000 9320 7537</institution-id><institution>School of Social Science, </institution><institution>The University of Queensland, </institution></institution-wrap>Forgan Smith Building, St Lucia, Brisbane, QLD 4072 Australia </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/0384j8v12</institution-id><institution-id institution-id-type="GRID">grid.1013.3</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 834X</institution-id><institution>Faculty of Medicine and Health, </institution><institution>The University of Sydney, </institution></institution-wrap>Science Road, Camperdown, Sydney, NSW 2050 Australia </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>7</day>
+        <month>9</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>7</day>
+        <month>9</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>23</volume>
+      <elocation-id>646</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>4</day>
+          <month>5</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>6</day>
+          <month>8</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2023</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article&#x2019;s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article&#x2019;s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Abortion stigma involves the stereotyping of, discrimination against, and delegitimization of those who seek and provide abortion. Experiences of abortion care are shaped by stigma at the meso (e.g., lack of local providers) and macro (e.g., abortion regulations) levels. Yet abortion stigma and quality of care are often examined separately. This study sought to articulate the impact of abortion stigma on quality of care in the context of healthcare interactions. It did so by characterizing the features of stigmatizing and non-stigmatizing care in the context of macro-level stigma and other structural factors that influence abortion-seeking experiences, including the coronavirus pandemic&#x2019;s influence on the health system.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">This qualitative study comprised in-depth interviews with people who sought abortion across Australia between March 2020 and November 2022, recruited through social media and flyers in clinics. Thematic analysis drew on concepts of micro, meso, and macro stigma and person-centered care. We developed typologies of the interactions between abortion seekers and healthcare workers by analytically grouping together negative and positive experiences to characterize features of stigmatizing and and non-stigmatizing care in the context of macro-level influences.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p id="Par3">We interviewed 24 abortion seekers and developed five typologies of stigmatizing care: creating barriers; judging; ignoring emotional and information needs; making assumptions; and minimizing interactions. There are five corresponding positive typologies. Macro-level factors, from abortion regulations to rural and pandemic-related health system pressures, contributed to poor experiences in care.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p id="Par4">The positive experiences in this study illustrate how a lack of stigma enables patient-centered care. The negative experiences reflect the interrelationship between stigmatizing beliefs among healthcare workers, macro-level (policy and regulatory) abortion stigma, and structural health service limitations exacerbated during the pandemic. Interventions are needed to reduce stigmatizing interactions between abortion seekers and healthcare workers, and should also consider macro-level factors that influence the behaviors of healthcare workers and experiences of abortion seekers. Without addressing stigma at multiple levels, equitable access to high-quality abortion care will be difficult to achieve. Efforts to integrate stigma reduction into quality improvement have relevance for maternal and reproductive health services globally.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Abortion</kwd>
+        <kwd>Stigma</kwd>
+        <kwd>Quality of care</kwd>
+        <kwd>Lived experience</kwd>
+        <kwd>Qualitative research</kwd>
+        <kwd>Australia</kwd>
+        <kwd>Structural stigma</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>SPHERE Centre for Research Excellence in Sexual and Reproductive Health for Women in Primary Care</institution>
+          </funding-source>
+          <award-id>Seeding Grant</award-id>
+          <award-id>Seeding Grant</award-id>
+          <award-id>Seeding Grant</award-id>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par7">Stigma is &#x201C;the co-occurrence of labeling, stereotyping, separation, status loss, and discrimination in a context in which power is exercised&#x201D; [<xref ref-type="bibr" rid="CR1">1</xref>]. It is a well-documented barrier to the delivery of high-quality, equitable care for a range of health conditions and services, with health, economic, social, and psychological harms [<xref ref-type="bibr" rid="CR1">1</xref>, <xref ref-type="bibr" rid="CR2">2</xref>]. The elimination of stigma and discrimination in healthcare can be described as &#x201C;a public health imperative&#x201D; in line with human rights commitments and initiatives [<xref ref-type="bibr" rid="CR3">3</xref>].</p>
+      <p id="Par8">Abortion is a common and necessary part of reproductive healthcare, with an estimated 61% of unintended pregnancies globally ending in abortion, translating to 73.3&#xA0;million abortions per year [<xref ref-type="bibr" rid="CR4">4</xref>]. Despite this, abortion is stigmatized across the globe, reflecting unequal power relations [<xref ref-type="bibr" rid="CR5">5</xref>] and gendered social norms that control female sexuality and bodies and idealize motherhood [<xref ref-type="bibr" rid="CR6">6</xref>].</p>
+      <p id="Par9">Abortion stigma has been defined as &#x201C;a shared understanding that abortion is morally wrong and/or socially unacceptable&#x201D; [<xref ref-type="bibr" rid="CR7">7</xref>]. It discredits and delegitimizes abortion healthcare and those who seek and provide it, and in doing so limits access to abortion services [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>]. Across contexts, abortion seekers lack trusted information sources about abortions and keep their decision a secret to limit judgement or rejection [<xref ref-type="bibr" rid="CR8">8</xref>&#x2013;<xref ref-type="bibr" rid="CR10">10</xref>]. Healthcare providers too are often stigmatized or marginalized for their involvement in abortion care [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR11">11</xref>].</p>
+      <p id="Par10">Rather than conceptualizing abortion stigma &#x201C;as a set of values, beliefs and judgements that flow from stigmatizers to the stigmatized&#x201D; at solely an individual level, we understand it as a social process that reproduces unequal power relations [<xref ref-type="bibr" rid="CR5">5</xref>]. Stigma is increasingly described as intersectional &#x2013; interacting with and reinforcing other systems of oppression, such as racism, ablism, and sexual orientation and gender discrimination, which also create barriers to healthcare access [<xref ref-type="bibr" rid="CR12">12</xref>&#x2013;<xref ref-type="bibr" rid="CR14">14</xref>]. Abortion stigma operates at interconnected levels: individual, community, institutional, law and policy, and media [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR7">7</xref>], which can be organized into three categories: micro, consisting of individual experiences and interactions with peers and family; meso, comprising community norms, community groups, and local healthcare providers and facilities; and macro, including legal frameworks and economic, political, and health systems [<xref ref-type="bibr" rid="CR13">13</xref>]. Individual (micro) experiences of abortion are shaped by abortion stigma at the meso (e.g. clinic/hospital policies restricting abortion provision, refusal of local healthcare staff to provide, or community opposition) and macro (e.g. conscientious objection laws or policies limiting access beyond defined gestational age limits) levels [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+      <p id="Par11">In the context of abortion seeking, stigma can be enacted in interactions with providers, pharmacists, or other personnel encountered on pathways to abortion care such as medical receptionists and security or cleaning staff (hereafter referred to collectively as &#x2018;healthcare workers&#x2019;). Enacted abortion stigma can be defined as &#x2018;actual discriminatory behaviors or negative interactions related to abortion experience&#x2019; [<xref ref-type="bibr" rid="CR7">7</xref>]. Abortion seekers around the world commonly anticipate judgement or mistreatment in the health system, and healthcare workers sometimes mistreat abortion seekers or delay their access to services [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR16">16</xref>&#x2013;<xref ref-type="bibr" rid="CR18">18</xref>]. Interactions with healthcare providers are among the most important factors influencing quality of care from the perspective of abortion seekers [<xref ref-type="bibr" rid="CR19">19</xref>&#x2013;<xref ref-type="bibr" rid="CR21">21</xref>], as in maternity [<xref ref-type="bibr" rid="CR22">22</xref>, <xref ref-type="bibr" rid="CR23">23</xref>] and HIV care [<xref ref-type="bibr" rid="CR24">24</xref>]. Interpersonal interactions on the pathway to abortion care are at the intersection of stigma and quality of care and should be better theorized and understood.</p>
+      <p id="Par12">While abortion stigma and abortion quality of care are often examined separately, they are interrelated. A 2022 scoping review by Sorhaindo and Lavelanet examined 50 studies, concluding that stigma is &#x201C;a significant moderator of quality in abortion care&#x201D; and identifying seven main ways in which abortion stigma inhibits quality of care [<xref ref-type="bibr" rid="CR9">9</xref>]. These are poor treatment of abortion seekers; obstruction of access to care; secrecy on the part of abortion providers and seekers; unnecessary and arduous requirements for those seeking and providing care; poor infrastructure and limited resources; punishment of and threats towards both abortion seekers and providers; and a lack of designated spaces for abortion services to be provided. Sorhaindo and Lavelanet&#x2019;s review [<xref ref-type="bibr" rid="CR9">9</xref>] drew on previous efforts by the International Network for the Reduction of Abortion Discrimination and Stigma (Inroads) to integrate an abortion stigma lens to the World Health Organization (WHO) quality of care framework [<xref ref-type="bibr" rid="CR25">25</xref>]. By interviewing abortion seekers in the permissive legal context of Australia [<xref ref-type="bibr" rid="CR26">26</xref>], our study seeks to build on these emerging efforts by theorizing the link between abortion quality of care and stigma.</p>
+      <p id="Par13">The aim of this study was to better articulate the impact of abortion stigma on quality of care in the context of healthcare interactions. We addressed this aim by [<xref ref-type="bibr" rid="CR1">1</xref>] developing typologies of the interactions between abortion seekers and healthcare workers to characterize features of stigmatizing and non-stigmatizing care, and [<xref ref-type="bibr" rid="CR2">2</xref>] identifying the influence of macro-level abortion stigma and other structural factors influencing the health system, including the coronavirus pandemic, on interactions and experiences during abortion seeking.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Methods</title>
+      <sec id="Sec3">
+        <title>Study setting</title>
+        <p id="Par14">Between 2002 and 2021, all states and territories in Australia fully or partially decriminalized abortion [<xref ref-type="bibr" rid="CR26">26</xref>]. Medication abortion is available until 63 days gestational age [<xref ref-type="bibr" rid="CR27">27</xref>], while surgical abortion without restriction is available until 14 to 24 weeks, varying by state and territory [<xref ref-type="bibr" rid="CR26">26</xref>]. Beyond this limit, some jurisdictions require approval of additional providers [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR28">28</xref>&#x2013;<xref ref-type="bibr" rid="CR30">30</xref>]. Accessibility of abortion in Australia varies by location, social circumstances, and economic resources, with amplified barriers in rural and regional areas, among migrant and refugee communities, and for those not covered by national universal healthcare (Medicare) [<xref ref-type="bibr" rid="CR31">31</xref>, <xref ref-type="bibr" rid="CR32">32</xref>]. There is an overreliance on privatized abortion care, with the service mainly provided outside the public system [<xref ref-type="bibr" rid="CR26">26</xref>]. Abortion access is additionally shaped by structural factors hindering the functioning of the Australian health system, such as the limited capacity of rural health services and, more recently, the COVID-19 pandemic [<xref ref-type="bibr" rid="CR15">15</xref>, <xref ref-type="bibr" rid="CR33">33</xref>]. Despite these barriers, abortion is a common and safe healthcare service in Australia [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>]. Drawing on a patchwork of data sources that potentially include dilation and curettage procedures for miscarriage or other gynecological conditions [<xref ref-type="bibr" rid="CR36">36</xref>], the most recent estimate finds 17.3 abortion procedures per 1000 women of reproductive age annually [<xref ref-type="bibr" rid="CR36">36</xref>]. This equates to 88,287 abortions per year, or roughly one in three women having an abortion in their lifetime [<xref ref-type="bibr" rid="CR36">36</xref>].</p>
+        <p id="Par15">Yet abortion in Australia remains subject to scrutiny, restrictions, and stigma [<xref ref-type="bibr" rid="CR26">26</xref>]. Conscientious objection on religious, moral or personal grounds is a right for pharmacists and medical providers [<xref ref-type="bibr" rid="CR37">37</xref>], with an estimated 14% of obstetricians and gynecologists having beliefs opposed to providing abortion [<xref ref-type="bibr" rid="CR38">38</xref>]. Some providers support only some reasons for choosing an abortion &#x2013; for example, reporting they are not comfortable with abortion for &#x201C;social&#x201D; or economic reasons [<xref ref-type="bibr" rid="CR38">38</xref>]. Only 7% of GPs were registered as prescribers of medication abortion in 2021, despite broad eligibility [<xref ref-type="bibr" rid="CR39">39</xref>]. Providers are hesitant to provide abortion care, may keep their abortion provision secret, or are discriminated against for providing abortion care [<xref ref-type="bibr" rid="CR40">40</xref>&#x2013;<xref ref-type="bibr" rid="CR42">42</xref>]. Abortion seekers, particularly in rural areas, report secrecy, stigma, and confusion about how to access care [<xref ref-type="bibr" rid="CR40">40</xref>, <xref ref-type="bibr" rid="CR43">43</xref>, <xref ref-type="bibr" rid="CR44">44</xref>].</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Study design</title>
+        <p id="Par16">This was a phenomenological qualitative study using in-depth interviews to learn about experiences of abortion care-seeking in Australia during the COVID-19 pandemic. Phenomenology is well-suited to exploring the lived experiences of individuals [<xref ref-type="bibr" rid="CR45">45</xref>]. Through in-depth interviews, we examined individual accounts of stigma as they are shaped socially and relationally through interactions with healthcare workers in the context of macro-level abortion stigma and other structural factors influencing the health system, including the pandemic.</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Eligibility and recruitment</title>
+        <p id="Par17">Inclusion criteria were being at least 18 years of age, able to participate in an interview in English, and having sought abortion care in Australia between March 2020 and November 2022, regardless of whether an abortion was ultimately obtained. Recruitment materials specified &#x201C;people&#x201D; rather than &#x201C;women&#x201D; to be inclusive of any gender identity. We recruited from December 2020 to November 2022 using social media materials (Twitter, Facebook, and Instagram) posted by sexual and reproductive health organizations in Australia. Flyers were also placed in the waiting rooms of clinics that provided high numbers of abortion services and agreed to support study recruitment. We aimed to recruit a sample of at least 20 participants with diversity in terms of state or territory where they sought an abortion, the type of procedure (medication or surgical), gestational age at time of abortion, as well as sociodemographic factors including age, rurality, and racial/ethnic background. Potential participants were directed to a Qualtrics survey with screening questions (location, age, date and type of abortion, pandemic restrictions at time of abortion). We invited eligible respondents to review consent materials and an Explanatory Statement before scheduling an interview. Recruitment ended after we conducted 20 interviews, at which point we continued to contact everyone eligible who had already submitted an expression of interest.</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Data collection and management</title>
+        <p id="Par18">The principal investigator conducted the interviews, which were audio recorded using the Zoom videoconferencing platform. At the beginning of each interview, the investigator reviewed consent information verbally, answered any questions the participant shared, and audio recorded verbal consent. Interviews followed a semi-structured interview guide with questions about participants&#x2019; abortion trajectory, from finding out they were pregnant, to information-gathering, to seeking care, as well as their retrospective reflections about the experience. The participant led the discussion based on what was most important for them, with prompts and follow-up questions by the interviewer. Interviews lasted between 30 and 105&#xA0;minutes, after which participants were given a AUD40 gift card in respectful recognition of their time and any inconvenience.</p>
+        <p id="Par19">Recordings were automatically transcribed through Zoom. Student research assistants compared all transcripts to the audio file to correct transcription errors. All files were stored on secure Monash University platforms. Ethics approval was obtained from the Monash University Human Research Ethics Committee (Project 30926).</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Data analysis</title>
+        <p id="Par20">Our analysis and interpretation were informed by Strong, Coast and Nandigiri&#x2019;s micro, meso, and macro conceptualization of the socioecological model of abortion stigma [<xref ref-type="bibr" rid="CR13">13</xref>] and by the eight domains of person-centered care for reproductive health equity defined by Sudhinaraset et al. [<xref ref-type="bibr" rid="CR46">46</xref>], which have been applied to abortion quality of care by Altshuler and Whaley [<xref ref-type="bibr" rid="CR47">47</xref>]: dignity, autonomy, privacy/ confidentiality, communication, social support, supportive care, trust, and health facility environment [<xref ref-type="bibr" rid="CR46">46</xref>, <xref ref-type="bibr" rid="CR47">47</xref>].</p>
+        <p id="Par21">SM, MB, and SW conducted a qualitative thematic analysis of the interview transcripts. Drawing on the stigma and quality of care frameworks described above and SM and SW&#x2019;s familiarity with the data, we developed a preliminary coding framework to categorize the interactions between abortion seekers and healthcare workers and identify how stigma, as well as high-quality, stigma-free interactions, manifested. We included interactions with all types of healthcare workers, including medical receptionists, sonographers, general practitioners, nurses, and surgeons. The coding framework also included macro factors that influenced experiences of care, including the pandemic, rural health system limitations, and abortion laws and regulations. Using the preliminary coding framework, we each coded the same four transcripts, selected to represent a diversity of abortion experiences. We discussed any discrepancies or lack of clarity in codes, collapsed some codes, expanded others, and updated the codebook. SM and SW then coded the remaining transcripts using Dedoose data analysis software, meeting with MB periodically to discuss emerging adjustments to the codebook.</p>
+        <p id="Par22">The final analysis phase was carried out by SM and MB, who have expertise in abortion stigma, quality of care, and typologies. We define typologies as interpretive categories based on the clustering of thematic codes. They are an interpretive lens created through the process of data analysis to allow comparisons and patterns to be drawn across a cohort of diverse experiences [<xref ref-type="bibr" rid="CR48">48</xref>]. In this study, typologies refer to categories of interactions between healthcare workers and abortion seekers. We created the typologies by analytically grouping together positive and negative experiences reflecting stigma and quality of care in an iterative process. This process was conducted inductively until the sub-codes within each typology were cohesive and we could articulate a clear distinction between typologies. We did not presume that the positive and negative typologies would align. Through iterative analysis, we ended with five negative typologies which aligned with five corresponding positive typologies.</p>
+      </sec>
+    </sec>
+    <sec id="Sec8" sec-type="results">
+      <title>Results</title>
+      <p id="Par23">SM interviewed 24 participants ranging from 20 to 40 years of age (Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>). All identified as cisgender women. They lived in seven of the eight Australian states and territories, and 10 resided in non-metropolitan areas. Between March 2020 and November 2022, 21 participants had one abortion, two participants had two abortions each, and one sought an abortion but did not ultimately obtain one after having a spontaneous miscarriage. This leaves 25 experiences of complete abortion in the study, of which fourteen were medication, nine surgical, and two hospital-based medical inductions. Gestational age at time of abortion ranged from five to 28 weeks.</p>
+      <p id="Par24">
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Participant (n&#x2009;=&#x2009;24) and abortion (n&#x2009;=&#x2009;25) characteristics</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Participant characteristics</th><th align="left">n&#x2009;=&#x2009;24</th></tr></thead><tbody><tr><td align="left">
+<bold>Age range (mean&#x2009;=&#x2009;29.6)</bold>
+</td><td align="left"/></tr><tr><td align="left">20&#x2013;24</td><td align="left">5 (21%)</td></tr><tr><td align="left">25&#x2013;29</td><td align="left">6 (25%)</td></tr><tr><td align="left">30&#x2013;34</td><td align="left">9 (38%)</td></tr><tr><td align="left">35+</td><td align="left">4 (17%)</td></tr><tr><td align="left">
+<bold>State/Territory</bold>
+</td><td align="left"/></tr><tr><td align="left">Victoria</td><td align="left">10 (42%)</td></tr><tr><td align="left">Queensland</td><td align="left">6 (25%)</td></tr><tr><td align="left">New South Wales</td><td align="left">3 (13%)</td></tr><tr><td align="left">South Australia</td><td align="left">2 (8%)</td></tr><tr><td align="left">Australian Capital Territory</td><td align="left">1 (4%)</td></tr><tr><td align="left">Western Australia</td><td align="left">1 (4%)</td></tr><tr><td align="left">Northern Territory</td><td align="left">1 (4%)</td></tr><tr><td align="left">Tasmania</td><td align="left">0 (0%)</td></tr><tr><td align="left">
+<bold>Rurality</bold>
+</td><td align="left"/></tr><tr><td align="left">Urban</td><td align="left">14 (58%)</td></tr><tr><td align="left">Regional</td><td align="left">10 (42%)</td></tr><tr><td align="left">
+<bold>Race/ethnicity</bold>
+</td><td align="left"/></tr><tr><td align="left">Caucasian</td><td align="left">20 (83%)</td></tr><tr><td align="left">Australian Aboriginal</td><td align="left">1 (4%)</td></tr><tr><td align="left">Asian</td><td align="left">1 (4%)</td></tr><tr><td align="left">Hispanic</td><td align="left">1 (4%)</td></tr><tr><td align="left">Multiracial</td><td align="left">1 (4%)</td></tr><tr><td align="left">
+<bold>Abortion characteristics</bold>
+</td><td align="left">
+<bold>n&#x2009;=&#x2009;25</bold>
+</td></tr><tr><td align="left">
+<bold>Procedure type</bold>
+</td><td align="left"/></tr><tr><td align="left">Medication</td><td align="left">14 (56%)</td></tr><tr><td align="left">Surgical</td><td align="left">9 (36%)</td></tr><tr><td align="left">Hospital-based induction</td><td align="left">2 (8%)</td></tr><tr><td align="left">
+<bold>Year of abortion</bold>
+</td><td align="left"/></tr><tr><td align="left">2020</td><td align="left">5 (20%)</td></tr><tr><td align="left">2021</td><td align="left">11 (44%)</td></tr><tr><td align="left">2022</td><td align="left">9 (36%)</td></tr></tbody></table></table-wrap>
+</p>
+      <sec id="Sec9">
+        <title>Typologies</title>
+        <p id="Par25">We constructed ten typologies of interactions in abortion care (Table&#xA0;<xref rid="Tab2" ref-type="table">2</xref>): five categories of negative interactions that reflect stigmatizing, low-quality care and five categories of positive interactions that reflect non-stigmatizing, high-quality care.</p>
+        <p id="Par26">
+<table-wrap id="Tab2"><label>Table 2</label><caption><p>Positive and negative typologies of interactions between abortion seekers and healthcare workers</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">1. Interactions that reflect stigmatizing, low-quality abortion care</th><th align="left">2. Interactions that reflect non-stigmatizing, high-quality abortion care</th></tr></thead><tbody><tr><td align="left">1.1 Creating barriers to abortion access</td><td align="left">2.1 Actively helping people access abortion care</td></tr><tr><td align="left">1.2 Judging, blaming, questioning, or punishing abortion seekers</td><td align="left">2.2 Actively validating abortion decision</td></tr><tr><td align="left">1.3 Interactions that do not respond to evolving emotional or information needs of the client</td><td align="left">2.3 Interactions responsive to evolving emotional and information needs</td></tr><tr><td align="left">1.4 Making assumptions about reproductive intentions and related preferences for care</td><td align="left">2.4 Aligning abortion provision with client reproductive intentions and care preferences</td></tr><tr><td align="left">1.5 Minimized interactions that compromise the quality and safety of the service</td><td align="left">2.5 Providing holistic and high-quality care to ensure a safe service</td></tr></tbody></table></table-wrap>
+</p>
+        <p id="Par27">Each negative typology demonstrates tangible experiences described by abortion seekers that are explicitly or implicitly influenced by abortion stigma within the healthcare interaction. Each positive typology aligns with a negative typology and represents the nature and type of non-stigmatizing and high-quality interactions that are possible when that form of stigma is absent. The 10 typologies are described below, including the different manifestations of each typology and illustrative quotes exemplifying the experiences of participants. Interactions that reflect stigmatizing, low-quality abortion care are shown in Table&#xA0;<xref rid="Tab3" ref-type="table">3</xref>, and those that demonstrate non-stigmatizing, high-quality abortion care are shown in Table&#xA0;<xref rid="Tab4" ref-type="table">4</xref>.</p>
+      </sec>
+      <sec id="Sec10">
+        <title>Typologies of stigmatizing and low-quality abortion care</title>
+        <p id="Par28">
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>Typologies of interactions that reflect stigmatizing and low-quality abortion care, with codes representing manifestations of each category</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Typology</th><th align="left">Codes (manifestations of the typology)</th></tr></thead><tbody><tr><td align="left">1.1 Creating barriers to abortion access</td><td align="left">Gatekeeping or deliberately delaying care; insufficient information provided when booking/referring; denial of care</td></tr><tr><td align="left">1.2 Judging, blaming, questioning, or punishing abortion seekers</td><td align="left">Questioned decision; don&#x2019;t do this again; woman bears responsibility; withholding or minimizing pain relief; singled out or treated differently for abortion</td></tr><tr><td align="left">1.3 Interactions that do not respond to evolving emotional and information needs of the client</td><td align="left">Insufficient attention to emotional needs during and after care; insufficient time and attention to support decisions about abortion care; pushed towards one method; unfriendly and cold</td></tr><tr><td align="left">1.4 Making assumptions about reproductive intentions and related preferences for care</td><td align="left">Ultrasound wishes not respected; pushing contraception; assume client wants to continue the pregnancy; assume client wants to have the abortion</td></tr><tr><td align="left">1.5 Minimized interactions that compromise the quality and safety of the service</td><td align="left">Insufficient aftercare information; lack of follow up; recovery rushed, pushed out the door</td></tr></tbody></table></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec11">
+        <title>1.1 Creating barriers to abortion access</title>
+        <p id="Par29">Healthcare workers behaved in a range of ways &#x2013; from subtle to blatant &#x2013; that created barriers to abortion access. The main behaviors were providing insufficient information to abortion seekers, delaying or gatekeeping access to the service, or denying care altogether. Several participants described hurried and uninformative interactions with their provider. Even when GPs referred onwards, brief interactions left participants confused and unsure how to obtain the service they needed. As one participant described, &#x201C;I said [to the GP] [&#x2026;] &#x2018;We&#x2019;d like to access termination services. [&#x2026;] I&#x2019;ve tried to look into it, but I don&#x2019;t know who to access, who to talk to. Is that something that you can help me navigate?&#x2019; And he just kind of got a bit uncomfortable and just said, &#x2018;we don&#x2019;t do that here. There&#x2019;s some GPs that do.&#x2019; [&#x2026;] I was literally on the phone with him, for I think three minutes in total. [&#x2026;] I left more confused I think than anything. And then they&#x2019;re like, right, here&#x2019;s your bill for $75&#x201D; (ID18). This cursory care was also experienced in cases when the provider agreed to prescribe medication abortion.</p>
+        <p id="Par30">Another form of creating barriers was delaying access, as in the case of one participant who was incorrectly informed (whether intentionally or not) that she could not obtain an abortion until later in pregnancy. &#x201C;[The receptionist] asked me how far along I was. [&#x2026;] I thought about six weeks. And she said, well, we can&#x2019;t actually do anything till nine weeks.&#x201D; (ID20). Delaying care also corresponded with providers questioning abortion seekers&#x2019; decisions, as with a GP who &#x201C;was kind of hesitant to give it to me, and he&#x2019;s like, &#x2018;No, I&#x2019;d rather like you think about it and come back Monday&#x2019;&#x201D; (ID15).</p>
+        <p id="Par31">Some participants described experiencing denial of care. Two participants said a receptionist denied them access to a GP because they were seeking an abortion. As one said, &#x201C;[when booking] I said, &#x2018;Oh, by the way this is for a termination of pregnancy. That&#x2019;s why I need the appointment.&#x2019; And the receptionist on the phone just said &#x2018;no, we don&#x2019;t do that.&#x2019; But she was very short and very abrupt.&#x201D; (ID19). Further, some participants had difficulty finding a pharmacy that would fill their prescription for medication abortion.</p>
+      </sec>
+      <sec id="Sec12">
+        <title>1.2 Judging, blaming, questioning, or punishing abortion seekers</title>
+        <p id="Par32">Participants described direct and implicit communications from healthcare workers that made them feel blamed, judged, or punished for their pregnancy and subsequent abortion. Some participants felt their decision was questioned by providers, for example being told &#x201C;you&#x2019;ll regret [an abortion] if you&#x2019;re 30&#x201D; (ID02) or asked, &#x201C;If I told you [that] you were having twins, would it change your mind?&#x201D; (ID05). Further, some healthcare providers communicated that abortion should not be repeated. &#x201C;[The GP said] &#x2018;you&#x2019;re not allowed to do this [abortion] again.&#x2019; [&#x2026;] Scolding me like I was some young girl who&#x2019;d been super irresponsible, not like an adult woman who is aware of, like her decisions&#x201D; (ID15).</p>
+        <p id="Par33">Some participants said they felt that the responsibility for the pregnancy was placed solely on the woman. As one participant told us, &#x201C;I wish there was more information about male contraception. The fact that the whole situation falls on the person with the uterus is, is really upsetting&#x201D; (ID04). Other participants felt that the need for pain relief was minimized, or pain relief was withheld from them. &#x201C;[If] I had adequate information, it would mean I could get better pain medication in advance rather than having to go to the emergency department in the midst of COVID&#x201D; (ID08). Participants also described being treated differently for abortion, as opposed to other types of health procedures. &#x201C;I think the GP should have [&#x2026;] had more information and less opinions [&#x2026;], like they would with any other procedure&#x201D; (ID02).</p>
+      </sec>
+      <sec id="Sec13">
+        <title>1.3 Interactions that do not respond to abortion seekers&#x2019; emotional and information needs</title>
+        <p id="Par34">Participants described interactions with healthcare workers that did not respond to their emotional and information needs at different points in the abortion pathway. These interactions often involved healthcare workers having an unfriendly or cold demeanor. In some cases, participants were not told about the different types of procedures available to them, preventing them from making an informed decision. &#x201C;[I] would have much preferred surgical but I don&#x2019;t feel like that was like adequately explained to me at the time. [&#x2026;] I remember seeing on my Medicare bill that the doctor had charged me for like, $180 for counselling. I don&#x2019;t feel like, you know, I was counselled in any way. In some ways I&#x2019;m grateful for the fact that she didn&#x2019;t try to talk me out of [an abortion]. But in other ways, I sort of feel like that [appointment] should have involved an exploration of the process of a medical termination versus a surgical termination&#x201D; (ID08). Others similarly said they would have liked more time with their provider to learn more about what the service would entail.</p>
+        <p id="Par35">Many participants also said their providers did not attend to their emotional needs. Some abortion seekers wanted more emotional support during the appointment, while others wanted more structured parallel support like counselling services. One said, &#x201C;I feel like they definitely could have done more to comfort me and just make the process a little bit easier for me. [&#x2026;] To have a bit more time with the doctor to explain the procedure to me [&#x2026;] I just feel like that would have comforted me&#x201D; (ID17). Another concurred that emotional support was &#x201C;really, really lacking. It was very like, very medical focused&#x201D; (ID21). Further, participants often described the healthcare workers as &#x201C;disconnected&#x201D;, &#x201C;abrupt&#x201D;, &#x201C;cold&#x201D;, &#x201C;didn&#x2019;t give a crap&#x201D;, or having &#x201C;no sympathy&#x201D;. Particularly impactful was a participant who said, &#x201C;Everybody in that clinic was cold [&#x2026;]. It was horrible. From the moment I got there to the moment I left&#x201D; (ID22).</p>
+      </sec>
+      <sec id="Sec14">
+        <title>1.4 Making assumptions about reproductive intentions and related preferences for care</title>
+        <p id="Par36">In many interactions, healthcare workers made assumptions about participants&#x2019; reproductive intentions. Some providers incorrectly assumed that the person wanted to remain pregnant, or alternatively, that they had already decided they wanted an abortion. Providers also made assumptions about whether the participant wanted to discuss contraception or be shown the ultrasound image.</p>
+        <p id="Par37">Diverse providers incorrectly assumed their client wanted to be pregnant, commonly during bloodwork, ultrasound, or when seeking a referral. As one participant said, &#x201C;[the sonographer] was acting very excited for me, and asking if I wanted images saved, and asking when my due date was, and that sort of thing. Which was really really hard to deal with&#x201D; (ID25). Another participant told us, &#x201C;It was horrible. I faked it and I just played along because I didn&#x2019;t want to have that conversation [about abortion]. That felt like taking a bullet&#x201D; (ID11). In some cases, general practitioners incorrectly assumed the participant wanted to be pregnant, and sometimes failed to provide options for abortion care based on these assumptions. As one participant said, &#x201C;You think you&#x2019;d read the room and maybe think, the girl might need some options. [&#x2026;] I wouldn&#x2019;t go back to that GP.&#x201D; (ID09).</p>
+        <p id="Par38">In a few cases, providers incorrectly assumed the client was sure about the decision to have an abortion. One participant who had been coerced to have an abortion by her partner said she would have wanted support from the provider to explore her decision. &#x201C;Maybe there were assumptions made about me, that I&#x2019;d been really firm on my decision. [&#x2026;] I wish someone had a dug a little bit deeper&#x201D; (ID21).</p>
+        <p id="Par39">Providers also made assumptions about client preferences for ultrasound and contraception. Multiple participants were shown the ultrasound despite expressing that they did not want to see it. Others requested to see it, but their request was refused. Multiple participants also said they felt the abortion providers overemphasized contraception. As one said, &#x201C;They also were really pushing an IUD onto me, and I found that really opportunistic&#x201D; (ID02). Another noted, &#x201C;they are reminding [you about contraception] every time, and [&#x2026;] you feel that pressure, feel like you have to do it&#x201D; (ID23).</p>
+      </sec>
+      <sec id="Sec15">
+        <title>1.5 Minimized interactions that compromise the quality and safety of abortion care</title>
+        <p id="Par40">Many participants described receiving insufficient procedural or aftercare information, follow up, or time to support the recovery process. This led some to call after hours hotlines or visit the emergency department when they weren&#x2019;t sure if their symptoms were dangerous. A participant said about her visit to the emergency department, &#x201C;I just didn&#x2019;t really feel like I should have been there, but I didn&#x2019;t know how else to go about it rather than go to the GP [&#x2026;]. I just don&#x2019;t feel like they prepared me for just how much [bleeding] it would be&#x201D; (ID21). Further, several participants described being &#x201C;pushed out the door&#x201D; (ID17) or rushed through recovery after their surgical abortion. Several were released while still dizzy from anesthesia or without their accompanier being notified, with potential ramifications for their safety. One said, &#x201C;They hadn&#x2019;t called [my partner] or anything, and I was still quite, you know, drowsy, [and] stumbling in the car park. [&#x2026;] My partner [happened to] look up in his rear vision mirror and saw me&#x201D; (ID22). Some were told about aftercare instructions while they were still drowsy, leading them to forget their medication. &#x201C;I was supposed to have antibiotics that night [&#x2026;] Why didn&#x2019;t they give [my partner] the information?&#x201D; (ID22). Further, many participants said they did not receive a follow-up call or the results of their laboratory tests confirming success of the abortion. &#x201C;I didn&#x2019;t receive any follow-up support. [&#x2026;] I think that they maybe, should have offered me something, or even just a follow-up phone call&#x201D; (ID17).</p>
+      </sec>
+      <sec id="Sec16">
+        <title>Typologies of non-stigmatizing and high-quality abortion care</title>
+        <p id="Par41">
+<table-wrap id="Tab4"><label>Table 4</label><caption><p>Typologies of interactions that reflect non-stigmatizing and high-quality abortion care, with codes representing manifestations of each category</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Typology</th><th align="left">Codes (manifestations of the typology)</th></tr></thead><tbody><tr><td align="left">2.1 Actively helping people access abortion care</td><td align="left">Proactively supporting access; took time to provide information when booking/referring</td></tr><tr><td align="left">2.2 Actively validating abortion decision</td><td align="left">No judgement; explicit validation of decision</td></tr><tr><td align="left">2.3 Interactions responsive to evolving emotional and information needs</td><td align="left">Emotional support and comfort during and beyond service; time and effort to support decisions and tailor abortion care based on preferences</td></tr><tr><td align="left">2.4 Aligning abortion provision with client reproductive intentions and service preferences</td><td align="left">Client preferences for ultrasound met and respected; contraceptive discussion aligned with client wants and needs; find out and support pregnancy preferences andintentions</td></tr><tr><td align="left">2.5 Providing holistic and high-quality care to ensure a safe service</td><td align="left">Sufficient aftercare info for safe management; proactive follow up to ensure safety and wellbeing of client; supportive interactions during recovery</td></tr></tbody></table></table-wrap>
+</p>
+      </sec>
+      <sec id="Sec17">
+        <title>2.1 Actively helping people access abortion care</title>
+        <p id="Par42">Participants described proactive support from their providers to ensure they could access abortion care. Some providers, who did not themselves provide abortion care because of health systems constraints, proactively provided abortion information, or helped organise the referral and subsequent appointments. For example, one participant described how &#x201C;[the GP] went through what the process was, and that there were no options available for me in my local area, and that she would have to refer me to somebody else. [&#x2026;] Yeah, she got me in for the bloods next, all straight away, and then over to the ultrasound, and then she gave me follow-up call. I think she tried to call me four times [&#x2026;]. And I was amazed that, you know, somebody would take so much time out of their day just to check on me, to make sure that I had [&#x2026;] got the referral&#x201D; (ID22). Another participant described receiving assistance from a sonographer. &#x201C;She was like, &#x2018;you know you have options [&#x2026;]. You can go to the hospital tonight, if you want to, or I&#x2019;ll call your GP and we can book you in.&#x2019; [&#x2026;] She made a call to my GPs office, my GP just happened to be there working late and they got me booked in [&#x2026;]. That was like really efficient and a relief, it meant that I came away from the appointment with a clear plan, and I think that was really important to me at the time. Like yeah again, the sense of agency and some sort of picture of what was about to happen&#x201D; (ID08).</p>
+      </sec>
+      <sec id="Sec18">
+        <title>2.2 Actively validating abortion decision</title>
+        <p id="Par43">Participants also experienced interactions that actively validated and supported their decision to have an abortion with different types of healthcare workers along the care pathway. Some providers actively verbalised their support, for example saying, &#x201C;there&#x2019;s no right or wrong&#x2019;&#x201D; (ID18), &#x201C;we don&#x2019;t judge anybody&#x201D; (ID24), and &#x201C;you have every right to be here&#x201D; (ID08). One abortion seeker said, &#x201C;[the doctor] just listened and she just said, this is your choice. You know what you need, you know your life, you know what you&#x2019;re capable of, and what you&#x2019;re doing isn&#x2019;t wrong. You&#x2019;re just making a decision. [&#x2026;] She just said all the right things&#x201D; (ID13). Participants described such support as &#x201C;affirming&#x201D;, &#x201C;empathetic&#x201D;, &#x201C;supportive&#x201D; and &#x201C;amazing&#x201D;. Participants sometimes anticipated their decision being questioned when seeking care, and commented favorably when this did not happen. &#x201C;[The GP] didn&#x2019;t ask, like any questions that would even like imply judgment like &#x2018;How did this happen&#x2019;. [&#x2026;] She was just incredibly supportive and really like outcome [and]&#xA0;action oriented&#x201D; (ID01).</p>
+      </sec>
+      <sec id="Sec19">
+        <title>2.3 Interactions responsive to evolving emotional and information needs</title>
+        <p id="Par44">Many participants described interactions in which healthcare workers offered comfort and emotional support during and after the abortion service, supported an informed decision-making process, or ensured the service aligned with their needs and preferences. Some providers spent ample time to provide options and engaged in a dialectical process with their client to ensure their abortion care was tailored to their preferences. &#x201C;[The doctor] gave me the options. We weighed them up together and then made the decision together. I sort of already knew what I wanted to go towards, but he was really good [&#x2026;] in talking to me about [&#x2026;] both options in detail&#x201D; (ID25). Many of these providers went above and beyond the constraints of health systems. For example, one participant told us, &#x201C;I hope everyone gets access to a GP as lovely as mine was. [&#x2026;] Having access to someone who will take the time to sit with you and go through all the options. Like, we were certainly extending beyond standard appointments. In my time with her we were really going through things and understanding what was going to happen&#x201D; (ID01).</p>
+        <p id="Par45">Participants shared a range of experiences in which their emotional needs were at the center of the interaction. Healthcare workers often comforted participants during the service, for example giving them a hug, stroking their head, and being caring and friendly. One participant who could not have a support person due to COVID-19 restrictions said the &#x201C;nurse ended up actually coming into the procedure with me and staying with me until I woke up. Incredible&#x201D; (ID04). These experiences are reflected in the sentiment of one participant who chose a clinic because &#x201C;they treat you as a person, not a number&#x201D; (ID06). Some services followed up after the abortion to check on the emotional and physical wellbeing of their client or by offering counseling services.</p>
+      </sec>
+      <sec id="Sec20">
+        <title>2.4 Aligning abortion provision with client reproductive intentions and service preferences</title>
+        <p id="Par46">Participants described positive interactions in which the provider sought to understand their reproductive intentions and service-related preferences, and then aimed to provide care accordingly. A few participants said their provider asked them directly about their pregnancy intentions. &#x201C;I felt like [the GP] was quite kind, you know, and like he asked me what was I wanting to do&#x201D; (ID21). Providers then tailored the service accordingly. &#x201C;[My partner and I] were trying to decide what to do, which was very scary because obviously we weren&#x2019;t expecting this [pregnancy]. So, the doctor gave me some time to think. [&#x2026;] Gave me a timeline, if I was to terminate, what sort of termination I would have, and also gave me some vitamins if I was to go ahead with the pregnancy&#x201D; (ID03).</p>
+        <p id="Par47">Ultrasound and contraceptive counseling were areas in which some participants were supported to have an experience that aligned with their preferences. Some were offered a choice of whether to see the ultrasound image. &#x201C;I really didn&#x2019;t want [to] get an ultrasound at all [&#x2026;], especially by myself. [&#x2026;] They were like, &#x2018;someone will come in with you. You don&#x2019;t have to like, look at anything [on the screen].&#x2019; And they were just really, really good at calming all the things that I was bringing up&#x201D; (ID04). Some providers let the client lead any discussion about contraceptives and provided information and support if requested by the client. As one participant told us, &#x201C;I said, you know I want to have Implanon [the contraceptive implant] put in on my arm. And [we] just sort of talked through that.&#x201D; (ID09). Another participant who declined an IUD at the time of the abortion appreciated the follow-up a few weeks later. &#x201C;They contacted me back and we spoke about contraception [&#x2026;] and I said I would like to get it done&#x201D; (ID24).</p>
+      </sec>
+      <sec id="Sec21">
+        <title>2.5 Providing holistic and high-quality care to ensure safety</title>
+        <p id="Par48">Some participants described receiving sufficient aftercare information, follow up, and supportive care during recovery, which prepared them to manage their abortion safely. In some cases, they received this level of information from just one of the many people they interacted with on their pathway to care. &#x201C;It was [not the doctor but] the pharmacist that went into detail and said, if this happens, then you gotta go into emergency and [&#x2026;] gave me the [&#x2026;] tools for me to make an informed decision at home, or when to escalate something if something was&#xA0;[going] wrong&#x201D; (ID16).</p>
+        <p id="Par49">Participants also described ways that healthcare workers were supportive and helpful during the recovery process after a surgical abortion. &#x201C;There was a nurse like right next to me when I woke up [&#x2026;] I think that was very good and comforting to have someone there immediately upon waking up. And I think it was nice, they had like music playing in the recovery&#x201D; (ID19). High quality care left participants with a sense that seeking an abortion was a legitimate option and they were deserving of good care. One participant said, &#x201C;I woke up and then had a nice male nurse that was sort of fussing around. I think that [they had] snacks, and they sort of say, have something to eat. So that, that [I] was just feeling as though it was a normal, fine thing to be doing&#x201D; (ID09).</p>
+        <p id="Par50">Some providers also followed up after the procedure to ensure the safety and wellbeing of their client. One participant said, &#x201C;because it was [about to be] a long weekend, they called me [on] the Friday, to make sure I was all okay&#x201D; (ID18). Another said their GP called them to proactively organize follow-up care. &#x201C;She&#x2019;s just going to go through, probably do some blood and stuff again, just to make sure that it was successful&#x201D; (ID22).</p>
+      </sec>
+      <sec id="Sec22">
+        <title>Macro-level factors influencing abortion experiences</title>
+        <p id="Par51">This section illustrates how the above-mentioned experiences of abortion stigma at the individual (micro) level and in interactions at the hospital, clinic, and provider (meso) level were influenced by macro (legal, regulatory, and health system) factors.</p>
+        <p id="Par52">Gestational age limits influenced the experiences of many participants. Those nearing the 63-day gestational age limit for medication abortion had an urgent need to find timely appointments with a willing provider &#x2013; a particular challenge among rural participants. One participant seeking surgical abortion at 28 weeks due to a fetal condition was subject to regulations requiring approval from multiple healthcare providers after a defined gestational age. &#x201C;That really put in perspective, the significance of this medical board. Because even though we had made the decision to terminate the pregnancy, it wasn&#x2019;t our decision. If that makes sense, it was someone else&#x2019;s decision&#x201D; (ID07).</p>
+        <p id="Par53">Some participants lacked a choice in method due to limited provision in rural areas. &#x201C;There was no one who did [surgical termination of pregnancy] in North Queensland. If I wanted the surgery, I was going to have to go&#xA0;[over 1,500 km] to Brisbane&#x201D; (ID15). Others had to travel long distances to the nearest provider &#x2013; sometimes to receive low quality care. In one particularly harrowing experience, the participant described waiting in an abortion clinic for hours, dressed in only a shirt and underwear, in an overcrowded waiting room. Healthcare workers were rude, rushed, uncompassionate, and showed little concern for protecting patient privacy. She said, &#x201C;if there were more options [&#x2026;] there&#x2019;d be a bit more competition. But they&#x2019;re the only [abortion provider]. So, they really get to pick and choose as they want. The facilities were terrible, the support was terrible&#x201D; (ID22).</p>
+        <p id="Par54">COVID-19 regulations, which varied over time and by location since March 2020, are a structural factor that influenced the abortion-seeking experiences of most participants in the study. Many were subject to restrictions prohibiting an accompanying person from entering the abortion service. Further, the pandemic contributed to long wait times, overburdened healthcare workers, and appointment cancellations and delays &#x2013; all of which were common experiences in this study.</p>
+        <p id="Par55">These macro-level factors &#x2013; from regulations to health system pressures during the pandemic and in rural areas &#x2013; limited the abilities of abortion seekers and providers to ensure an optimal pathway to care.</p>
+      </sec>
+    </sec>
+    <sec id="Sec23" sec-type="discussion">
+      <title>Discussion</title>
+      <p id="Par56">This study contributes to the evidence base about the interrelationship between abortion stigma and quality of care &#x2013; which is only beginning to be understood. The findings show that without addressing stigma at multiple levels, equitable access to high-quality abortion care will be difficult to achieve. This aligns with calls for a focus on stigma as part of quality improvement across a range of health services and conditions [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR49">49</xref>].</p>
+      <sec id="Sec24">
+        <title>The impact of stigma on quality of care at the micro- and meso-levels</title>
+        <p id="Par57">The positive typologies illustrate how a lack of stigma enables patient-centered abortion care. Abortion seekers clearly articulated the positive aspects of their healthcare interactions, which reflect the supportive care, communication, autonomy and dignity domains of the Person-Centered Care Framework for Reproductive Health Equity [<xref ref-type="bibr" rid="CR46">46</xref>]. They discussed the importance of healthcare workers removing barriers to abortion access, validating their abortion decision, engaging empathetically, and responding to their evolving emotional needs. While the abortion process was not emotionally difficult for some participants, others felt they needed extra support through counselling services. Compassionate care has been articulated as a priority by abortion seekers in various settings [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR47">47</xref>], and is essential in all contexts, not just formal counselling [<xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR50">50</xref>]. The Inroads abortion stigma and quality of care framework emphasizes the importance of kindness and empathy in abortion care and the necessity of including this in provider training [<xref ref-type="bibr" rid="CR25">25</xref>].</p>
+        <p id="Par58">The negative typologies illustrate stigmatizing behaviors detracting from high-quality care. Participants who felt insufficiently informed, unsupported, and rushed through care explicitly described how they wished their experience had been different. In contrast, those who experienced a dialectical decision-making process described the benefits of having adequate time to ask questions and discuss options based on comprehensive information. Both the Australian Commission&#x2019;s Quality Framework for Health Care [<xref ref-type="bibr" rid="CR51">51</xref>] and the International Planned Parenthood Federation&#x2019;s quality of care framework for sexual and reproductive healthcare [<xref ref-type="bibr" rid="CR52">52</xref>] emphasize shared decision-making about care. The latter recommends that providers develop strong interpersonal skills and highlights the need to listen patiently to clients&#x2019; needs and concerns, answer questions, and use clear, non-judgmental and supportive language [<xref ref-type="bibr" rid="CR52">52</xref>].</p>
+        <p id="Par59">Pain management for medication abortion was an area in which abortion seekers alluded to the intersection between quality of care and stigma. The few participants with high levels of pain said they felt unprepared in terms of pain relief, and several sought after-hours care or went to the emergency department. Two participants said they suspected their pain medication was withheld by a GP or pharmacist because they were having an abortion &#x2013; perhaps as a form of punishment. This aligns with the Inroads abortion stigma and quality of care framework [<xref ref-type="bibr" rid="CR25">25</xref>], which identifies the withholding of &#x201C;appropriate abortion or pain management technologies&#x201D; as a manifestation of stigma. Pain is the most common side effect in medication abortion, with severe pain experienced by a substantial minority of those taking it [<xref ref-type="bibr" rid="CR53">53</xref>]. As such, the risk that stigma could negatively impact pain management practices is consequential for many abortion seekers.</p>
+        <p id="Par60">Our results also illustrate the ways in which healthcare worker assumptions about reproductive intentions can lead to stigmatizing interactions, reducing quality of care. This is typified by encounters, commonly during ultrasound and bloodwork, in which healthcare workers congratulated abortion seekers on their pregnancy. Participants expressed a desire for tailored care based on an understanding of their needs and preferences, particularly when choosing an abortion method and during contraceptive counselling. In line with the &#x2018;acceptability/patient-centered&#x2019; dimension of the Inroads abortion stigma and quality of care framework [<xref ref-type="bibr" rid="CR25">25</xref>], all types of healthcare worker interacting with abortion seekers &#x2013; not just clinicians &#x2013; could benefit from building skills for non-judgmental communication that avoids assumptions.</p>
+        <p id="Par61">This study also demonstrates how stigma (or a lack thereof) in interactions with providers can enhance or limit abortion seekers&#x2019; autonomy. We found that some providers did not ascertain the ultrasound viewing preferences of abortion seekers, and in a few cases ignored the client&#x2019;s explicit request to see or not see the image. A study in Norway similarly identified ultrasound before abortion as a source of &#x201C;autonomy under pressure&#x201D; [<xref ref-type="bibr" rid="CR54">54</xref>]. Further, some participants in our study said they felt pressured to adopt contraception, resonating with findings from Scotland that abortion seekers may feel coerced to take up contraception [<xref ref-type="bibr" rid="CR55">55</xref>]. A study at a US-based abortion clinic found that autonomy is more important to women in decisions about contraception that it is in decisions about general healthcare [<xref ref-type="bibr" rid="CR56">56</xref>]. In light of concerns globally that contraceptive uptake is not always genuinely voluntary [<xref ref-type="bibr" rid="CR57">57</xref>], it is important to conceptualize how stigma may limit autonomy in the provision of the range of services surrounding abortion care, including ultrasound and contraception.</p>
+      </sec>
+      <sec id="Sec25">
+        <title>The impact of macro-level factors on interactions and experiences</title>
+        <p id="Par62">In this study, three main categories of macro-level factors influenced and shaped experiences in care. First, regulatory and health system abortion stigma, such as the health system&#x2019;s relegation of abortion from public to private service-delivery models [<xref ref-type="bibr" rid="CR58">58</xref>] and laws regulating gestational age limits and their exemptions [<xref ref-type="bibr" rid="CR59">59</xref>]. Second, the systemic staffing and resource limitations of rural health services resulting in a lack of options for pregnant people in rural and remote areas [<xref ref-type="bibr" rid="CR32">32</xref>, <xref ref-type="bibr" rid="CR60">60</xref>, <xref ref-type="bibr" rid="CR61">61</xref>]. Third, the coronavirus pandemic &#x2013; a backdrop to all experiences in this study &#x2013; exacerbated health system challenges and barriers to abortion care in Australia and beyond [<xref ref-type="bibr" rid="CR26">26</xref>].</p>
+        <p id="Par63">Our findings illustrate how macro-level abortion stigma and other factors at the health system level interact with the stigmatizing beliefs and behaviors of local healthcare workers to hinder access to high-quality abortion care. A first example is a participant (ID20) who received incorrect information from a receptionist that would have delayed her care beyond nine weeks gestational age; this would have eliminated the option for medication abortion due to regulations across Australia. A second example is a participant with a diagnosed fetal condition (ID07) who needed medical board approval after 24 weeks gestational age. She was ultimately able to obtain an abortion but felt the decision to do so was not truly her own, particularly as she was told that one member of the board did not approve the request. A final example is the many participants who encountered an overburdened health system, leading to unsatisfactory interactions. These interactions reflected a range of factors including insufficient time in health appointments and the limited abortion provider and referral options in rural areas, and were undoubtedly exacerbated by the pandemic&#x2019;s impact on the health system. Importantly, our study also identified ways in which healthcare workers proactively helped abortion seekers overcome the meso- and macro-level stigma they encountered &#x2013; for example by seeking out unlisted abortion prescribers, calling clinics to book time-sensitive appointments, and providing multiple referral options at different distances and costs.</p>
+        <p id="Par64">Drawing on these examples, we argue that the negative interactions demonstrated in this study reflect the interrelationship between stigmatizing beliefs among healthcare workers, macro-level abortion stigma in the policy and regulatory environment, and other structural health system limitations exacerbated during the pandemic, particular in rural areas.</p>
+      </sec>
+      <sec id="Sec26">
+        <title>Improving quality of care by addressing abortion stigma</title>
+        <p id="Par65">Our findings demonstrate a need to reduce stigmatizing interactions on pathways to abortion care. Recent systematic and scoping reviews have identified a need for theory-based and tested stigma reduction interventions for health services [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR14">14</xref>], particularly in sexual and reproductive health [<xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR62">62</xref>]. Because stigma exacerbates intersectional barriers to healthcare [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR49">49</xref>], stigma-reduction efforts will contribute to equitable access, and is of relevance to other maternal and reproductive health services where clients may be disrespected, stigmatized, mistreated, and their preferences not considered [<xref ref-type="bibr" rid="CR62">62</xref>, <xref ref-type="bibr" rid="CR63">63</xref>].</p>
+        <p id="Par67">Our results, based on the experiences and perspectives of Australian abortion seekers, provide empirical evidence that can inform training and quality improvement. Stigmatizing interactions commonly occurred with receptionists, in ultrasound, during bloodwork, and with referring GPs, but were also experienced in dedicated abortion clinics. These findings demonstrate the importance of ongoing training for all types of healthcare workers and staff, as emphasized in the Inroads abortion stigma and quality of care framework [<xref ref-type="bibr" rid="CR25">25</xref>]. The negative typologies developed in this study provide case studies of subtle to overt forms of abortion stigma in healthcare interactions. This can help providers identify blind spots in their own practice and consider bystander approaches if they observe these behaviors among colleagues. Drawing on the positive typologies, training can also be designed to help healthcare workers develop proactive strategies to overcome common stigma-related barriers such as conscientious objection and gatekeeping [<xref ref-type="bibr" rid="CR37">37</xref>]. The positive typologies can be used to connect the negative manifestations of stigma directly with facets of person-centered care [<xref ref-type="bibr" rid="CR46">46</xref>], and generate positive emotions, which can help generate behavior change [<xref ref-type="bibr" rid="CR64">64</xref>, <xref ref-type="bibr" rid="CR65">65</xref>]. Finally, the findings can inform the development of values clarification approaches focused on the harms of stigma in healthcare interactions. Values clarification is a training approach that has been used to change abortion-related knowledge and attitudes in healthcare workers by encouraging examination of personal morals and values [<xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR62">62</xref>, <xref ref-type="bibr" rid="CR66">66</xref>].</p>
+        <p id="Par68">There is growing recognition that stigma-reduction efforts must focus beyond the individual level to be effective [<xref ref-type="bibr" rid="CR5">5</xref>]. Yet recent reviews have found a lack of interventions focused on the structural and societal drivers of stigma [<xref ref-type="bibr" rid="CR49">49</xref>, <xref ref-type="bibr" rid="CR62">62</xref>, <xref ref-type="bibr" rid="CR67">67</xref>]. While training necessarily engages individual healthcare workers, there are ways to also integrate a meso- and macro- focus. First, whole-of-institution approaches can support change at multiple levels, for example by sensitizing management, institutionalizing de-stigmatization protocols and policies, and shifting institutional culture around abortion. Whole-school approaches to violence prevention have shown promising results using multi-level interventions [<xref ref-type="bibr" rid="CR68">68</xref>, <xref ref-type="bibr" rid="CR69">69</xref>] and may serve as an exemplar. Second, provider training can move beyond the individual by focusing on positionality and power differentials between abortion consumers and healthcare workers [<xref ref-type="bibr" rid="CR5">5</xref>]. Third, training can incorporate discussions of &#x2018;abortion exceptionalism&#x2019; &#x2013; &#x201C;the idea that abortion is regulated both differently and more stringently than other medical procedures that are comparable to abortion in complexity and safety&#x201D; [<xref ref-type="bibr" rid="CR70">70</xref>], to illustrate the legal and regulatory structures that reinforce stigma.</p>
+      </sec>
+      <sec id="Sec27">
+        <title>Strengths and limitations</title>
+        <p id="Par69">This study considers interactions between abortion seekers and health care workers and the structural factors shaping them. It is complex, if not impossible, to disentangle to what extent negative client experiences reflect stigma, health system limitations, the poor bedside manner of an individual provider, or a combination of these. Drawing on ample evidence that stigma intersects with and exacerbates barriers to care and inhibits quality of care [<xref ref-type="bibr" rid="CR9">9</xref>], we did not seek to fully differentiate between stigma and other health system limitations, but rather explore them in their interrelatedness. Future research can build on this early conceptualization of the influence of macro-level abortion stigma on micro and meso experiences in care.</p>
+        <p id="Par70">A strength of this analysis is the centering of participant voices in developing typologies about stigmatizing and non-stigmatizing care. Study participants described the pandemic as one of many influences on their experiences, but overwhelming emphasized interpersonal interactions and other preexisting health system limitations as the main factors limiting quality of care; these are the focus of this paper. We acknowledge that some findings about poor experiences of care may have been heightened by the influence of the pandemic on the health system. Implications of this study include the need to prepare for future pandemics and other disasters by proactively addressing the systemic challenges limiting equitable access to abortion care, which are likely to be exacerbated in disaster conditions.</p>
+        <p id="Par71">A challenge of the analysis approach was creating discrete typologies when the manifestations of stigma are interrelated. Some forms of stigma raised in the interviews (internalized, anticipated, and how these relate to low expectations of care) were not examined in this analysis as they were beyond the defined focus on interactions in healthcare.</p>
+        <p id="Par72">Our choice of qualitative methods provided rich empirical data from the perspective of abortion seekers with a range of experiences in terms of rurality, type of abortion, and gestational age at time of abortion. However, the sample was predominantly white and entirely cis-gender, Victorian participants were overrepresented, and we did not recruit anyone who tried to obtain an abortion but failed to access it. This limits our analysis of intersectional experiences of abortion stigma. Further, participants self-selected into the study, and the sample may reflect those with particularly strong positive or negative experiences or with strong opinions about abortion. Challenges recruiting diverse samples remain in health research [<xref ref-type="bibr" rid="CR71">71</xref>], and stigma research and intervention development should continue to prioritize integrating an expanding range of perspectives.</p>
+      </sec>
+    </sec>
+    <sec id="Sec28" sec-type="conclusion">
+      <title>Conclusions</title>
+      <p id="Par73">Stigma cannot be ignored when considering quality improvement in abortion care. The typologies presented in this paper can inform efforts to reduce stigma in healthcare interactions during abortion care, particularly in ultrasound, bloodwork, contraceptive counseling, and when being referred. Abortion stigma in the health system and at the regulatory level, as well as structural factors limiting health system functioning generally, also shape the behavior of healthcare workers &#x2013; and in doing so, contribute to poor experiences in care. These structural factors too must be addressed in stigma-reduction strategies. Approaches that identify and intervene on stigmatizing interactions between healthcare consumers and providers will have broad applicability to other maternal and reproductive health services globally.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We acknowledge Anisa Assifi, Sarah Baum, Anna Noonan, Sarah Ratcliffe, Mridula Shankar, Angela Taft, Kari Vallury, Kirsten Arnold, and the SPHERE CRE working group for conceptual input that influenced this study. We thank the amazing organizations and clinics across Australia that supported recruitment of participants. And most importantly, we appreciate the participants in this study who shared their experiences with us and supported this research.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>SM led conception and design of the study with input from JF, DB and KIB. SM and MB developed the analysis strategy, SM, MB, and SW conducted analysis and interpretation. SM drafted the paper with substantive contributions from MB. All authors reviewed subsequent drafts, provided substantive revisions, and approved the submitted version.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This analysis was funded by a Seeding Grant from the NHMRC-funded SPHERE Centre for Research Excellence in Sexual and Reproductive Health for Women in Primary Care. The network of researchers affiliated with SPHERE has influenced the conception of the study, and five co-authors (SM, SW, JF, DB, KIB) are affiliated with SPHERE.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Data availability</title>
+      <p>The datasets generated and/or analyzed during the current study are not publicly available for privacy reasons but are available from the corresponding author on reasonable request.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar2">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par75">Ethics approval was obtained from the Monash University Human Research Ethics Committee (ID 30926). All methods were performed in accordance with the Declaration of Helsinki. All participants provided audio-recorded verbal informed consent after reviewing an explanatory statement, as approved by the Monash University Human Research Ethics Committee.</p>
+      </notes>
+      <notes id="FPar3">
+        <title>Consent for publication</title>
+        <p id="Par76">Not applicable.</p>
+      </notes>
+      <notes id="FPar1" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par74">The authors declare no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hatzenbuehler</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma as a fundamental cause of population health inequalities</article-title>
+          <source>Am J Public Health</source>
+          <year>2013</year>
+          <volume>103</volume>
+          <issue>5</issue>
+          <fpage>813</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2012.301069</pub-id>
+          <pub-id pub-id-type="pmid">23488505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stangl</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>van Brakel</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Simbayi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Barr&#xE9;</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The health stigma and discrimination Framework: a global, crosscutting framework to inform research, intervention development, and policy on health-related stigmas</article-title>
+          <source>BMC Med</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>31</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-019-1271-3</pub-id>
+          <pub-id pub-id-type="pmid">30764826</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hussein</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ferguson</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Eliminating stigma and discrimination in sexual and reproductive health care: a public health imperative</article-title>
+          <source>Sex Reprod Health Matters</source>
+          <year>2019</year>
+          <volume>27</volume>
+          <issue>3</issue>
+          <fpage>1</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="doi">10.1080/26410397.2019.1697103</pub-id>
+          <pub-id pub-id-type="pmid">31884899</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bearak</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Popinchalk</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ganatra</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Moller</surname>
+              <given-names>A-B</given-names>
+            </name>
+            <name>
+              <surname>Tun&#xE7;alp</surname>
+              <given-names>&#xD6;</given-names>
+            </name>
+            <name>
+              <surname>Beavin</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Unintended pregnancy and abortion by income, region, and the legal status of abortion: estimates from a comprehensive model for 1990&#x2013;2019</article-title>
+          <source>Lancet Glob Health</source>
+          <year>2020</year>
+          <volume>8</volume>
+          <issue>9</issue>
+          <fpage>e1152</fpage>
+          <lpage>e61</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2214-109X(20)30315-6</pub-id>
+          <pub-id pub-id-type="pmid">32710833</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Millar</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Abortion stigma as a social process</article-title>
+          <source>Women&#x2019;s Stud Int forum</source>
+          <year>2020</year>
+          <volume>78</volume>
+          <fpage>102328</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.wsif.2019.102328</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hessini</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>EMH</given-names>
+            </name>
+          </person-group>
+          <article-title>Conceptualising abortion stigma</article-title>
+          <source>Cult Health Sex</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <issue>6</issue>
+          <fpage>625</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1080/13691050902842741</pub-id>
+          <pub-id pub-id-type="pmid">19437175</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <mixed-citation publication-type="other">Cockrill K, Herold S, Blanchard K, Grossman D, Upadhyay U, Baum SE. Addressing abortion stigma through service delivery: A white paper. 2015.</mixed-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanschmidt</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Linde</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hilbert</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Riedel- Heller</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Kersting</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Abortion stigma: a systematic review</article-title>
+          <source>Perspect Sex Repro H</source>
+          <year>2016</year>
+          <volume>48</volume>
+          <issue>4</issue>
+          <fpage>169</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="doi">10.1363/48e8516</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <mixed-citation publication-type="other">Sorhaindo AM, Lavelanet AF. Why does abortion stigma matter? A scoping review and hybrid analysis of qualitative evidence illustrating the role of stigma in the quality of abortion care. Soc Sci Med. 2022;311.</mixed-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Makleff</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wilkins</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Wachsmann</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wachira</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bunde</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Exploring stigma and social norms in women&#x2019;s abortion experiences and their expectations of care</article-title>
+          <source>Sex Reprod Health Matters</source>
+          <year>2019</year>
+          <volume>27</volume>
+          <issue>3</issue>
+          <fpage>1661753</fpage>
+          <pub-id pub-id-type="pmid">31551027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Debbink</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hassinger</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Youatt</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>Abortion providers, stigma and professional quality of life</article-title>
+          <source>Contraception</source>
+          <year>2014</year>
+          <volume>90</volume>
+          <issue>6</issue>
+          <fpage>581</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.contraception.2014.07.011</pub-id>
+          <pub-id pub-id-type="pmid">25131444</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson-Best</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>
+          <source>BMC Public Health</source>
+          <year>2018</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>919</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id>
+          <pub-id pub-id-type="pmid">30049270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Strong</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Coast</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Nandagiri</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Abortion</surname>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Liamputtong</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma, and intersectionality</article-title>
+          <source>Handbook of Social Sciences and Global Public Health</source>
+          <year>2023</year>
+          <publisher-loc>Cham</publisher-loc>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <fpage>1</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Treloar</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cama</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lancaster</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Brener</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Broady</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Cogle</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A universal precautions approach to reducing stigma in health care: getting beyond HIV-specific stigma</article-title>
+          <source>Harm Reduct J</source>
+          <year>2022</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.1186/s12954-022-00658-w</pub-id>
+          <pub-id pub-id-type="pmid">34996466</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bateson</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Lohr</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Norman</surname>
+              <given-names>WV</given-names>
+            </name>
+            <name>
+              <surname>Moreau</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gemzell-Danielsson</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Blumenthal</surname>
+              <given-names>PD</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The impact of COVID-19 on contraception and abortion care policy and practice: experiences from selected countries</article-title>
+          <source>BMJ Sex Reprod Health</source>
+          <year>2020</year>
+          <volume>46</volume>
+          <issue>4</issue>
+          <fpage>241</fpage>
+          <lpage>3</lpage>
+          <pub-id pub-id-type="doi">10.1136/bmjsrh-2020-200709</pub-id>
+          <pub-id pub-id-type="pmid">32788180</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keogh</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Gillam</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Bismark</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>McNamee</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bayly</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Conscientious objection to abortion, the law and its implementation in Victoria, Australia: perspectives of abortion service providers</article-title>
+          <source>BMC Med Ethics</source>
+          <year>2019</year>
+          <volume>20</volume>
+          <issue>1</issue>
+          <fpage>11</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12910-019-0346-1</pub-id>
+          <pub-id pub-id-type="pmid">30700292</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Ramirez</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Bercu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Filippa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dirisu</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Egwuatu</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>I just have to hope that this abortion should go well&#x201D;: perceptions, fears, and experiences of abortion clients in Nigeria</article-title>
+          <source>PLoS ONE</source>
+          <year>2022</year>
+          <volume>17</volume>
+          <issue>2</issue>
+          <fpage>e0263072</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0263072</pub-id>
+          <pub-id pub-id-type="pmid">35130269</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bercu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Gebrehanna</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ramirez</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Katz</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Filippa</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>I was afraid they will be judging me and even deny me the service&#x201D;: experiences of denial and dissuasion during abortion care in Ethiopia</article-title>
+          <source>Front Global Women&#x2019;s Health</source>
+          <year>2022</year>
+          <volume>3</volume>
+          <fpage>984386</fpage>
+          <pub-id pub-id-type="doi">10.3389/fgwh.2022.984386</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baum</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Wilkins</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Wachira</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Dupte</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ngugi</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Abortion quality of care from the client perspective: a qualitative study in India and Kenya</article-title>
+          <source>Health Policy Plann</source>
+          <year>2021</year>
+          <volume>36</volume>
+          <issue>9</issue>
+          <fpage>1362</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1093/heapol/czab065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whitehouse</surname>
+              <given-names>KC</given-names>
+            </name>
+            <name>
+              <surname>Blaylock</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Makleff</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lohr</surname>
+              <given-names>PA</given-names>
+            </name>
+          </person-group>
+          <article-title>It&#x2019;s a small bit of advice, but actually on the day, made such a difference horizontal ellipsis: perceptions of quality in abortion care in England and Wales</article-title>
+          <source>Reprod Health</source>
+          <year>2021</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>221</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12978-021-01270-0</pub-id>
+          <pub-id pub-id-type="pmid">34743705</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Donnelly</surname>
+              <given-names>KZ</given-names>
+            </name>
+            <name>
+              <surname>Dehlendorf</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Agusti</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Adapting the interpersonal quality in Family Planning care scale to assess patient perspectives on abortion care</article-title>
+          <source>J Patient Rep Outcomes</source>
+          <year>2019</year>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>3</fpage>
+          <pub-id pub-id-type="doi">10.1186/s41687-018-0089-7</pub-id>
+          <pub-id pub-id-type="pmid">30666466</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larson</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nasiri</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bohren</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Tun&#xE7;alp</surname>
+              <given-names>&#xD6;</given-names>
+            </name>
+          </person-group>
+          <article-title>Measuring experiences of facility-based care for pregnant women and newborns: a scoping review</article-title>
+          <source>BMJ Glob Health</source>
+          <year>2020</year>
+          <volume>5</volume>
+          <issue>11</issue>
+          <fpage>e003368</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjgh-2020-003368</pub-id>
+          <pub-id pub-id-type="pmid">33219000</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Larson</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bohren</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Tun&#xE7;alp</surname>
+              <given-names>&#xD6;</given-names>
+            </name>
+          </person-group>
+          <article-title>When the patient is the expert: measuring patient experience and satisfaction with care</article-title>
+          <source>Bull World Health Organ</source>
+          <year>2019</year>
+          <volume>97</volume>
+          <issue>8</issue>
+          <fpage>563</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.2471/BLT.18.225201</pub-id>
+          <pub-id pub-id-type="pmid">31384074</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duffy</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Madevu-Matson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Posner</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Zwick</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sharer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Powell</surname>
+              <given-names>AM</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic review: development of a person&#x2010;centered care framework within the context of HIV treatment settings in sub&#x2010;Saharan Africa</article-title>
+          <source>Trop Med Int Health</source>
+          <year>2022</year>
+          <volume>27</volume>
+          <issue>5</issue>
+          <fpage>479</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1111/tmi.13746</pub-id>
+          <pub-id pub-id-type="pmid">35316549</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <mixed-citation publication-type="other">inroads. Abortion Stigma and Quality of Care: a Framework for Analysis and Synthesis. 2015.</mixed-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <mixed-citation publication-type="other">Sifris R, Penovic T. Barriers to abortion access in Australia before and during the COVID-19 pandemic. Women&#x2019;s Stud Int Forum. 2021;86.</mixed-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mazza</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Boulton</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Fairweather</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Black</surname>
+              <given-names>KI</given-names>
+            </name>
+          </person-group>
+          <article-title>Medical abortion</article-title>
+          <source>Aust J Gen Pract</source>
+          <year>2020</year>
+          <volume>49</volume>
+          <issue>6</issue>
+          <fpage>324</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.31128/AJGP-02-20-5223</pub-id>
+          <pub-id pub-id-type="pmid">32464732</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <mixed-citation publication-type="other"><italic>Abortion Law Reform Act 2008</italic> (Vic).</mixed-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <mixed-citation publication-type="other"><italic>Termination of pregnancy Law Reform Act 2017</italic> (NT).</mixed-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <mixed-citation publication-type="other"><italic>Abortion Law Reform Act 2019</italic> (NSW).</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newton</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bayly</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>McNamee</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hardiman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bismark</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>How do women seeking abortion choose between surgical and medical abortion? Perspectives from abortion service providers</article-title>
+          <source>Aust N Z J Obstet Gynaecol</source>
+          <year>2016</year>
+          <volume>56</volume>
+          <issue>5</issue>
+          <fpage>523</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1111/ajo.12506</pub-id>
+          <pub-id pub-id-type="pmid">27530690</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Ending the postcode lottery</collab>
+          </person-group>
+          <source>Addressing barriers to sexual, maternity and reproductive healthcare in Australia</source>
+          <year>2023</year>
+          <publisher-loc>Canberra</publisher-loc>
+          <publisher-name>Commonwealth of Australia</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Humphreys</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Wakerman</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>What progress can the australian Journal of Rural Health celebrate on its thirtieth anniversary?</article-title>
+          <source>Aust J Rural Health</source>
+          <year>2022</year>
+          <volume>30</volume>
+          <issue>5</issue>
+          <fpage>566</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1111/ajr.12928</pub-id>
+          <pub-id pub-id-type="pmid">36217998</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melville</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Abortion care in Australasia: A matter of health, not politics or religion</article-title>
+          <source>Aust N Z J Obstet Gynaecol</source>
+          <year>2022</year>
+          <volume>62</volume>
+          <issue>2</issue>
+          <fpage>187</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1111/ajo.13501</pub-id>
+          <pub-id pub-id-type="pmid">35482706</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fehlberg</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Rose</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Guest</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Watters</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>The surgical burden of disease and perioperative mortality in patients admitted to hospitals in Victoria, Australia: a population-level observational study</article-title>
+          <source>BMJ Open</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <issue>5</issue>
+          <fpage>e028671</fpage>
+          <pub-id pub-id-type="doi">10.1136/bmjopen-2018-028671</pub-id>
+          <pub-id pub-id-type="pmid">31118179</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keogh</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Gurrin</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Estimating the abortion rate in Australia from National Hospital Morbidity and Pharmaceutical benefits Scheme data</article-title>
+          <source>Med J Aust</source>
+          <year>2021</year>
+          <volume>215</volume>
+          <issue>8</issue>
+          <fpage>375</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="doi">10.5694/mja2.51217</pub-id>
+          <pub-id pub-id-type="pmid">34365649</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haining</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Willmott</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Keogh</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Abortion Law in Australia: conscientious objection and implications for Access</article-title>
+          <source>Monash Univ Law Rev</source>
+          <year>2022</year>
+          <volume>48</volume>
+          <issue>2</issue>
+          <fpage>1</fpage>
+          <lpage>35</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cheng</surname>
+              <given-names>HC</given-names>
+            </name>
+            <name>
+              <surname>Black</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Woods</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Views and practices of induced abortion among australian fellows and trainees of the Royal Australian and New Zealand College of Obstetricians and Gynaecologists: a second study</article-title>
+          <source>Aust N Z J Obstet Gynaecol</source>
+          <year>2020</year>
+          <volume>60</volume>
+          <issue>2</issue>
+          <fpage>290</fpage>
+          <lpage>5</lpage>
+          <pub-id pub-id-type="doi">10.1111/ajo.13038</pub-id>
+          <pub-id pub-id-type="pmid">31328257</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bateson</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>McNamee</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Harvey</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Medical abortion in primary care</article-title>
+          <source>Aust Prescr</source>
+          <year>2021</year>
+          <volume>44</volume>
+          <issue>6</issue>
+          <fpage>187</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.18773/austprescr.2021.050</pub-id>
+          <pub-id pub-id-type="pmid">35002030</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hulme-Chambers</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Clune</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tomnay</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Medical termination of pregnancy service delivery in the context of decentralization: social and structural influences</article-title>
+          <source>Int J Equity Health</source>
+          <year>2018</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>172</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12939-018-0888-8</pub-id>
+          <pub-id pub-id-type="pmid">30463561</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dawson</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Nicolls</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bateson</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Doab</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Estoesta</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Brassil</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Medical termination of pregnancy in general practice in Australia: a descriptive-interpretive qualitative study</article-title>
+          <source>Reprod Health</source>
+          <year>2017</year>
+          <volume>14</volume>
+          <issue>1</issue>
+          <fpage>39</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12978-017-0303-8</pub-id>
+          <pub-id pub-id-type="pmid">28288649</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keogh</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Newton</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Bayly</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>McNamee</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hardiman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Webster</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Intended and unintended consequences of abortion law reform: perspectives of abortion experts in Victoria, Australia</article-title>
+          <source>J Fam Plann Reprod Health Care</source>
+          <year>2017</year>
+          <volume>43</volume>
+          <issue>1</issue>
+          <fpage>18</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="doi">10.1136/jfprhc-2016-101541</pub-id>
+          <pub-id pub-id-type="pmid">27913574</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LaRoche</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wynn</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Foster</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>We have to make sure you meet certain criteria&#x201D;: exploring patient experiences of the criminalisation of abortion in Australia</article-title>
+          <source>Public Health Res Pract</source>
+          <year>2021</year>
+          <volume>31</volume>
+          <issue>3</issue>
+          <fpage>e30342011</fpage>
+          <pub-id pub-id-type="doi">10.17061/phrp30342011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Doran</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Hornibrook</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Barriers around access to abortion experienced by rural women in New South Wales, Australia</article-title>
+          <source>Rural Remote Health</source>
+          <year>2016</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>3538</fpage>
+          <pub-id pub-id-type="pmid">26987999</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <mixed-citation publication-type="other">Creswell JW, Poth CN. Qualitative inquiry &amp; research design: choosing among five approaches. Fourth edition. ed. Los Angeles: SAGE; 2018. xxv, 459 pages p.</mixed-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <mixed-citation publication-type="other">Sudhinaraset M, Afulani P, Diamond-Smith N, Bhattacharyya S, Donnay F, Montagu D. Advancing a conceptual model to improve maternal health quality: the person-centered Care Framework for Reproductive Health Equity. Gates Open Research; 2017.</mixed-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altshuler</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Whaley</surname>
+              <given-names>NS</given-names>
+            </name>
+          </person-group>
+          <article-title>The patient perspective: perceptions of the quality of the abortion experience</article-title>
+          <source>Curr Opin Obstet Gynecol</source>
+          <year>2018</year>
+          <volume>30</volume>
+          <issue>6</issue>
+          <fpage>407</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="doi">10.1097/GCO.0000000000000492</pub-id>
+          <pub-id pub-id-type="pmid">30299320</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <mixed-citation publication-type="other">Belfrage M, Didier E, V&#xE1;zquez-Quesada L. Voicing abortion experiences to reduce Stigma: Lessons from an online storytelling platform in Mexico. Women&#x2019;s reproductive health. 2021:1&#x2013;15.</mixed-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bohren</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vazquez Corona</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Odiase</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sudhinaraset</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Diamond-Smith</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Strategies to reduce stigma and discrimination in sexual and reproductive healthcare settings: a mixed-methods systematic review</article-title>
+          <source>PLOS Glob Public Health</source>
+          <year>2022</year>
+          <volume>2</volume>
+          <issue>6</issue>
+          <fpage>e0000582</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pgph.0000582</pub-id>
+          <pub-id pub-id-type="pmid">36962453</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <mixed-citation publication-type="other">Hyman AG, Castleman L. Woman-centered abortion care. Ipas; 2005.</mixed-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <mixed-citation publication-type="other">Australian Commission on Safety and Quality in Healthcare. Australian Safety and Quality Framework for Health Care. 2012.</mixed-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <mixed-citation publication-type="other">International Planned Parenthood Federation. Quality of care framework. 2015.</mixed-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arena</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Moro</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Degli Esposti</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Zanello</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lenzi</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Casadio</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>How much will it hurt? Factors associated with pain experience in women undergoing medication abortion during the first trimester</article-title>
+          <source>Contraception</source>
+          <year>2023</year>
+          <volume>119</volume>
+          <fpage>109916</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.contraception.2022.11.007</pub-id>
+          <pub-id pub-id-type="pmid">36470325</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kjelsvik</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sekse</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Aasen</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Gjengedal</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Viewing the image? Ultrasound examination during abortion preparations, ethical challenges</article-title>
+          <source>Nurs Ethics</source>
+          <year>2022</year>
+          <volume>29</volume>
+          <issue>2</issue>
+          <fpage>511</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1177/09697330211051009</pub-id>
+          <pub-id pub-id-type="pmid">34872423</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Purcell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cameron</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lawton</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Glasier</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Harden</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Contraceptive care at the time of medical abortion: experiences of women and health professionals in a hospital or community sexual and reproductive health context</article-title>
+          <source>Contraception</source>
+          <year>2016</year>
+          <volume>93</volume>
+          <issue>2</issue>
+          <fpage>170</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.contraception.2015.09.016</pub-id>
+          <pub-id pub-id-type="pmid">26434646</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dehlendorf</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Diedrich</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Drey</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Postone</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Steinauer</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Preferences for decision-making about contraception and general health care among reproductive age women at an abortion clinic</article-title>
+          <source>Patient Educ Couns</source>
+          <year>2010</year>
+          <volume>81</volume>
+          <issue>3</issue>
+          <fpage>343</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.pec.2010.06.021</pub-id>
+          <pub-id pub-id-type="pmid">20650593</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Marston</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Tabot</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>How can we put rights at the core of global family planning?</article-title>
+          <source>The Lancet</source>
+          <year>2023</year>
+          <volume>401</volume>
+          <issue>10394</issue>
+          <fpage>2096</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(23)00523-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Baird</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Decriminalization and women&#x2019;s Access to Abortion in Australia</article-title>
+          <source>Health Hum Rights</source>
+          <year>2017</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>197</fpage>
+          <lpage>208</lpage>
+          <pub-id pub-id-type="pmid">28630552</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Millar</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Maintaining exceptionality: interrogating gestational limits for abortion</article-title>
+          <source>Social &amp; Legal Studies</source>
+          <year>2022</year>
+          <volume>31</volume>
+          <issue>3</issue>
+          <fpage>439</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="doi">10.1177/09646639211032317</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <mixed-citation publication-type="other">Noonan A, Black KI, Luscombe GM, Tomnay J. What women want from local primary care services for unintended pregnancy in rural Australia: a qualitative study from rural New South Wales. Aust J Prim Health. 2022(3):244&#x2013;51.</mixed-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sivertsen</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Abigail</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Tieu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Eastman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>McCloud</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Thomson</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>What women want: women&#x2019;s health in Rural and Regional Australia &#x2013; Insights from an interprofessional research collaboration between academic researchers, nursing clinicians, and industry professionals</article-title>
+          <source>Health Soc Care Commun</source>
+          <year>2022</year>
+          <volume>30</volume>
+          <issue>5</issue>
+          <fpage>e2236</fpage>
+          <lpage>e44</lpage>
+          <pub-id pub-id-type="doi">10.1111/hsc.13661</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <mixed-citation publication-type="other">Sorhaindo A, Rehnstrom Loi U. Interventions to reduce stigma related to contraception and abortion: a scoping review. BMJ Open. 2022;12(11).</mixed-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bohren</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Hunter</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Lutsiv</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Makh</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Souza</surname>
+              <given-names>JP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The mistreatment of women during Childbirth in Health Facilities globally: a mixed-methods systematic review</article-title>
+          <source>PLoS Med</source>
+          <year>2015</year>
+          <volume>12</volume>
+          <issue>6</issue>
+          <fpage>e1001847</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1001847</pub-id>
+          <pub-id pub-id-type="pmid">26126110</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <mixed-citation publication-type="other">Brewis A, Wutich A. Lazy, Crazy, and disgusting: Stigma and the undoing of Global Health. Johns Hopkins University Press; 2019.</mixed-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <mixed-citation publication-type="other">Kutner B, Vaughn M, Giguere R, Rodriguez-Hart C, McKinnon K, Kaighobadi F et al. A systematic review of intervention studies that address HIV-related stigmas among US healthcare workers and health systems: applying a theory-based ontology to link intervention types, techniques, and mechanisms of action to potential effectiveness. Ann Behav Med. 2023;In press.</mixed-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Turner</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Pearson</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>George</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Andersen</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>Values clarification workshops to improve abortion knowledge, attitudes and intentions: a pre-post assessment in 12 countries</article-title>
+          <source>Reprod Health</source>
+          <year>2018</year>
+          <volume>15</volume>
+          <issue>1</issue>
+          <fpage>40</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12978-018-0480-0</pub-id>
+          <pub-id pub-id-type="pmid">29506542</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ratcliffe</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Smylie</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Pinkus</surname>
+              <given-names>RT</given-names>
+            </name>
+            <name>
+              <surname>Dar-Nimrod</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Juraskova</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Dhillon</surname>
+              <given-names>HM</given-names>
+            </name>
+          </person-group>
+          <article-title>What is the optimal tool for measuring abortion stigma? A systematic review</article-title>
+          <source>Eur J Contracept Reprod Health Care</source>
+          <year>2023</year>
+          <volume>28</volume>
+          <issue>2</issue>
+          <fpage>97</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="doi">10.1080/13625187.2023.2177506</pub-id>
+          <pub-id pub-id-type="pmid">36803281</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McMahon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Steiner</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Snyder</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Banyard</surname>
+              <given-names>VL</given-names>
+            </name>
+          </person-group>
+          <article-title>Comprehensive Prevention of campus sexual violence: expanding who is invited to the table</article-title>
+          <source>Trauma Violence Abuse</source>
+          <year>2021</year>
+          <volume>22</volume>
+          <issue>4</issue>
+          <fpage>843</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="doi">10.1177/1524838019883275</pub-id>
+          <pub-id pub-id-type="pmid">31690226</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meiksin</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Crichton</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Morgan</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Willmott</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Implementing a whole-school relationships and sex education intervention to prevent dating and relationship violence: evidence from a pilot trial in English secondary schools</article-title>
+          <source>Sex Educ</source>
+          <year>2020</year>
+          <volume>20</volume>
+          <issue>6</issue>
+          <fpage>658</fpage>
+          <lpage>74</lpage>
+          <pub-id pub-id-type="doi">10.1080/14681811.2020.1729718</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joffe</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Schroeder</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19, health care, and abortion exceptionalism in the United States</article-title>
+          <source>Perspect Sex Reprod Health</source>
+          <year>2021</year>
+          <volume>53</volume>
+          <issue>1&#x2013;2</issue>
+          <fpage>5</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="doi">10.1363/psrh.12182</pub-id>
+          <pub-id pub-id-type="pmid">34437762</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR71">
+        <label>71.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Webb</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Khubchandani</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Striley</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>Cottler</surname>
+              <given-names>LB</given-names>
+            </name>
+          </person-group>
+          <article-title>Black&#x2013;white differences in willingness to participate and perceptions about Health Research: results from the Population-Based HealthStreet Study</article-title>
+          <source>J Immigr Minor Health</source>
+          <year>2019</year>
+          <volume>21</volume>
+          <issue>2</issue>
+          <fpage>299</fpage>
+          <lpage>306</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10903-018-0729-2</pub-id>
+          <pub-id pub-id-type="pmid">29603088</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

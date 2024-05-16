@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+  <?properties manuscript?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">101235661</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">32548</journal-id>
+      <journal-id journal-id-type="nlm-ta">Curr HIV/AIDS Rep</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Curr HIV/AIDS Rep</journal-id>
+      <journal-title-group>
+        <journal-title>Current HIV/AIDS reports</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1548-3568</issn>
+      <issn pub-type="epub">1548-3576</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">36048310</article-id>
+      <article-id pub-id-type="pmc">10546998</article-id>
+      <article-id pub-id-type="doi">10.1007/s11904-022-00619-9</article-id>
+      <article-id pub-id-type="manuscript">NIHMS1862774</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Measuring and Addressing Stigma Within HIV Interventions for People Who Use Drugs: a Scoping Review of Recent Research</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lancaster</surname>
+            <given-names>Kathryn E.</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Endres-Dighe</surname>
+            <given-names>Stacy</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sucaldito</surname>
+            <given-names>Ana D.</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Piscalko</surname>
+            <given-names>Hannah</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Madhu</surname>
+            <given-names>Aarti</given-names>
+          </name>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kiriazova</surname>
+            <given-names>Tetiana</given-names>
+          </name>
+          <xref rid="A3" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Batchelder</surname>
+            <given-names>Abigail W.</given-names>
+          </name>
+          <xref rid="A2" ref-type="aff">2</xref>
+          <xref rid="A4" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><label>1</label>College of Public Health, The Ohio State University, Columbus, OH, USA</aff>
+      <aff id="A2"><label>2</label>The Fenway Institute, Fenway Health, Boston, MA, USA</aff>
+      <aff id="A3"><label>3</label>Ukrainian Institute On Public Health Policy, Kiev, Ukraine</aff>
+      <aff id="A4"><label>4</label>Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA</aff>
+      <author-notes>
+        <corresp id="CR1"><label>&#x2709;</label>Kathryn E. Lancaster, <email>lancaster.111@osu.edu</email></corresp>
+        <fn fn-type="COI-statement" id="FN3">
+          <p id="P38"><bold>Conflict of Interest</bold> The authors declare no competing interests.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>15</day>
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>01</day>
+        <month>9</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>03</day>
+        <month>10</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>19</volume>
+      <issue>5</issue>
+      <fpage>301</fpage>
+      <lpage>311</lpage>
+      <abstract id="ABS1">
+        <sec id="S1">
+          <title>Purpose of Review</title>
+          <p id="P1">Persistent stigma remains a crucial barrier to HIV prevention and treatment services among people who use drugs (PWUD), particularly for those living with or at-risk for HIV. This scoping review examines the current state of science with regard to approaches for measuring and addressing stigma within HIV interventions among PWUD.</p>
+        </sec>
+        <sec id="S2">
+          <title>Recent Findings</title>
+          <p id="P2">Sixteen studies fit the inclusion criteria for this review. Half the studies originated within the USA, and the remaining represented four different regions. Within these studies, stigma was measured using various quantitative, qualitative, and mixed methods. The studies primarily focused on HIV stigma, including value-based judgments, anticipated stigma, and perceived stigma domains. Information-based and skills building approaches at the individual level were the most common for the stigma reduction interventions.</p>
+        </sec>
+        <sec id="S3">
+          <title>Summary</title>
+          <p id="P3">Adoption of systematic evaluations is needed for measuring stigma, including intersectional stigma, within HIV interventions among PWUD. Future studies should focus on developing multilevel intersectional stigma reduction interventions for PWUD with and at-risk for HIV globally.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>HIV</kwd>
+        <kwd>People Who Use Drugs</kwd>
+        <kwd>Substance Use</kwd>
+        <kwd>Stigma</kwd>
+        <kwd>Intersectionality</kwd>
+        <kwd>Scoping Review</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+</article>
+</pmc-articleset>
