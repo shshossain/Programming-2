@@ -1,4 +1,4 @@
-## The article 'Software Engineering for Machine Learning: Characterizing and Detecting Mismatch in Machine-Learning Systems' by Lewis and Ozkaya (2021)
+## 'Software Engineering for Machine Learning: Characterizing and Detecting Mismatch in Machine-Learning Systems' by Lewis and Ozkaya (2021)
 
 The article discusses the challenges of integrating machine learning models into software systems. The authors identify several categories of mismatches that can occur during development. The authors propose using machine-readable descriptors to capture information about machine learning models. These descriptors could be used to identify potential mismatches early in the development process.
 
@@ -15,6 +15,7 @@ The article discusses the challenges of integrating machine learning models into
 **Operational Data Mismatch**: This arises when the data used to train the model doesn't accurately represent the operational environment, impacting model performance. For example, the training data may not account for certain real-world scenarios, leading to inaccuracies during model deployment.
 
 **Training Data Mismatch**: Stemming from inadequate details about data preparation pipelines, this hinders effective feature engineering and model development. For instance, a lack of documentation on data preprocessing steps restricts the exploration of alternative feature engineering approaches.
+
 
 
 ## 'Tackling Collaboration Challenges in the Development of ML-Enabled Systems' by Lewis (2023)
