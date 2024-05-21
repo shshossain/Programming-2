@@ -1,1 +1,2 @@
-
+# Parallelized Download of PubMed References using Biopython
+In this assignment, we aim to leverage the power of parallel processing to download PubMed references referenced by a given article. We will use the Biopython package, particularly the Entrez class, to query PubMed and obtain the references. Then, we will use multiprocessing to download the full records of the first ten references in XML format.
