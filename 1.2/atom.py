@@ -72,7 +72,7 @@ class Atom:
         if self.atom_number != other.atom_number:
             raise ValueError("not the same atomic number")
 
-
+#check implementation
 protium = Atom('H', 1, 1)
 deuterium = Atom('H', 1, 2)
 oxygen = Atom('O', 8, 8)
@@ -84,4 +84,4 @@ assert tritium.mass_number() == 4
 assert protium < deuterium
 assert deuterium <= tritium
 assert tritium >= protium
-#print (oxygen > tritium) # <-- this should raise an Exception
+#print (oxygen > tritium) #raise an Exception
