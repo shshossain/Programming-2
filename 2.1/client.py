@@ -13,9 +13,9 @@ class NetworkClient:
 
 async def main():
     tasks = [
-        NetworkClient("http://localhost:9000/data/all").to_fetch(),
-        NetworkClient("http://localhost:9000/data/1997").to_fetch(),
-        NetworkClient("http://localhost:9000/data/1997/2002").to_fetch()
+        NetworkClient("http://localhost:8080/data/all").to_fetch(),
+        NetworkClient("http://localhost:8080/data/1997").to_fetch(),
+        NetworkClient("http://localhost:8080/data/1997/2002").to_fetch()
     ]
     await asyncio.gather(*tasks)
 if __name__ == '__main__':
