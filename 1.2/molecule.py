@@ -18,14 +18,8 @@ class Molecule:
         Returns the molecule's chemical formula.
 
         """
-        formula = ""
-        for atom, count in self.atoms:
-            if count > 1:
-                formula += f"{atom.symbol}{count}"
-            else:
-                formula += atom.symbol
-        return formula
-
+        return ''.join(f"{atom.symbol}{count if count > 1 else ''}" for atom, count in self.atoms)
+        
     def __add__(self, other):
         """
         Adds two Molecule objects together to create a new Molecule.
