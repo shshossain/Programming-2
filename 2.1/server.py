@@ -35,7 +35,7 @@ class ServerHandler(SimpleHTTPRequestHandler):
             self.send_error(400)
 
 if __name__ == "__main__":  
-    port = 9000
+    port = 8080
     with socketserver.TCPServer(("localhost", port), ServerHandler) as httpd:
         print(f"Serving on port {port}")
         httpd.serve_forever()
