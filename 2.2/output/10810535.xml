@@ -1,0 +1,575 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">PLOS Glob Public Health</journal-id><journal-id journal-id-type="iso-abbrev">PLOS Glob Public Health</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-title-group><journal-title>PLOS Global Public Health</journal-title></journal-title-group><issn pub-type="epub">2767-3375</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, CA USA</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38271434</article-id><article-id pub-id-type="pmc">10810535</article-id><article-id pub-id-type="doi">10.1371/journal.pgph.0002442</article-id><article-id pub-id-type="publisher-id">PGPH-D-23-01259</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Immunodeficiency Viruses</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and life sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>RNA viruses</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Microbiology</subject><subj-group><subject>Medical Microbiology</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Pathology and Laboratory Medicine</subject><subj-group><subject>Pathogens</subject><subj-group><subject>Microbial Pathogens</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Biology and Life Sciences</subject><subj-group><subject>Organisms</subject><subj-group><subject>Viruses</subject><subj-group><subject>Viral Pathogens</subject><subj-group><subject>Retroviruses</subject><subj-group><subject>Lentivirus</subject><subj-group><subject>HIV</subject></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Geographical Locations</subject><subj-group><subject>Africa</subject><subj-group><subject>Zimbabwe</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Mental Health and Psychiatry</subject></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Sociology</subject><subj-group><subject>Human Families</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>People and Places</subject><subj-group><subject>Population Groupings</subject><subj-group><subject>Sexuality Groupings</subject><subj-group><subject>Homosexuals</subject></subj-group></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and Health Sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>Medical Risk Factors</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Medicine and health sciences</subject><subj-group><subject>Epidemiology</subject><subj-group><subject>HIV epidemiology</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v3"><subject>Social Sciences</subject><subj-group><subject>Sociology</subject><subj-group><subject>Social Discrimination</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Leaving no one behind? Addressing inequitable HIV outcomes by attending to diversity: A qualitative study exploring the needs of LGBTQI+ young people living with HIV in Zimbabwe</article-title><alt-title alt-title-type="running-head">Addressing inequitable HIV outcomes among LGBTQI+ young people living with HIV in Zimbabwe</alt-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-1240-6916</contrib-id><name><surname>Lariat</surname><given-names>Joni</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-1881-4398</contrib-id><name><surname>Mavhu</surname><given-names>Webster</given-names></name><role content-type="http://credit.niso.org/contributor-roles/funding-acquisition/">Funding acquisition</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="aff003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="cor001" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0009-0006-7955-252X</contrib-id><name><surname>Mudhumo</surname><given-names>Thandiwe</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Shaba</surname><given-names>Pueshpa</given-names></name><role content-type="http://credit.niso.org/contributor-roles/data-curation/">Data curation</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sibanda</surname><given-names>Sharon</given-names></name><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mbundure</surname><given-names>Rufaro</given-names></name><role content-type="http://credit.niso.org/contributor-roles/investigation/">Investigation</role><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><xref rid="aff002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wogrin</surname><given-names>Carol</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mutsinze</surname><given-names>Abigail</given-names></name><role content-type="http://credit.niso.org/contributor-roles/project-administration/">Project administration</role><role content-type="http://credit.niso.org/contributor-roles/resources/">Resources</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Willis</surname><given-names>Nicola</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bernays</surname><given-names>Sarah</given-names></name><role content-type="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role><role content-type="http://credit.niso.org/contributor-roles/formal-analysis/">Formal analysis</role><role content-type="http://credit.niso.org/contributor-roles/methodology/">Methodology</role><role content-type="http://credit.niso.org/contributor-roles/supervision/">Supervision</role><role content-type="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing &#x2013; original draft</role><role content-type="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing &#x2013; review &amp; editing</role><xref rid="aff001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="aff005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="aff001"><label>1</label>
+<addr-line>School of Public Health, University of Sydney, Sydney, Australia</addr-line></aff><aff id="aff002"><label>2</label>
+<addr-line>Centre for Sexual Health and HIV/AIDS Research (CeSHHAR), Harare, Zimbabwe</addr-line></aff><aff id="aff003"><label>3</label>
+<addr-line>Department of International Public Health, Liverpool School of Tropical Medicine, Liverpool, United Kingdom</addr-line></aff><aff id="aff004"><label>4</label>
+<addr-line>Zvandiri, Harare, Zimbabwe</addr-line></aff><aff id="aff005"><label>5</label>
+<addr-line>Global Health and Development, London School of Hygiene and Tropical Medicine, London, United Kingdom</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Leslie</surname><given-names>Hannah Hogan</given-names></name><role>Editor</role><xref rid="edit1" ref-type="aff"/></contrib></contrib-group><aff id="edit1">
+<addr-line>University of California San Francisco, UNITED STATES</addr-line>
+</aff><author-notes><fn fn-type="COI-statement" id="coi001"><p>The authors have declared that no competing interests exist.</p></fn><corresp id="cor001">* E-mail: <email>webster@ceshhar.co.zw</email></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>1</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>4</volume><issue>1</issue><elocation-id>e0002442</elocation-id><history><date date-type="received"><day>7</day><month>7</month><year>2023</year></date><date date-type="accepted"><day>2</day><month>1</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; 2024 Lariat et al</copyright-statement><copyright-year>2024</copyright-year><copyright-holder>Lariat et al</copyright-holder><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="pgph.0002442.pdf"/><abstract><p>Leaving nobody behind in the fight to end the HIV epidemic as a public health threat depends on addressing inequities in optimal HIV outcomes. Consistently overlooked in research, policy and programming are young lesbian, gay, bisexual, transgender, queer/questioning and intersex (LGBTQI+) people who are living with HIV. This study engaged young LGBTQI+ people in Zimbabwe to better understand their experiences of living with HIV and the support they need. Between September 2022 and February 2023, we conducted qualitative research with 14 LGBTQI+ young people (18&#x2013;24 years), (two focus group discussions and in-depth interviews with 5/14). All 14 participants were accessing a LGBTQI+ HIV support group at Zvandiri (&#x2018;As I Am&#x2019;), a well-established community-based HIV program. We conducted thematic analysis and key findings informed the collaborative development of internal activities to further enhance inclusivity of LGBTQI+ young people within Zvandiri&#x2019;s programs. There was consensus among participants that being LGBTQI+ and living with HIV leads to <italic toggle="yes">&#x201C;double stigma and double trouble&#x201D;</italic>, involving physical and verbal harassment, social exclusion and family rejection. Participants concealed their LGBTQI+ identity and HIV status in most situations, and many withheld their HIV status in LGBTQI+ social spaces, including community-led LGBTQI+ services. This negatively impacted their psychosocial well-being and social connectedness. Participants described positive experiences of Zvandiri. Interacting with others living with HIV in a destigmatising environment promoted self-acceptance. However, reflecting their prevailing experiences, participants were cautious about revealing their sexuality and/or gender identity at Zvandiri outside of their support group. Ensuring equitable access to HIV care, including mental health support, relies on understanding the challenges experienced by those most marginalised. Critically important is understanding the impact of intersectional stigma on LGBTQI+ young peoples&#x2019; social lives, and their access to services. Community-based HIV support programs are well-positioned to support and advance this group&#x2019;s health rights.</p></abstract><funding-group><award-group id="award001"><funding-source>
+<institution-wrap><institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100011730</institution-id><institution>Templeton World Charity Foundation</institution></institution-wrap>
+</funding-source><award-id>TWCF-2021-20629</award-id><principal-award-recipient>
+<contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0003-1881-4398</contrib-id>
+<name><surname>Mavhu</surname><given-names>Webster</given-names></name>
+</principal-award-recipient></award-group><funding-statement>This project was made possible through the support of a grant from Templeton World Charity Foundation, Inc (funder DOI 501100011730) through grant <ext-link xlink:href="https://doi.org/10.54224/20629" ext-link-type="uri">https://doi.org/10.54224/20629</ext-link> to WM. The opinions expressed in this publication are those of the authors and do not necessarily reflect the views of Templeton World Charity Foundation, Inc. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. For the purpose of open access, the authors have applied a CC-BY public copyright license to any author accepted manuscript version arising from this submission.</funding-statement></funding-group><counts><fig-count count="0"/><table-count count="0"/><page-count count="16"/></counts><custom-meta-group><custom-meta id="data-availability"><meta-name>Data Availability</meta-name><meta-value>Data is held and available upon reasonable request via a non-author point of contact: Institution: Centre for Sexual Health and HIV/AIDS Research (CeSHHAR) Zimbabwe. Contact Person: Data Manager, Jeffrey Dirawo (<email>jeffrey@ceshhar.co.zw</email>).</meta-value></custom-meta></custom-meta-group></article-meta><notes><title>Data Availability</title><p>Data is held and available upon reasonable request via a non-author point of contact: Institution: Centre for Sexual Health and HIV/AIDS Research (CeSHHAR) Zimbabwe. Contact Person: Data Manager, Jeffrey Dirawo (<email>jeffrey@ceshhar.co.zw</email>).</p></notes></front>
+  <body>
+    <sec sec-type="intro" id="sec001">
+      <title>Introduction</title>
+      <sec id="sec002">
+        <title>Pursuing targets: Who is left out?</title>
+        <p>By 2025, the Global (95-95-95) HIV targets are that 95% of all people living with HIV know their status, 95% of those with HIV are on sustained treatment and 95% of those on treatment are virally suppressed [<xref rid="pgph.0002442.ref001" ref-type="bibr">1</xref>]. Although there have been significant advancements towards these targets, progress has been uneven between and within countries, and in some settings, there has been a resurgence in new infections among marginalised groups [<xref rid="pgph.0002442.ref002" ref-type="bibr">2</xref>]. This disparity in outcomes has drawn attention to those left behind in current approaches to ending HIV and the persistent, and in some settings, growing inequities in access to HIV care [<xref rid="pgph.0002442.ref002" ref-type="bibr">2</xref>]. Subsequently, this has prompted recognition of the need for new strategies to address the social and political barriers that amplify stigma and discrimination, and often criminalisation, that increases marginalised groups&#x2019; vulnerability to HIV [<xref rid="pgph.0002442.ref003" ref-type="bibr">3</xref>, <xref rid="pgph.0002442.ref004" ref-type="bibr">4</xref>].</p>
+        <p>Key population groups, which include men who have sex with men, transgender people, sex workers, people who inject drugs and people in prison or detention, receive less dedicated funding and resources to address the structural barriers that create their marginalisation [<xref rid="pgph.0002442.ref002" ref-type="bibr">2</xref>, <xref rid="pgph.0002442.ref005" ref-type="bibr">5</xref>&#x2013;<xref rid="pgph.0002442.ref007" ref-type="bibr">7</xref>]. Although HIV prevalence data and other measures are underestimated due to the inaccessibility of services [<xref rid="pgph.0002442.ref004" ref-type="bibr">4</xref>], key populations, and especially young people within these groups, are exposed to higher risk across each stage of the HIV care cascade (testing, early treatment, viral suppression) [<xref rid="pgph.0002442.ref008" ref-type="bibr">8</xref>&#x2013;<xref rid="pgph.0002442.ref010" ref-type="bibr">10</xref>]. While there has been considerable research worldwide, reflecting the rich regional variability of issues that contribute to poor HIV-related health outcomes for adult key populations [<xref rid="pgph.0002442.ref011" ref-type="bibr">11</xref>&#x2013;<xref rid="pgph.0002442.ref014" ref-type="bibr">14</xref>], there are comparatively fewer dedicated qualitative studies focusing on the different challenges and experiences of young people.</p>
+        <p>There has been a growing emphasis in international guidelines on the different needs of young key populations, including the promotion of greater inclusion within existing youth services [<xref rid="pgph.0002442.ref005" ref-type="bibr">5</xref>]. However, there is a lack of general understanding about how young key populations experience and perceive these services. In particular, there is currently little insight into how young key populations&#x2019; perceptions and subsequent engagement is shaped by local social and political conditions. Under-recognised too, is the heterogeneity among and within key populations, highlighting the need for greater investment in hearing directly from young people living in a range of contexts.</p>
+        <p>Lesbian, gay, bisexual, transgender, queer/questioning, intersex and other sexuality, and gender diverse (LGBTQI+) young people&#x2019;s experiences of stigma and discrimination when accessing health services have been documented in many settings [<xref rid="pgph.0002442.ref015" ref-type="bibr">15</xref>&#x2013;<xref rid="pgph.0002442.ref018" ref-type="bibr">18</xref>], with an emerging literature from Southern Africa [<xref rid="pgph.0002442.ref019" ref-type="bibr">19</xref>]. Yet, there is very little research from the Southern African region that foregrounds the voices and perspectives of young people, particularly those who are affected by multiple systems of marginalisation, such as those living with HIV and are LGBTQI+. This research responds to this evidence gap.</p>
+        <p>Importantly, not all sexuality and gender diverse people are classified as &#x2018;key populations&#x2019;. Lesbian, bisexual, queer and non-binary people, for example, are not included in key population policies and programming, despite their heightened risk of sexual violence in many settings, which significantly increases their risk of HIV and poor HIV-related health outcomes [<xref rid="pgph.0002442.ref020" ref-type="bibr">20</xref>, <xref rid="pgph.0002442.ref021" ref-type="bibr">21</xref>]. Due to their invisibility within narrow definitions of risk, these groups are persistently left out of research and subsequent programming. This research responds to these omissions by adopting a more expansive and person-centred approach to ensure equitable representation of the diverse young people who are accessing HIV support services.</p>
+      </sec>
+      <sec id="sec003">
+        <title>The invisibility of LGBTQI+ young people living with HIV in Zimbabwe</title>
+        <p>While Zimbabwe has surpassed the 95-95-95 targets in 2022 [<xref rid="pgph.0002442.ref022" ref-type="bibr">22</xref>], recent studies have illustrated persistent disparities in HIV outcomes for the country&#x2019;s marginalised populations [<xref rid="pgph.0002442.ref023" ref-type="bibr">23</xref>]. An acutely neglected group are LGBTQI+ young people living with HIV.</p>
+        <p>Government health services in Zimbabwe, as is common globally, are based upon hetero-cis-normative assumptions, and beliefs and attitudes towards homosexuality and gender diversity present significant barriers to young LGBTQI+ people accessing basic healthcare and HIV management services [<xref rid="pgph.0002442.ref019" ref-type="bibr">19</xref>]. Those living with HIV experience intersectional stigma, which arises from the convergence of multiple stigmatised identities, conditions, or behaviours and their interaction with structural factors (such as social norms and legislative and policy frameworks) to impact health [<xref rid="pgph.0002442.ref024" ref-type="bibr">24</xref>]. This intersectional stigma exacerbates barriers to access, threatens to disrupt engagement in treatment, and places additional pressures on mental health and well-being [<xref rid="pgph.0002442.ref024" ref-type="bibr">24</xref>&#x2013;<xref rid="pgph.0002442.ref028" ref-type="bibr">28</xref>].</p>
+        <p>Young people are currently ill-served by adult LGBTQI+ dedicated services, which ration their accessibility to young people due to a well-founded fear of negative community reactions [<xref rid="pgph.0002442.ref019" ref-type="bibr">19</xref>]. While there has been significant attention placed on improving tailored services for children, adolescents, and young people living with HIV (CAYPLHIV), there has been no attempt yet to understand the differentiated care needs of LGBTQI+ young people within this group. While this diverse group undoubtedly do access community-based HIV peer-delivered support services, attitudes surrounding adolescent sexuality, homosexuality and gender norms intersect to create a silencing that renders them invisible in practice, programming and research.</p>
+        <p>There are important exceptions to this trend. A leading example of this, and a case study for this research, is Zvandiri (&#x2018;As I Am&#x2019;), a community-based HIV program operating at a national scale in Zimbabwe and in eleven other countries. Their services are delivered by trained and supported community adolescent treatment supporters (CATS), aged 18&#x2013;24 years who are themselves living with HIV [<xref rid="pgph.0002442.ref029" ref-type="bibr">29</xref>&#x2013;<xref rid="pgph.0002442.ref031" ref-type="bibr">31</xref>]. Zvandiri, in Zimbabwe, have recently begun developing interventions to better meet the needs of LGBTQI+ young people accessing their program, including the establishment of a peer-led LGBTQI+ support group. The formation of this group offered an opportune time to engage young LGBTQI+ people who are living with HIV in research to foreground their voices and ideas [<xref rid="pgph.0002442.ref032" ref-type="bibr">32</xref>, <xref rid="pgph.0002442.ref033" ref-type="bibr">33</xref>], whilst assuring their safety and privacy. This study aimed to develop an evidence base with young people that could be used to inform internal activities to further enhance inclusivity within Zvandiri&#x2019;s programs and to support a more nuanced understanding of potential differentiated needs of young people living with HIV that may have conceptual transferability across contexts.</p>
+      </sec>
+    </sec>
+    <sec sec-type="materials|methods" id="sec004">
+      <title>Methods</title>
+      <sec id="sec005">
+        <title>Study design and participants</title>
+        <p>This qualitative enquiry was ancillary to a larger mixed-methods study, <italic toggle="yes">Zvandiri Character Strength and Its Constructs among Adolescents Living with HIV in Zimbabwe (ZCS)</italic>. Research has recently demonstrated the positive impact the Zvandiri program has on CAYPLHIV&#x2019;s health outcomes, including viral suppression [<xref rid="pgph.0002442.ref034" ref-type="bibr">34</xref>&#x2013;<xref rid="pgph.0002442.ref036" ref-type="bibr">36</xref>]. The ZCS project is primarily concerned with <italic toggle="yes">how</italic> and <italic toggle="yes">why</italic> Zvandiri has this positive effect. This smaller study explored the experiences of LGBTQI+ young people living with HIV who are receiving Zvandiri support.</p>
+        <p>Participants were recruited from a peer-led LGBTQI+ support group within Zvandiri. To be included in the study, participants had to be aware of their HIV status and be receiving some support from Zvandiri. The support group has a diverse membership of lesbian, gay, bisexual, transgender, and queer young people. Our inclusion criteria aligned with the group&#x2019;s, enabling us to use convenience-based sampling to recruit participants within a purposively selected group. Reflecting the group&#x2019;s composition at the time, we were unable to recruit intersex participants. Accessing participants from the support group mitigated the risk of unintentional disclosure [<xref rid="pgph.0002442.ref037" ref-type="bibr">37</xref>, <xref rid="pgph.0002442.ref038" ref-type="bibr">38</xref>], as all participants were aware of one another&#x2019;s sexuality, gender identity, and HIV-status, and knew and trusted one another. Participants all lived in or around Harare, and presented a range of experiences related to HIV disclosure, acquisition, and how long they had been accessing Zvandiri services.</p>
+        <p>The study design was informed by community-based participatory action research principles [<xref rid="pgph.0002442.ref039" ref-type="bibr">39</xref>]. Participants were integral to all aspects of the research, including conceiving the research questions, co-designing data collection methods and research outputs, and contributing to authorship. Researchers (JL, WM, SB) introduced the research concept to the support group&#x2019;s peer mentor (26-years-old, LGBTQI+ community member and activist) who then worked with the group to distil their priorities and preferences for if and how they would participate in the research. The peer mentor was an important conduit between the group, Zvandiri and the research team. This three-way conversation ensured the group&#x2019;s interests were driving the research and enabled a responsive and agile study design to mediate concerns as and when they surfaced.</p>
+        <p>All 12 original support group members enthusiastically agreed to participate. Nine joined focus group discussion-1 (FGD-1). Three were unavailable at the time most suitable to the majority and so participated in FGD-2. The support group had gained two new members by FGD-2, both of whom were recruited into the study to participate in FGD-2. Three attended FDG-1 and FDG-2. We then selectively invited five FGD participants, who represented the breadth of diversity across the group, to participate in in-depth individual interviews (IDIs).</p>
+      </sec>
+      <sec id="sec006">
+        <title>Data collection</title>
+        <p>Two FGDs (n = 14 young people 18&#x2013;24 years-old) were held at Zvandiri between September and October 2022. Over half (57%) were &gt;23 years-old. Five transgender women (36%), four bisexual women (29%), three gay men (21%), one lesbian (7%) and one queer person (7%) participated. FGD-1 included nine participants, FDG-2, eight. Three participants (all aged 24) attended both FGDs. The FGDs ran for 1.5 hours and were co-facilitated by the peer mentor and PS, a trained and experienced local qualitative researcher, familiar with Zvandiri.</p>
+        <p>Follow-up IDIs were conducted between November 2022 and February 2023 with five of the participants who had attended at least one FGD to allow a depth of exploration on key themes covered in the FGDs, and to cross-check whether what was shared in the FGDs had been curtailed by group dynamics. IDIs were conducted by the same local researcher who conducted the FGDs to ensure continuity and rapport. FGDs and interviews were conducted in both Shona (local language) and English, which was guided by participants, and were recorded, transcribed, and translated by the researcher who conducted the interviews. Transcripts were deidentified and stored in a password protected file on a computer only accessible to the research team.</p>
+        <p>Flexible topic guides (<xref rid="pgph.0002442.s001" ref-type="supplementary-material">S1 Text</xref>) were used and adapted to fit the method. They covered: stigma and discrimination experiences; impact of stigma on HIV status disclosure, family relations, access to HIV treatment and support services, and mental health and wellbeing; experiences and perceptions of Zvandiri, including how the program has supported them, and what they think could be improved; and their perspectives about their own strengths, resilience, and adaptive capacities.</p>
+      </sec>
+      <sec id="sec007">
+        <title>Data analysis</title>
+        <p>Inductive interpretive thematic analysis was conducted to generate themes within the data [<xref rid="pgph.0002442.ref040" ref-type="bibr">40</xref>&#x2013;<xref rid="pgph.0002442.ref042" ref-type="bibr">42</xref>]. Three researchers (JL, SB, PS) familiarised themselves with the data as it was collected and produced analytical memos alongside initial coding to iteratively inform subsequent data collection [<xref rid="pgph.0002442.ref043" ref-type="bibr">43</xref>]. Codes were collated into themes to capture the deeper sociological issues shaping intersectional experiences among individuals within the group [<xref rid="pgph.0002442.ref044" ref-type="bibr">44</xref>]. The research team met weekly online to discuss similarities and differences in coding and thematic conceptualisation. JL and the peer-mentor met throughout the research process to generate deeper insight, contribute to iterative data collection, and to develop outputs, including this publication.</p>
+      </sec>
+      <sec id="sec008">
+        <title>Ethics</title>
+        <p>Ethics approval was provided by the Zimbabwe national ethics committee, the Medical Research Council of Zimbabwe (#A/2860). Participants provided written informed consent to participate in the FGDs and IDIs and to being audio recorded, which was witnessed by a research team member and Zvandiri&#x2019;s Program Coordinator (AM). Participants&#x2019; quotations are labelled using their chosen pseudonym, or a participant identification (PID) number if they did not select a pseudonym. Respondents received US$10 bus fare reimbursement.</p>
+      </sec>
+      <sec id="sec009">
+        <title>Inclusivity in global research</title>
+        <p>Additional information regarding the ethical, cultural and scientific considerations specific to inclusivity in global research is included in <xref rid="pgph.0002442.s002" ref-type="supplementary-material">S1 Checklist</xref>.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec010">
+      <title>Results</title>
+      <sec id="sec011">
+        <title>&#x201C;I am a queer person who is just themselves. I have no limits or boundaries&#x201D;</title>
+        <p>When invited to share their identities and pronouns, participants described their identity as personal and embodied, fluid and evolving. For some, labels enabled an empowering expression of identity and experience. For others, the available language, and the local contextual ways in which labels are used to denigrate LGBTQI+ people, led them to resist tethering their identity to any one term or category.</p>
+      </sec>
+      <sec id="sec012">
+        <title>The limits of acceptance</title>
+        <sec id="sec013">
+          <title>&#x201C;It&#x2019;s now double stigma and double trouble&#x201D;</title>
+          <p>Participants described occupying two stigmatised identities as living with &#x201C;double stigma&#x201D; that is shaped by context. Their stories illustrated how acceptance from family, friends and the community is conditional and precarious, and largely depends on their ability to manage what others know about them. This led many to hide their HIV status and LGBTQI+ identity to protect themselves and their relationships.</p>
+          <disp-quote>
+            <p>&#x2018;You have to live a double life. I can be myself in my house alone, but outside, no matter how much I need to go out to get help, I can&#x2019;t open up because I don&#x2019;t know the reaction that I am going to receive&#x2019;</p>
+            <p>(Strawberry, IDI 1).</p>
+          </disp-quote>
+          <p>&#x201C;Double stigma&#x201D; was described as accumulating throughout adolescence and young adulthood. The usual stressors associated with adolescence felt amplified and compounded when participants became aware of their sexuality and/or gender identity and HIV status, largely because of others&#x2019; anticipated reactions. This following quote illustrates this internal instability:</p>
+          <disp-quote>
+            <p>&#x2018;You are a young person, right? And you have issues about your sexuality that you are already dealing with. And you haven&#x2019;t found comfort and it&#x2019;s troubling. You are also being talked about. So now you have this new issue as well. You are already scared and it&#x2019;s now double stigma and it&#x2019;s double trouble. You don&#x2019;t know where to take it&#x2019;</p>
+            <p>(PID 05, FGD-2).</p>
+          </disp-quote>
+          <p>Fear of others&#x2019; responses led many participants to withdraw from social situations or conceal parts of their identity. This rationing of contact with others, even in accessing support, further exacerbated their social isolation, confusion, self-stigma, and loneliness.</p>
+          <disp-quote>
+            <p>&#x2018;I didn&#x2019;t just wake up like, &#x201C;Well, I am who I am, and I like it&#x201D;. It stressed me out because I felt there is something wrong with me and I don&#x2019;t understand what the hell is going on with me right now. There comes a time when you need to express yourself to others. But then rejection comes. I don&#x2019;t go [to places for support] because I have this fear that people will see me, and I don&#x2019;t know how they are going to take it&#x2019;</p>
+            <p>(PID 01, FGD-1).</p>
+          </disp-quote>
+          <p>Family rejection and the consequent risk of homelessness was most concerning for participants. Family members&#x2019; negative reaction to participants&#x2019; HIV status were often inflected with homophobia grounded in religious beliefs that homosexuality is satanic and punishable by HIV infection.</p>
+          <disp-quote>
+            <p>&#x2018;Some of us, we were born with it (HIV) but now people start judging us saying, &#x201C;Do you think God loves it? They are being punished by God because of being LGBTQI+. God punishes people. There&#x2019;s no way He will fail to punish these&#x201D;&#x2018;</p>
+            <p>(MG, FGD-1).</p>
+          </disp-quote>
+          <p>Anticipated homophobia and blame led several participants to keep their identity and status a secret from family.</p>
+          <disp-quote>
+            <p>&#x2018;For my parents to understand that I got HIV from another man is challenging. So, it&#x2019;s better to be quiet&#x2019;</p>
+            <p>(PID 01, FGD-2).</p>
+          </disp-quote>
+          <p>One participant described how, for her, the assumption that being LGBTQI+ makes HIV infection inevitable flowed in an inverse direction. She acquired HIV perinatally and when she came out as lesbian during early adulthood,</p>
+          <disp-quote>
+            <p>&#x2018;People said, &#x201C;That child has changed because of HIV. She is now reckless. Have you noticed she is now a lesbian because she was born HIV positive?&#x201D; So, the community concludes that just because you are HIV positive, you have chosen to be lesbian&#x2019;</p>
+            <p>(PID 08, FGD-2).</p>
+          </disp-quote>
+          <p>As this quote illustrates, compounded negative responses falsely associate a causative relationship between HIV status and homosexuality. Whichever (sexuality or HIV status) was known first was attributed as causing the other and subsequently, for explaining the nature of the individual&#x2019;s &#x2018;spoilt&#x2019; identity.</p>
+          <p>Several participants felt responsible for protecting their family&#x2019;s reputation by keeping their sexuality secret. This was intensified for those whose family had experienced stigma for having a child born with HIV. Others experienced the inverse, where their gender non-conformity was recognised by the community, and family members sought to avoid further stigmatisation by pressuring their child to conceal their HIV status, as in this example:</p>
+          <disp-quote>
+            <p>&#x2018;When I was diagnosed with HIV, I told my mom. She said, &#x201C;you don&#x2019;t have to tell the family&#x201D;. Already the family discriminated against me because I was born different&#x2019;</p>
+            <p>(PID 07 FGD-2).</p>
+          </disp-quote>
+        </sec>
+        <sec id="sec014">
+          <title>Concealment is not an option for everyone</title>
+          <p>Experiences of stigma and discrimination were influenced by gender expression and how visible their identity is to others.</p>
+          <disp-quote>
+            <p>&#x2018;Certain groups are discriminated more because they are doing something loud. It&#x2019;s something that you can&#x2019;t avoid because of the way you talk, dress and even walk&#x2019;</p>
+            <p>(PID 06, FGD-2).</p>
+          </disp-quote>
+          <p>For the trans women participants, gender-affirming clothing was critically important to their sense of self and well-being; however, it increased the likelihood of harassment and violence.</p>
+          <disp-quote>
+            <p>&#x2018;I am a transgender person. I like to go out in nails, earrings and artificial hair and I will be feeling comfortable in that, with what I am wearing. The moment I step into the public clinic, all eyes are on me because I am different&#x2026; I might end up being beaten up&#x2019;</p>
+            <p>(Izinduna, FGD-1).</p>
+          </disp-quote>
+          <p>Those who proudly expressed their gender in healthcare settings described receiving open judgement, hostility and invasive questioning from healthcare workers. A lack of confidentiality and privacy were also common.</p>
+          <disp-quote>
+            <p>&#x2018;They [healthcare workers] say, &#x201C;Look, what a disgrace&#x201D; because when you go there, some of us we can&#x2019;t pretend. When I go to collect my ARV supply, they ask, &#x201C;How did you acquire HIV?&#x201D; They will be saying, &#x201C;Obviously you don&#x2019;t have a girlfriend because of your looks&#x201D;. They have already judged you: This person is gay. And they start calling each other to come and see you&#x2019;</p>
+            <p>(PID 02, FGD-1).</p>
+          </disp-quote>
+          <p>These incidents strongly dissuaded participants from attending public clinics. Some had learned, through personal experience and information-sharing, which clinics were safest, and where they might find &#x2018;sensitised&#x2019; staff.</p>
+          <p>Despite these challenges, participants rarely went without their medication resupply, sourcing it from LGBTQI+ organisations, private clinics, or having someone pick it up for them. One participant utilised Zvandiri as a safe space to take their daily medication. When participants did attend public clinics, they often ensured a known CATS (Zvandiri peer-supporter) would be present, which significantly eased interactions with staff.</p>
+          <disp-quote>
+            <p>&#x2018;I don&#x2019;t want the people to ask me things, so I call the CATS to say that I am coming. He will look for my book and be waiting for me. From the gate to the office, we walk and get medication while talking and I will be smiling, no stress. No one will even ask me anything. He will be doing the process&#x2019;</p>
+            <p>(PID 05, FGD-2).</p>
+          </disp-quote>
+        </sec>
+        <sec id="sec015">
+          <title>&#x201C;Our community leaks&#x201D;</title>
+          <p>Participants described having few opportunities to openly express their sexuality and/or gender identities. LGBTQI+ organisations offered a chance to meet other LGBTQI+ young people and are important places to access non-judgmental sexual and reproductive health care. However, participants also described feeling that they must keep their HIV status hidden in these spaces to avoid reputational damage and rejection.</p>
+          <disp-quote>
+            <p>&#x2018;In these places for the LGBTQI+ community, I am only free to express myself as a LGBTQI+ person. There is nowhere safe in this world that you will stand to say, &#x201C;I am HIV positive&#x201D;&#x2018;</p>
+            <p>(PID 01, FGD-2).</p>
+          </disp-quote>
+          <p>There are dangers in revealing their HIV status to peers and intimate partners, but also peer-educators who work for LGBTQI+ organisations. Knowledge of someone&#x2019;s HIV status appeared to be traded like a social currency within LGBTQI+ social networks, with personal information quickly shared through instant messaging groups and social media.</p>
+          <disp-quote>
+            <p>&#x2018;In our community the gossip spreads so fast, just like fire lit on the grass. Just by telling your peer, the information will spread. By evening everyone would have been informed and now, because of social media, the message will spread in the groups and that will affect my mental health&#x2019;</p>
+            <p>(PID 07, FGD-2).</p>
+          </disp-quote>
+          <p>The contradiction of being accepted within the LGBTQI+ community, but actively excluded when their HIV status became known, was evidently destabilising for participants. The following passage is illustrative of the tension between the desire to seek support and acceptance whilst remaining alert to the dangers of disclosure.</p>
+          <disp-quote>
+            <p>&#x2018;I might go there [LGBTQI+ organisation] for testing and collecting my medication, but then I might be invited to a social event. You feel encouraged when you are there that it&#x2019;s a safe space, but we forget that there is reality after that place. You get carried away because you have a zeal to open up, you have this thing that is burning, and you want to let it out. You think, let me just try and say something so that I can relax my head and my heart. When you get home, your phone will be bursting with calls and texts by people saying, &#x201C;We heard that you said so and so, why didn&#x2019;t you tell us all along that you are like that?&#x201D;&#x2018;</p>
+            <p>(PID 05, FGD-2).</p>
+          </disp-quote>
+        </sec>
+      </sec>
+      <sec id="sec016">
+        <title>Social spaces where I can be (seen as) all of me</title>
+        <p>The discrimination participants described was contrasted with rare instances of support and acceptance. For one participant, an aunt&#x2019;s acceptance provided a welcoming and safe space for them and their friends to spend time. For another, rejected by their family, a friend&#x2019;s home offered a temporary space to explore independence and a growing sense of self.</p>
+        <p>These, however, were uncommon experiences. Most participants described not having anywhere they felt completely free to express their identity and be open about their HIV status. Even at Zvandiri, outside of their immediate LGBTQI+ support group, some participants were wary of the risks of being openly LGBTQI+: &#x2018;if you ask me is there a place where I feel safe? I don&#x2019;t have&#x2019; (PID 02, FGD-2).</p>
+        <p>Yet, feeling confident to be open about their HIV status at Zvandiri, a rare space where HIV is normalised, enabled them to access more optimistic ways of thinking about their HIV status. For some, this had flow-on effects for confidence and acceptance of their LGBTQI+ identities.</p>
+        <p>The benefits of attending Zvandiri largely centred on the affirmation, reassurance and motivational effects of interacting with other young people living with HIV.</p>
+        <disp-quote>
+          <p>&#x2018;Before coming to Zvandiri, you wouldn&#x2019;t know that there are young people living with HIV just like you. When you start attending support groups, you start to feel at home. It&#x2019;s different from the outside where there is stigma and discrimination&#x2019;</p>
+          <p>(MG FGD-1).</p>
+        </disp-quote>
+        <p>Some participants emphasised that Zvandiri&#x2019;s support extended beyond HIV into other aspects of their lives. Several older participants had developed strong relationships with individual CATS, where they received psychosocial support in addition to practical assistance. They described experiencing a growing sense of optimism and social safety through their participation in support groups, which for some, ignited their own feeling of being a support for other beneficiaries.</p>
+        <disp-quote>
+          <p>&#x2018;For me, it&#x2019;s the support groups that I enjoy more than anything else. We come and share our mindsets and our life experiences, and we get to strengthen and edify each other&#x2019;s lives. You know, we wouldn&#x2019;t only talk about HIV and how to live, but we would talk about so many things&#x2019;</p>
+          <p>(Strawberry, IDI 1).</p>
+        </disp-quote>
+        <p>That everyone accessing the program is living with HIV imparts a relational accountability in social interactions that your status will not be disclosed beyond Zvandiri.</p>
+        <disp-quote>
+          <p>&#x2018;I like that people in Zvandiri are living with HIV. It makes me feel comfortable because I know that person won&#x2019;t leak the information&#x2019;</p>
+          <p>(PID 04, FGD-2).</p>
+        </disp-quote>
+        <p>Witnessing others face similar challenges has an immensely positive effect on self-acceptance.</p>
+        <p>However, the assumed heterosexuality of beneficiaries, the binary logic underpinning support groups, and Zvandiri staff&#x2019;s lack of knowledge in how to respond to their different needs, negatively impacted some participant&#x2019;s engagement. As one participant explained:</p>
+        <disp-quote>
+          <p>&#x2018;I think I attended two support groups. I was the only one [LGBTQI+ person], and they have little or no knowledge of how to deal with this&#x2026; they will just be discussing things like how to approach your boyfriend or girlfriends, so I felt left out and I saw that these issues had nothing to do with me and decided to stop attending&#x2019;</p>
+          <p>(PID 2, IDI 05).</p>
+        </disp-quote>
+        <sec id="sec017">
+          <title>The coming together of an LGBTQI+ support group&#x2014;Fleeting moments of Zvandiri</title>
+          <p>The Zvandiri LGBTQI+ support group emerged from the recognition of a growing need for a safe space for LGBTQI+ beneficiaries to meet and access peer-support. For several participants, this reignited their relationship with Zvandiri and initiated a transformation of their self-esteem and self-acceptance.</p>
+          <disp-quote>
+            <p>&#x2018;In this support group we find time to see each other and talk. It builds my confidence. It makes me accept who I am&#x2019;</p>
+            <p>(KM, FGD-1).</p>
+          </disp-quote>
+          <p>LGBTQI+ group meetings at Zvandiri were described as a rare opportunity to openly express all aspects of their identity. Witnessing others allowed mutual problems and understanding to be shared and the intersectionality of living with HIV as a young LGBTQI+ person to emerge.</p>
+          <disp-quote>
+            <p>&#x2018;I might have this huge story and someone else is also going through it too. You get to understand yourself through other people. Now I am coming to a space where I am finding HIV positive people, LGBTQI+ community, people that experience similar problems as mine and they are surviving, thriving, and working on being better people despite HIV and all&#x2019;</p>
+            <p>(PID 04, FGD-1).</p>
+          </disp-quote>
+        </sec>
+        <sec id="sec018">
+          <title>&#x201C;Zvandiri is talking to me&#x201D;</title>
+          <p>Although many participants did not feel confident in revealing their LGBTQI+ identity beyond their own support group, they identified with Zvandiri&#x2019;s foundational principles of self-acceptance of HIV status (Zvandiri means &#x2018;As I am&#x2019; in Shona).</p>
+          <disp-quote>
+            <p>&#x2018;When I heard the name &#x201C;Zvandiri&#x201D; I knew it was talking about me. It&#x2019;s called Zvandiri (as I am) not <italic toggle="yes">zvavari</italic> (as they are). I knew this is where I belong because it&#x2019;s talking about me, whether I am gay or lesbian or HIV positive. &#x201C;Zvandiri&#x201D;: this is me&#x2019;</p>
+            <p>(PID 07, FGD-2).</p>
+          </disp-quote>
+          <p>This perspective was widely shared across the sample, indicating that Zvandiri represents more than a physical location to visit, or a static concept to fit into. It suggests that participants feel included and &#x2018;spoken to&#x2019; by the service, even if there are still spaces within Zvandiri where they are not yet comfortable to openly express their sexuality and/or gender identity. Unlike anywhere else, Zvandiri offers the strongest possibility that they do not have to pretend to be someone else (as <italic toggle="yes">they</italic> are) to be accepted.</p>
+          <p>Participants shared suggestions for how Zvandiri could make this inclusion explicit to help realise their fuller participation. They emphasised the need for staff and CATS to develop greater awareness of LGBTQI+ young people, their needs and challenges, through &#x2018;sensitisation&#x2019; training, developed by LGBTQI+ young people.</p>
+          <disp-quote>
+            <p>&#x2018;Sensitisation should happen while we are there, not when we are not around, with others saying, &#x201C;LGBTQI+ people are like this, go and treat them like that&#x201D;&#x2018;</p>
+            <p>(PID 05, FGD-2).</p>
+            <p>&#x2018;We should be there, presenting while wearing the actual clothes I like to wear, and they will know we truly exist&#x2019;</p>
+            <p>(PID 06, FGD-2).</p>
+          </disp-quote>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="sec019">
+      <title>Discussion</title>
+      <sec id="sec020">
+        <title>Attending to diversity and responding to intersectional stigma</title>
+        <p>This study highlights the need for greater recognition of the sexuality and gender diversity that exists among CAYPLHIV who are accessing community-based HIV support programs in regions of Africa with high HIV prevalence among young people. Inequities in optimal HIV outcomes are perpetuated by the failure to recognise the rich diversity of CAYPLHIV across a range of intersecting identities and experiences.</p>
+        <p>As participants&#x2019; accounts in this study demonstrate, the need to conceal parts of their identity to protect themselves against stigma and discrimination has significant detrimental impacts on mental health and well-being. It also renders LGBTQI+ young people invisible in most settings, including in spaces where HIV-stigma is alleviated, such as in community-based HIV support programs like Zvandiri, which perpetuates the myth of adolescent homogeneity. Improving access and engagement in HIV care depends upon enhancing these spaces to ensure all young people are able to safely express their full identities.</p>
+        <p>This study also reinforces recent scholarship emphasising the importance of understanding the impacts of intersectional stigma on adolescent&#x2019;s engagement with HIV services [<xref rid="pgph.0002442.ref045" ref-type="bibr">45</xref>] and current efforts to better integrate intersectionality in stigma reduction interventions [<xref rid="pgph.0002442.ref046" ref-type="bibr">46</xref>].</p>
+        <p>Stigma is pervasive and affects many people living with HIV [<xref rid="pgph.0002442.ref047" ref-type="bibr">47</xref>, <xref rid="pgph.0002442.ref048" ref-type="bibr">48</xref>]. While the accounts of stigma described in this study might feel familiar for those well-versed in the adolescent HIV literature, our analysis highlights that HIV-stigma often manifests differently, and with varied implications for social participation, for LGBTQI+ young people. This is because the public perception of their non-normative sexuality and/or gender expression mediates societal responses to their HIV status. Participant&#x2019;s accounts clearly illustrate that the HIV-stigma they experience is compounded by the discrimination they face for being LGBTQI+: homophobia and transphobia inflects, and is inflected by, HIV-stigma to create specific experiences of discrimination and marginalisation for those who exist within this intersection. Better understanding this complex interplay of stigma is crucial for designing effective and appropriate psychosocial support strategies for this group. These nuanced insights are also vital if efforts to challenge systemic and structural stigma and discrimination are to be effective in reducing barriers in access to HIV testing, treatment and care for marginalised young people.</p>
+        <p>Consistent with community-based participatory action research principles, these early insights are informing immediate and long-term strategies to enhance inclusivity at Zvandiri as a first step in improving the mental health and wellbeing of LGBTQI+ young people accessing the program. For example, following a research sharing event designed by participants in which they delivered a creative representation to selected Zvandiri staff and managers, efforts to increase LGBTQI+ representation among CATS (Zvandiri peer-supporters) has begun. This was critical, as part of Zvandiri&#x2019;s endeavour is that their peer to peer model is responsive to the complex intersectionality of identities within Zvandiri through the delivery of differentiated services [<xref rid="pgph.0002442.ref036" ref-type="bibr">36</xref>, <xref rid="pgph.0002442.ref049" ref-type="bibr">49</xref>, <xref rid="pgph.0002442.ref050" ref-type="bibr">50</xref>]. We have also begun co-designing training resources with participants and Zvandiri to equip staff and peer-supporters with the knowledge and skills to better support LGBTQI+ young people. This is being shaped by the young people, with spaces created for open dialogue through which Zvandiri can learn and collaboratively develop advocacy, training and differentiated service delivery for LGBTQI+ at scale with young people. Indicative of the youth-led approaches being adopted, is the emerging focus on the celebration of creativity with positive psychology (focuses on the positive events and influences in life) being central to the development of tailored psychosocial support.</p>
+      </sec>
+      <sec id="sec021">
+        <title>The need for a strengths-based intersectional approach to delivering differentiated care within community-based peer-led HIV support programs</title>
+        <p>Participant&#x2019;s accounts in this study demonstrate the diverse experiences, challenges and strengths within the young LGBTQI+ community in Zimbabwe. This is reflective of the broader diversity among adolescents and young people who are living with HIV. We must resist homogenising LGBTQI+ young people, as they often are when we use terms like &#x2018;key populations&#x2019; to guide HIV prevention and treatment service delivery. Greater investment in person-centred care is needed to counter these tendencies and to extend appropriate support to all CAYPLHIV. Youth-centred programs such as Zvandiri, that already centre principles of inclusivity and acceptance, are most amenable to incorporating intersectionality in the design and implementation of their programs.</p>
+        <p>An intersectional framework also supports greater recognition of the adaptive capacities and social support networks that stigmatised communities develop to protect and support themselves [<xref rid="pgph.0002442.ref028" ref-type="bibr">28</xref>]. It is critical that we recognise how LGBTQI+ young people living with HIV already support themselves and one another so that we can adapt and develop care models to be effective within existing care networks. In this study, we witnessed this group&#x2019;s innovation to come together to support one another. These social networks and ways of making family and community necessarily differ from what we know about the community and family support systems of non- LGBTQI+ CAYPLHIV, many of whom also have diverse care arrangements [<xref rid="pgph.0002442.ref051" ref-type="bibr">51</xref>, <xref rid="pgph.0002442.ref052" ref-type="bibr">52</xref>]. Further research into the similarities and differences will facilitate appropriate engagement of young LGBTQI+ peoples&#x2019; support networks in wrap-around care [<xref rid="pgph.0002442.ref053" ref-type="bibr">53</xref>].</p>
+        <p>There is also great potential in strengthening the advocacy role already played by community-based HIV support programs for CAYPLHIV. For LGBTQI+ beneficiaries, a step towards improving their lives would be redressing homophobia and transphobia within their families and communities. As the group emphasised, their greater inclusion in society would have a significant positive effect on their health, well-being and capacity to engage in social and economic activities. This is an endeavour community-based support programs like Zvandiri are strategically positioned to lead because they are trusted by the community and are already playing an important role in contesting HIV misinformation and stigma. There is scope then to intentionally engage with respected community and religious leaders to demonstrate the importance of greater inclusion of LGBTQI+ young people in general and to those living with HIV in particular.</p>
+        <p>As emphasised within young people&#x2019;s accounts in this study, we need to evaluate the language we use to describe marginalised groups and communities. Their accounts of intersectional stigma emphasise that their needs cannot be reduced to behaviour, as is implied in the categorisation of key populations according to perceived risk. Additionally, not all LGBTQI+ people are classified as key populations, leading to the persistent invisibility of some highly marginalised and structurally vulnerable groups. Using language that targets discrete groups, such as &#x2018;MSM&#x2019;, is inadequate to encapsulate the rich diversity of Southern Africa&#x2019;s young flourishing LGBTQI+ community. Tailoring affirming and inclusive programs to LGBTQI+ young peoples&#x2019; needs, not their behaviours, within existing community-based peer-led HIV support programs, will reaffirm LGBTQI+ young peoples&#x2019; sense of belonging in these spaces.</p>
+      </sec>
+    </sec>
+    <sec id="sec022">
+      <title>Limitations</title>
+      <p>Given the scarcity of research centring LGBTQI+ young people who are living with HIV in high HIV-prevalence African countries, the data we were able to collect with a small group of young people generated insights for pursuing improvements in the health and well-being of this marginalised and under-served group. There is great scope and need for gaining deeper insight into the diversity of LGBTQI+ young people living with HIV in Southern Africa, and to ensure greater representation of the issues facing intersex young people.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec023">
+      <title>Conclusions</title>
+      <p>LGBTQI+ young people who are living with HIV in Zimbabwe currently fall through gaps in policy, healthcare interventions and research. Community-based peer-led HIV support services, like Zvandiri, are an amenable setting for improving inclusivity of LGBTQI+ young people. Efforts to explicitly include the needs of this group in programming, and providing training for staff and peer support volunteers, informed by LGBTQI+ young people themselves, should be prioritised. Where training will likely be most transformative is in deepening awareness and understanding of how stigma impacts young people who exist within the intersections of multiple stigmatised identities.</p>
+      <p>&#x2018;Leaving nobody behind&#x2019; requires addressing inequities in access to HIV care, including differentiated mental health care and support. We must take seriously our responsibility to pay closer attention to diversity among young people, to pursue deeper understandings of those overlooked in the HIV response, and to advocate for their greater inclusion.</p>
+    </sec>
+    <sec id="sec024" sec-type="supplementary-material">
+      <title>Supporting information</title>
+      <supplementary-material id="pgph.0002442.s001" position="float" content-type="local-data">
+        <label>S1 Text</label>
+        <caption>
+          <title>Facilitator focus group discussion and individual in-depth interview flexible topic guides.</title>
+          <p>(PDF)</p>
+        </caption>
+        <media xlink:href="pgph.0002442.s001.pdf">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material id="pgph.0002442.s002" position="float" content-type="local-data">
+        <label>S1 Checklist</label>
+        <caption>
+          <title>Inclusivity in global research questionnaire.</title>
+          <p>(DOCX)</p>
+        </caption>
+        <media xlink:href="pgph.0002442.s002.docx">
+          <caption>
+            <p>Click here for additional data file.</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="pgph.0002442.ref001">
+        <label>1</label>
+        <mixed-citation publication-type="other">Understanding Fast-Track: Accelerating Action to End the AIDS Epidemic by 2030. Geneva: Joint United Nations Programme on HIV/AIDS (UNAIDS), 2015.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref002">
+        <label>2</label>
+        <mixed-citation publication-type="other">IN DANGER: UNAIDS Global AIDS Update 2022. Geneva: Joint United Nations Programme on HIV/AIDS, 2022.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref003">
+        <label>3</label>
+        <mixed-citation publication-type="other">Consolidated guidelines on HIV prevention, diagnosis, treatment and care for key populations&#x2014;2016 update. Geneva: World Health Organization, 2016.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref004">
+        <label>4</label>
+        <mixed-citation publication-type="journal"><name><surname>Barr</surname><given-names>D</given-names></name>, <name><surname>P Garnett</surname><given-names>G</given-names></name>, <name><surname>Mayer</surname><given-names>KH</given-names></name>, <name><surname>Morrison</surname><given-names>M</given-names></name>. <article-title>Key populations are the future of the African HIV/AIDS pandemic</article-title>. <source>Journal of the International AIDS Society</source>. <year>2021</year>;<volume>24</volume>(<issue>S3</issue>):<fpage>e25750</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jia2.25750</pub-id>
+<pub-id pub-id-type="pmid">34189865</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref005">
+        <label>5</label>
+        <mixed-citation publication-type="other">Consolidated guidelines on HIV prevention, diagnosis, treatment and care for key populations&#x2014;2022 update. Geneva: Wolrd Health Organization, 2022.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref006">
+        <label>6</label>
+        <mixed-citation publication-type="journal"><name><surname>Oldenburg</surname><given-names>CE</given-names></name>. <article-title>Integrated HIV prevention and care for key populations</article-title>. <source>The Lancet HIV</source>. <year>2019</year>;<volume>6</volume>(<issue>5</issue>):<fpage>e270</fpage>&#x2013;<lpage>e1</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(19)30042-6</pub-id>
+<pub-id pub-id-type="pmid">30952564</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref007">
+        <label>7</label>
+        <mixed-citation publication-type="journal"><name><surname>Pandey</surname><given-names>A</given-names></name>, <name><surname>Galvani</surname><given-names>AP</given-names></name>. <article-title>The global burden of HIV and prospects for control</article-title>. <source>The Lancet HIV</source>. <year>2019</year>;<volume>6</volume>(<issue>12</issue>):<fpage>e809</fpage>&#x2013;<lpage>e11</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(19)30230-9</pub-id>
+<pub-id pub-id-type="pmid">31439533</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref008">
+        <label>8</label>
+        <mixed-citation publication-type="journal"><name><surname>Baggaley</surname><given-names>R</given-names></name>, <name><surname>Armstrong</surname><given-names>A</given-names></name>, <name><surname>Dodd</surname><given-names>Z</given-names></name>, <name><surname>Ngoksin</surname><given-names>E</given-names></name>, <name><surname>Krug</surname><given-names>A</given-names></name>. <article-title>Young key populations and HIV: a special emphasis and consideration in the new WHO Consolidated Guidelines on HIV Prevention, Diagnosis, Treatment and Care for Key Populations</article-title>. <source>Journal of the International AIDS Society</source>. <year>2015</year>;<volume>18</volume>(<issue>2S1</issue>):<fpage>19438</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.7448/IAS.18.2.19438</pub-id>
+<pub-id pub-id-type="pmid">25724509</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref009">
+        <label>9</label>
+        <mixed-citation publication-type="journal"><name><surname>Cornell</surname><given-names>M</given-names></name>, <name><surname>Dovel</surname><given-names>K</given-names></name>. <article-title>Reaching key adolescent populations</article-title>. <source>Curr Opin HIV AIDS</source>. <year>2018</year>;<volume>13</volume>(<issue>3</issue>):<fpage>274</fpage>&#x2013;<lpage>80</lpage>. Epub 2018/02/13. <comment>doi: </comment><pub-id pub-id-type="doi">10.1097/COH.0000000000000457</pub-id> .<pub-id pub-id-type="pmid">29432229</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref010">
+        <label>10</label>
+        <mixed-citation publication-type="book"><name><surname>Freedman</surname><given-names>J</given-names></name>, <name><surname>Crankshaw</surname><given-names>TL</given-names></name>, <name><surname>Aantjes</surname><given-names>C</given-names></name>, <name><surname>Armstrong</surname><given-names>R</given-names></name>, <name><surname>Poku</surname><given-names>NK</given-names></name>. <part-title>Young key populations in Southern Africa: An analysis of the social determinants of HIV risk and barriers to sexual and reproductive health services</part-title>. In: <name><surname>Govender</surname><given-names>K</given-names></name>, <name><surname>Poku</surname><given-names>NK</given-names></name>, editors. <source>Preventing HIV among young people in Southern and Eastern Africa</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Routledge</publisher-name>; <year>2020</year>. p. <fpage>174</fpage>&#x2013;<lpage>87</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref011">
+        <label>11</label>
+        <mixed-citation publication-type="journal"><name><surname>Fauk</surname><given-names>NK</given-names></name>, <name><surname>Merry</surname><given-names>MS</given-names></name>, <name><surname>Putra</surname><given-names>S</given-names></name>, <name><surname>Sigilipoe</surname><given-names>MA</given-names></name>, <name><surname>Crutzen</surname><given-names>R</given-names></name>, <name><surname>Mwanri</surname><given-names>L</given-names></name>. <article-title>Perceptions among transgender women of factors associated with the access to HIV/AIDS-related health services in Yogyakarta, Indonesia</article-title>. <source>PLOS ONE</source>. <year>2019</year>;<volume>14</volume>(<issue>8</issue>):<fpage>e0221013</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0221013</pub-id>
+<pub-id pub-id-type="pmid">31415625</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref012">
+        <label>12</label>
+        <mixed-citation publication-type="journal"><name><surname>Hamilton</surname><given-names>A</given-names></name>, <name><surname>Shin</surname><given-names>S</given-names></name>, <name><surname>Taggart</surname><given-names>T</given-names></name>, <name><surname>Whembolua</surname><given-names>G-L</given-names></name>, <name><surname>Martin</surname><given-names>I</given-names></name>, <name><surname>Budhwani</surname><given-names>H</given-names></name>, <etal>et al</etal>. <article-title>HIV testing barriers and intervention strategies among men, transgender women, female sex workers and incarcerated persons in the Caribbean: a systematic review</article-title>. <source>Sexually Transmitted Infections</source>. <year>2020</year>;<volume>96</volume>(<issue>3</issue>):<fpage>189</fpage>&#x2013;<lpage>96</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1136/sextrans-2018-053932</pub-id>
+<pub-id pub-id-type="pmid">31506346</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref013">
+        <label>13</label>
+        <mixed-citation publication-type="journal"><name><surname>Lujintanon</surname><given-names>S</given-names></name>, <name><surname>Amatavete</surname><given-names>S</given-names></name>, <name><surname>Leenasirimakul</surname><given-names>P</given-names></name>, <name><surname>Meechure</surname><given-names>J</given-names></name>, <name><surname>Noopetch</surname><given-names>P</given-names></name>, <name><surname>Sangtong</surname><given-names>S</given-names></name>, <etal>et al</etal>. <article-title>Acceptability and retention of the key population-led HIV treatment service for men who have sex with men and transgender women living with HIV in Thailand</article-title>. <source>Journal of the International AIDS Society</source>. <year>2023</year>;<volume>26</volume>(<issue>2</issue>):<fpage>e26062</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jia2.26062</pub-id>
+<pub-id pub-id-type="pmid">36757793</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref014">
+        <label>14</label>
+        <mixed-citation publication-type="journal"><name><surname>Lyons</surname><given-names>CE</given-names></name>, <name><surname>Olawore</surname><given-names>O</given-names></name>, <name><surname>Turpin</surname><given-names>G</given-names></name>, <name><surname>Coly</surname><given-names>K</given-names></name>, <name><surname>Ketende</surname><given-names>S</given-names></name>, <name><surname>Liestman</surname><given-names>B</given-names></name>, <etal>et al</etal>. <article-title>Intersectional stigmas and HIV-related outcomes among a cohort of key populations enrolled in stigma mitigation interventions in Senegal</article-title>. <source>AIDS</source>. <year>2020</year>;<volume>34</volume>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1097/QAD.0000000000002641</pub-id>
+<pub-id pub-id-type="pmid">32881795</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref015">
+        <label>15</label>
+        <mixed-citation publication-type="journal"><name><surname>Balandan</surname><given-names>K.</given-names></name>
+<article-title>Mental Health Inequity and Disparity in LGBTQI Youth</article-title>. <source>The Journal for Nurse Practitioners</source>. <year>2023</year>;<volume>19</volume>(<issue>6</issue>):<fpage>104640</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.nurpra.2023.104640</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref016">
+        <label>16</label>
+        <mixed-citation publication-type="journal"><name><surname>Brown</surname><given-names>A</given-names></name>, <name><surname>Rice</surname><given-names>SM</given-names></name>, <name><surname>Rickwood</surname><given-names>DJ</given-names></name>, <name><surname>Parker</surname><given-names>AG</given-names></name>. <article-title>Systematic review of barriers and facilitators to accessing and engaging with mental health care among at-risk young people</article-title>. <source>Asia-Pacific Psychiatry</source>. <year>2016</year>;<volume>8</volume>(<issue>1</issue>):<fpage>3</fpage>&#x2013;<lpage>22</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/appy.12199</pub-id>
+<pub-id pub-id-type="pmid">26238088</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref017">
+        <label>17</label>
+        <mixed-citation publication-type="journal"><name><surname>Griffin</surname><given-names>N</given-names></name>, <name><surname>Crowder</surname><given-names>M</given-names></name>, <name><surname>Kyle</surname><given-names>P</given-names></name>, <name><surname>Holding</surname><given-names>E</given-names></name>, <name><surname>Woodrow</surname><given-names>N</given-names></name>, <name><surname>H</surname><given-names>F</given-names></name>, <etal>et al</etal>. <article-title>&#x2018;Bigotry is all around us, and we have to deal with that&#x2019;: Exploring LGBTQ+ young people&#x2019;s experiences and understandings of health inequalities in North East England</article-title>. <source>SSM&#x2014;Qualitative Research in Health</source>. <year>2023</year>;<volume>3</volume>:<fpage>100263</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/j.ssmqr.2023.100263</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref018">
+        <label>18</label>
+        <mixed-citation publication-type="journal"><name><surname>Higgins</surname><given-names>A</given-names></name>, <name><surname>Downes</surname><given-names>C</given-names></name>, <name><surname>Murphy</surname><given-names>R</given-names></name>, <name><surname>Sharek</surname><given-names>D</given-names></name>, <name><surname>Begley</surname><given-names>T</given-names></name>, <name><surname>McCann</surname><given-names>E</given-names></name>, <etal>et al</etal>. <article-title>LGBT + young people&#x2019;s perceptions of barriers to accessing mental health services in Ireland</article-title>. <source>Journal of Nursing Management</source>. <year>2021</year>;<volume>29</volume>(<issue>1</issue>):<fpage>58</fpage>&#x2013;<lpage>67</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1111/jonm.13186</pub-id>
+<pub-id pub-id-type="pmid">33068465</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref019">
+        <label>19</label>
+        <mixed-citation publication-type="journal"><name><surname>M&#xFC;ller</surname><given-names>A</given-names></name>, <name><surname>Spencer</surname><given-names>S</given-names></name>, <name><surname>Meer</surname><given-names>T</given-names></name>, <name><surname>Daskilewicz</surname><given-names>K</given-names></name>. <article-title>The no-go zone: A qualitative study of access to sexual and reproductive health services for sexual and gender minority adolescents in Southern Africa</article-title>. <source>Reproductive Health</source>. <year>2018</year>;<volume>15</volume>(<issue>1</issue>). <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12978-018-0462-2</pub-id>
+<pub-id pub-id-type="pmid">29370809</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref020">
+        <label>20</label>
+        <mixed-citation publication-type="journal"><name><surname>Hughes</surname><given-names>TL</given-names></name>, <name><surname>Riggle</surname><given-names>EDB</given-names></name>, <name><surname>Moreland</surname><given-names>P</given-names></name>, <name><surname>White</surname><given-names>R</given-names></name>, <name><surname>Gishoma</surname><given-names>D</given-names></name>. <article-title>Trauma, mental health, and health care experiences of lesbian and bisexual women in Rwanda</article-title>. <source>Psychology of Sexual Orientation and Gender Diversity</source>. <year>2021</year>:No Pagination Specified-No Pagination Specified. <comment>doi: </comment><pub-id pub-id-type="doi">10.1037/sgd0000417</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref021">
+        <label>21</label>
+        <mixed-citation publication-type="journal"><name><surname>Sandfort</surname><given-names>TGM</given-names></name>, <name><surname>Baumann</surname><given-names>LRM</given-names></name>, <name><surname>Matebeni</surname><given-names>Z</given-names></name>, <name><surname>Reddy</surname><given-names>V</given-names></name>, <name><surname>Southey-Swartz</surname><given-names>I</given-names></name>. <article-title>Forced Sexual Experiences as Risk Factor for Self-Reported HIV Infection among Southern African Lesbian and Bisexual Women</article-title>. <source>PLOS ONE</source>. <year>2013</year>;<volume>8</volume>(<issue>1</issue>):<fpage>e53552</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0053552</pub-id>
+<pub-id pub-id-type="pmid">23326452</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref022">
+        <label>22</label>
+        <mixed-citation publication-type="other">Pembere K. MILESTONE: Zim attains 95-95-95 HIV targets. Health Times [Internet]. 2022 21 February 2023. <ext-link xlink:href="https://healthtimes.co.zw/2022/10/31/milestone-zim-attains-95-95-95-hiv-targets/" ext-link-type="uri">https://healthtimes.co.zw/2022/10/31/milestone-zim-attains-95-95-95-hiv-targets/</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref023">
+        <label>23</label>
+        <mixed-citation publication-type="journal"><name><surname>Harris</surname><given-names>TG</given-names></name>, <name><surname>Wu</surname><given-names>Y</given-names></name>, <name><surname>Parmley</surname><given-names>LE</given-names></name>, <name><surname>Musuka</surname><given-names>G</given-names></name>, <name><surname>Mapingure</surname><given-names>MP</given-names></name>, <name><surname>Chingombe</surname><given-names>I</given-names></name>, <etal>et al</etal>. <article-title>HIV care cascade and associated factors among men who have sex with men, transgender women, and genderqueer individuals in Zimbabwe: findings from a biobehavioural survey using respondent-driven sampling</article-title>. <source>Lancet HIV</source>. <year>2022</year>;<volume>9</volume>(<issue>3</issue>):<fpage>e182</fpage>&#x2013;<lpage>e201</lpage>. Epub 2022/02/13. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2352-3018(21)00297-6</pub-id> .<pub-id pub-id-type="pmid">35150606</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref024">
+        <label>24</label>
+        <mixed-citation publication-type="journal"><name><surname>Ogunbajo</surname><given-names>A</given-names></name>, <name><surname>Mayer</surname><given-names>KH</given-names></name>, <name><surname>Kanki</surname><given-names>PJ</given-names></name>, <name><surname>Tsai</surname><given-names>AC</given-names></name>. <article-title>Intersectional Stigma and HIV Continuum Outcomes Among Sexual Minority Men in Sub-Saharan Africa: A Conceptual Framework</article-title>. <source>American Journal of Public Health</source>. <year>2022</year>;<volume>112</volume>(<issue>S4</issue>):<fpage>S374</fpage>&#x2013;<lpage>S6</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.2105/AJPH.2021.306693</pub-id> .<pub-id pub-id-type="pmid">35763733</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref025">
+        <label>25</label>
+        <mixed-citation publication-type="journal"><name><surname>Abubakari</surname><given-names>GMR</given-names></name>, <name><surname>Dada</surname><given-names>D</given-names></name>, <name><surname>Nur</surname><given-names>J</given-names></name>, <name><surname>Turner</surname><given-names>D</given-names></name>, <name><surname>Otchere</surname><given-names>A</given-names></name>, <name><surname>Tanis</surname><given-names>L</given-names></name>, <etal>et al</etal>. <article-title>Intersectional stigma and its impact on HIV prevention and care among MSM and WSW in sub-Saharan African countries: a protocol for a scoping review</article-title>. <source>BMJ Open</source>. <year>2021</year>;<volume>11</volume>(<issue>8</issue>):<fpage>e047280</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1136/bmjopen-2020-047280</pub-id>
+<pub-id pub-id-type="pmid">34362801</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref026">
+        <label>26</label>
+        <mixed-citation publication-type="journal"><name><surname>Jackson-Best</surname><given-names>F</given-names></name>, <name><surname>Edwards</surname><given-names>N</given-names></name>. <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>. <source>BMC Public Health</source>. <year>2018</year>;<volume>18</volume>(<issue>1</issue>):<fpage>919</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id>
+<pub-id pub-id-type="pmid">30049270</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref027">
+        <label>27</label>
+        <mixed-citation publication-type="journal"><name><surname>Turan</surname><given-names>B</given-names></name>, <name><surname>Hatcher</surname><given-names>AM</given-names></name>, <name><surname>Weiser</surname><given-names>SD</given-names></name>, <name><surname>Johnson</surname><given-names>MO</given-names></name>, <name><surname>Rice</surname><given-names>WS</given-names></name>, <name><surname>Turan</surname><given-names>JM</given-names></name>. <article-title>Framing Mechanisms Linking HIV-Related Stigma, Adherence to Treatment, and Health Outcomes</article-title>. <source>Am J Public Health</source>. <year>2017</year>;<volume>107</volume>(<issue>6</issue>):<fpage>863</fpage>&#x2013;<lpage>9</lpage>. Epub 2017/04/21. <comment>doi: </comment><pub-id pub-id-type="doi">10.2105/AJPH.2017.303744</pub-id> .<pub-id pub-id-type="pmid">28426316</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref028">
+        <label>28</label>
+        <mixed-citation publication-type="journal"><name><surname>Turan</surname><given-names>JM</given-names></name>, <name><surname>Elafros</surname><given-names>MA</given-names></name>, <name><surname>Logie</surname><given-names>CH</given-names></name>, <name><surname>Banik</surname><given-names>S</given-names></name>, <name><surname>Turan</surname><given-names>B</given-names></name>, <name><surname>Crockett</surname><given-names>KB</given-names></name>, <etal>et al</etal>. <article-title>Challenges and opportunities in examining and addressing intersectional stigma and health</article-title>. <source>BMC Medicine</source>. <year>2019</year>;<volume>17</volume>(<issue>1</issue>):<fpage>7</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12916-018-1246-9</pub-id>
+<pub-id pub-id-type="pmid">30764816</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref029">
+        <label>29</label>
+        <mixed-citation publication-type="other">Zvandiri annual report: Health, happiness and hope for children, adolescents and young adults living with HIV. Harare: Zvandiri, 2021.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref030">
+        <label>30</label>
+        <mixed-citation publication-type="other">Zvandiri: Who we are: Zvandiri; n.d [7 November 2022]. <ext-link xlink:href="https://zvandiri.org/who-we-are/" ext-link-type="uri">https://zvandiri.org/who-we-are/</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref031">
+        <label>31</label>
+        <mixed-citation publication-type="journal"><name><surname>Bernays</surname><given-names>S</given-names></name>, <name><surname>Tshuma</surname><given-names>M</given-names></name>, <name><surname>Willis</surname><given-names>N</given-names></name>, <name><surname>Mvududu</surname><given-names>K</given-names></name>, <name><surname>Chikeya</surname><given-names>A</given-names></name>, <name><surname>Mufuka</surname><given-names>J</given-names></name>, <etal>et al</etal>. <article-title>Scaling up peer-led community-based differentiated support for adolescents living with HIV: keeping the needs of youth peer supporters in mind to sustain success</article-title>. <source>Journal of the International AIDS Society</source>. <year>2020</year>;<volume>23</volume>(<issue>S5</issue>):<fpage>e25570</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jia2.25570</pub-id>
+<pub-id pub-id-type="pmid">32869532</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref032">
+        <label>32</label>
+        <mixed-citation publication-type="book"><name><surname>Uzuegbunam</surname><given-names>CE</given-names></name>. <part-title>Negotiating Youth-centred Research: Ethical Reflections on Research with Young People in Rural and Urban Spaces in Nigeria</part-title>. In: <name><surname>Spencer</surname><given-names>G</given-names></name>, editor. <source>Ethics and Integrity in Research with Children and Young People. Advances in Research Ethics and Integrity</source>. <volume>7</volume>: <publisher-name>Emerald Publishing Limited</publisher-name>; <year>2021</year>. p. <fpage>43</fpage>&#x2013;<lpage>55</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref033">
+        <label>33</label>
+        <mixed-citation publication-type="journal"><name><surname>Woodgate</surname><given-names>RL</given-names></name>, <name><surname>Tennent</surname><given-names>P</given-names></name>, <name><surname>Barriage</surname><given-names>S</given-names></name>. <article-title>Creating Space for Youth Voice: Implications of Youth Disclosure Experiences for Youth-Centered Research</article-title>. <source>International Journal of Qualitative Methods</source>. <year>2020</year>;<volume>19</volume>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/1609406920958974</pub-id> 2473728297.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref034">
+        <label>34</label>
+        <mixed-citation publication-type="journal"><name><surname>Mavhu</surname><given-names>W</given-names></name>, <name><surname>Willis</surname><given-names>N</given-names></name>, <name><surname>Mufuka</surname><given-names>J</given-names></name>, <name><surname>Bernays</surname><given-names>S</given-names></name>, <name><surname>Tshuma</surname><given-names>M</given-names></name>, <name><surname>Mangenah</surname><given-names>C</given-names></name>, <etal>et al</etal>. <article-title>Effect of a differentiated service delivery model on virological failure in adolescents with HIV in Zimbabwe (Zvandiri): a cluster-randomised controlled trial</article-title>. <source>The Lancet Global Health</source>. <year>2020</year>;<volume>8</volume>(<issue>2</issue>):<fpage>e264</fpage>&#x2013;<lpage>e75</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1016/S2214-109X(19)30526-1</pub-id>
+<pub-id pub-id-type="pmid">31924539</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref035">
+        <label>35</label>
+        <mixed-citation publication-type="journal"><name><surname>Simms</surname><given-names>V</given-names></name>, <name><surname>Weiss</surname><given-names>HA</given-names></name>, <name><surname>Chinoda</surname><given-names>S</given-names></name>, <name><surname>Mutsinze</surname><given-names>A</given-names></name>, <name><surname>Bernays</surname><given-names>S</given-names></name>, <name><surname>Verhey</surname><given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Peer-led counselling with problem discussion therapy for adolescents living with HIV in Zimbabwe: A cluster-randomised trial</article-title>. <source>PLOS Medicine</source>. <year>2022</year>;<volume>19</volume>(<issue>1</issue>):<fpage>e1003887</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pmed.1003887</pub-id>
+<pub-id pub-id-type="pmid">34986170</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref036">
+        <label>36</label>
+        <mixed-citation publication-type="journal"><name><surname>Willis</surname><given-names>N</given-names></name>, <name><surname>Milanzi</surname><given-names>A</given-names></name>, <name><surname>Mawodzeke</surname><given-names>M</given-names></name>, <name><surname>Dziwa</surname><given-names>C</given-names></name>, <name><surname>Armstrong</surname><given-names>A</given-names></name>, <name><surname>Yekeye</surname><given-names>I</given-names></name>, <etal>et al</etal>. <article-title>Effectiveness of community adolescent treatment supporters (CATS) interventions in improving linkage and retention in care, adherence to ART and psychosocial well-being: a randomised trial among adolescents living with HIV in rural Zimbabwe</article-title>. <source>BMC Public Health</source>. <year>2019</year>;<volume>19</volume>(<issue>1</issue>):<fpage>117</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1186/s12889-019-6447-4</pub-id>
+<pub-id pub-id-type="pmid">30691425</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref037">
+        <label>37</label>
+        <mixed-citation publication-type="journal"><name><surname>Macapagal</surname><given-names>K</given-names></name>, <name><surname>Coventry</surname><given-names>R</given-names></name>, <name><surname>Arbeit</surname><given-names>MR</given-names></name>, <name><surname>Fisher</surname><given-names>CB</given-names></name>, <name><surname>Mustanski</surname><given-names>B</given-names></name>. <article-title>&#x201C;I Won&#x2019;t Out Myself Just to Do a Survey&#x201D;: Sexual and Gender Minority Adolescents&#x2019; Perspectives on the Risks and Benefits of Sex Research</article-title>. <source>Archives of Sexual Behavior</source>. <year>2017</year>;<volume>46</volume>(<issue>5</issue>):<fpage>1393</fpage>&#x2013;<lpage>409</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10508-016-0784-5</pub-id>
+<pub-id pub-id-type="pmid">27469352</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref038">
+        <label>38</label>
+        <mixed-citation publication-type="journal"><name><surname>Schelbe</surname><given-names>L</given-names></name>, <name><surname>Chanmugam</surname><given-names>A</given-names></name>, <name><surname>Moses</surname><given-names>T</given-names></name>, <name><surname>Saltzburg</surname><given-names>S</given-names></name>, <name><surname>Williams</surname><given-names>LR</given-names></name>, <name><surname>Letendre</surname><given-names>J</given-names></name>. <article-title>Youth participation in qualitative research: Challenges and possibilities</article-title>. <source>Qualitative Social Work</source>. <year>2015</year>;<volume>14</volume>(<issue>4</issue>):<fpage>504</fpage>&#x2013;<lpage>21</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1177/1473325014556792</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref039">
+        <label>39</label>
+        <mixed-citation publication-type="journal"><name><surname>Wallerstein</surname><given-names>N</given-names></name>, <name><surname>Duran</surname><given-names>B</given-names></name>. <article-title>Community-based participatory research contributions to intervention research: the intersection of science and practice to improve health equity</article-title>. <source>Am J Public Health</source>. <year>2010</year>;<volume>100 Suppl 1</volume>(<issue>Suppl 1</issue>):<fpage>S40</fpage>&#x2013;<lpage>6</lpage>. Epub 2010/02/12. <comment>doi: </comment><pub-id pub-id-type="doi">10.2105/AJPH.2009.184036</pub-id> .<pub-id pub-id-type="pmid">20147663</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref040">
+        <label>40</label>
+        <mixed-citation publication-type="journal"><name><surname>Braun</surname><given-names>V</given-names></name>, <name><surname>Clarke</surname><given-names>V</given-names></name>. <article-title>Using thematic analysis in psychology</article-title>. <source>Qualitative Research in Psychology</source>. <year>2006</year>;<volume>3</volume>(<issue>2</issue>):<fpage>77</fpage>&#x2013;<lpage>101</lpage>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref041">
+        <label>41</label>
+        <mixed-citation publication-type="journal"><name><surname>Braun</surname><given-names>V</given-names></name>, <name><surname>Clarke</surname><given-names>V</given-names></name>. <article-title>One size fits all? What counts as quality practice in (reflexive) thematic analysis?</article-title>
+<source>Qualitative Research in Psychology</source>. <year>2021</year>;<volume>18</volume>(<issue>3</issue>):<fpage>328</fpage>&#x2013;<lpage>52</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/14780887.2020.1769238</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref042">
+        <label>42</label>
+        <mixed-citation publication-type="journal"><name><surname>Braun</surname><given-names>V</given-names></name>, <name><surname>Clarke</surname><given-names>V</given-names></name>. <article-title>Can I use TA? Should I use TA? Should I not use TA? Comparing reflexive thematic analysis and other pattern-based qualitative analytic approaches</article-title>. <source>Counselling and Psychotherapy Research</source>. <year>2021</year>;<volume>21</volume>(<issue>1</issue>):<fpage>37</fpage>&#x2013;<lpage>47</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/capr.12360</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref043">
+        <label>43</label>
+        <mixed-citation publication-type="journal"><name><surname>Liamputtong</surname><given-names>P.</given-names></name>
+<article-title>Qualitative data analysis: conceptual and practical considerations</article-title>. <source>Health Promot J Austr</source>. <year>2009</year>;<volume>20</volume>(<issue>2</issue>):<fpage>133</fpage>&#x2013;<lpage>9</lpage>. Epub 2009/08/01. <comment>doi: </comment><pub-id pub-id-type="doi">10.1071/he09133</pub-id> .<pub-id pub-id-type="pmid">19642962</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref044">
+        <label>44</label>
+        <mixed-citation publication-type="journal"><name><surname>Braun</surname><given-names>V</given-names></name>, <name><surname>Clarke</surname><given-names>V</given-names></name>. <article-title>Toward good practice in thematic analysis: Avoiding common problems and be(com)ing a knowing researcher</article-title>. <source>International Journal of Transgender Health</source>. <year>2022</year>:<fpage>1</fpage>&#x2013;<lpage>6</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/26895269.2022.2129597</pub-id>
+<pub-id pub-id-type="pmid">36713144</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref045">
+        <label>45</label>
+        <mixed-citation publication-type="journal"><name><surname>Embleton</surname><given-names>L</given-names></name>, <name><surname>Logie</surname><given-names>CH</given-names></name>, <name><surname>Ngure</surname><given-names>K</given-names></name>, <name><surname>Nelson</surname><given-names>L</given-names></name>, <name><surname>Kimbo</surname><given-names>L</given-names></name>, <name><surname>Ayuku</surname><given-names>D</given-names></name>, <etal>et al</etal>. <article-title>Intersectional Stigma and Implementation of HIV Prevention and Treatment Services for Adolescents Living with and at Risk for HIV: Opportunities for Improvement in the HIV Continuum in Sub-Saharan Africa</article-title>. <source>AIDS and Behavior</source>. <year>2023</year>;<volume>27</volume>(<issue>1</issue>):<fpage>162</fpage>&#x2013;<lpage>84</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1007/s10461-022-03793-4</pub-id>
+<pub-id pub-id-type="pmid">35907143</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref046">
+        <label>46</label>
+        <mixed-citation publication-type="journal"><name><surname>Stangl</surname><given-names>AL</given-names></name>, <name><surname>Atkins</surname><given-names>K</given-names></name>, <name><surname>Leddy</surname><given-names>AM</given-names></name>, <name><surname>Sievwright</surname><given-names>KM</given-names></name>, <name><surname>Sevelius</surname><given-names>JM</given-names></name>, <name><surname>Lippman</surname><given-names>SA</given-names></name>, <etal>et al</etal>. <article-title>What do we know about interventions to reduce intersectional stigma and discrimination in the context of HIV? A systematic review</article-title>. <source>Stigma and Health</source>. <year>2023</year>;<volume>8</volume>(<issue>3</issue>):<fpage>393</fpage>&#x2013;<lpage>408</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1037/sah0000414</pub-id></mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref047">
+        <label>47</label>
+        <mixed-citation publication-type="journal"><name><surname>Rich</surname><given-names>C</given-names></name>, <name><surname>Mavhu</surname><given-names>W</given-names></name>, <name><surname>France</surname><given-names>NF</given-names></name>, <name><surname>Munatsi</surname><given-names>V</given-names></name>, <name><surname>Byrne</surname><given-names>E</given-names></name>, <name><surname>Willis</surname><given-names>N</given-names></name>, <etal>et al</etal>. <article-title>Exploring the beliefs, experiences and impacts of HIV-related self-stigma amongst adolescents and young adults living with HIV in Harare, Zimbabwe: A qualitative study</article-title>. <source>PLoS One</source>. <year>2022</year>;<volume>17</volume>(<issue>5</issue>):<fpage>e0268498</fpage>. Epub 20220518. <comment>doi: </comment><pub-id pub-id-type="doi">10.1371/journal.pone.0268498</pub-id> .<pub-id pub-id-type="pmid">35584100</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref048">
+        <label>48</label>
+        <mixed-citation publication-type="journal"><name><surname>Ferris France</surname><given-names>N</given-names></name>, <name><surname>Byrne</surname><given-names>E</given-names></name>, <name><surname>Nyamwanza</surname><given-names>O</given-names></name>, <name><surname>Munatsi</surname><given-names>V</given-names></name>, <name><surname>Willis</surname><given-names>N</given-names></name>, <name><surname>Conroy</surname><given-names>R</given-names></name>, <etal>et al</etal>. <article-title>Wakakosha "You are Worth it": reported impact of a community-based, peer-led HIV self-stigma intervention to improve self-worth and wellbeing among young people living with HIV in Zimbabwe</article-title>. <source>Front Public Health</source>. <year>2023</year>;<volume>11</volume>:<fpage>1235150</fpage>. Epub 20230728. <comment>doi: </comment><pub-id pub-id-type="doi">10.3389/fpubh.2023.1235150</pub-id> .<pub-id pub-id-type="pmid">37575105</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref049">
+        <label>49</label>
+        <mixed-citation publication-type="other">Safeguarding the future: giving priority to the needs of adolescent and young mothers living with HIV. Geneva: World Health Organization, United Nations Children&#x2019;s Fund (UNICEF), 2021.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref050">
+        <label>50</label>
+        <mixed-citation publication-type="journal"><name><surname>Toska</surname><given-names>E</given-names></name>, <name><surname>Roberts</surname><given-names>KJ</given-names></name>, <name><surname>Laurenzi</surname><given-names>CA</given-names></name>, <name><surname>Cluver</surname><given-names>L</given-names></name>, <name><surname>Sherr</surname><given-names>L</given-names></name>. <article-title>Adolescent mothers affected by HIV and their children&#x2013;understanding and meeting their needs in our HIV response and global commitments</article-title>. <source>The Coalition for Children Affected by AIDS</source>, <year>2019</year>.</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref051">
+        <label>51</label>
+        <mixed-citation publication-type="journal"><name><surname>Heymann</surname><given-names>J</given-names></name>, <name><surname>Earle</surname><given-names>A</given-names></name>, <name><surname>Rajaraman</surname><given-names>D</given-names></name>, <name><surname>Miller</surname><given-names>C</given-names></name>, <name><surname>Bogen</surname><given-names>K</given-names></name>. <article-title>Extended family caring for children orphaned by AIDS: balancing essential work and caregiving in a high HIV prevalence nations</article-title>. <source>AIDS Care</source>. <year>2007</year>;<volume>19</volume>(<issue>3</issue>):<fpage>337</fpage>&#x2013;<lpage>45</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/09540120600763225</pub-id>
+<pub-id pub-id-type="pmid">17453567</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref052">
+        <label>52</label>
+        <mixed-citation publication-type="journal"><name><surname>Nabunya</surname><given-names>P.</given-names></name>
+<article-title>Social Support Networks for Adolescents Orphaned by HIV: Definitions, Barriers, Challenges and Lessons from Uganda</article-title>. <source>Vulnerable Children and Youth Studies</source>. <year>2023</year>;<volume>18</volume>(<issue>1</issue>):<fpage>87</fpage>&#x2013;<lpage>99</lpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1080/17450128.2022.2163330</pub-id>
+<pub-id pub-id-type="pmid">36684804</pub-id>
+</mixed-citation>
+      </ref>
+      <ref id="pgph.0002442.ref053">
+        <label>53</label>
+        <mixed-citation publication-type="journal"><name><surname>Makofane</surname><given-names>K</given-names></name>, <name><surname>Lusimbo</surname><given-names>R</given-names></name>, <name><surname>Macharia</surname><given-names>P</given-names></name>, <name><surname>Makanjuola</surname><given-names>O</given-names></name>, <name><surname>Malone</surname><given-names>S</given-names></name>, <name><surname>Mokabedi</surname><given-names>A</given-names></name>, <etal>et al</etal>. <article-title>Understanding community as a basis for targeting and shaping service delivery</article-title>. <source>Journal of the International AIDS Society</source>. <year>2021</year>;<volume>24</volume>(<issue>S3</issue>):<fpage>e25712</fpage>. <comment>doi: </comment><pub-id pub-id-type="doi">10.1002/jia2.25712</pub-id>
+<pub-id pub-id-type="pmid">34189848</pub-id>
+</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

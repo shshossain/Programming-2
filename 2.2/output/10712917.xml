@@ -1,0 +1,1170 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">Cad Saude Publica</journal-id><journal-id journal-id-type="iso-abbrev">Cad Saude Publica</journal-id><journal-id journal-id-type="publisher-id">csp</journal-id><journal-title-group><journal-title>Cadernos de Sa&#xFA;de P&#xFA;blica</journal-title></journal-title-group><issn pub-type="ppub">0102-311X</issn><issn pub-type="epub">1678-4464</issn><publisher><publisher-name>Escola Nacional de Sa&#xFA;de P&#xFA;blica Sergio Arouca, Funda&#xE7;&#xE3;o Oswaldo Cruz</publisher-name></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmc">10712917</article-id><article-id pub-id-type="doi">10.1590/0102-311XEN144223</article-id><article-id pub-id-type="other">00401</article-id><article-categories><subj-group subj-group-type="heading"><subject>Debate</subject></subj-group></article-categories><title-group><article-title>HIV epidemic, prevention technologies, and the new generations:
+trends and opportunities for epidemic response</article-title><trans-title-group xml:lang="pt"><trans-title>Epidemia de HIV, tecnologias de preven&#xE7;&#xE3;o e as novas gera&#xE7;&#xF5;es:
+tend&#xEA;ncias e oportunidades para a resposta &#xE0; epidemia</trans-title></trans-title-group><trans-title-group xml:lang="es"><trans-title>Epidemia del VIH, tecnolog&#xED;as de prevenci&#xF3;n y las nuevas
+generaciones: tendencias y oportunidades para responder a la
+epidemia</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5157-0597</contrib-id><name><surname>Grangeiro</surname><given-names>Alexandre</given-names></name><role>contributed with the writing and review</role><role>approved the final version</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-0443-3183</contrib-id><name><surname>Ferraz</surname><given-names>Dulce</given-names></name><role>contributed with the writing and review</role><role>approved the final version</role><xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3752-0782</contrib-id><name><surname>Magno</surname><given-names>Laio</given-names></name><role>contributed with the writing and review</role><role>approved the final version</role><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-6234-1490</contrib-id><name><surname>Zucchi</surname><given-names>Eliana Miura</given-names></name><role>contributed with the writing and review</role><role>approved the final version</role><xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-5233-4190</contrib-id><name><surname>Couto</surname><given-names>M&#xE1;rcia Thereza</given-names></name><role>contributed with the writing and review</role><role>approved the final version</role><xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1675-2146</contrib-id><name><surname>Dourado</surname><given-names>Ines</given-names></name><role>contributed with the writing and review</role><role>approved the final version</role><xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label> Faculdade de Medicina, Universidade de S&#xE3;o Paulo, S&#xE3;o Paulo,
+Brasil.</aff><aff id="aff2">
+<label>2</label> Diretoria Regional de Bras&#xED;lia, Funda&#xE7;&#xE3;o Oswaldo Cruz, Bras&#xED;lia,
+Brasil.</aff><aff id="aff3">
+<label>3</label> Instituto de Sa&#xFA;de Coletiva, Universidade Federal da Bahia,
+Salvador, Brasil.</aff><aff id="aff4">
+<label>4</label> Departamento de Ci&#xEA;ncias da Vida, Universidade do Estado da Bahia,
+Salvador, Brasil.</aff><aff id="aff5">
+<label>5</label> Programa de P&#xF3;s-gradua&#xE7;&#xE3;o em Sa&#xFA;de Coletiva, Universidade Cat&#xF3;lica
+de Santos, Santos, Brasil.</aff><author-notes><corresp id="c1">
+<label>Correspondence</label> A. Grangeiro Departamento de Medicina Preventiva,
+Faculdade de Medicina, Universidade de S&#xE3;o Paulo. Av. Dr. Arnaldo 455, S&#xE3;o
+Paulo, SP 01246-903, Brasil. <email>ale.grangeiro@gmail.com</email>
+</corresp><fn fn-type="other" id="fn1"><p><bold>Additional information:</bold> ORCID: Alexandre Grangeiro (0000-0001-5157-0597); Dulce Ferraz
+(0000-0002-0443-3183); Laio Magno (0000-0003-3752-0782); Eliana Miura Zucchi
+(0000-0001-6234-1490); M&#xE1;rcia Thereza Couto (0000-0001-5233-4190); Ines
+Dourado (0000-0003-1675-2146).</p></fn></author-notes><pub-date date-type="pub" publication-format="electronic"><day>08</day><month>12</month><year>2023</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2023</year></pub-date><volume>39</volume><issue>Suppl 1</issue><elocation-id>e00144223</elocation-id><history><date date-type="received"><day>03</day><month>8</month><year>2023</year></date><date date-type="accepted"><day>07</day><month>8</month><year>2023</year></date></history><permissions><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open-access article distributed under the terms of the
+Creative Commons Attribution License</license-p></license></permissions><abstract><title>Abstract:</title><p>The United Nations has underscored the possibility of ending the HIV epidemic as
+a public health problem. However, an increase in the incidence among adolescents
+and youth has indicated a greater distance between HIV responses and the
+specificities of the new generations, which can maintain the epidemic for an
+extended period. Regards this matter, it is debated that the provision of a
+range of preventive methods, even if highly effective, and a conservatism that
+has internalized stigma within government policies, hinder the proper and
+essential dialogue between current preventive policies and the needs of the new
+generations. These generations are marked by a social representation of AIDS as
+a mild disease, by new gender and sexuality performances, and by the search for
+a more critical role in affective and sexual encounters, which includes frequent
+use of dating apps and substances. The hierarchy of the delivery of prevention
+methods is presented as a proposal for a new policy, prioritizing pre-exposure
+prophylaxis (PrEP) and addressing the social determinants of the HIV epidemic,
+including strategies to mitigate stigma. The importance of the participation of
+adolescents and youth in constructing the policy and the need for an
+intersectoral response are also reinforced.</p></abstract><trans-abstract xml:lang="pt"><title>Resumo:</title><p>A Organiza&#xE7;&#xE3;o das Na&#xE7;&#xF5;es Unidas tem destacado a possibilidade de eliminar a
+epidemia de HIV como um problema de sa&#xFA;de p&#xFA;blica. Por&#xE9;m, um aumento da
+incid&#xEA;ncia em adolescentes e jovens tem indicado um maior distanciamento entre a
+resposta ao HIV e as especificidades pr&#xF3;prias das novas gera&#xE7;&#xF5;es, que pode
+estender a epidemia por um longo per&#xED;odo. Frente a isso, &#xE9; discutido que a
+oferta de uma cesta universal de m&#xE9;todos preventivos, mesmo que altamente
+eficazes, e um conservadorismo que internalizou o estigma em pol&#xED;ticas
+governamentais, inviabilizam o adequado e necess&#xE1;rio di&#xE1;logo entre as atuais
+pol&#xED;ticas preventivas e as necessidades das novas gera&#xE7;&#xF5;es. Estas gera&#xE7;&#xF5;es que
+s&#xE3;o marcadas por uma representa&#xE7;&#xE3;o social da aids com menor gravidade; novas
+performances de g&#xEA;nero e de orienta&#xE7;&#xE3;o sexual; e a busca de um maior
+protagonismo nas intera&#xE7;&#xF5;es afetivas e sexuais, o que inclui o uso mais
+frequente de aplicativos de encontro de parcerias e de subst&#xE2;ncias na cena de
+sexo. &#xC9; apresentado como proposta de uma nova pol&#xED;tica a hierarquiza&#xE7;&#xE3;o da
+oferta de m&#xE9;todos preventivos, com a prioriza&#xE7;&#xE3;o da profilaxia pr&#xE9;-exposi&#xE7;&#xE3;o
+(PrEP) e o enfrentamento dos determinantes sociais da epidemia do HIV, incluindo
+estrat&#xE9;gias de redu&#xE7;&#xE3;o do estigma. Refor&#xE7;a-se, ainda, a import&#xE2;ncia da
+participa&#xE7;&#xE3;o de adolescentes e jovens na constru&#xE7;&#xE3;o da pol&#xED;tica e a necessidade
+de uma resposta intersetorial.</p></trans-abstract><trans-abstract xml:lang="es"><title>
+Resumen:
+</title><p>Las Naciones Unidas se&#xF1;alan la posibilidad de eliminar la epidemia del VIH como
+un problema de salud p&#xFA;blica. Sin embargo, un incremento de la incidencia de
+esta enfermedad en adolescentes y j&#xF3;venes muestra una mayor distancia entre la
+respuesta al VIH y las especificidades de las nuevas generaciones, lo que puede
+extender la epidemia durante un largo periodo. En este contexto, se discute que
+la oferta de una canasta universal de m&#xE9;todos preventivos, aunque altamente
+efectivos, y que un conservadurismo que interioriz&#xF3; el estigma en las pol&#xED;ticas
+gubernamentales hacen inviable un adecuado y necesario di&#xE1;logo entre las
+pol&#xED;ticas preventivas actuales y las necesidades de las nuevas generaciones.
+Estas generaciones est&#xE1;n marcadas por una representaci&#xF3;n social del sida con
+menos gravedad, por nuevas actuaciones de g&#xE9;nero y orientaci&#xF3;n sexual y por la
+b&#xFA;squeda de un mayor protagonismo en las interacciones afectivas y sexuales, que
+incluye el uso m&#xE1;s frecuente de aplicaciones para encontrar parejas y de
+sustancias en la escena sexual. Se presenta como propuesta de una nueva pol&#xED;tica
+la priorizaci&#xF3;n de la oferta de m&#xE9;todos preventivos, con la priorizaci&#xF3;n de la
+profilaxis preexposici&#xF3;n (PrEP) y la confrontaci&#xF3;n de los determinantes sociales
+de la epidemia del VIH, que incluyen estrategias para reducir el estigma.
+Tambi&#xE9;n refuerza la importancia de la participaci&#xF3;n de los adolescentes y
+j&#xF3;venes en la construcci&#xF3;n de la pol&#xED;tica y la necesidad de una respuesta
+intersectorial.</p></trans-abstract><kwd-group><title>Keywords:</title><kwd>HIV</kwd><kwd>Public Policies</kwd><kwd>Adolescents</kwd><kwd>Sexuality</kwd><kwd>Gender Identity</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave:</title><kwd>HIV</kwd><kwd>Pol&#xED;ticas P&#xFA;blicas</kwd><kwd>Adolescentes</kwd><kwd>Sexualidade</kwd><kwd>Identidade de G&#xEA;nero</kwd></kwd-group><kwd-group xml:lang="es"><title>
+Palabras-clave:
+</title><kwd>VIH</kwd><kwd>Pol&#xED;ticas P&#xFA;blicas</kwd><kwd>Adolescentes</kwd><kwd>Sexualidad</kwd><kwd>Identidad de G&#xE9;nero</kwd></kwd-group><counts><fig-count count="2"/><table-count count="0"/><equation-count count="0"/><ref-count count="41"/></counts></article-meta></front>
+  <body>
+    <sec>
+      <title>The HIV epidemic in new generations</title>
+      <p>The resurgence of the HIV epidemic in the new generations <xref rid="B1" ref-type="bibr">
+<sup>1</sup>
+</xref> poses a mandatory question: are current prevention policies enough to
+reverse this trend? Or will it be necessary to collaboratively build other bases and
+strategies with society to face this new scenario?</p>
+      <p>Changes in how new generations establish their affective and sexual relationships,
+associated with the emergence of more effective preventive methods, point to the
+necessary reformulation of policies without forgetting lessons learned over the last
+40 years. This need for reformulation may be urgent to seize the timely opportunity
+to avoid a higher incidence of infection than in the previous four decades.</p>
+      <p>Adolescents and youth have been particularly affected by the HIV epidemic. The Joint
+United Nations Program on HIV/AIDS (UNAIDS) estimates that 28% of new infections in
+the world in 2019 alone occurred in the 15-24-year age group <xref rid="B2" ref-type="bibr">
+<sup>2</sup>
+</xref>. This pattern is similar in Brazil, where 25% of infections were diagnosed
+in people aged 15-24 in the 2010s decade <xref rid="B3" ref-type="bibr">
+<sup>3</sup>
+</xref>.</p>
+      <p>Since the 1980s, this increased vulnerability of adolescents has been attributed to
+the specificities of this life cycle phase, marked by the beginning of sexual
+relations in a context of biological, social, psychological, and structural
+transition. It has also been associated with establishing sexual partnership
+networks that include stable, casual, and intergenerational relationships, often
+associated with increased drug and alcohol consumption <xref rid="B4" ref-type="bibr">
+<sup>4</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B5" ref-type="bibr">
+<sup>5</sup>
+</xref>. These aspects have been worsened by insufficient access to comprehensive
+health care <xref rid="B6" ref-type="bibr">
+<sup>6</sup>
+</xref> and by interactions between social markers of differences, such as sexual
+and gender identity, social class, and race <xref rid="B7" ref-type="bibr">
+<sup>7</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>. These markers are essential to understanding the epidemic because they
+determine how HIV risk unevenlly affects different population groups. Socially
+vulnerable adolescents and youth, especially LGBTQIA+ and black people, have been
+disproportionately affected by the HIV epidemic than the general population,
+primarily due to a higher burden of violence, prejudice, and stigma since childhood
+<xref rid="B8" ref-type="bibr">
+<sup>8</sup>
+</xref>. There is an even more significant HIV infection burden on transgender
+women, whose recognition has been hindered by wrong classifications, including
+epidemiological records of cases classified with cisgender men in the &#x201C;homosexual
+relationships&#x201D; transmission category <xref rid="B9" ref-type="bibr">
+<sup>9</sup>
+</xref>.</p>
+      <p>However, the resurgence of the HIV incidence pattern draws attention to aspects
+beyond the specificities of adolescents and youth and their relationship with the
+current HIV response. Value and behaviour changes notably mark a new generation
+about their sexuality, such as the re-signification of gender binary <xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref> and the adoption of contemporary sexual and affective arrangements <xref rid="B11" ref-type="bibr">
+<sup>11</sup>
+</xref>, including information technology for sexual encounters <xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref> and the use of substances for sex <xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>. Understanding these aspects is absolutely relevant. They mark, in a more
+pronounced way, a change in current standards, through the leading role of new
+generations in the search for greater identity recognition and LGBTQIA+ citizenship,
+at a time when Brazil is experiencing a period of strengthening policies for social
+participation in decisions, social inclusion and reduction of inequalities.</p>
+      <p>The first evidence of this generational change is shown in the analysis of the
+historical series of AIDS cases in three birth cohorts in Brazil, considering the
+first five years of case occurrence in each cohort <xref rid="f2" ref-type="fig">(Figure 1</xref>). The relative numbers of cases in the generations born
+between 1995 and 2000 - who, in principle, began their sexual life after
+introduction of antiretrovirals and their beneficial effects - surpass those
+recorded in previous generations, such as those born between 1965 and 1970, who
+began sexual relations during the emergence of the HIV epidemic and were responsible
+for the largest number of cases recorded in the country since the start of the
+disease - around 17% of the total. Furthermore, the comparison of generations born
+in 1995-2000 with generations born in 1965-1970 and 1980-1985 (the age that started
+their sexual relations during the most acute period of the epidemic, when there was
+no effective treatment) shows that younger generations have reversed the downward
+trend in the number of cases. Thus, if this trend is maintained in the coming years,
+the magnitude of the epidemic will be more intense in the future than it was in the
+last 40 years.</p>
+      <p>
+<fig position="float" id="f2"><label>Figure 1</label><caption><title>Number * and percentage contribution ** of generations in the total
+number of AIDS cases registered in people aged &#x2265; 14 years, Brazil
+***.</title></caption><graphic xlink:href="1678-4464-csp-39-s1-PT144223-gf2" position="float"/><attrib>* Absolute number recorded in the first five years for each generation;
+** Percentage in relation to the total number of cases registered in the
+corresponding years; *** Cases registered by the Brazilian Ministry of
+Health between 1980 and 2021.</attrib></fig>
+</p>
+    </sec>
+    <sec>
+      <title>Risk compensation and new contexts of affective and sexual relationships</title>
+      <p>Changes in epidemic patterns in new generations have often been related to a risk
+compensation effect due to the perception of reduced disease severity with the use
+of antiretroviral medications to treat HIV infection. These changes would have
+contributed to reshaping the social representation of the disease, with the society
+no longer living with &#x201C;fatal&#x201D;, &#x201C;dangerous&#x201D;, and highly stigmatizing AIDS that &#x201C;grew
+out of control&#x201D; <xref rid="B14" ref-type="bibr">
+<sup>14</sup>
+</xref>.</p>
+      <p>Evidence of risk compensation has been reported <xref rid="B15" ref-type="bibr">
+<sup>15</sup>
+</xref>, pointing to at least two dimensions: the intention (or practice) of not
+having protected sexual relations and a lower prioritization of AIDS in health
+policies and social mobilization.</p>
+      <p>However, if the evidence seems consolidated, risk compensation&#x2019;s actual contribution
+to understanding the recent resurgence of the epidemic in the new generations
+requires further analysis. Health practice, including HIV-related, has shown that
+the fear of getting sick is not enough to encourage social groups to adopt long-term
+measures that will significantly restrict their daily life and way of living. Over
+time, collective learning on how to live and deal with diseases and their
+consequences tends to grow, creating a balance between everyday needs and the risk
+of getting sick. This reconnection with &#x201C;normality&#x201D; that arises from a collective
+learning process does not necessarily imply an increased risk of disease as long as
+the new preventive strategies are adequately safe.</p>
+      <p>In the context of HIV, with effects in essential dimensions of life, these lessons
+learned mostly through community arrangements resulted in preventive strategies that
+ensured a gradual resumption of pleasure, affection, and sex even in the early years
+of the epidemic instead of the more restrictive recommendations of abstinence and
+reduced number of partners. The repertoires of sexual practices without anal or
+vaginal penetration, the use of condoms, and seroadaptive strategies are highlighted
+here <xref rid="B16" ref-type="bibr">
+<sup>16</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>.</p>
+      <p>Thus, after 40 years of the epidemic, we could expect that the most effective
+treatments, which have increased the life expectancy of people living with HIV to
+levels close to that of the general population, would translate into the search for
+a better balance between preventive strategies and different needs to perform gender
+and exercise sexuality.</p>
+      <p>A reflection is necessary: would preventive strategies highlighting the negative
+aspects of HIV treatment be relevant to encourage preventive practices? Experience
+indicates the possibility of a more negative than positive effect of this choice
+because it emphasizes a partial view of treatment and goes against the virtuous
+cycle that can eliminate HIV as a public health problem: diagnosis, treatment, viral
+suppression, and reduced HIV mortality and transmission.</p>
+      <p>In addition, despite the milder representation of the disease, qualitative studies
+showed that adolescents and adults at higher risk are constantly concerned about HIV
+infection. This can be observed in adult post-exposure prophylaxis (PEP) users, who
+reported significant distress while accessing and using this prophylaxis, mainly due
+to the fear of being infected and the anticipation of AIDS-related stigma <xref rid="B18" ref-type="bibr">
+<sup>18</sup>
+</xref>. Similar feelings were reported by adult men who have sex with men (MSM)
+when searching for pre-exposure prophylaxis (PrEP). They highlighted that AIDS- and
+sexuality-related stigmas are barriers to seeking care <xref rid="B19" ref-type="bibr">
+<sup>19</sup>
+</xref>, which turned into relief and increased pleasure as they felt protected with
+the prophylaxis <xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref>. Adolescent cisgender MSM and transgender women (TGW) also showed concerns
+about not getting infected with HIV due to the negative consequences associated with
+AIDS, notably the stigma <xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>.</p>
+      <p>Understanding the search for balance between daily needs and prevention strategies in
+a context where AIDS is perceived with less severity than 40 years ago, may be the
+key to understanding the resurge of the epidemic in the new generations. From this
+perspective, revisiting the late 1990s and early 2000s can be enlightening <xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>. During this period, an inflection on the gender binary became more socially
+visible, highlighting multiple identities and possibilities between the male and
+female domains. This occurred concomitantly with expanding the public space for
+LGBTQIA+ issues through reconfiguring social identity movements based on gender and
+sexual orientation. The result is a context created in the early decades beginning
+of the 2000s, during which the recognition of gender and sexual diversity by the
+state and society increased.</p>
+      <p>In the HIV response, this process is especially marked by three detachments. The
+first is the detachment of the LGBT movement in the field of HIV, which has
+rearticulated itself after two decades around new social organizations, with a more
+specific agenda to guarantee equal rights to the general population and to implement
+policies to reduce sexual orientation-related violence <xref rid="B22" ref-type="bibr">
+<sup>22</sup>
+</xref>. This also marks increased &#x201C;serophobia&#x201D; or &#x201C;HIV-phobia&#x201D; within the gay
+movement, somehow mirroring a sense of community. Another critical detachment is
+being vocal about the specificities of different gender identities and sexual
+orientations that would no longer be covered by a particular &#x201C;gay movement
+umbrella&#x201D;. This occurs due to stronger agendas claimed by transgender, lesbian, and
+asexual groups, among others, reflecting an increased number of letters to the
+acronym &#x201C;LGBT&#x201D; and a greater social visibility of these expressions <xref rid="B10" ref-type="bibr">
+<sup>10</sup>
+</xref>. The third detachment is new forms of social organization and political
+practices, different from those identified in traditional nongovernmental
+organizations (NGOs). The so-called &#x201C;collectives&#x201D; appear as more fluid and less
+institutionalized community expressions that articulate different agendas to respond
+to problems and establish new experiences and practices to affirm gender and sexual
+identities.</p>
+      <p>This entire process is reflected in reconfiguring community living spaces and
+LGBTQIA+ social interactions, among other aspects. This movement expands borders and
+acquires new formats, with contexts more favorable to pluralities and new affective
+and sexual dispositions. New spaces open to the diversity of genders identities and
+sexual orientations have emerged in the outskirts of large urban centers, places
+previously marked by extreme violence against gays, with their own cultures and
+independent of the spaces identified as classic homoerotic spaces that were until
+then restricted to central regions <xref rid="B23" ref-type="bibr">
+<sup>23</sup>
+</xref>.</p>
+      <p>The reconfiguration of interaction spaces was also influenced by different factors,
+especially the new communication technologies, which drastically changed the format
+of sexual and affective dates, and which are now mediated by apps and social
+networks <xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>. These new types of interaction promoted, simplified, and expanded networks
+and possibilities for finding partnerships, dissociating partnership interactions
+from physical spaces such as squares, streets, and other places where LGBTQIA+
+interactions traditionally occurred. These apps are so critical in everyday life
+that they have become the primary means of finding sexual partners <xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>, with more than 60% of MSM, especially young men, reporting making use of
+apps once or more times a day <xref rid="B12" ref-type="bibr">
+<sup>12</sup>
+</xref>, not only to find a casual partner but also to establish affective
+relationships, meet and interact with friends, and obtain different types of
+services or products, including commercial sex and psychoactive substances for sex.
+Thus, it seems natural to define apps as the &#x201C;new public square&#x201D; for homoerotic
+interactions.</p>
+      <p>Another aspect leading to essential changes in the context of sexual relations and
+HIV infection risk was the increased substance use in the sex scenario to facilitate
+interactions, improve the sexual experience, and prolong its duration <xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>. Although substance use in sex is not new in LGBTQIA+ environments, it has
+changed in recent years with chemsex, which defines long sex parties involving
+different partners. This scenario includes &#x201C;new substances&#x201D;, some synthetic and
+injectable substances used alone or combined and are highly addictive. The main
+substances used in LGBTQIA+ environments are crystal methamphetamine,
+gamma-butyrolactone (GBL) or gamma-hydroxybutyrate (GHB), mephedrone, and ketamine,
+in addition to cocaine, poppers, and marijuana. This increased use of substances in
+sex is attributed to internalized stigmas of gender, sexual orientation, and AIDS
+and the greater dissemination of dating apps <xref rid="B26" ref-type="bibr">
+<sup>26</sup>
+</xref>. In these apps, it has been common practice to use emojis to indicate
+substance trade and the preference for using them at parties, on dates for two,
+and/or in the injectable form. The frequency of use has varied significantly by city
+and region, with a literature review <xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref> reporting lifetime use ranging from 3-31%. Injectable use was reported by
+10% among MSM in Australia, and 16% of MSM had clinical records of complications
+associated with injectable substances in England <xref rid="B25" ref-type="bibr">
+<sup>25</sup>
+</xref>.</p>
+      <p>These reconfigured sexual interaction spaces have been associated with an increased
+risk of sexually transmitted infection (STI), HIV, and hepatitis. This association
+is more evident regarding the use of apps due to the increased number of partners,
+unprotected sexual practices, and STIs, especially syphilis, gonorrhea, and
+chlamydia <xref rid="B24" ref-type="bibr">
+<sup>24</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B27" ref-type="bibr">
+<sup>27</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>. The use of substances in sex also extends this evidence to HIV infection
+and hepatitis <xref rid="B13" ref-type="bibr">
+<sup>13</sup>
+</xref>. The increased risk of HIV infection with apps still requires further
+investigation. A meta-analysis found similar HIV prevalence between application
+users and non-users <xref rid="B28" ref-type="bibr">
+<sup>28</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B29" ref-type="bibr">
+<sup>29</sup>
+</xref>. A study on adolescent MSM in Salvador (Brazil) found a borderline
+association between the use of apps and HIV <xref rid="B30" ref-type="bibr">
+<sup>30</sup>
+</xref>.</p>
+      <p>At this point, it is worth reflecting again: what is the possibility of policies,
+strategies, and prevention methods consolidated over the last 40 years to
+effectively dialogue with this new context of affective and sexual interactions,
+which, in theory, favors practices associated with higher circulation of HIV, STIs,
+and hepatitis? We must consider that these policies, strategies, and methods were
+built in a scenario perceived as more acceptable for social groups to renounce their
+daily practices and experiences to ensure health and life.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Preventive policies and methods</title>
+      <p>The concept of combination prevention emerged globally in the early 2000s and,
+despite being relatively controversial, established that greater sustainability and
+impact required prevention policies to be based on human rights, scientific
+evidence, community belonging, and articulation of biomedical, behavioral, and
+structural interventions focused on the needs of people and social groups affected
+by the epidemic <xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>. This concept was supported by the successful experience of countries that
+effectively responded to the epidemic, such as Brazil, Thailand, and Uganda.</p>
+      <p>Preventive methods based on antiretroviral medications emerged around the 2010s.
+However, they were emphasized as biomedical interventions of the combination
+prevention strategy. They started to be included in a comprehensive package of
+preventive measures based on the available evidence of their efficacy and/or
+effectiveness.</p>
+      <p>The strength of this novelty and its hypothetical potential to reduce the incidence
+of HIV proposed a new preventive policy paradigm, which can be summarized in two
+premises: there is a preventive method for each point in the chain of HIV infection
+(e.g., PrEP before exposure, condoms during sex, PEP after unprotected sex, and
+antiretroviral treatment in case of infection) and a method for each person, which
+must be chosen according to their needs and context. This new paradigm has often
+been associated with the &#x201C;medicalization&#x201D; of the HIV response, weakening a response
+based on human rights and addressing structural aspects.</p>
+      <p>Over time, programs and services have focused on delivering a comprehensive package
+of preventive methods showed limitations and a tendency for reduced effectiveness.
+The first limitation is that a basic package consisting almost exclusively of
+evidence produced in clinical trials generates competition between methods requiring
+the same structure. This would be fine if the population impact and uptake of these
+methods were similar or if they were widely available. A good example is PEP, which
+has a high degree of efficacy and low potential to prevent cases <xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>. However, it becomes a priority due to the urgency of initiating its use,
+which limits the capacity of services to provide PrEP. This is a priority inversion,
+considering that PrEP has a greater degree of reducing incidence.</p>
+      <p>Additionally, by equating all methods within a basic package, the new policy reduces
+its capacity to break with the mainstream approach based on condom supply. This and
+other aspects make it difficult for different actors to understand the more
+significant potential of new methods to minimize factors that hinder the use of more
+effective preventive methods in daily sexual interactions, such as substance and
+alcohol use in the sex scenario, power dynamics for negotiating preventive
+strategies, and affectivity in stable relationships. One of the consequences is the
+maintenance of a condom culture as the only (or primary) form of prevention and of
+reduced knowledge and/or mistrust of other preventive methods, as shown by a
+qualitative study with LGBTQIA+ adolescents <xref rid="B32" ref-type="bibr">
+<sup>32</sup>
+</xref>. This is a scenario in which the new generations resemble their parents and
+grandparents about prevention. However, this is not true for how they perform
+gender, sexual orientation, and sexual and affective practices, which disconnects
+the current context of sexual relations from the current prevention policies.</p>
+      <p>Another aspect is that by focusing prevention on the delivery of methods, a large
+part of the responsibility for seeking and using it falls on the individual, who
+must exercise their &#x201C;freedom of choice&#x201D; based on information such as effectiveness,
+preference, and convenience. It is a kind of transposition of liberalism and its
+conception of the individual in health care. According to Foucault <xref rid="B33" ref-type="bibr">
+<sup>33</sup>
+</xref>, liberalism lends rationality to the market and all relationships that
+permeate society. As a result, different social determinants that condition
+preventive practice and the HIV epidemic do not receive due importance. A
+significant adverse consequence is that introducing new methods within this context
+increases inequities and reduces the chance for populations more affected by the
+epidemic to benefit from the innovations promptly.</p>
+    </sec>
+    <sec>
+      <title>An HIV response bringing together &#x201C;new&#x201D; and &#x201C;old&#x201D; prevention</title>
+      <p>The accumulated experience and evidence produced in recent years helped overcome the
+notion of combination prevention centered on a comprehensive package of methods.
+They can also help increase the effectiveness of policies by incorporating a less
+severe social representation of AIDS into their design and a leading role of the new
+generations in a new context of sexual interaction.</p>
+      <p>An essential first step consists of organizing delivery and demand creation
+strategies for prevention methods based on parameters that articulate public health
+impact and the promotion of human rights and equity. This would necessarily lead to
+setting a list of priorities to provide prevention methods, emphasizing those with
+the most significant potential to reduce infection incidence while tackling the
+needs and daily lives of populations more vulnerable to HIV.</p>
+      <p>There is no doubt that with these parameters, PrEP would be the priority method, not
+only because it is strongly associated with a significant reduction in HIV
+incidence, reaching median population coverage rates <xref rid="B34" ref-type="bibr">
+<sup>34</sup>
+</xref>, but also because it is the method that best allows separating its
+utilization (taking the pill) from the sex encounter and that interferes the least
+with sexual interaction and practices, regardless of the context and situation in
+which they take place <xref rid="B20" ref-type="bibr">
+<sup>20</sup>
+</xref>
+<sup>,</sup>
+<xref rid="B21" ref-type="bibr">
+<sup>21</sup>
+</xref>.</p>
+      <p>This prioritization implies explaining that PrEP should be the method of choice for
+populations more vulnerable to HIV, with other methods being optional for people
+with a lower risk of HIV exposure or who do not want, are unable, or fail to use
+PrEP. This PrEP prioritization becomes more critical considering that the newly
+available schemes, notably the long-term ones, are injectable or are in the form of
+vaginal rings, facilitating its use and being more convenient <xref rid="B35" ref-type="bibr">
+<sup>35</sup>
+</xref>.</p>
+      <p>Daily oral PrEP has been less effective in adolescents than adults due to poorer
+adherence and persistence. Different factors may be associated with this, such as
+more incredible difficulty in organizing daily use, frequent changes in sexual life,
+and structural aspects that hinder regular clinical follow-up. Therefore, strategies
+that simplify and make this method fit more efficiently in the daily life of
+adolescents can make PrEP more meaningful for this population, including the use of
+telehealth, provision of the method in the community, peer-led prescription etc.
+<xref rid="B36" ref-type="bibr">
+<sup>36</sup>
+</xref>.</p>
+      <p>A policy based on the rationale of a hierarchy of methods to be provided may be
+considered excessively normative, which disregards the diversity of people and the
+right to choose, and can be an excessive medicalization of prevention and/or a
+return to the strategy of promoting a single method, disregarding different methods
+such as condom use. However, it is not the absence or presence of a hierarchy that
+determines the degree of the normativity of a public health policy, but rather the
+persistence of an approach that disregards the psychosocial dimensions of sex and
+care, neglecting the fight against structural determinants of the epidemic, the
+absence of collective policy construction, limited access to all methods, and
+restricted information for timely decision-making.</p>
+      <p>Moreover, prevention policies must reach the necessary balance between the
+hierarchical provision of preventive methods and actions to face social
+determinants, the violation of rights, prejudice, and the stigma that restricts the
+right and access to prevention. In this sense, evidence has shown that structural
+actions and the promotion of human rights can be more effective in reducing the
+incidence of HIV than the emphasis on providing methods, however effective they may
+be <xref rid="B31" ref-type="bibr">
+<sup>31</sup>
+</xref>. These actions would help redefine the original concept of combination
+prevention as the structuring basis for policies and prevention access.</p>
+      <p>In addition, a successful HIV response, among other aspects, is directly associated
+with the degree of societal mobilization and with an intersectoral response <xref rid="B17" ref-type="bibr">
+<sup>17</sup>
+</xref>. This was one of the landmarks of Brazilian politics in the first decades of
+the epidemic; however, growing conservatism and lower visibility of AIDS as a public
+health problem have, in recent years, restricted the involvement of different
+sectors of society and weakened the health-related response to HIV.</p>
+      <p>The dispute and tension promoted by conservative sectors and values resulted in a
+visible internalized stigma in government policies, reducing the budget of anti-HIV
+projects and inhibiting essential actions in the HIV response. In the health field,
+for example, the lack of massive federal campaigns and strategies for populations
+more affected by the infection has lasted more than 20 years. The last campaign
+explicitly directed at MSM was in 2008, at sex workers and TGW in 2013, and at drug
+users in 2008 <xref rid="B37" ref-type="bibr">
+<sup>37</sup>
+</xref>.</p>
+      <p>Stigmatization processes should be understood as social and political processes
+mediated by power relations and implemented by social actors to legitimize the
+status of domination of those in a hegemonic position <xref rid="B38" ref-type="bibr">
+<sup>38</sup>
+</xref>. When embedded in public policies, they increase the production and
+reproduction of structural inequalities, reinforcing social exclusion in different
+contexts. This is the greatest challenge in facing the HIV epidemic and the main
+barrier to promoting health in populations more vulnerable to infection.</p>
+      <p>Also, in intersectoral response and considering education as one of the most relevant
+areas, research by the Brazilian Ministry of Health and the Brazilian Institute of
+Geography and Statistics (IBGE) from 2009-2015 showed a reduced number of
+adolescents who had sex education activities in schools, including access to condoms
+and prevention of unwanted pregnancy <xref rid="B39" ref-type="bibr">
+<sup>39</sup>
+</xref>. This created a sharp contrast: the existence of more effective preventive
+methods coexists with generations that systematically fail to develop skills to deal
+with the epidemic and with prevention, perpetuating a greater fragility to control
+or eliminate the epidemic as a public health problem for decades. This situation was
+worsened by the compulsory closure of schools and teaching interruption during the
+COVID-19 pandemic and needs to be understood as part of the programmatic response to
+any public policy aimed at adolescents and youth.</p>
+      <p>Another important aspect of constructing a policy aimed at adolescents is recognizing
+and acting on how adult-adolescent-youth power relations are crystallized in social
+practices. By coining the term adult centrism, the sociology of childhood examines
+the distribution of power between adults in society. In the words of Fulvia
+Rosenberg <xref rid="B40" ref-type="bibr">
+<sup>40</sup>
+</xref> (p. 25), &#x201C;<italic>in the adult-centered society, the children are not. They
+are becoming. Their individuality ceases to exist. They are potentiality and
+promise</italic>&#x201D;. This leads to the question: to what extent are adolescents
+and young adults seen for what they &#x201C;will become&#x201D; in everyday educational practices,
+in service provision, in the formulation of public policies, and even in sexual
+interactions and behavior? We live in an eternal ambiguity which, on the one hand,
+presents a strong criticism of the adult-centric perspective to recognize the
+specificity of adolescents and youth as rights holders. On the other hand, this
+presents a set of practices that restricts the participation and engagement of
+adolescents and youth in identifying and building responses to the problems they
+experience and, above all, to the future they aspire to achieve. Thus, overcoming
+obstacles related to the absence of adolescents and youth in decision-making spaces
+will be the turning point to constructing policies to combat HIV that make sense and
+can reach good results with this population.</p>
+      <p>We are living in a crucial moment in the HIV epidemic. The United Nations has set a
+goal of ending HIV as a public health problem by 2030. However, the increased
+incidence in adolescents and youth that comes along with generations with less
+ability to deal with the epidemic points to a persistent incidence in the coming
+years, which will not allow the achievement of this goal <xref rid="B41" ref-type="bibr">
+<sup>41</sup>
+</xref>. If country responses choose to eliminate HIV, we have to remember that
+these new preventive methods can only be a unique opportunity if they are combined
+with a policy that provides the best conditions for comprehensive care and HIV
+prevention and that responds to the needs of the new generations. It will be
+necessary to definitively break with the notion of AIDS constructed over the last 40
+years, both from the point of view of its severity and of the supposed effectiveness
+in providing a comprehensive package of preventive methods. At the same time, we
+should bear in mind that the successful results achieved regarding the HIV response
+so far are the construction of a participatory policy - &#x201C;with&#x201D; young people instead
+of &#x201C;about&#x201D; young people - that was based on protecting and promoting human rights
+and on reducing vulnerabilities and inequities.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We thank the participants, professionals, researchers, institutional partners and
+funders (Unitaid, World Health Organization - WHO - and Brazilian Ministry of
+Health), who contributed to the development of the PrEP1519 Study and allowed us to
+accumulate the knowledge presented in this work.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Szwarcwald</surname><given-names>CL</given-names></name>
+<name><surname>Souza</surname><given-names>PRB</given-names><suffix>J&#xFA;nior</suffix></name>
+<name><surname>Pascom</surname><given-names>ARP</given-names></name>
+<name><surname>Coelho</surname><given-names>RA</given-names></name>
+<name><surname>Ribeiro</surname><given-names>RA</given-names></name>
+<name><surname>Damacena</surname><given-names>GN</given-names></name>
+</person-group>
+          <article-title>HIV incidence estimates by sex and age group in the population
+aged 15 years or over, Brazil, 1986-2018</article-title>
+          <source>Rev Soc Bras Med Trop</source>
+          <year>2002</year>
+          <volume>55</volume>
+          <issue>1</issue>
+          <elocation-id>e0231</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>Joint United Nations Programme on HIV/AIDS</collab>
+</person-group>
+          <source>Young people and HIV.</source>
+          <comment>
+<ext-link xlink:href="https://www.unaids.org/sites/default/files/media_asset/young-people-and-hiv_en.pdf" ext-link-type="uri">https://www.unaids.org/sites/default/files/media_asset/young-people-and-hiv_en.pdf</ext-link>
+</comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-08-03">03/Aug/2023</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="newspaper">
+          <person-group person-group-type="author">
+<collab>Secretaria de Vigil&#xE2;ncia em Sa&#xFA;de, Minist&#xE9;rio da Sa&#xFA;de</collab>
+</person-group>
+          <source>Boletim Epidemiol&#xF3;gico HIV/Aids 2022</source>
+          <issue>n&#xFA;mero especial</issue>
+          <ext-link xlink:href="https://www.gov.br/aids/pt-br/central-de-conteudo/boletins-epidemiologicos/2022/hiv-aids/boletim_hiv_aids_-2022_internet_31-01-23.pdf/view" ext-link-type="uri">https://www.gov.br/aids/pt-br/central-de-conteudo/boletins-epidemiologicos/2022/hiv-aids/boletim_hiv_aids_-2022_internet_31-01-23.pdf/view</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jeffries 4th</surname><given-names>WL</given-names></name>
+<name><surname>Greene</surname><given-names>KM</given-names></name>
+<name><surname>Paz-Bailey</surname><given-names>G</given-names></name>
+<name><surname>McCree</surname><given-names>DH</given-names></name>
+<name><surname>Scales</surname><given-names>L</given-names></name>
+<name><surname>Dunville</surname><given-names>R</given-names></name>
+</person-group><article-title>Determinants of HIV incidence disparities among young and older
+men who have sex with men in the United States</article-title><source>AIDS Behav</source><year>2018</year><volume>22</volume><fpage>2199</fpage><lpage>2213</lpage><pub-id pub-id-type="pmid">29633094</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Lally</surname><given-names>MA</given-names></name>
+</person-group><person-group person-group-type="author">
+<collab>van den Berg JJ.Westfall AO.Rudy BJ.Hosek SG.Fortenberry JD</collab>
+</person-group><article-title>HIV continuum of care for youth in the United
+States</article-title><source>J Acquir Immune Defic Syndr</source><year>2018</year><volume>77</volume><fpage>110</fpage><lpage>117</lpage><pub-id pub-id-type="pmid">28991884</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Ayres</surname><given-names>JRCM</given-names></name>
+<name><surname>Carvalho</surname><given-names>YM</given-names></name>
+<name><surname>Nasser</surname><given-names>MA</given-names></name>
+<name><surname>Salt&#xE3;o</surname><given-names>RM</given-names></name>
+<name><surname>Mendes</surname><given-names>VM</given-names></name>
+</person-group>
+          <article-title>Caminhos da integralidade adolescentes e jovens na aten&#xE7;&#xE3;o
+prim&#xE1;ria &#xE0; sa&#xFA;de</article-title>
+          <source>Interface (Botucatu)</source>
+          <year>2012</year>
+          <volume>40</volume>
+          <fpage>67</fpage>
+          <lpage>81</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Monteiro</surname><given-names>SS</given-names></name>
+<name><surname>Villela</surname><given-names>WV</given-names></name>
+<name><surname>Soares</surname><given-names>PS</given-names></name>
+</person-group><article-title>The interaction between axes of inequality in studies on
+discrimination, stigma and HIV/AIDS contributions to the recent
+international literature</article-title><source>Glob Public Health</source><year>2013</year><volume>8</volume><fpage>519</fpage><lpage>533</lpage><pub-id pub-id-type="pmid">23550558</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Jackson-Best</surname><given-names>F</given-names></name>
+<name><surname>Edwards</surname><given-names>N</given-names></name>
+</person-group><article-title>Stigma and intersectionality a systematic review of systematic
+reviews across HIV/AIDS, mental illness, and physical
+disability</article-title><source>BMC Public Health</source><year>2018</year><volume>18</volume><fpage>919</fpage><lpage>919</lpage><pub-id pub-id-type="pmid">30049270</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Perez-Brumer</surname><given-names>AG</given-names></name>
+<name><surname>Oldenburg</surname><given-names>CE</given-names></name>
+<name><surname>Reisner</surname><given-names>SL</given-names></name>
+<name><surname>Clark</surname><given-names>JL</given-names></name>
+<name><surname>Parker</surname><given-names>RG</given-names></name>
+</person-group><article-title>Towards 'reflexive epidemiology' conflation of cisgender male and
+transgender women sex workers and implications for global understandings of
+HIV prevalence</article-title><source>Glob Public Health</source><year>2016</year><volume>11</volume><fpage>849</fpage><lpage>865</lpage><pub-id pub-id-type="pmid">27173599</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Facchini</surname><given-names>R</given-names></name>
+<name><surname>Fran&#xE7;a</surname><given-names>IL</given-names></name>
+</person-group>
+          <source>Direitos em disputa: LGBTI+, poder e diferen&#xE7;a no Brasil
+contempor&#xE2;neo</source>
+          <year>2020</year>
+          <publisher-loc>Campinas</publisher-loc>
+          <publisher-name>Editora da Unicamp</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Phillips 2nd</surname><given-names>G</given-names></name>
+<name><surname>Beach</surname><given-names>LB</given-names></name>
+<name><surname>Turner</surname><given-names>B</given-names></name>
+<name><surname>Feinstein</surname><given-names>BA</given-names></name>
+<name><surname>Marro</surname><given-names>R</given-names></name>
+<name><surname>Philbin</surname><given-names>MM</given-names></name>
+</person-group><article-title>Sexual identity and behavior among U S. high school students,
+2005-2015</article-title><source>Arch Sex Behav</source><year>2019</year><volume>48</volume><fpage>1463</fpage><lpage>1479</lpage><pub-id pub-id-type="pmid">31123950</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Anzani</surname><given-names>A</given-names></name>
+<name><surname>Di Sarno</surname><given-names>M</given-names></name>
+<name><surname>Prunas</surname><given-names>A</given-names></name>
+</person-group>
+          <article-title>Using smartphone apps to find sexual partners a review of the
+literature</article-title>
+          <source>Sexologies</source>
+          <year>2018</year>
+          <volume>27</volume>
+          <fpage>e61</fpage>
+          <lpage>e65</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Hibbert</surname><given-names>MP</given-names></name>
+<name><surname>Hillis</surname><given-names>A</given-names></name>
+<name><surname>Brett</surname><given-names>CE</given-names></name>
+<name><surname>Porcellato</surname><given-names>LA</given-names></name>
+<name><surname>Hope</surname><given-names>VD</given-names></name>
+</person-group><article-title>A narrative systematic review of sexualised drug use and sexual
+health outcomes among LGBT people</article-title><source>Int J Drug Policy</source><year>2021</year><volume>93</volume><fpage>103187</fpage><lpage>103187</lpage><pub-id pub-id-type="pmid">33771421</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sim&#xF5;es</surname><given-names>JA</given-names></name>
+</person-group>
+          <article-title>Gera&#xE7;&#xF5;es, mudan&#xE7;as e continuidades na experi&#xEA;ncia social da
+homossexualidade masculina e da epidemia de HIV-Aids</article-title>
+          <source>Sex Salud Soc (Rio J.)</source>
+          <year>2018</year>
+          <issue>29</issue>
+          <fpage>313</fpage>
+          <lpage>339</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zimmerman</surname><given-names>RS</given-names></name>
+<name><surname>Kirschbaum</surname><given-names>AL</given-names></name>
+</person-group><article-title>News of biomedical advances in HIV relationship to treatment
+optimism and expected risk behavior in US MSM</article-title><source>AIDS Behav</source><year>2018</year><volume>22</volume><fpage>367</fpage><lpage>378</lpage><pub-id pub-id-type="pmid">28293758</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ferraz</surname><given-names>D</given-names></name>
+<name><surname>Paiva</surname><given-names>V</given-names></name>
+</person-group><article-title>Sex, human rights and AIDS an analysis of new technologies for
+HIV prevention in the Brazilian context</article-title><source>Rev Bras Epidemiol</source><year>2015</year><volume>18</volume><fpage>89</fpage><lpage>103</lpage><pub-id pub-id-type="pmid">26630300</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Merson</surname><given-names>MH</given-names></name>
+</person-group><person-group person-group-type="author">
+<collab>O'Malley J.Serwadda D.Apisuk C</collab>
+</person-group><article-title>The history and challenge of HIV prevention</article-title><source>Lancet</source><year>2008</year><volume>372</volume><fpage>475</fpage><lpage>488</lpage><pub-id pub-id-type="pmid">18687461</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Ferraz</surname><given-names>D</given-names></name>
+<name><surname>Couto</surname><given-names>MT</given-names></name>
+<name><surname>Zucchi</surname><given-names>EM</given-names></name>
+<name><surname>Calazanas</surname><given-names>GJ</given-names></name>
+<name><surname>Dos Santos</surname><given-names>LA</given-names></name>
+<name><surname>Mathias</surname><given-names>A</given-names></name>
+</person-group><article-title>AIDS- and sexuality-related stigmas underlying the use of
+post-exposure prophylaxis for HIV in Brazil findings from a multicentric
+study</article-title><source>Sex Reprod Health Matters</source><year>2019</year><volume>27</volume><fpage>1650587</fpage><lpage>1650587</lpage><pub-id pub-id-type="pmid">31533555</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Magno</surname><given-names>L</given-names></name>
+<name><surname>Dourado</surname><given-names>I</given-names></name>
+<name><surname>Coats</surname><given-names>CS</given-names></name>
+<name><surname>Wilhite</surname><given-names>D</given-names></name>
+<name><surname>Silva</surname><given-names>LAV</given-names></name>
+<name><surname>Oni-Orisan</surname><given-names>O</given-names></name>
+</person-group><article-title>Knowledge and willingness to use pre-exposure prophylaxis among
+men who have sex with men in Northeastern Brazil</article-title><source>Glob Public Health</source><year>2019</year><volume>14</volume><fpage>1098</fpage><lpage>1111</lpage><pub-id pub-id-type="pmid">30717633</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Mabire</surname><given-names>X</given-names></name>
+<name><surname>Puppo</surname><given-names>C</given-names></name>
+<name><surname>Morel</surname><given-names>S</given-names></name>
+<name><surname>Mora</surname><given-names>M</given-names></name>
+<name><surname>Castro</surname><given-names>DR</given-names></name>
+<name><surname>Chas</surname><given-names>J</given-names></name>
+</person-group><article-title>Pleasure and PrEP pleasure-seeking plays a role in prevention
+choices and could lead to PrEP initiation</article-title><source>Am J Mens Health</source><year>2019</year><volume>13</volume><fpage>1557988319827396</fpage><lpage>1557988319827396</lpage><pub-id pub-id-type="pmid">30819060</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zucchi</surname><given-names>EM</given-names></name>
+<name><surname>Couto</surname><given-names>MT</given-names></name>
+<name><surname>Castellanos</surname><given-names>M</given-names></name>
+<name><surname>Dumont-Pena</surname><given-names>E</given-names></name>
+<name><surname>Ferraz</surname><given-names>D</given-names></name>
+<name><surname>Pinheiro</surname><given-names>TF</given-names></name>
+</person-group><article-title>Acceptability of daily pre-exposure prophylaxis among adolescent
+men who have sex with men, travestis and transgender women in Brazil a
+qualitative study</article-title><source>PLoS One</source><year>2021</year><volume>16</volume><elocation-id>e0249293</elocation-id><pub-id pub-id-type="pmid">33945527</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Sierra</surname><given-names>JC</given-names></name>
+</person-group>
+          <article-title>Identidade e diversidade no contexto brasileiro uma an&#xE1;lise da
+parceria entre Estado e movimentos sociais LGBT de 2002 a
+2015</article-title>
+          <source>Anos 90</source>
+          <year>2019</year>
+          <volume>26</volume>
+          <elocation-id>e2019302</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Couto</surname><given-names>MT</given-names></name>
+<name><surname>Unsain</surname><given-names>RF</given-names></name>
+<name><surname>Zucchi</surname><given-names>EM</given-names></name>
+<name><surname>Ferraz</surname><given-names>DAS</given-names></name>
+<name><surname>Escorse</surname><given-names>M</given-names></name>
+<name><surname>Silveira</surname><given-names>RA</given-names></name>
+</person-group>
+          <article-title>Territorialidades, desplazamientos, performatividades de g&#xE9;neros
+y sexualidades juventudes LGBTQIA+ en las &#xE1;reas suburbanas de la ciudad de
+S&#xE3;o Paulo, Brasil</article-title>
+          <source>Sex Salud Soc (Rio J.)</source>
+          <year>2021</year>
+          <issue>37</issue>
+          <elocation-id>e21212</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Chow</surname><given-names>EPF</given-names></name>
+<name><surname>Cornelisse</surname><given-names>VJ</given-names></name>
+<name><surname>Read</surname><given-names>TRH</given-names></name>
+<name><surname>Hocking</surname><given-names>JS</given-names></name>
+<name><surname>Walker</surname><given-names>S</given-names></name>
+<name><surname>Chen</surname><given-names>MY</given-names></name>
+</person-group><article-title>Risk practices in the era of smartphone apps for meeting partners
+a cross-sectional study among men who have sex with men in Melbourne,
+Australia</article-title><source>AIDS Patient Care STDS</source><year>2016</year><volume>30</volume><fpage>151</fpage><lpage>154</lpage><pub-id pub-id-type="pmid">27028181</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Donnadieu-Rigole</surname><given-names>H</given-names></name>
+<name><surname>Peyri&#xE8;re</surname><given-names>H</given-names></name>
+<name><surname>Benyamina</surname><given-names>A</given-names></name>
+<name><surname>Karila</surname><given-names>L</given-names></name>
+</person-group><article-title>Complications related to sexualized drug use what can we learn
+from literature?</article-title><source>Front Neurosci</source><year>2020</year><volume>14</volume><fpage>548704</fpage><lpage>548704</lpage><pub-id pub-id-type="pmid">33328844</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Patten</surname><given-names>S</given-names></name>
+<name><surname>Doria</surname><given-names>N</given-names></name>
+<name><surname>Joy</surname><given-names>P</given-names></name>
+<name><surname>Sinno</surname><given-names>J</given-names></name>
+<name><surname>Spencer</surname><given-names>R</given-names></name>
+<name><surname>Leblanc</surname><given-names>M-A</given-names></name>
+<etal/>
+</person-group>
+          <article-title>Sexualized drug use in virtual space: a scoping review of how
+gay, bisexual and other men who have sex with men interact
+online.</article-title>
+          <source>Can J Hum Sex</source>
+          <year>2020</year>
+          <volume>9</volume>
+          <fpage>106</fpage>
+          <lpage>126</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Flesia</surname><given-names>L</given-names></name>
+<name><surname>Fietta</surname><given-names>V</given-names></name>
+<name><surname>Foresta</surname><given-names>C</given-names></name>
+<name><surname>Monaro</surname><given-names>M</given-names></name>
+</person-group><article-title>"What are you looking for?" Investigating the association between
+dating app use and sexual risk behaviors.</article-title><source>Sex Med</source><year>2021</year><volume>9</volume><fpage>100405</fpage><lpage>100405</lpage><pub-id pub-id-type="pmid">34280593</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Zou</surname><given-names>H</given-names></name>
+<name><surname>Fan</surname><given-names>S</given-names></name>
+</person-group><article-title>Characteristics of men who have sex with men who use smartphone
+geosocial networking applications and implications for HIV interventions a
+systematic review and meta-analysis</article-title><source>Arch Sex Behav</source><year>2017</year><volume>46</volume><fpage>885</fpage><lpage>894</lpage><pub-id pub-id-type="pmid">27043837</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>H</given-names></name>
+<name><surname>Zhang</surname><given-names>L</given-names></name>
+<name><surname>Zhou</surname><given-names>Y</given-names></name>
+<name><surname>Wang</surname><given-names>K</given-names></name>
+<name><surname>Zhang</surname><given-names>X</given-names></name>
+<name><surname>Wu</surname><given-names>J</given-names></name>
+</person-group><article-title>The use of geosocial networking smartphone applications and the
+risk of sexually transmitted infections among men who have sex with men a
+systematic review and meta-analysis</article-title><source>BMC Public Health</source><year>2018</year><volume>18</volume><fpage>1178</fpage><lpage>1178</lpage><pub-id pub-id-type="pmid">30326887</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Magno</surname><given-names>L</given-names></name>
+<name><surname>Medeiros</surname><given-names>DS</given-names></name>
+<name><surname>Soares</surname><given-names>F</given-names></name>
+<name><surname>Grangeiro</surname><given-names>A</given-names></name>
+<name><surname>Caires</surname><given-names>P</given-names></name>
+<name><surname>Fonseca</surname><given-names>T</given-names></name>
+</person-group>
+          <article-title>Factors associated to HIV prevalence among adolescent men who
+have sex with men in Salvador, Bahia State, Brazil baseline data from the
+PrEP1519 cohort</article-title>
+          <source>Cad Sa&#xFA;de P&#xFA;blica</source>
+          <year>2023</year>
+          <volume>39</volume>
+          <issue>1</issue>
+          <elocation-id>e00154021</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Grangeiro</surname><given-names>A</given-names></name>
+<name><surname>Ferraz</surname><given-names>D</given-names></name>
+<name><surname>Calazans</surname><given-names>G</given-names></name>
+<name><surname>Zucchi</surname><given-names>EM</given-names></name>
+<name><surname>D&#xED;az-Berm&#xFA;dez</surname><given-names>XP</given-names></name>
+</person-group><article-title>The effect of prevention methods on reducing sexual risk for HIV
+and their potential impact on a large-scale a literature
+review</article-title><source>Rev Bras Epidemiol</source><year>2015</year><volume>18</volume><fpage>43</fpage><lpage>62</lpage><pub-id pub-id-type="pmid">26630298</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Martins</surname><given-names>GB</given-names></name>
+<name><surname>Pinheiro</surname><given-names>TF</given-names></name>
+<name><surname>Ferraz</surname><given-names>D</given-names></name>
+<name><surname>Grangeiro</surname><given-names>A</given-names></name>
+<name><surname>Zucchi</surname><given-names>EM</given-names></name>
+</person-group>
+          <article-title>Use of HIV prevention methods and contexts of the sexual
+practices of adolescent gay and bisexual men, travestis, and transgender
+women in S&#xE3;o Paulo, Brazil</article-title>
+          <source>Cad Sa&#xFA;de P&#xFA;blica</source>
+          <year>2023</year>
+          <volume>39</volume>
+          <issue>1</issue>
+          <elocation-id>e00161521</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Foucault</surname><given-names>M</given-names></name>
+</person-group>
+          <source>Nascimento da biopol&#xED;tica: curso dado no Coll&#xE8;ge de France
+(1978-1979)</source>
+          <year>2008</year>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Martins Fontes</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Luz</surname><given-names>PM</given-names></name>
+<name><surname>Deshpande</surname><given-names>V</given-names></name>
+<name><surname>Kazemian</surname><given-names>P</given-names></name>
+<name><surname>Scott</surname><given-names>JA</given-names></name>
+<name><surname>Shebl</surname><given-names>FM</given-names></name>
+<name><surname>Spaeth</surname><given-names>H</given-names></name>
+</person-group><article-title>Impact of pre-exposure prophylaxis uptake among gay, bisexual,
+and other men who have sex with men in urban centers in Brazil a modeling
+study</article-title><source>BMC Public Health</source><year>2023</year><volume>23</volume><fpage>1128</fpage><lpage>1128</lpage><pub-id pub-id-type="pmid">37308858</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Sued</surname><given-names>O</given-names></name>
+<name><surname>Nardi</surname><given-names>N</given-names></name>
+<name><surname>Spadaccini</surname><given-names>L</given-names></name>
+</person-group><article-title>Key population perceptions and opinions about long-acting
+antiretrovirals for prevention and treatment a scoping
+review</article-title><source>Curr Opin HIV AIDS</source><year>2022</year><volume>17</volume><fpage>145</fpage><lpage>161</lpage><pub-id pub-id-type="pmid">35439789</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B36">
+        <label>36</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Haberer</surname><given-names>JE</given-names></name>
+<name><surname>Mujugira</surname><given-names>A</given-names></name>
+<name><surname>Mayer</surname><given-names>KH</given-names></name>
+</person-group><article-title>The future of HIV pre-exposure prophylaxis adherence reducing
+barriers and increasing opportunities</article-title><source>Lancet HIV</source><year>2023</year><volume>10</volume><fpage>e404</fpage><lpage>e411</lpage><pub-id pub-id-type="pmid">37178710</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B37">
+        <label>37</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+<collab>Departamento de Doen&#xE7;as de Condi&#xE7;&#xF5;es Cr&#xF4;nicas e Infec&#xE7;&#xF5;es
+Sexualmente Transmiss&#xED;veis, Minist&#xE9;rio da Sa&#xFA;de</collab>
+</person-group>
+          <source>Campanhas.</source>
+          <comment>
+<ext-link xlink:href="http://antigo.aids.gov.br/pt-br/centrais-de-conteudo/campanhas" ext-link-type="uri">http://antigo.aids.gov.br/pt-br/centrais-de-conteudo/campanhas</ext-link>
+</comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2023-08-03">03/Aug/2023</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B38">
+        <label>38</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Parker</surname><given-names>R</given-names></name>
+<name><surname>Aggleton</surname><given-names>P</given-names></name>
+</person-group><article-title>HIV and AIDS-related stigma and discrimination a conceptual
+framework and implications for action</article-title><source>Soc Sci Med</source><year>2003</year><volume>57</volume><fpage>13</fpage><lpage>24</lpage><pub-id pub-id-type="pmid">12753813</pub-id>
+</element-citation>
+      </ref>
+      <ref id="B39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+<name><surname>Felisbino-Mendes</surname><given-names>MS</given-names></name>
+<name><surname>De Paula</surname><given-names>TF</given-names></name>
+<name><surname>Machado</surname><given-names>&#xCD;E</given-names></name>
+<name><surname>Oliveira-Campos</surname><given-names>M</given-names></name>
+<name><surname>Malta</surname><given-names>DC</given-names></name>
+</person-group>
+          <article-title>Analysis of sexual and reproductive health indicators of
+Brazilian adolescents, 2009, 2012 and 2015</article-title>
+          <source>Rev Bras Epidemiol</source>
+          <year>2019</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <elocation-id>e180013</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B40">
+        <label>40</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+<name><surname>Rosemberg</surname><given-names>F</given-names></name>
+</person-group>
+          <source>Literatura infantil e ideologia</source>
+          <year>1985</year>
+          <publisher-loc>S&#xE3;o Paulo</publisher-loc>
+          <publisher-name>Global</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B41">
+        <label>41</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author">
+<name><surname>Khalifa</surname><given-names>A</given-names></name>
+<name><surname>Stover</surname><given-names>J</given-names></name>
+<name><surname>Mahy</surname><given-names>M</given-names></name>
+<name><surname>Idele</surname><given-names>P</given-names></name>
+<name><surname>Porth</surname><given-names>T</given-names></name>
+<name><surname>Lwamba</surname><given-names>C</given-names></name>
+</person-group><article-title>Demographic change and HIV epidemic projections to 2050 for
+adolescents and young people aged 15-24</article-title><source>Glob Health Action</source><year>2019</year><volume>12</volume><fpage>1662685</fpage><lpage>1662685</lpage><pub-id pub-id-type="pmid">31510887</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

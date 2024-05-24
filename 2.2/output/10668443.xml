@@ -1,0 +1,1873 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Philos Ethics Humanit Med</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Philos Ethics Humanit Med</journal-id>
+      <journal-title-group>
+        <journal-title>Philosophy, Ethics, and Humanities in Medicine : PEHM</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1747-5341</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">38001488</article-id>
+      <article-id pub-id-type="pmc">10668443</article-id>
+      <article-id pub-id-type="publisher-id">144</article-id>
+      <article-id pub-id-type="doi">10.1186/s13010-023-00144-6</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Admitting the heterogeneity of social inequalities: intersectionality as a (self-)critical framework and tool within mental health care</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-9242-0827</contrib-id>
+          <name>
+            <surname>Funer</surname>
+            <given-names>Florian</given-names>
+          </name>
+          <address>
+            <email>florian.funer@uni-tuebingen.de</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1"/>
+        </contrib>
+        <aff id="Aff1"><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/03a1kwz48</institution-id><institution-id institution-id-type="GRID">grid.10392.39</institution-id><institution-id institution-id-type="ISNI">0000 0001 2190 1447</institution-id><institution>Institute of Ethics and History of Medicine, </institution><institution>Eberhard Karls University T&#xFC;bingen, </institution></institution-wrap>T&#xFC;bingen, Germany </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>11</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>24</day>
+        <month>11</month>
+        <year>2023</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2023</year>
+      </pub-date>
+      <volume>18</volume>
+      <elocation-id>21</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>4</day>
+          <month>4</month>
+          <year>2023</year>
+        </date>
+        <date date-type="accepted">
+          <day>26</day>
+          <month>10</month>
+          <year>2023</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2023</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">Inequities shape the everyday experiences and life chances of individuals at the margins of societies and are often associated with lower health and particular challenges in accessing quality treatment and support. This fact is even more dramatic for those individuals who live at the nexus of different marginalized groups and thus may face multiple discrimination, stigma, and oppression. To address these multiple social and structural disadvantages, intersectional approaches have recently gained a foothold, especially in the public health field. This study makes an empirically informed argument for the merits of increasing the use of intersectional frameworks in the mental health field. In the mental health field, the potential for greater attention to multiple unjustified disadvantages appears to be of particular importance, as many mental health service users already face stigma and discrimination because of their mental health issues and thus may benefit particularly frequently and far-reachingly from effective problem awareness about multiple disadvantages. Intersectional approaches may help address the complexity, interdependence, and mutual constitution of social inequalities better than previous approaches that examined only one category of sociostructural stratification. By helping to identify the needs of those at the greatest risk of poor health, intersectional frameworks and tools can contribute not only to better address the needs of multiple disadvantaged individuals with mental health issues but also to the promotion of equity in the field of mental health, contributing to the reduction of health disparities.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Intersectionality</kwd>
+        <kwd>Heterogeneity</kwd>
+        <kwd>Stigma</kwd>
+        <kwd>Vulnerabilities</kwd>
+        <kwd>Discrimination</kwd>
+        <kwd>Social inequality</kwd>
+        <kwd>Mental health</kwd>
+        <kwd>Psychiatry</kwd>
+        <kwd>Mental health care</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Open Access Publishing Fund of University of T&#xFC;bingen</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Universit&#xE4;tsklinikum T&#xFC;bingen (8868)</institution>
+          </funding-source>
+        </award-group>
+        <open-access>
+          <p>Open Access funding enabled and organized by Projekt DEAL.</p>
+        </open-access>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; BioMed Central Ltd., part of Springer Nature 2023</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p id="Par7">Intersectionality has become a crucial concept in understanding the complexities of social identity and inequality in various fields, including health care. Coined by Kimberl&#xE9; W. Crenshaw in 1989 [<xref ref-type="bibr" rid="CR1">1</xref>], intersectionality refers to the different ways in which multiple personal characteristics, such as <italic>race</italic>,<xref ref-type="fn" rid="Fn1">1</xref>&#xA0;ethnicity, gender, sexual orientation, social class, age, and abilities, interact to shape individuals&#x2019; experiences in society and everyday life. In contrast to approaches that examine socially salient characteristics and their effects as isolated entities, intersectional approaches foreground the many different layers of social inequalities that can combine in unique ways to disadvantage people.</p>
+      <p id="Par8">Recently, the analytic potential of intersectional approaches has also been discovered in the health field, particularly in public health [<xref ref-type="bibr" rid="CR4">4</xref>&#x2013;<xref ref-type="bibr" rid="CR6">6</xref>]. This is mainly because health inequities are commonly associated with membership in socially marginalized groups and empirical findings regarding those particularly affected by health inequities could be particularly helpful to inform policy-making [<xref ref-type="bibr" rid="CR7">7</xref>]. The relevance of social determinants to the maintenance of health and the development of diseases as well as the effects of social stratification and stigmatization on health&#xA0;along categories, such as <italic>race</italic>, ethnicity, gender, and socioeconomic status, are well documented [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>]. However, to date, in most cases, only the effects of single social categories have been studied for health [<xref ref-type="bibr" rid="CR10">10</xref>], for instance, the influence of <italic>race</italic>-related stressors on mental health [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+      <p id="Par9">In the mental health field, intersectionality could shed light on the ways in which mental health disparities and inequalities are not solely based on individual-level factors, such as biology or behaviour, but are also influenced by broader social and structural forms of discrimination, stigma and oppression, such as systemic racism, sexism, homophobia, classism, ageism, and (dis-)ableism. A deeper understanding of the complex interaction of discrimination, stigma and oppression due to membership in multiple socially marginalized groups and how they affect mental health seems particularly promising, as individuals with &#x201C;mental illness&#x201D; are already more likely to face unjustified disadvantages due to their disorder [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR12">12</xref>&#x2013;<xref ref-type="bibr" rid="CR17">17</xref>]. Nevertheless, most of the available research does not consider the effects and implications of membership or attribution to multiple stigmatized social groups among people with mental health issues [<xref ref-type="bibr" rid="CR18">18</xref>]. Future engagement to understand intersectional disadvantages may lead to more appropriate intervention and support services in the mental health field and thus contribute to the reduction of mental health disparities.</p>
+      <p id="Par10">In this paper, I will argue for the potential of intersectional approaches for mental health research, policy, and practice and illustrate the ways in which mental health professionals can adopt an intersectional lens to surface social and structural barriers and forms of discrimination, stigma and&#xA0;oppression, thereby better meeting the health care needs of people with diverse conditions and contributing to promote health equity. To demonstrate this, the first step is to briefly outline the relevance of social inequalities and their effects on mental health. In the second step, mental health issues are introduced as distinct social category that makes unjustified inequalities more likely. Attention will be given primarily to the stigmatizing effects associated with membership or assignment of individuals to&#xA0;the social group of people with mental health issues. In the third step, intersectionality is presented as a suitable framework that does better justice to the complexity of disparities and social injustice than previous approaches. In the fourth step, the value of intersectionality as a framework and tool particularly within mental health care practice is outlined, which calls for health&#xA0;care professionals to be critically aware of the possibility of&#xA0;multiple social disadvantages in dealing with people with mental health issues, particularly recognizing the responsibility for mental health issues and their successful treatment less than before in the individual and more in social and structural causes. Taking this shift in responsibility seriously might have far-reaching implications for mental health care practices. Finally, a brief summary concludes the paper.</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Social inequalities and their effects on mental health</title>
+      <p id="Par11">Before going into more detail about the incremental value of an intersectional framework, the relevance of social inequalities for mental health care should first be elucidated. Here, not all disparities in mental health care are of importance: Fundamentally, there can be differences between persons who require different &#x2013; and thus proper &#x2013; treatment. The disparities of interest from an ethical point of view are not those that are justified by clinical appropriateness, needs, or preferences but rather those that result from social or structural inequalities [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR19">19</xref>]. While for the former, restrictions on rights (e.g., to access specific treatments and resources) may be morally justified due to the lack of need and/or preference for treatment, the latter constitute baseless discrimination, regardless of any need and/or preference [<xref ref-type="bibr" rid="CR20">20</xref>]. Inequality, that is, unjustified discrimination against individuals across social categories, has a significant impact on mental health, as people from marginalized communities are not only more likely to suffer from mental health problems and to receive psychiatric diagnoses but also often face multiple barriers to accessing necessary mental health services and resources or simply receive poorer quality of treatment.</p>
+      <p id="Par12">In the discourse, those social categories have become established as axes of analysis for which there is reliable evidence that belonging to or having identity characteristics of such a category may lead significantly more likely to unjustified disparities in certain social contexts. There are at least&#xA0;two forms of &#x201C;membership&#x201D; to a social group that may be statistically associated with negative, but sometimes different, disadvantages: On the one hand, an individual may experience unjustified adverse disparities as a member of a particular group <italic>because of that membership</italic> (e.g., belonging to the&#xA0;group of people with low socioeconomic status due to low socioeconomic status). On the other hand, an individual may face unjustified adverse disparities because of the <italic>presence of certain publicly perceived or assumed characteristics</italic> by which membership in a particular group is inferred (e.g., belonging to the low socioeconomic status group based on one&#x2019;s physical appearance or behaviour). While the former represents a membership corresponding to the case, the latter is merely a spurious attribution of membership &#x2013; it should be kept in mind, however, that&#xA0;both forms can lead to disadvantages and are not always unambiguous, especially in the context of mental health issues.</p>
+      <p id="Par13">Mental health disparities have largely been documented for categories of social stratification, such as <italic>race</italic>, ethnicity, gender, sexual orientation, and socioeconomic status [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR9">9</xref>].<xref ref-type="fn" rid="Fn2">2</xref> For example, for some time, it is known that members of racial or ethnic minorities may face additional barriers to accessing the mental health care system [<xref ref-type="bibr" rid="CR11">11</xref>, <xref ref-type="bibr" rid="CR21">21</xref>&#x2013;<xref ref-type="bibr" rid="CR23">23</xref>]. This may be due to higher levels of <italic>race</italic>-associated stigma, insufficiently culturally skilled mental health care professionals, and/or distrust in the health care system. Prejudice, negative beliefs, and a lack of information about mental disorders and their causes within a cultural community can also discourage people from accessing mental health care and continuing treatment [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR24">24</xref>]. These disparities can be further exacerbated by discriminatory policies, practices, and attitudes within social, legal, and health systems, which often perpetuate already existing social inequalities. For instance, depending on the social system and public access to free or low-cost treatment, the socioeconomic status of a person plays a decisive role in regard to the possibilities of receiving (psycho-)therapy appropriate to the disorder, which may be time- and resource-consuming [<xref ref-type="bibr" rid="CR21">21</xref>]. As one consequence, persons of minority populations tend to have a higher burden of their disease. It has been shown that although members of minority populations have a lower likelihood of experiencing acute episodes of major depressive disorder (MDD) compared to &#x201C;Caucasians&#x201D;<xref ref-type="fn" rid="Fn3">3</xref> [<xref ref-type="bibr" rid="CR25">25</xref>], they have a higher likelihood of experiencing prolonged, chronic, and severely debilitating depression, which can heavily impact their daily life [<xref ref-type="bibr" rid="CR25">25</xref>]. In addition, less access to and poorer quality of treatment are quite plausible explanations for the increased persistence of disorders such as posttraumatic stress disorder (PTSD) or alcoholism among, for example, indigenous populations [<xref ref-type="bibr" rid="CR21">21</xref>]. Negative effects on mental health have also been attributed to other social and structural forms of discrimination and&#xA0;oppression within rules, policies and institutional procedures that arbitrarily restrict the rights of some people as well as the sequels of historical trauma, such as colonialism, racism, and sexism [<xref ref-type="bibr" rid="CR26">26</xref>, <xref ref-type="bibr" rid="CR27">27</xref>].</p>
+    </sec>
+    <sec id="Sec3">
+      <title>Mental health issues as a distinct category of social stratification due to stigmatization</title>
+      <p id="Par14">In addition to the more familiar social categories such as <italic>race</italic>, ethnicity, gender, sexual orientation, and socioeconomic status, there are calls for additional consideration of other categories such as educational attainment, employment, marital/parental status, (dis-)abilities or age &#x2013; and probably many of which I am not aware.<xref ref-type="fn" rid="Fn4">4</xref> The inclusion of &#x201C;mental health issues&#x201D; or &#x201C;mental illness&#x201D;&#xA0;as distinct category requires justification of the extent to which membership in this group, or the presence of identity characteristics by which membership in this group is ascribed, may cause or at least facilitate unjustified discrimination.<xref ref-type="fn" rid="Fn5">5</xref> Here, it should be borne in mind that the terms &#x201C;mental illness&#x201D; or &#x201C;mental health issues&#x201D; refer to a wide range of different conditions and difficulties that individuals may face with regard to their mental well-being. Thus, the use of this broad category sometimes obscures the differences between mental health issues that also exist, as not all of these issues are associated with the same degree and forms of discrimination.</p>
+      <p id="Par15">Crucial to efforts aimed at demonstrating the longer-term disadvantages of persons with mental health issues were the initial efforts of Morton Birnbaum [<xref ref-type="bibr" rid="CR28">28</xref>] and the successive academic elaborations of Michael L. Perlin (cf. &#x201C;sanism&#x201D; [<xref ref-type="bibr" rid="CR29">29</xref>]) and Judi Chamberlin (cf. &#x201C;mentalism&#x201D; [<xref ref-type="bibr" rid="CR30">30</xref>, <xref ref-type="bibr" rid="CR31">31</xref>]). Considering the research efforts of the last few decades, demonstrating a strong correlation between (ascribed) membership in the group of people with mental health issues and unjustified discrimination has become an easy task. Discrimination against individuals with mental health issues may be understood as the result of stigma, that is, stereotypes, prejudices, and discrimination against individuals with mental health issues (see as fundamental works [<xref ref-type="bibr" rid="CR32">32</xref>] and [<xref ref-type="bibr" rid="CR33">33</xref>] and for the stigma of mental health issues [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR34">34</xref>&#x2013;<xref ref-type="bibr" rid="CR39">39</xref>]). People with mental health issues &#x201C;are devalued, rejected, shamed, and excluded based on a socially discredited health condition.&#x201D; ([<xref ref-type="bibr" rid="CR16">16</xref>], p. 4) The potency of mental health issue stigma may vary in multiple social contexts, such as among individuals with certain cultural backgrounds [<xref ref-type="bibr" rid="CR23">23</xref>]. Mostly, although not exclusively, they are based on misconceptions or misinformation that guide perceptions, attitudes, and behaviour towards members of the social group [<xref ref-type="bibr" rid="CR18">18</xref>], which is primarily the case for the attitudes and behaviours of other people [<xref ref-type="bibr" rid="CR40">40</xref>]. However, subsequently, it often becomes also adopted in the form of an individual&#x2019;s self-stigma, that is, the anticipation of negative behaviour towards oneself [<xref ref-type="bibr" rid="CR41">41</xref>, <xref ref-type="bibr" rid="CR42">42</xref>].<xref ref-type="fn" rid="Fn6">6</xref></p>
+      <p id="Par16">One of the flawed assumptions mentioned in the literature concerns the degree of an individual&#x2019;s own responsibility for the development and maintenance of mental health issues, such as substance dependence disorders [<xref ref-type="bibr" rid="CR43">43</xref>] or eating disorders [<xref ref-type="bibr" rid="CR44">44</xref>]. Here, the illnesses are conceived as self-induced or as the result of personal &#x2013; and thus largely avoidable &#x2013; decisions in the past. Interestingly, it has been shown that even in such cases where biomedical causes as well as causative childhood trauma as not self-inflicted causes&#xA0;were assumed, nonetheless, the only&#xA0;presence of mental health issues seemed to be associated with higher stigma [<xref ref-type="bibr" rid="CR45">45</xref>]. A possible explanation offered for the case of substance dependence disorders by White (2001) (cf. [<xref ref-type="bibr" rid="CR46">46</xref>] cited by [<xref ref-type="bibr" rid="CR43">43</xref>]) is that, even in cases where the individual is seen as a victim of his or her disorder, it is assumed by others that the disorder would be associated with certain behaviours (e.g., lack of impulse control, unreliability, dangerousness, etc.) and that the disorder in general weakens their values and good intentions.</p>
+      <p id="Par17">Another problem is the generalization of very specific (negative) assumptions, which may be valid for single individuals&#xA0;of the group, to the collective of persons labelled as &#x201C;mentally ill&#x201D;. However, given the multifaceted nature of disorders, manifestations, severities, and treatment successes in different individuals with mental health issues, a general loss of competence or deviance of behaviour may not be assumed based solely on the label &#x201C;mentally ill&#x201D; [<xref ref-type="bibr" rid="CR20">20</xref>]. Corrigan et al. (2004) therefore pointed out the double hurdle of people with mental health issues: &#x201C;Mental illness strikes with a two-edged sword. On one hand, people must struggle with the symptoms and disabilities that prevent them from achieving many of their life goals. On the other, the stigma of mental illness further hampers their opportunities and aspirations.&#x201D; ([<xref ref-type="bibr" rid="CR20">20</xref>], p. 489).</p>
+      <p id="Par18">Mental illness stigma can influence different health outcomes in significant ways [<xref ref-type="bibr" rid="CR47">47</xref>]. Experiencing stigma because of mental health issues is a barrier to seeking or using mental health treatment and social support, resulting in delayed help-seeking and more frequent treatment discontinuations or withdrawals [<xref ref-type="bibr" rid="CR10">10</xref>, <xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>, <xref ref-type="bibr" rid="CR37">37</xref>]. For example, eating disorder stigma correlates with negative effects on individuals&#x2019; psychological well-being as well as their treatment-seeking behaviour [<xref ref-type="bibr" rid="CR44">44</xref>]. The stigma of mental illness also seems to (co-)cause harmful effects, for instance, due to prolonged processes of recovery and social reintegration [<xref ref-type="bibr" rid="CR48">48</xref>] or to make the development of physical comorbidities that remain untreated (e.g., diabetes, heart disease, stroke, and epilepsy) [<xref ref-type="bibr" rid="CR23">23</xref>, <xref ref-type="bibr" rid="CR49">49</xref>], unemployment and suicidality more likely [<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+      <p id="Par19">Accumulating evidence over the past several decades illustrates that stigma due to mental health issues is experienced in almost all domains of life, not the least of which is health care itself [<xref ref-type="bibr" rid="CR21">21</xref>, <xref ref-type="bibr" rid="CR50">50</xref>, <xref ref-type="bibr" rid="CR51">51</xref>]. In fact, a particularly strong entanglement of mental health issue stigma and the system of health care institutions can be shown, insofar as the latter contribute to the reproduction of stigma [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR51">51</xref>&#x2013;<xref ref-type="bibr" rid="CR53">53</xref>]. Additionally, individuals with mental health issues, even when they access treatments, are more likely to experience negative attitudes toward them from health care professionals, adverse health care interactions, and overuse of coercive and paternalistic situations [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR51">51</xref>].</p>
+      <p id="Par20">This different behaviour in seeking and accessing treatment and support as well as the different quality of treatment translates concretely into health disparities, including excess morbidity and early mortality among individuals with mental health issues [<xref ref-type="bibr" rid="CR54">54</xref>]. Found by research, people living with mental health issues show a life expectancy that is 10 to 25 years shorter than that of other people [<xref ref-type="bibr" rid="CR55">55</xref>, <xref ref-type="bibr" rid="CR56">56</xref>].</p>
+      <p id="Par21">The stigmatization and self-stigmatization of individuals suffering from mental health issues are known and have been denounced already for a long time; their importance has also been recognized and taken up by, for example, the World Health Organization [<xref ref-type="bibr" rid="CR57">57</xref>] or the American National Academies for Sciences, Engineering and Medicine [<xref ref-type="bibr" rid="CR58">58</xref>]. However, they still impact the treatment and identity construction as well as the social and structural conditions. The means of choice to counteract stigmas, in addition to facilitating access to treatment, strengthening more integral care coordination, and monitoring structural stigma [<xref ref-type="bibr" rid="CR16">16</xref>], are mostly efforts to eliminate or at least reduce misconceptions and misinformation through education with the aim to improve attitudes and practices towards people with mental health issues [<xref ref-type="bibr" rid="CR16">16</xref>, <xref ref-type="bibr" rid="CR37">37</xref>, <xref ref-type="bibr" rid="CR45">45</xref>, <xref ref-type="bibr" rid="CR51">51</xref>]. Crucially, however, as with other socially acquired attitudes and thought patterns regarding <italic>race</italic>, ethnicity, gender, sexual orientation, or class, they often implicitly &#x2013; and therefore persistently &#x2013; shape the beliefs of individuals, even when a person&#x2019;s knowledge may change as a result of an educational campaign. Perhaps for this reason, it has been shown in adults that contact-to-contact experiences appear to have a greater impact on reducing stigma [<xref ref-type="bibr" rid="CR18">18</xref>, <xref ref-type="bibr" rid="CR36">36</xref>]. Addressing this challenge, therefore, requires sustained instruments of critical reflection that explicitly make stigmas of different categories their objects.</p>
+    </sec>
+    <sec id="Sec4">
+      <title>Intersectionality &#x2013; one step further to analyse the complexity of social inequalities</title>
+      <p id="Par22">The literature on the effects of social stratification and their implications for mental health, of which only a very small part is highlighted here, is extensive. Most investigations on health disparities in recent decades have focused on one category of social stratification [<xref ref-type="bibr" rid="CR13">13</xref>]. However, Pachankis et al. (2017), for example, showed within their sample&#xA0;that subjects with mental health issues had an average of six stigmatized conditions [<xref ref-type="bibr" rid="CR59">59</xref>]. Regardless of the exact number of axes for which inequities can be demonstrated, it will have to be acknowledged that for any of these disparities it is the case that they lack moral justification by clinical appropriateness, existing needs, or treatment preferences of those affected. Because people may sometimes face multiple barriers and unjustified inequalities, &#x201C;framing disparities along single axes of social inequality can obscure the excess risk faced by populations at the nexus of multiple marginalized social categories&#x201D; [<xref ref-type="bibr" rid="CR13">13</xref>].</p>
+      <p id="Par23">The fact that advantages and disadvantages are not caused by only one but sometimes by multiple social identity characteristics of an individual has mostly been interpreted within cumulative frameworks [<xref ref-type="bibr" rid="CR60">60</xref>&#x2013;<xref ref-type="bibr" rid="CR62">62</xref>]. Gary (2005), for example, described with the term &#x201C;double stigma&#x201D; the experience of mental illness in members of four ethnic minority groups in the United States [<xref ref-type="bibr" rid="CR23">23</xref>]. It was assumed that members of ethnic minority groups are already confronted with prejudice and discrimination because of their membership in this group but that these prejudices and discrimination can be further exacerbated by additional mental health issues [<xref ref-type="bibr" rid="CR23">23</xref>]. In such &#x201C;double-disadvantage theories&#x201D; [<xref ref-type="bibr" rid="CR18">18</xref>], the disadvantages of several social determinants are accumulated so that the joint effect on mental health is understood to be equivalent to the sum of their respective effects (e.g., ethnicity&#x2009;+&#x2009;gender&#x2009;+&#x2009;mental disorder; cf. [<xref ref-type="bibr" rid="CR8">8</xref>]). Approaches such as this have led to an increased awareness of the double burden of stigmatization of people with mental health issues and, for example, HIV or obesity [<xref ref-type="bibr" rid="CR45">45</xref>].</p>
+      <p id="Par24">Nevertheless, such approaches fail to recognize the potentially existing salience of certain identity characteristics in comparison to others and the potential emergence of further effects. Here, salience refers to the &#x201C;prominence&#x201D; [<xref ref-type="bibr" rid="CR18">18</xref>] of one characteristic to which certain behaviours are more likely to be attributed than to other characteristics, the significance of which in turn recedes into the background in the perception of the counterpart or the public. This mechanism is understood less as an accusation of social ignorance than as an admission to an efficient but simplistic way of dealing with complexity in everyday social life. Depending on the prevailing perception in a society, for example, a person&#x2019;s <italic>race</italic>, ethnicity, gender, socioeconomic status or mental disorder may be particularly prominent and thus predispose to stigmatization more than other characteristics. Other marginalized social identity characteristics may therefore be given little attention, even though this would actually be necessary to avoid discrimination on their basis. In some cases, different social identity characteristics even seem to partially mediate each other [<xref ref-type="bibr" rid="CR60">60</xref>].</p>
+      <p id="Par25">With Oexle and Corrigan (2018), we can assume that these effects (double-disadvantage and prominence) are not mutually exclusive, but rather that they &#x201C;fluctuate depending on the number and types of intersecting social group memberships, their visibility, and contextual factors (including cultural setting and perceiver characteristics)&#x201D; [<xref ref-type="bibr" rid="CR18">18</xref>]. However, considering only one of the two effects does not take seriously the unique interlocking relationships that can exist across social identity characteristics [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR63">63</xref>].&#xA0;We cannot be reduced to just one identity or one constructed characteristic, but are members of or have identity characteristics of several social groups.</p>
+      <p id="Par26">It is precisely this limitation that is addressed conceptually by intersectional approaches. They shift attention to the simultaneously present and mutually constitutive effects of different social identity characteristics on individuals&#x2019; experiences and life chances [<xref ref-type="bibr" rid="CR8">8</xref>]. Initially, applied as a theoretical framework for qualitative studies in law, sociology, and psychology [<xref ref-type="bibr" rid="CR13">13</xref>], intersectional approaches seek to elucidate how individuals experience multiple forms of systemic oppression, such as racism, classism, sexism, and homophobia, as well as their interactions [<xref ref-type="bibr" rid="CR6">6</xref>, <xref ref-type="bibr" rid="CR13">13</xref>].<xref ref-type="fn" rid="Fn7">7</xref> Intersectional approaches recognize the multifaceted reality of identities and their social contexts within which some disadvantages may accumulate or reinforce each other, some may become prominent, some may recede into the background, and others may also mutually mediate each other. The experience of a particular social identity characteristic, such as being LGBTQIA&#x2009;+&#x2009;, may differ across the presence of other social identity characteristics, such as socioeconomic status, <italic>race</italic>, ethnicity or mental illness (for the latter cf. for example [<xref ref-type="bibr" rid="CR64">64</xref>]). Differentiating intersections that exist, whereby constraints and privileges may operate concurrently [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR8">8</xref>], recognizes the finely chiselled reality of discrimination (experiences) in different social contexts better than previous approaches have been able to &#x2013; without claiming to have reached the end of the road.</p>
+      <p id="Par27">That the implications of intersectional approaches for the mental health field have not been widely acknowledged until recently was demonstrated, for example, by the in matter important publication of the National Academies of Sciences, Engineering and Medicine entitled &#x201C;<italic>Ending Discrimination Against People with Mental and Substance Use Disorders: The Evidence for Stigma Change</italic>&#x201D; (2016) [<xref ref-type="bibr" rid="CR58">58</xref>], which still addresses &#x201C;double and intersecting stigmas&#x201D; [ibid.] within a short paragraph by highlighting their mere existence. However, knowing the great influence of social determinants on the development and progress of mental disorders as well as on the chances of their successful treatment (see Sect.&#xA0;2), an intersectional approach can support a more nuanced understanding of the diversity of mental health service users and their needs as &#x201C;people[s]-in-context&#x201D; [<xref ref-type="bibr" rid="CR65">65</xref>].&#xA0;This contextuality of individuals also means analysing the relevance of known social categories in the respective context and not prematurely assuming that certain identity characteristics are fundamentally disadvantageous. Just as the significance of one&#x2019;s own sexual orientation can differ significantly depending on the nation in which one lives, other characteristics such as mental health issues may also have a different significance depending on the respective living environment. The understanding of the impact of intersecting social categories on mental health, diagnosis, and treatment is still limited. However, the first results regarding mental health point to &#x201C;paradoxical patterns of stratification&#x201D; [<xref ref-type="bibr" rid="CR8">8</xref>], which underline the importance of intersectional approaches, as the different probabilities for certain mental health conditions and progressions in different subgroups cannot simply be derived a priori from already established theoretical approaches.</p>
+      <p id="Par28">For example, using an intersectional framework that explicitly considers gender, <italic>race</italic>, class, and ethnicity, between-group variations in attention deficit hyperactivity disorder (ADHD) diagnosis can be determined [<xref ref-type="bibr" rid="CR8">8</xref>]. The authors found that male, high-income, white, non-Hispanic children from low-education backgrounds were more likely to receive a diagnosis &#x2013; which is at least one prerequisite for sufficient treatment &#x2013; than their Hispanic counterparts [ibid.]. In another intersectionality-framed study [<xref ref-type="bibr" rid="CR12">12</xref>], it was shown that compared to white heterosexual women, white sexual minority women had higher risks for depressive symptoms, alcohol use, tobacco use, and marijuana use; while Black sexual minority women had higher tobacco and marijuana use only [<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+      <p id="Par29">As I have tried to illustrate thus far, intersectional approaches may be useful for better describing the complexity of disparities, effects of stigma and discrimination in different social contexts. If this is the case, there are good reasons from an ethical point of view as to why intersectional approaches should play a greater role in mental health practice in the future than they have done thus far.</p>
+    </sec>
+    <sec id="Sec5">
+      <title>Seeing mental health service users in context: The value of integrating individual&#x2019;s social identities and existing structures of oppression in mental health research and treatment</title>
+      <p id="Par30">Mental health disparities across different social categories are avoidable, even if the identification, precise description, and elimination of their causes may be difficult [<xref ref-type="bibr" rid="CR13">13</xref>]. If the goal of health equity for all members of social communities is pursued, it entails a commitment to reduce and ultimately eliminate unjustified inequalities and their social determinants. With Braveman (2014), this goal can be summarized as follows: &#x201C;Pursuing health equity means striving for the highest possible standard of health for all people and giving special attention to the needs of those at greatest risk of poor health, based on social conditions.&#x201D; [<xref ref-type="bibr" rid="CR66">66</xref>] An intersectional lens might contribute to the pursuit of this goal in general but in the mental health field in particular if it finds consideration in research, policy, and practice.</p>
+      <p id="Par31">A closer look at intersections reveals the complexity of stigmas and their negative consequences on mental health service users&#x2019; experiences and opportunities, not least on their capabilities to achieve or pursue certain health outcomes. This reveals the unique needs of individuals in different social categories, which may differ significantly from those in the statistical middle&#xA0;of a group. Insights from research on social inequalities clearly reject the primacy of reductionist models of biomedical or lifestyle or behavioural causation of illness based on the assumption of individual agency over matters of health [<xref ref-type="bibr" rid="CR8">8</xref>, <xref ref-type="bibr" rid="CR67">67</xref>]. The emphasis of recent decades on the highest possible specificity in identifying disease mechanisms and their treatment seems unable to meet the goal of health equity, given the concurrent rapid increase in social and structural inequalities and their massive impact on mental health. Such an objective does progressively less justice to disorders such as schizophrenia, anxiety, and depression, so that health equity seems to become increasingly remote [<xref ref-type="bibr" rid="CR68">68</xref>]. Intersectional approaches, therefore, focus compensatory on the structural and social preconditions and obstacles to the maintenance of (mental) health as well as an individual&#x2019;s chances to take up support and treatment options despite all social barriers. Intersectionality should not be seen as an alternative to the above approaches but as an addendum because it brings to the surface the conditions, difficulties and barriers, knowing that they fundamentally impact a person&#x2019;s agency as well as her help-seeking, self-esteem, and social functioning, which in turn can have a lasting impact on her mental health and well-being. Uncovering these social and structural barriers and forms of oppression helps to better address the health needs of people with different conditions and contexts. Taking such a conceptual framework of intersectionality seriously, which localizes the responsibility for one&#x2019;s own mental health issues as well as for the use of support and therapy services less in the individual&#x2019;s pathophysiological predisposition or behaviour and more in the social and structural determinants and life circumstances, would probably have far-reaching consequences for research and treatment approaches to address stigmatization, discrimination and oppression, among which there has been thus far a predominance of behavioural interventions rather than social and structural interventions [<xref ref-type="bibr" rid="CR10">10</xref>].</p>
+      <p id="Par32">The role of social and structural environmental conditions is by no means a novelty in mental health practice but is in fact deeply inscribed in it. For example, as one consequence of the biopsychosocial understanding of illness introduced at its time, the multiaxial system of the <italic>Diagnostic and Statistical Manual of Mental Disorders</italic> III (DSM-III) of 1980 and the subsequent version DSM-IV of 1994 explicitly required the contextual status of a person (Axis IV) to make a diagnosis. Moreover, the intensive efforts of activist movements of people with mental health issues led to a critical reflection on the stigmatizing effects and power structures inherent in the mental health care system and, as a result, to international reforms. By no means should the importance of social and structural factors be considered less for other health fields and medical disciplines, but it may be assumed that the mental health field is likely to be a pioneer in considering factors beyond the individual patient and his or her constitution. However, intersectional insights into the complex synergies and interdependencies of stigma effects highlight the markedly heterogeneous needs of individuals, of which, for example, male, high-income, white, Hispanic children from low-education backgrounds seem to require different enabling measures for adequate ADHD diagnosis than their non-Hispanic counterparts [<xref ref-type="bibr" rid="CR8">8</xref>]. Such a finer granularity of collectives belonging to different social identities, once it has been well documented, allows for the development of quality therapy and support options tailored to the real needs of this patient group and thus a more appropriate addressing of health disparities [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR13">13</xref>].</p>
+      <p id="Par33">In addition to the critical function that intersectional approaches in the mental health field may assume vis-&#xE0;-vis existing social injustices at the sociostructural level, they could also assume a forward-looking self-critical function at the individual level during the process of psychiatric diagnoses. To date, the heterogeneity of social and structural conditions, interpretation patterns and probably associated effects, in the context of which a diagnosis of mental illness is made, plays only a minor role, if any, in the process of making that diagnosis. However, these contextual conditions either promote or impede the opportunities that may arise from a diagnosis of mental illness for the person affected [<xref ref-type="bibr" rid="CR69">69</xref>]. While members of certain groups may be particularly empowered by the diagnosis and the treatment and support opportunities which are opened by it, others &#x2013; presumably especially members of already marginalized groups &#x2013; may need more wide-ranging or quite different support measures to benefit equally from the same diagnosis rather than merely experiencing additional disadvantages. As Bergey et al. (2022) recently highlighted with the example of ADHD diagnosis, research with an intersectional framework might help to explore how a diagnosis is interpreted in different contexts and with which effects these interpretations are associated: &#x201C;[F]or some, a diagnosis might be viewed as a mechanism of social control, while for others it could be seen as a gateway for much-needed intervention and potential improvements in quality of life.&#x201D; [<xref ref-type="bibr" rid="CR8">8</xref>] The diagnosis is not an end in itself.&#xA0;Anticipating the social and structural opportunities and potential benefits and harms of a diagnosis for a person who is already marginalized by other social categories may contribute to a more responsive diagnosis and increased outcomes for that person. The making of a diagnosis must therefore be assessed in advance with regard to the stigma potentially accepted by diagnosing the individual&#x2019;s mental health issues.</p>
+      <p id="Par34">Intersectional frameworks and tools, if further developed in the future, may thus make a critical contribution that could benefit mental health practice in at least two ways: On the one hand, they raise awareness of the importance of sociostructural preconditions of health and its maintenance as well as existing disparities, undermining one-sided biomedical or behaviour-associated explanations of disease causation, of which the latter impose an inappropriate responsibility on the individual, which is additionally particularly often accompanied by public stigmatization. On the other hand, they contribute to a self-critical reflection in the context of diagnosing, which knows about the sociostructural embedding of diagnoses and their effects as well as the stigmatizations, discriminations and oppressions possibly associated with them, and may include this knowledge in the elaboration of an appropriate&#xA0;diagnosis and therapy concept.</p>
+    </sec>
+    <sec id="Sec6">
+      <title>Conclusion</title>
+      <p id="Par35">Health care does not take place in a &#x201C;social vacuum&#x201D; [<xref ref-type="bibr" rid="CR70">70</xref>]. Mental health disparities exist among various social categories, and intersectionality as a framework may help research, policy-making, and mental health care professionals identify and address these unjustified disparities by examining how multiple social identities intersect to create unique experiences and life opportunities molded by stigmatization, discrimination and oppression. Intersectional approaches may help to address the complexity, interdependence, and mutual constitution of social inequalities better than previous approaches that examine only one axis of sociostructural stratification by helping to identify the needs of those at greatest risk of poor health. Intersectional approaches may be of particular importance in the mental health field, as patients are already more likely to be exposed to stigma and discrimination on the basis of their illness and may thus be particularly effective in terms of socially and structurally sensitized diagnosis and treatment. It should also be borne in mind here that the reduction of a person to typical social identity characteristics is misguided if it is not assessed in terms of its justification and relevance in the individual case. However, by addressing existing&#xA0;health disparities, particularly for multiple disadvantaged individuals, stakeholders can contribute not only to better address the needs of multiple disadvantaged individuals with mental health issues but also to the promotion of equity in the field of mental health.</p>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>ADHD</term>
+          <def>
+            <p id="Par2">Attention Deficit Hyperactivity Disorder (ADHD)</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>MDD</term>
+          <def>
+            <p id="Par3">Major Depressive Disorder</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PTSD</term>
+          <def>
+            <p id="Par4">Post-traumatic Stress Disorder</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DSM-III</term>
+          <def>
+            <p id="Par5">Diagnostic and Statistical Manual of Mental Disorders III</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DSM-IV</term>
+          <def>
+            <p id="Par6">Diagnostic and Statistical Manual of Mental Disorders IV</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn id="Fn1">
+        <label>1</label>
+        <p id="Par39">The term &#x201C;<italic>race</italic>&#x201D; refers to the social, historically made and changing construct of dividing people into groups, mostly based on the naturalistic reduction to various physical characteristics. Categorisation by <italic>race</italic> is accompanied by multi-layered social attributions of meaning and practices that can be understood as consequences of racialisation and racism (cf. for this in more detail: [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref>]). The term &#x201C;ethnicity&#x201D; here refers to a group of people who identify with each other on the basis of perceived common characteristics.</p>
+      </fn>
+      <fn id="Fn2">
+        <label>2</label>
+        <p id="Par40">While the existence of such social stratifications is well-documented, it must be caveated that most research comes from nations in North America, Europe, and Australia (exceptions are e.g. [<xref ref-type="bibr" rid="CR24">24</xref>]). The complex social conditions that inhibit or reinforce inequalities can hardly be translated internationally, so there is a need for further research in this area. Nonetheless, it is reasonable to assume that discriminatory practices such as those described here can occur in other societies as well, even if the groups involved may be different.</p>
+      </fn>
+      <fn id="Fn3">
+        <label>3</label>
+        <p id="Par41">All category designations used in the following are taken from the empirical studies cited and have not been adapted in favour of uniformity or the like in order to avoid shifts in meaning from the original studies. In the studies cited, these categories are self-reported ones.</p>
+      </fn>
+      <fn id="Fn4">
+        <label>4</label>
+        <p id="Par42">While the objection raised in practice that the multiplicity of categories only complicates matters and is&#xA0;deemed to be impractical seems to me to be relevant insofar as useful tools should be developed to assist in the consideration of the different categories, nevertheless the mere fact of the structural complexity of discrimination and the excessive demands arising from it may not justify continuing to condone it.</p>
+      </fn>
+      <fn id="Fn5">
+        <label>5</label>
+        <p id="Par43">Some of the following remarks on the example of the category &#x201C;mental health issues&#x201D; may also be assumed in modified form for other social categories mentioned above, since stigmas and their underlying misconceptions also play an influential role there.</p>
+      </fn>
+      <fn id="Fn6">
+        <label>6</label>
+        <p id="Par44">Particularly helpful in this regard are the comments of James Livingston, who examines stigma toward people with mental health and substance use issues in more detail and begins by dividing stigma into the three forms of self-stigma, social stigma, and structural stigma; see for example [<xref ref-type="bibr" rid="CR14">14</xref>]. I thank one reviewer for this valuable reference.</p>
+      </fn>
+      <fn id="Fn7">
+        <label>7</label>
+        <p id="Par45">A first attempt of a systematic aggregation of marginalized social identity characteristics got attention within the so-called &#x201C;matrix of domination&#x201D; [<xref ref-type="bibr" rid="CR62">62</xref>].</p>
+      </fn>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Not applicable.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors' contributions</title>
+      <p>All own work of the first author.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>Open Access funding enabled and organized by Projekt DEAL. The author acknowledges support by the&#xA0;Open Access Publishing Fund of University of T&#xFC;bingen.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par36">Not applicable.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par37">Not applicable.</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par38">The author has no competing interests to declare.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <mixed-citation publication-type="other">Crenshaw K. Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics. University of Chicago Legal Forum 1989(1):139&#x2013;67.</mixed-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <mixed-citation publication-type="other">Rollock N, Dixson AD. Critical Race Theory. The Wiley Blackwell Encyclopedia of Gender and Sexuality Studies. Chichester: Wiley Blackwell. p. 1&#x2013;6. 10.1002/9781118663219.wbegss755.</mixed-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lynn</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Dixson</surname>
+              <given-names>AD</given-names>
+            </name>
+          </person-group>
+          <source>Handbook of Critical Race Theory in Education</source>
+          <year>2013</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Routledge</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ostlin</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schrecker</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sadana</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bonnefoy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Gilson</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hertzman</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Priorities for research on equity and health: towards an equity-focused health research agenda</article-title>
+          <source>PLoS Med</source>
+          <year>2011</year>
+          <volume>8</volume>
+          <issue>11</issue>
+          <fpage>e1001115</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1001115</pub-id>
+          <pub-id pub-id-type="pmid">22069378</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bowleg</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The problem with the phrase women and minorities: intersectionality-an important theoretical framework for public health</article-title>
+          <source>Am J Public Health</source>
+          <year>2012</year>
+          <volume>102</volume>
+          <issue>7</issue>
+          <fpage>1267</fpage>
+          <lpage>1273</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2012.300750</pub-id>
+          <pub-id pub-id-type="pmid">22594719</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bauer</surname>
+              <given-names>GR</given-names>
+            </name>
+          </person-group>
+          <article-title>Incorporating intersectionality theory into population health research methodology: challenges and the potential to advance health equity</article-title>
+          <source>Soc Sci Med</source>
+          <year>2014</year>
+          <volume>110</volume>
+          <fpage>10</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2014.03.022</pub-id>
+          <pub-id pub-id-type="pmid">24704889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Jefferson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Danis</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Intersectionality in Clinical Medicine: The Need for a Conceptual Framework</article-title>
+          <source>Am J Bioeth</source>
+          <year>2019</year>
+          <volume>19</volume>
+          <issue>2</issue>
+          <fpage>8</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1080/15265161.2018.1557275</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bergey</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chiri</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Freeman</surname>
+              <given-names>NLB</given-names>
+            </name>
+            <name>
+              <surname>Mackie</surname>
+              <given-names>TI</given-names>
+            </name>
+          </person-group>
+          <article-title>Mapping mental health inequalities: The intersecting effects of gender, race, class, and ethnicity on ADHD diagnosis</article-title>
+          <source>Sociol Health Illn</source>
+          <year>2022</year>
+          <volume>44</volume>
+          <issue>3</issue>
+          <fpage>604</fpage>
+          <lpage>623</lpage>
+          <pub-id pub-id-type="doi">10.1111/1467-9566.13443</pub-id>
+          <pub-id pub-id-type="pmid">35147240</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Umberson</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Thomas</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Thomeer</surname>
+              <given-names>MB</given-names>
+            </name>
+          </person-group>
+          <article-title>Race, gender, and chains of disadvantage: childhood adversity, social relationships, and health</article-title>
+          <source>J Health Soc Behav</source>
+          <year>2014</year>
+          <volume>55</volume>
+          <issue>1</issue>
+          <fpage>20</fpage>
+          <lpage>38</lpage>
+          <pub-id pub-id-type="doi">10.1177/0022146514521426</pub-id>
+          <pub-id pub-id-type="pmid">24578394</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson-Best</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>
+          <source>BMC Public Health</source>
+          <year>2018</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>919</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id>
+          <pub-id pub-id-type="pmid">30049270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>Stress and the Mental Health of Populations of Color: Advancing Our Understanding of Race-related Stressors</article-title>
+          <source>J Health Soc Behav</source>
+          <year>2018</year>
+          <volume>59</volume>
+          <issue>4</issue>
+          <fpage>466</fpage>
+          <lpage>485</lpage>
+          <pub-id pub-id-type="doi">10.1177/0022146518814251</pub-id>
+          <pub-id pub-id-type="pmid">30484715</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Haardorfer</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Windle</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Berg</surname>
+              <given-names>CJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health and substance use among women and men at the intersections of identities and experiences of discrimination: insights from the intersectionality framework</article-title>
+          <source>BMC Public Health</source>
+          <year>2019</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>108</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12889-019-6430-0</pub-id>
+          <pub-id pub-id-type="pmid">30674293</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>VanderWeele</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Disparities at the intersection of marginalized groups</article-title>
+          <source>Soc Psychiatry Psychiatr Epidemiol</source>
+          <year>2016</year>
+          <volume>51</volume>
+          <issue>10</issue>
+          <fpage>1349</fpage>
+          <lpage>1359</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00127-016-1276-6</pub-id>
+          <pub-id pub-id-type="pmid">27531592</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins-Anderson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Vahedi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Hutson</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Hudson</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Intersectionality and Mental Health Among Emerging Adult Black American Men: a Scoping Review</article-title>
+          <source>Curr Psychiatry Rep</source>
+          <year>2022</year>
+          <volume>24</volume>
+          <issue>12</issue>
+          <fpage>819</fpage>
+          <lpage>830</lpage>
+          <pub-id pub-id-type="doi">10.1007/s11920-022-01386-5</pub-id>
+          <pub-id pub-id-type="pmid">36449172</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <mixed-citation publication-type="other">Schouler-Ocak M, Moran JK. Racial discrimination and its impact on mental health. Int Rev Psychiatry. 2022;35(3/4):268&#x2013;76.</mixed-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Livingston</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <source>Structural stigma in healthcare for people with mental health and substance use issues: A literature review</source>
+          <year>2019</year>
+          <publisher-loc>Ottawa</publisher-loc>
+          <publisher-name>Mental Health Commission of Canada</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Livingston</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <source>Mental Illness-Related Structural Stigma: The Downward Spiral of Systemic Exclusion Final Report.</source>
+          <year>2013</year>
+          <publisher-loc>Calgary, Alberta</publisher-loc>
+          <publisher-name>Mental Health Commission of Canada</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oexle</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Corrigan</surname>
+              <given-names>PW</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding Mental Illness Stigma Toward Persons With Multiple Stigmatized Conditions: Implications of Intersectionality Theory</article-title>
+          <source>Psychiatr Serv</source>
+          <year>2018</year>
+          <volume>69</volume>
+          <issue>5</issue>
+          <fpage>587</fpage>
+          <lpage>589</lpage>
+          <pub-id pub-id-type="doi">10.1176/appi.ps.201700312</pub-id>
+          <pub-id pub-id-type="pmid">29385960</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smedley</surname>
+              <given-names>BDS AY</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>AR</given-names>
+            </name>
+          </person-group>
+          <source>Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care</source>
+          <year>2003</year>
+          <publisher-loc>Washington DC</publisher-loc>
+          <publisher-name>National Academies Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corrigan</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Markowitz</surname>
+              <given-names>FE</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>AC</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural levels of mental illness stigma and discrimination</article-title>
+          <source>Schizophr Bull</source>
+          <year>2004</year>
+          <volume>30</volume>
+          <issue>3</issue>
+          <fpage>481</fpage>
+          <lpage>491</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordjournals.schbul.a007096</pub-id>
+          <pub-id pub-id-type="pmid">15631241</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wylie</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>McConkey</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Insiders' Insight: Discrimination against Indigenous Peoples through the Eyes of Health Care Professionals</article-title>
+          <source>J Racial Ethn Health Disparities</source>
+          <year>2019</year>
+          <volume>6</volume>
+          <issue>1</issue>
+          <fpage>37</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1007/s40615-018-0495-9</pub-id>
+          <pub-id pub-id-type="pmid">29736617</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cole</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Leavey</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>King</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Johnson-Sabine</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Hoar</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Pathways to Care for Patients with a First Episode of Psychosis: A Comparison of Ethnic Groups</article-title>
+          <source>Br J Psychiatry</source>
+          <year>1995</year>
+          <volume>167</volume>
+          <issue>6</issue>
+          <fpage>770</fpage>
+          <lpage>776</lpage>
+          <pub-id pub-id-type="doi">10.1192/bjp.167.6.770</pub-id>
+          <pub-id pub-id-type="pmid">8829745</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gary</surname>
+              <given-names>FA</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma: barrier to mental health care among ethnic minorities</article-title>
+          <source>Issues Ment Health Nurs</source>
+          <year>2005</year>
+          <volume>26</volume>
+          <issue>10</issue>
+          <fpage>979</fpage>
+          <lpage>999</lpage>
+          <pub-id pub-id-type="doi">10.1080/01612840500280638</pub-id>
+          <pub-id pub-id-type="pmid">16283995</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Misra</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>VW</given-names>
+            </name>
+            <name>
+              <surname>Chong</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Choe</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tay</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>LH</given-names>
+            </name>
+          </person-group>
+          <article-title>Systematic Review of Cultural Aspects of Stigma and Mental Illness among Racial and Ethnic Minority Groups in the United States: Implications for Interventions</article-title>
+          <source>Am J Community Psychol</source>
+          <year>2021</year>
+          <volume>68</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>486</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="doi">10.1002/ajcp.12516</pub-id>
+          <pub-id pub-id-type="pmid">33811676</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bailey</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Mokonogho</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Racial and ethnic differences in depression: current perspectives</article-title>
+          <source>Neuropsychiatr Dis Treat</source>
+          <year>2019</year>
+          <volume>15</volume>
+          <fpage>603</fpage>
+          <lpage>609</lpage>
+          <pub-id pub-id-type="doi">10.2147/NDT.S128584</pub-id>
+          <pub-id pub-id-type="pmid">30863081</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <mixed-citation publication-type="other">Bourassa C, McKay-McNabb K, Hampton M. Racism, sexism and colonialism: The impact on the health of Aboriginal women in Canada. <italic>Canadian Woman Studies/Les cahiers de la femme</italic>. 2005;24(1):23&#x2013;9.</mixed-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>C-D&#xED;az</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>LatiNegra</article-title>
+          <source>J Fem Fam Ther</source>
+          <year>1994</year>
+          <volume>5</volume>
+          <issue>3&#x2013;4</issue>
+          <fpage>35</fpage>
+          <lpage>74</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Birnbaum</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Ayd</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>The right to treatment: some comments on its development</article-title>
+          <source>Medical, Moral and Legal Issues in Mental Health Care</source>
+          <year>1974</year>
+          <publisher-loc>Baltimore</publisher-loc>
+          <publisher-name>Williams &amp; Wilkins</publisher-name>
+          <fpage>97</fpage>
+          <lpage>141</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perlin</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Sanism and the law</article-title>
+          <source>Virtual Mentor</source>
+          <year>2013</year>
+          <volume>15</volume>
+          <issue>10</issue>
+          <fpage>878</fpage>
+          <lpage>885</lpage>
+          <pub-id pub-id-type="pmid">24152781</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>DD</given-names>
+            </name>
+          </person-group>
+          <source>Women Look at Psychiatry: I&#x2019;m Not Mad I&#x2019;m Angry</source>
+          <year>1975</year>
+          <publisher-loc>Vancouver</publisher-loc>
+          <publisher-name>Press Gang Publishers</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <mixed-citation publication-type="other">Chamberlin J. On Our Own: Patient-Controlled Alternatives to the Mental Health System. New York: Hawthorn Books; 1978.</mixed-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goffman</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <source>Stigma: Notes on the Management of Spoiled Identity</source>
+          <year>1963</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Simon &amp; Schuster</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jones</surname>
+              <given-names>EE</given-names>
+            </name>
+          </person-group>
+          <source>Social stigma: the psychology of marked relationships</source>
+          <year>1984</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>W.H. Freeman</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Joseph</surname>
+              <given-names>MA</given-names>
+            </name>
+          </person-group>
+          <source>Discrimination against the Mentally Ill</source>
+          <year>2016</year>
+          <publisher-loc>Santa Barbara; Denver</publisher-loc>
+          <publisher-name>Greenwood</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anderson</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <source>Deviance: Social Constructions and Blurred Boundaries</source>
+          <year>2017</year>
+          <publisher-loc>Oakland</publisher-loc>
+          <publisher-name>University of California Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corrigan</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source>The stigma effect unintended consequences of mental health campaigns</source>
+          <year>2018</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Columbia University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and discrimination limit access to mental health care</article-title>
+          <source>Epidemiol Psichiatr Soc</source>
+          <year>2008</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>14</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1121189X00002621</pub-id>
+          <pub-id pub-id-type="pmid">18444452</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <mixed-citation publication-type="other">Livingston JD. A framework for assessing structural stigma in healthcare contexts for people with mental health and substance use issues. Mental Health Commission of Canada; 2021.</mixed-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arboleda-Fl&#xF3;rez</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Stuart</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>From Sin to Science: Fighting the Stigmatization of Mental Illnesses</article-title>
+          <source>The Canadian Journal of Psychiatry</source>
+          <year>2012</year>
+          <volume>57</volume>
+          <issue>8</issue>
+          <fpage>457</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="doi">10.1177/070674371205700803</pub-id>
+          <pub-id pub-id-type="pmid">22854027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pescosolido</surname>
+              <given-names>BA</given-names>
+            </name>
+          </person-group>
+          <article-title>The Public Stigma of Mental Illness: What Do We Think; What Do We Know; What Can We Prove?</article-title>
+          <source>J Health Soc Behav</source>
+          <year>2013</year>
+          <volume>54</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="doi">10.1177/0022146512471197</pub-id>
+          <pub-id pub-id-type="pmid">23325423</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Oexle</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Waldmann</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Staiger</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Rusch</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental illness stigma and suicidality: the role of public and individual stigma</article-title>
+          <source>Epidemiol Psychiatr Sci</source>
+          <year>2018</year>
+          <volume>27</volume>
+          <issue>2</issue>
+          <fpage>169</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="doi">10.1017/S2045796016000949</pub-id>
+          <pub-id pub-id-type="pmid">27919303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dockery</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Jeffery</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Schauman</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Farrelly</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bonnington</surname>
+              <given-names>O</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Stigma- and non-stigma-related treatment barriers to mental healthcare reported by service users and caregivers</article-title>
+          <source>Psychiatry Res</source>
+          <year>2015</year>
+          <volume>228</volume>
+          <issue>3</issue>
+          <fpage>612</fpage>
+          <lpage>619</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.psychres.2015.05.044</pub-id>
+          <pub-id pub-id-type="pmid">26115840</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mitelman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chirazi</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Schmollgruber</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Leiderman</surname>
+              <given-names>EA</given-names>
+            </name>
+          </person-group>
+          <article-title>Discrimination and social stigma against people with mental illnesses in Argentina</article-title>
+          <source>Int J Soc Psychiatry.</source>
+          <year>2023</year>
+          <volume>69</volume>
+          <issue>2</issue>
+          <fpage>334</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="doi">10.1177/00207640221089533</pub-id>
+          <pub-id pub-id-type="pmid">35422147</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <mixed-citation publication-type="other">Brelet L, Flaudias V, Desert M, Guillaume S, Llorca PM, Boirie Y. Stigmatization toward People with Anorexia Nervosa, Bulimia Nervosa, and Binge Eating Disorder: A Scoping Review. Nutrients. 2021;13(8):2834.</mixed-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stolzenburg</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Freitag</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schmidt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schomerus</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Associations between causal attributions and personal stigmatizing attitudes in untreated persons with current mental health problems</article-title>
+          <source>Psychiatry Res</source>
+          <year>2018</year>
+          <volume>260</volume>
+          <fpage>24</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.psychres.2017.11.014</pub-id>
+          <pub-id pub-id-type="pmid">29156297</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>WL</given-names>
+            </name>
+          </person-group>
+          <source>Addiction Disease Concept: Advocates and Critics</source>
+          <year>2001</year>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sickel</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Seacat</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nabors</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health stigma update: A review of consequences</article-title>
+          <source>Advances in Mental Health.</source>
+          <year>2014</year>
+          <volume>12</volume>
+          <issue>3</issue>
+          <fpage>202</fpage>
+          <lpage>15</lpage>
+          <pub-id pub-id-type="doi">10.1080/18374905.2014.11081898</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>PY</given-names>
+            </name>
+          </person-group>
+          <article-title>Measuring Mental Illness Stigma</article-title>
+          <source>Schizophr Bull</source>
+          <year>2004</year>
+          <volume>30</volume>
+          <issue>3</issue>
+          <fpage>511</fpage>
+          <lpage>541</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordjournals.schbul.a007098</pub-id>
+          <pub-id pub-id-type="pmid">15631243</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chadwick</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Street</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>McAndrew</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Deacon</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Minding our own bodies: Reviewing the literature regarding the perceptions of service users diagnosed with serious mental illness on barriers to accessing physical health care</article-title>
+          <source>Int J Ment Health Nurs</source>
+          <year>2012</year>
+          <volume>21</volume>
+          <issue>3</issue>
+          <fpage>211</fpage>
+          <lpage>219</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1447-0349.2011.00807.x</pub-id>
+          <pub-id pub-id-type="pmid">22533328</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ross</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Goldner</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma, negative attitudes and discrimination towards mental illness within the nursing profession: a review of the literature</article-title>
+          <source>J Psychiatr Ment Health Nurs</source>
+          <year>2009</year>
+          <volume>16</volume>
+          <issue>6</issue>
+          <fpage>558</fpage>
+          <lpage>567</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1365-2850.2009.01399.x</pub-id>
+          <pub-id pub-id-type="pmid">19594679</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Rose</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kassam</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Discrimination in health care against people with mental illness</article-title>
+          <source>Int Rev Psychiatry</source>
+          <year>2007</year>
+          <volume>19</volume>
+          <issue>2</issue>
+          <fpage>113</fpage>
+          <lpage>122</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540260701278937</pub-id>
+          <pub-id pub-id-type="pmid">17464789</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nyblade</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Stockton</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Giger</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bond</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Ekstrand</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Lean</surname>
+              <given-names>RM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Stigma in health facilities: why it matters and how we can change it</article-title>
+          <source>BMC Med</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>25</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-019-1256-2</pub-id>
+          <pub-id pub-id-type="pmid">30764806</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henderson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Noblett</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Parke</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Clement</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Caffrey</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gale-Grant</surname>
+              <given-names>O</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Mental health-related stigma in health care and mental health-care settings</article-title>
+          <source>The Lancet Psychiatry</source>
+          <year>2014</year>
+          <volume>1</volume>
+          <issue>6</issue>
+          <fpage>467</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="doi">10.1016/S2215-0366(14)00023-6</pub-id>
+          <pub-id pub-id-type="pmid">26361202</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lawrence</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kisely</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Review: Inequalities in healthcare provision for people with severe mental illness</article-title>
+          <source>Journal of Psychopharmacology.</source>
+          <year>2010</year>
+          <volume>24</volume>
+          <issue>4_suppl</issue>
+          <fpage>61</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1177/1359786810382058</pub-id>
+          <pub-id pub-id-type="pmid">20923921</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Walker</surname>
+              <given-names>ER</given-names>
+            </name>
+            <name>
+              <surname>McGee</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Druss</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <article-title>Mortality in Mental Disorders and Global Disease Burden Implications: A Systematic Review and Meta-analysis</article-title>
+          <source>JAMA Psychiat</source>
+          <year>2015</year>
+          <volume>72</volume>
+          <issue>4</issue>
+          <fpage>334</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="doi">10.1001/jamapsychiatry.2014.2502</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Viron</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Stern</surname>
+              <given-names>TA</given-names>
+            </name>
+          </person-group>
+          <article-title>The Impact of Serious Mental Illness on Health and Healthcare</article-title>
+          <source>Psychosomatics</source>
+          <year>2010</year>
+          <volume>51</volume>
+          <issue>6</issue>
+          <fpage>458</fpage>
+          <lpage>465</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0033-3182(10)70737-4</pub-id>
+          <pub-id pub-id-type="pmid">21051676</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>De Mendonca Lima</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>The reduction of stigma and discrimination against older people with mental disorders: a challenge for the future</article-title>
+          <source>Arch Gerontol Geriatr Suppl</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <fpage>109</fpage>
+          <lpage>120</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.archger.2004.04.018</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>National Academies of Sciences E, and Medicine Ending Discrimination Against People with Mental and Substance Use Disorders</collab>
+          </person-group>
+          <source>The Evidence for Stigma Change</source>
+          <year>2016</year>
+          <publisher-loc>Washington DC</publisher-loc>
+          <publisher-name>The National Academies Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pachankis</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Hatzenbuehler</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Burton</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Crawford</surname>
+              <given-names>FW</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <article-title>The Burden of Stigma on Health and Well-Being: A Taxonomy of Concealment, Course, Disruptiveness, Aesthetics, Origin, and Peril Across 93 Stigmas</article-title>
+          <source>Pers Soc Psychol Bull</source>
+          <year>2018</year>
+          <volume>44</volume>
+          <issue>4</issue>
+          <fpage>451</fpage>
+          <lpage>474</lpage>
+          <pub-id pub-id-type="doi">10.1177/0146167217741313</pub-id>
+          <pub-id pub-id-type="pmid">29290150</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Denise</surname>
+              <given-names>EJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Multiple disadvantaged statuses and health: the role of multiple forms of discrimination</article-title>
+          <source>J Health Soc Behav</source>
+          <year>2014</year>
+          <volume>55</volume>
+          <issue>1</issue>
+          <fpage>3</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1177/0022146514521215</pub-id>
+          <pub-id pub-id-type="pmid">24578393</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dowd</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Bengtson</surname>
+              <given-names>VL</given-names>
+            </name>
+          </person-group>
+          <article-title>Aging in minority populations. An examination of the double jeopardy hypothesis</article-title>
+          <source>J Gerontol.</source>
+          <year>1978</year>
+          <volume>33</volume>
+          <issue>3</issue>
+          <fpage>427</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="doi">10.1093/geronj/33.3.427</pub-id>
+          <pub-id pub-id-type="pmid">748438</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brekke</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Barrio</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Cross-ethnic symptom differences in schizophrenia: the influence of culture and minority status</article-title>
+          <source>Schizophr Bull</source>
+          <year>1997</year>
+          <volume>23</volume>
+          <issue>2</issue>
+          <fpage>305</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="doi">10.1093/schbul/23.2.305</pub-id>
+          <pub-id pub-id-type="pmid">9165639</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Birbeck</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Bond</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>El-Nasoor</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Advancing health equity through cross-cutting approaches to health-related stigma</article-title>
+          <source>BMC Med</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>40</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12916-019-1282-0</pub-id>
+          <pub-id pub-id-type="pmid">30767765</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kidd</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Gately</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>JN</given-names>
+            </name>
+          </person-group>
+          <article-title>Lesbian, gay, and transgender persons with severe mental illness: Negotiating wellness in the context of multiple sources of stigma</article-title>
+          <source>Am J Psychiatric Rehabil.</source>
+          <year>2011</year>
+          <volume>14</volume>
+          <issue>1</issue>
+          <fpage>13</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="doi">10.1080/15487768.2011.546277</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>JEH</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Martinez-Martin</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Psychiatric genomics, mental health equity, and intersectionality: A framework for research and practice</article-title>
+          <source>Front Psychiatry</source>
+          <year>2022</year>
+          <volume>13</volume>
+          <fpage>1061705</fpage>
+          <pub-id pub-id-type="doi">10.3389/fpsyt.2022.1061705</pub-id>
+          <pub-id pub-id-type="pmid">36620660</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Braveman</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>What are health disparities and health equity? We need to be clear</article-title>
+          <source>Public Health Rep.</source>
+          <year>2014</year>
+          <volume>129 Suppl 2</volume>
+          <issue>Suppl 2</issue>
+          <fpage>5</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1177/00333549141291S203</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <mixed-citation publication-type="other">Dunn JR, O'Campo P. Rethinking social epidemiology. New York: Springer; 2012. Available from: <ext-link ext-link-type="uri" xlink:href="http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10502931">http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10502931</ext-link>. <ext-link ext-link-type="uri" xlink:href="http://gbv.eblib.com/patron/FullRecord.aspx?p=886026">http://gbv.eblib.com/patron/FullRecord.aspx?p=886026</ext-link>. <ext-link ext-link-type="uri" xlink:href="https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=886026">https://ebookcentral.proquest.com/lib/kxp/detail.action?docID=886026</ext-link>.</mixed-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dean</surname>
+              <given-names>CE</given-names>
+            </name>
+          </person-group>
+          <article-title>Social inequality, scientific inequality, and the future of mental illness</article-title>
+          <source>Philos Ethics Humanit Med</source>
+          <year>2017</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>10</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13010-017-0052-x</pub-id>
+          <pub-id pub-id-type="pmid">29258528</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McLeod</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title>Why and How Inequality Matters</article-title>
+          <source>J Health Soc Behav</source>
+          <year>2015</year>
+          <volume>56</volume>
+          <issue>2</issue>
+          <fpage>149</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="doi">10.1177/0022146515581619</pub-id>
+          <pub-id pub-id-type="pmid">25926565</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhugra</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>All medicine is social</article-title>
+          <source>J R Soc Med</source>
+          <year>2014</year>
+          <volume>107</volume>
+          <issue>5</issue>
+          <fpage>183</fpage>
+          <lpage>186</lpage>
+          <pub-id pub-id-type="doi">10.1177/0141076814525069</pub-id>
+          <pub-id pub-id-type="pmid">24833654</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

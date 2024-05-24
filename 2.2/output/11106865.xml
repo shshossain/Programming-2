@@ -1,0 +1,935 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front><journal-meta><journal-id journal-id-type="nlm-ta">BMC Public Health</journal-id><journal-id journal-id-type="iso-abbrev">BMC Public Health</journal-id><journal-title-group><journal-title>BMC Public Health</journal-title></journal-title-group><issn pub-type="epub">1471-2458</issn><publisher><publisher-name>BioMed Central</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta>
+<article-meta><article-id pub-id-type="pmid">38769531</article-id><article-id pub-id-type="pmc">11106865</article-id>
+<article-id pub-id-type="publisher-id">18852</article-id><article-id pub-id-type="doi">10.1186/s12889-024-18852-9</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title>Prevalence of HIV-related stigma manifestations and their contributing factors among people living with HIV in Sweden &#x2013; a nationwide study</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Nilsson Sch&#xF6;nnesson</surname><given-names>Lena</given-names></name><address><email>lena.nilsson.schonnesson@ki.se</email></address><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Dahlberg</surname><given-names>Marie</given-names></name><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Reinius</surname><given-names>Maria</given-names></name><xref ref-type="aff" rid="Aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Zeluf-Andersson</surname><given-names>Galit</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Ekstr&#xF6;m</surname><given-names>Anna-Mia</given-names></name><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Eriksson</surname><given-names>Lars E.</given-names></name><xref ref-type="aff" rid="Aff5">5</xref><xref ref-type="aff" rid="Aff6">6</xref><xref ref-type="aff" rid="Aff7">7</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/056d84691</institution-id><institution-id institution-id-type="GRID">grid.4714.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id><institution>Department of Global Public Health, </institution><institution>Karolinska Institutet, </institution></institution-wrap>Stockholm, Sweden </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/056d84691</institution-id><institution-id institution-id-type="GRID">grid.4714.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id><institution>Department of Learning, Informatics, Management and Ethics, </institution><institution>Karolinska Institutet, </institution></institution-wrap>Stockholm, Sweden </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/056d84691</institution-id><institution-id institution-id-type="GRID">grid.4714.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id><institution>Department of Learning, Informatics, Management and Ethics, Medical Management Centre, </institution><institution>Karolinska Institutet, </institution></institution-wrap>Stockholm, Sweden </aff><aff id="Aff4"><label>4</label>Department of Infectious Diseases, South General Hospital/Venh&#xE4;lsan, Stockholm, Sweden </aff><aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/056d84691</institution-id><institution-id institution-id-type="GRID">grid.4714.6</institution-id><institution-id institution-id-type="ISNI">0000 0004 1937 0626</institution-id><institution>Department of Neurobiology, Care Sciences and Society, </institution><institution>Karolinska Institutet, </institution></institution-wrap>Huddinge, Sweden </aff><aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/04cw6st05</institution-id><institution-id institution-id-type="GRID">grid.4464.2</institution-id><institution-id institution-id-type="ISNI">0000 0001 2161 2573</institution-id><institution>School of Health and Psychological Sciences, </institution><institution>City, University of London, </institution></institution-wrap>London, UK </aff><aff id="Aff7"><label>7</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/00m8d6786</institution-id><institution-id institution-id-type="GRID">grid.24381.3c</institution-id><institution-id institution-id-type="ISNI">0000 0000 9241 5705</institution-id><institution>Medical Unit Infectious Diseases, </institution><institution>Karolinska University Hospital, </institution></institution-wrap>Huddinge, Sweden </aff></contrib-group><pub-date pub-type="epub"><day>20</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="pmc-release"><day>20</day><month>5</month><year>2024</year></pub-date><pub-date pub-type="collection"><year>2024</year></pub-date><volume>24</volume><elocation-id>1360</elocation-id><history><date date-type="received"><day>20</day><month>1</month><year>2024</year></date><date date-type="accepted"><day>14</day><month>5</month><year>2024</year></date></history><permissions><copyright-statement>&#xA9; The Author(s) 2024</copyright-statement><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p></license></permissions><abstract id="Abs1"><sec><title>Background</title><p id="Par1">With access to &#xA0;antiretroviral therapy (ART) HIV infection is a chronic manageable condition and non-sexually transmissible. Yet, many people living with HIV still testify about experiencing HIV-related stigma and discrimination. It is well-documented that HIV-related stigma and discrimination continue to be critical barriers to prevention, treatment, care and quality of life. From an individual stigma-reduction intervention perspective, it is essential to identify individual and interpersonal factors associated with HIV-related stigma manifestations. To address this issue and to expand the literature, the aim of this study was to assess the prevalence of HIV-related stigma manifestations and their associated factors among a diverse sample of people living with HIV in Sweden.</p></sec><sec><title>Method</title><p id="Par2">Data from 1 096 participants were derived from a nationally representative, anonymous cross-sectional survey &#x201D;Living with HIV in Sweden&#x201D;. HIV-related stigma manifestations were assessed using the validated Swedish 12-item HIV Stigma Scale encompassing four HIV-related stigma manifestations: personalised stigma, concerns with public attitudes towards people living with HIV, concerns with sharing HIV status, and internalized stigma. Variables potentially associated with the HIV-related stigma manifestations were divided into four categories: demographic characteristics, clinical HIV factors, distress and ART adherence, and available emotional HIV-related support. Four multivariable hierarchical linear regression analyses were employed to explore the associations between multiple contributors and HIV-related stigma manifestations.</p></sec><sec><title>Results</title><p id="Par3">The most dominating stigma feature was anticipation of HIV-related stigma. It was manifested in high scores on concerns with sharing HIV status reported by 78% of the participants and high scores on concerns about public attitudes towards people living with HIV reported by 54% of the participants. High scores on personalised stigma and internalized stigma were reported by around one third of the participants respectively. Between 23 and 31% of the variance of the four reported HIV-related stigma manifestations were explained mainly by the same pattern of associated factors including female gender, shorter time since HIV diagnosis, feelings of hopelessness, non-sharing HIV status, and lack of available emotional HIV-related support.</p></sec><sec><title>Conclusion</title><p id="Par4">The most dominating stigma feature was anticipation of stigma. Female gender, shorter time since HIV diagnosis, feelings of hopelessness, non-sharing HIV status, and lack of available emotional HIV-related support constituted potential vulnerability factors of the four HIV-related stigma manifestations. Our findings highlight the vital necessity to support people living with HIV to increase their resilience to stigma in its different forms. Exploring associated factors of HIV-related stigma manifestations may give an indication of what circumstances may increase the risk of stigma burden and factors amenable to targeted interventions. As individual stigma-reductions interventions cannot be performed isolated from HIV-related stigma and discrimination in society, a key challenge is to intensify anti-stigma interventions also on the societal level.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>HIV</kwd><kwd>Stigma</kwd><kwd>People living with HIV</kwd><kwd>Sweden</kwd></kwd-group><funding-group><award-group><funding-source><institution>The Public Health Agency of Sweden</institution></funding-source></award-group></funding-group><funding-group><award-group><funding-source><institution>Karolinska Institute</institution></funding-source></award-group><open-access><p>Open access funding provided by Karolinska Institute.</p></open-access></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#xA9; BioMed Central Ltd., part of Springer Nature 2024</meta-value></custom-meta></custom-meta-group></article-meta></front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par8">With access to antiretroviral therapy (ART), HIV infection is a chronic manageable condition with a long-life expectancy [<xref ref-type="bibr" rid="CR1">1</xref>]. ART is a combination of medications that interfere with one or more steps of the virus&#x2019; lifecycle. The aim of ART is to reduce the levels of HIV, as the virus destroys T-helper (CD4-positive) cells of the immune system. If the viral load is low enough &#x2013; also called viral suppression &#x2013; tests won&#x2019;t be able to detect HIV in the blood and further sexual HIV transmission is being prevented, also known as U&#x2009;=&#x2009;U (Undetectable&#x2009;=&#x2009;Untransmittable). Optimal adherence to ART is central to achieving viral suppression. In spite of successful medical achievements, HIV infection, like many other chronic or sexually transmissible health conditions is surrounded by stigma [<xref ref-type="bibr" rid="CR2">2</xref>, <xref ref-type="bibr" rid="CR3">3</xref>]. The term stigma originated in ancient Greece where it referred to a mark made on the skin by hot iron or by cutting/pricking as a symbol of infamy [<xref ref-type="bibr" rid="CR4">4</xref>].</p>
+      <p id="Par9">Within the HIV context, stigma refers to social stigma, which &#x201C;can only be understood in relation to broader notions of power and domination&#x201D; ([<xref ref-type="bibr" rid="CR5">5</xref>], p16). It originates within social contexts and social processes [<xref ref-type="bibr" rid="CR5">5</xref>&#x2013;<xref ref-type="bibr" rid="CR7">7</xref>] and is grounded in socially constructed divisions of &#x201C;us&#x201D; as compared to a &#x201C;them&#x201D; [<xref ref-type="bibr" rid="CR8">8</xref>]. HIV-related stigma, which is of global concern, includes negative attitudes and beliefs about people living with HIV. It is well documented that living with HIV is supremely stigmatized [<xref ref-type="bibr" rid="CR9">9</xref>]. HIV-related stigma is driven by several factors such as fear of infection, the perception of preventability, the near-universal lethality of its complications if untreated, and the association of the infection transmission with socially marginalized groups such as people who inject drugs, sex workers, and men who have sex with men [<xref ref-type="bibr" rid="CR10">10</xref>]. These drivers may put the individual at risk for being perceived by others as deviant, undesirable or unworthy and treated as if they were invisible, non-existent, or socially dead [<xref ref-type="bibr" rid="CR6">6</xref>]. When stigma is acted upon, the result can be rejection and discrimination [<xref ref-type="bibr" rid="CR11">11</xref>].</p>
+      <p id="Par10">People living with HIV are confronted with structural and community stigma [<xref ref-type="bibr" rid="CR12">12</xref>]. Structural stigma refers to &#x201C;societal-level conditions, cultural norms, and institutional practices that constrain the opportunities, resources, and wellbeing for stigmatized populations&#x201D; ([<xref ref-type="bibr" rid="CR12">12</xref>], p. 2). Structural stigma can be identified through state and national laws, regulations, and policies. Another example of structural stigma is stigma within health care facilities. It is widely documented that stigmatization within health care is &#x201C;ranging from outright denial of care, provision of sub-standard care, physical and verbal abuse, to more subtle forms, such as making certain people wait longer or passing their care off to junior colleagues&#x201D; ([<xref ref-type="bibr" rid="CR13">13</xref>], p. 1). Community stigma on the other hand refers to the awareness of the stigmatizing beliefs and attitudes about people living with HIV that exist in the community [<xref ref-type="bibr" rid="CR14">14</xref>]. For example, within the gay community HIV-positive men who have sex with men (MSM) perceive a cause of division related to HIV leading to feelings of sexual rejection and discrimination [<xref ref-type="bibr" rid="CR15">15</xref>].</p>
+      <p id="Par11">Earnshaw &amp; Chaudoir emphasize that the societal level of conceptualizations of stigma &#x201C;should be complemented by individual level conceptualizations of stigma&#x201D; (p. 1161), as people living with HIV are well aware of societal negative attitudes and prejudices towards their HIV status as well as discriminatory behaviours [<xref ref-type="bibr" rid="CR16">16</xref>]. This knowledge is experienced through 3 stigma mechanism enacted, anticipated and internalized stigma. Enacted stigma refers to the degree to which people living with HIV believe they have actually experienced prejudice and discrimination from others as a result of one&#x2019;s HIV-status as manifested in avoidance, rejection or isolation. Anticipated stigma refers to the degree to which people living with HIV expect to be treated negatively due to one&#x2019;s HIV-positive status. Internalized stigma refers to the degree to which people living with HIV accept and apply societal negative attitudes to the self as manifested in shame, self-blame, embarrassment, and low self-worth. These mechanisms represent &#x201C;the psychological responses to the knowledge that they, themselves, may have violated social mores and may be subject to other people&#x2019;s negative treatment&#x201D; ([<xref ref-type="bibr" rid="CR16">16</xref>], p. 1162). The HIV Stigma Framework presented by Earnshaw &amp; Chaudoir [<xref ref-type="bibr" rid="CR16">16</xref>] suggests that these stigma mechanisms could have different outcomes related to health and wellbeing for people living with HIV. Moreover, to fully understand the mechanisms and effects of HIV-related stigma, it is imperative to acknowledge how multiple identities intersect (e.g. race, class, gender, sexual orientation) and how they impact stigma experiences [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR18">18</xref>]. Research shows that people living with HIV who are multiply stigmatized experience worse HIV treatment outcomes [<xref ref-type="bibr" rid="CR19">19</xref>].</p>
+      <p id="Par12">Research clearly indicates that overall HIV-related stigma, intersectional stigma and structural stigma are key barriers to HIV testing and access to HIV care [<xref ref-type="bibr" rid="CR12">12</xref>, <xref ref-type="bibr" rid="CR20">20</xref>] and often plays a role in suboptimal ART adherence [<xref ref-type="bibr" rid="CR21">21</xref>] as well as disengagement from HIV care [<xref ref-type="bibr" rid="CR5">5</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. Moreover, HIV-related stigma is a chronic stressor [<xref ref-type="bibr" rid="CR23">23</xref>] and it is well-documented that it has a negative impact on mental health, physical health, health-related behaviours, and overall health-related quality of life [<xref ref-type="bibr" rid="CR24">24</xref>&#x2013;<xref ref-type="bibr" rid="CR29">29</xref>]. Extensive cross-sectional and longitudinal research has found that internalized HIV stigma is one of the most important dimensions associated with adverse HIV outcomes such as ART non-adherence, higher viral load and poor mental health outcomes [<xref ref-type="bibr" rid="CR30">30</xref>&#x2013;<xref ref-type="bibr" rid="CR32">32</xref>]. People living with HIV consistently report a poorer emotional wellbeing when compared to the general population and people with other chronic illnesses [<xref ref-type="bibr" rid="CR33">33</xref>].</p>
+      <p id="Par13">Stigma and discrimination often constitute a much more distressing factor for people living with HIV than the illness itself [<xref ref-type="bibr" rid="CR34">34</xref>] and there is a strong commitment worldwide to eliminate HIV-related stigma [<xref ref-type="bibr" rid="CR11">11</xref>]. UNAIDS underscores that by 2025 &#x201C;less than 10% of people living with HIV and key populations experience stigma and discrimination&#x201D; [<xref ref-type="bibr" rid="CR35">35</xref>]. From a stigma-reduction intervention perspective, it is important to assess the prevalence of different manifestations of HIV-related stigma [<xref ref-type="bibr" rid="CR36">36</xref>] and associations between individual characteristics and HIV-related stigma. Studies have shown that gender, age, sexual orientation, socio-economic status, education, living in rural areas, being single, racism, maladaptive coping, depression, anxiety, lack of locus of control, lack of social support, and time since HIV diagnosis are significantly associated with high HIV-related stigma [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>, <xref ref-type="bibr" rid="CR27">27</xref>, <xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR37">37</xref>&#x2013;<xref ref-type="bibr" rid="CR41">41</xref>].</p>
+      <p id="Par14">There is limited quantitative research on the correlates of different types of HIV-related stigma (except internalized stigma) [<xref ref-type="bibr" rid="CR42">42</xref>]. It is thus of concern to acknowledge this issue, as associated factors may differ amongst HIV-related stigma manifestations, which otherwise may be undetected by an overall HIV stigma measure [<xref ref-type="bibr" rid="CR23">23</xref>]. To address this issue and to expand the literature, the aim of this study was to assess the prevalence of HIV-related stigma manifestations and their contributing factors among a diverse sample of people living with HIV in Sweden.</p>
+      <sec id="Sec2">
+        <title>Theoretical framework</title>
+        <p id="Par15">The theoretical basis of this study is the HIV stigma framework [<xref ref-type="bibr" rid="CR16">16</xref>], which focuses on stigma mechanisms (enacted, anticipated and internalized). Earnshaw &amp; Chaudoir [<xref ref-type="bibr" rid="CR16">16</xref>] hypothesize that these stigma mechanisms could have different affective, behavioral and physical outcomes related to health and well-being among people living with HIV. The present study assesses potential associated factors of HIV-related stigma manifestations without claiming directionality in line with the crossectional design of the the study.</p>
+        <p id="Par16">Based on prior research literature, HIV community and clinical experiences, the associated factors were divided into three layers. The first one relates to demographic characteristics and clinical HIV factors, the second one to distress and ART adherence and the final one to available emotional HIV-related support including loved ones, friends and health care support.</p>
+      </sec>
+      <sec id="Sec3">
+        <title>The Swedish context</title>
+        <p id="Par17">Sweden is a low-endemic country with an HIV prevalence of about 0.08%. It is estimated that approximately 8 200 people are currently living with a known HIV diagnosis and are in health care contact. Of these, 98% are on antiviral therapy out of which 95% have undetectable viral loads. About one third of people living with HIV are women. Migrants, who were diagnosed with HIV either before or after arrival in Sweden make up approximately 65% of people living with HIV in Sweden. Approximately 40% of people living with HIV in Sweden are 50 years or older. One hundred and forty persons are under the age of 18 years of whom the majority has been living with HIV since birth or very early age. The most common transmission route is heterosexual sexual contacts followed by sexual contacts between men having sex with men and people injecting drugs [<xref ref-type="bibr" rid="CR43">43</xref>]. Sweden was in 2016 the first country in the world to reach the UNAIDS 90-90-90 target [<xref ref-type="bibr" rid="CR1">1</xref>]. According to the Swedish Communicable Diseases Act, testing for, clinic visits for and treatment of HIV are free. People living with HIV are also entitled to free psychosocial support. HIV infection is covered by the Swedish Discrimination Act under the issue of discrimination on the grounds of disability.</p>
+        <p id="Par18">According to Swedish law, all diagnosed HIV infections are mandatory registered in the Swedish national HIV case reporting system, using an identifying code. Contact tracing is mandatory according to the Swedish Communicable Disease Act. People living with HIV are also obligated to inform sexual partners of their HIV status and to use condoms for vaginal, anal and oral sex. However, the Public Health Agency of Sweden has modified the implementation of the law. HIV physicians can since 2013 exempt patients from sharing their HIV status and using condoms provided they are durably virally suppressed. However, despite the modification the law still exists.</p>
+      </sec>
+    </sec>
+    <sec id="Sec4">
+      <title>Methods</title>
+      <sec id="Sec5">
+        <title>Study design</title>
+        <p id="Par19">Data for the present study was drawn from the cross-sectional nation-wide anonymous survey, <italic>Living with HIV in Sweden</italic>, executed in 2014 [<xref ref-type="bibr" rid="CR44">44</xref>]. The aim of the survey was to explore quality of life and its associated factors in a representative sample of people living with HIV in Sweden. The survey was developed in partnership with representatives from non-governmental HIV support organisations including HIV peer organisations, clinicians and scientists working in the HIV field. The survey was tested by people living with HIV followed by minor adjustment. It resulted in 77 items covering a wide range of issues of potential relevance for the life situation of people living with HIV in a national context of almost complete (98%) coverage of ART and 95% viral suppression [<xref ref-type="bibr" rid="CR1">1</xref>]. All study procedures were approved by the Regional Ethical Board, Stockholm (DNR 2013/1552-31/4).</p>
+        <sec id="Sec6">
+          <title>Participants and procedures</title>
+          <p id="Par20">Eligibility criteria included individuals aged 18 years or older, who had been diagnosed with HIV more than six months prior to the study. Enrolment of participants was made from 15 infectious disease outpatient clinics in Sweden and two needle and syringe exchange clinics in Stockholm that together provided ART and follow-ups for 75% of the known adult population living with HIV in Sweden at the time of data collection. A representative sample of 1&#xA0;100, equalling 17% of the individuals with a known HIV diagnosis (<italic>N</italic>&#x2009;=&#x2009;6 469) at the time of data collection, was attained. Of these 1 100 individuals, four were excluded (three stated an age under 18 and one had known their HIV status for less than six months) leaving data from 1&#xA0;096 participants to be included in the present analysis. Recruitment and data collection procedures are described in further detail elsewhere [<xref ref-type="bibr" rid="CR44">44</xref>, <xref ref-type="bibr" rid="CR45">45</xref>].</p>
+          <p id="Par21">Information about the study was spread through HIV peer organisations, the survey website and posters at the participating healthcare units. In connection to an ordinary planned clinic visit, potential participants were consecutively informed about the study by the appointed contact person, emphasising voluntary participation and that a response to the anonymous pen-paper-questionnaire indicated consent. Participants could complete the questionnaire in a confidential setting at their outpatient clinic, put the questionnaire in a sealed envelope, and drop it in a locked box (or complete it at home and mail it in a pre-stamped envelope to the research team). The survey was available in Swedish, English, French, Spanish, Russian, Thai, Somali, Amharic, Arabic, and Tigrinya and oral telephone interpretation was available for those with reduced literacy to ensure representation of migrant sub-populations in Sweden. Most participants (82%) responded to the survey in Swedish. No incentive was given.</p>
+        </sec>
+        <sec id="Sec7">
+          <title>Measures</title>
+          <sec id="FPar1">
+            <title>Dependent variable</title>
+            <p id="Par22">HIV-related stigma manifestations were measured using the validated Swedish 12-item HIV Stigma Scale [<xref ref-type="bibr" rid="CR46">46</xref>]. It is a further development of the validated Swedish 40-item HIV Stigma Scale [<xref ref-type="bibr" rid="CR47">47</xref>], which in turn originates in Berger et al&#x2019;s HIV Stigma Scale [<xref ref-type="bibr" rid="CR24">24</xref>]. The Swedish 12-item HIV Stigma Scale [<xref ref-type="bibr" rid="CR46">46</xref>] measures four stigma manifestations. Personalised stigma refers to experience of discrimination of one&#x2019;s HIV being known by other people. Anticipated stigma encompasses two aspects: concern with public attitudes towards HIV-positive people (worries about general attitudes and treatment of people living with HIV) and concerns with sharing HIV status (controlling information and concerns related to sharing one&#x2019;s HIV status). In the original Berger HIV Stigma Scale [<xref ref-type="bibr" rid="CR24">24</xref>] the latter manifestation was labelled Disclosure concerns. However, as the term disclosure is stigmatizing implying that the person has something to hide/be guilty about [<xref ref-type="bibr" rid="CR48">48</xref>], the term concerns of sharing HIV status is preferred. The fourth manifestation is internalized stigma (negative feelings towards oneself because of one&#x2019;s HIV infection).</p>
+            <p id="Par23">Each stigma manifestation consists of three items (Table&#xA0;<xref rid="Tab1" ref-type="table">1</xref>) individually rated on a four-point Likert-scale ranging from strongly disagree (1) to strongly agree (4). Item responses for each dimension scale were added up to yield a score from 3 to 12, with mean scores of <italic>&#x2265;</italic>&#x2009;7.5 indicating high levels of perceived HIV-related stigma [<xref ref-type="bibr" rid="CR46">46</xref>]. Cronbach&#x2019;s &#x3B1; for the personalised stigma, concerns about public attitudes towards people living with HIV, concerns about sharing HIV status and internalized stigma were 0.89, 0.82, 0.84, and 0.80 respectively.
+<table-wrap id="Tab1"><label>Table 1</label><caption><p>Items making up each HIV-related stigma manifestation</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left"><italic>Personalised stigma</italic></td></tr><tr><td align="left">Some people avoid touching me once they know I have HIV.</td></tr><tr><td align="left">People I care about stopped calling after learning I have HIV.</td></tr><tr><td align="left">I have lost friends by telling them I have HIV.</td></tr><tr><td align="left"><italic>Concerns with sharing HIV status</italic></td></tr><tr><td align="left">Telling someone I have HIV is risky.</td></tr><tr><td align="left">I work hard to keep my HIV a secret.</td></tr><tr><td align="left">I am very careful who I tell that I have HIV.</td></tr><tr><td align="left"><italic>Concerns with public attitudes towards people living with HIV</italic></td></tr><tr><td align="left">People with HIV are treated like outcasts.</td></tr><tr><td align="left">Most people believe a person who has HIV is dirty.</td></tr><tr><td align="left">Most people are uncomfortable around someone with HIV.</td></tr><tr><td align="left"><italic>Internalized stigma</italic></td></tr><tr><td align="left">I feel guilty because I have HIV.</td></tr><tr><td align="left">People&#x2019;s attitudes about HIV make me feel worse about myself.</td></tr><tr><td align="left">I feel I&#x2019;m not as good a person as others because I have HIV.</td></tr></tbody></table></table-wrap></p>
+          </sec>
+          <sec id="FPar2">
+            <title>Independent variables</title>
+            <p id="Par24">Based on research, HIV community and clinical experiences, potential variables associated with HIV-related stigma manifestations were selected from the <italic>Living with HIV in Sweden</italic> survey. They were divided into four categories: demographic characteristics, clinical HIV factors, distress and ART adherence, and available emotional HIV-related support. The response categories on the independent variables are reported in Tables <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref>. All variables were self-reported.</p>
+            <p>
+<table-wrap id="Tab2"><label>Table 2</label><caption><p>Descriptive statistics: Demographic characteristics and clinical HIV factors (<italic>N</italic>&#x2009;=&#x2009;1&#xA0;096)</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Demographic characteristics</th><th align="left">Frequency <italic>N</italic> (%)</th></tr></thead><tbody><tr><td align="left">
+<italic>Gender</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Male</td><td align="left">762 (69.5)</td></tr><tr><td align="left">&#x2003;Female</td><td align="left">320 (29.2)</td></tr><tr><td align="left">&#x2003;Other/missing</td><td align="left">14 (1.3)</td></tr><tr><td align="left">
+<italic>Age</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Less than 30 years</td><td align="left">55 (5.0)</td></tr><tr><td align="left">&#x2003;30 to 49 years</td><td align="left">534 (48.7)</td></tr><tr><td align="left">&#x2003;50 to 64 years</td><td align="left">346 (31.6)</td></tr><tr><td align="left">&#x2003;65 years or older</td><td align="left">98 (8.9)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">63 (5.7)</td></tr><tr><td align="left">
+<italic>Country or region of origin</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Sweden</td><td align="left">600 (54.7)</td></tr><tr><td align="left">&#x2003;Europe</td><td align="left">87 (7.9)</td></tr><tr><td align="left">&#x2003;North America</td><td align="left">28 (2.6)</td></tr><tr><td align="left">&#x2003;Africa</td><td align="left">176 (16.1)</td></tr><tr><td align="left">&#x2003;Asia</td><td align="left">57 (5.2)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">148 (13.5)</td></tr><tr><td align="left">
+<italic>Residency permit</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Yes</td><td align="left">423 (38.6)</td></tr><tr><td align="left">&#x2003;No</td><td align="left">22 (2.0)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">651 (59.4)</td></tr><tr><td align="left">
+<italic>Education</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Less than 1 year</td><td align="left">12 (1.1)</td></tr><tr><td align="left">&#x2003;1 to 6 years</td><td align="left">49 (4.5)</td></tr><tr><td align="left">&#x2003;7 to 9 years</td><td align="left">146 (13.3)</td></tr><tr><td align="left">&#x2003;10 to 12 years</td><td align="left">365 (33.3)</td></tr><tr><td align="left">&#x2003;More than 12 years</td><td align="left">496 (45.3)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">28 (2.6)</td></tr><tr><td align="left">
+<italic>Occupation</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Working</td><td align="left">654 (59.7)</td></tr><tr><td align="left">&#x2003;Not on the job market</td><td align="left">104 (9.5)</td></tr><tr><td align="left">&#x2003;Long-term sick leave/retirement</td><td align="left">145 (13.2)</td></tr><tr><td align="left">&#x2003;Student</td><td align="left">74 (6.8)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">119 (10.9)</td></tr><tr><td align="left">
+<italic>Income</italic>
+</td><td align="left"/></tr><tr><td align="left"><italic>&#x2003;&lt;</italic>5000</td><td align="left">109 (10.0)</td></tr><tr><td align="left">&#x2003;5000 to 13,999</td><td align="left">225 (20.5)</td></tr><tr><td align="left">&#x2003;14,000 to 21,999</td><td align="left">211 (19.3)</td></tr><tr><td align="left">&#x2003;22,000 to 31,999</td><td align="left">228 (20.8)</td></tr><tr><td align="left"><italic>&#x2003;&gt;</italic>32,000 or more</td><td align="left">223 (20.3)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">100 (9.1)</td></tr><tr><td align="left">
+<italic>Residential status</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Living with partner/family</td><td align="left">566 (51.6)</td></tr><tr><td align="left">&#x2003;Shared accommodation</td><td align="left">81 (7.4)</td></tr><tr><td align="left">&#x2003;Living alone</td><td align="left">390 (35.6)</td></tr><tr><td align="left">&#x2003;Have no home</td><td align="left">37 (3.4)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">22 (2.0)</td></tr><tr><td align="left">
+<italic>Sexual orientation</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Heterosexual</td><td align="left">481 (43.9)</td></tr><tr><td align="left">&#x2003;Homosexual/gay/MSM</td><td align="left">394 (35.9)</td></tr><tr><td align="left">&#x2003;Bisexual</td><td align="left">66 (6.0)</td></tr><tr><td align="left">&#x2003;Queer/Trans</td><td align="left">11 (1.0)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">144 (13.1)</td></tr><tr><td align="left">
+<italic>Relationship status</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;In a relationship</td><td align="left">436 (39.8)</td></tr><tr><td align="left">&#x2003;Not in a relationship</td><td align="left">175 (16.0)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">485 (44.3)</td></tr><tr><td align="left">
+<italic>Having children</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">594 (54.2)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">483 (44.1)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">19 (1.7)</td></tr><tr><td align="left">
+<italic>Drug use during past 6 months</italic>
+<sup><italic>1</italic></sup>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Do not take drugs</td><td align="left">868 (79.2)</td></tr><tr><td align="left">&#x2003;Non-injecting drug use</td><td align="left">106 (9.7)</td></tr><tr><td align="left">&#x2003;Injecting drug use</td><td align="left">38 (3.5)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">84 (7.7)</td></tr><tr><td align="left">
+<bold>Clinical HIV factors</bold>
+</td><td align="left"/></tr><tr><td align="left">
+<italic>Route of HIV transmission</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Through sexual contact with a man</td><td align="left">609 (55.6)</td></tr><tr><td align="left">&#x2003;Through sexual contact with a woman</td><td align="left">162 (14.8)</td></tr><tr><td align="left">&#x2003;Through infected needles and syringes</td><td align="left">83 (7.6)</td></tr><tr><td align="left">&#x2003;Through blood/blood products</td><td align="left">36 (3.3)</td></tr><tr><td align="left">&#x2003;Through perinatal transmission</td><td align="left">13 (1.2)</td></tr><tr><td align="left">&#x2003;Other way</td><td align="left">70 (6.4)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">123 (11.2)</td></tr><tr><td align="left">
+<italic>Time since HIV diagnosis</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;6 to 12 months</td><td align="left">47 (4.3)</td></tr><tr><td align="left">&#x2003;1 to 5 years</td><td align="left">217 (19.8)</td></tr><tr><td align="left">&#x2003;6 to 10 years</td><td align="left">287 (26.2)</td></tr><tr><td align="left">&#x2003;11 to 20 years</td><td align="left">292 (26.6)</td></tr><tr><td align="left">&#x2003;&gt;20 years</td><td align="left">224 (20.4)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">29 (2.6)</td></tr><tr><td align="left">
+<italic>Self-reported current CD4 count</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;&lt;100</td><td align="left">110 (10.0)</td></tr><tr><td align="left">&#x2003;100 to 200</td><td align="left">71 (6.5)</td></tr><tr><td align="left">&#x2003;200 to 350</td><td align="left">90 (8.2)</td></tr><tr><td align="left">&#x2003;350 to 500</td><td align="left">84 (7.7)</td></tr><tr><td align="left"><italic>&#x2003;&#x2265;</italic>500</td><td align="left">146 (13.3)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">595 (54.3)</td></tr><tr><td align="left">
+<italic>Currently experiencing HIV physical symptoms</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">702 (64.0)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">209 (19.1)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">185 (16.9)</td></tr><tr><td align="left">
+<italic>On antiretroviral treatment (ART)</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;Yes</td><td align="left">1037 (94.6)</td></tr><tr><td align="left">&#x2003;No</td><td align="left">42 (3.8)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">17 (1.6)</td></tr><tr><td align="left">
+<italic>Current physical ART side effects</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">687 (62.7)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">306 (27.9)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">103 (9.4)</td></tr><tr><td align="left">
+<italic>Concurrent treatment for hepatitis C</italic>
+</td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">342 (31.2)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">18 (1.6)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">736 (67.2)</td></tr></tbody></table></table-wrap></p>
+            <p>
+<table-wrap id="Tab3"><label>Table 3</label><caption><p>Descriptive statistics: Distress and ART adherence and&#xA0;Available emotional HIV-related support (<italic>N</italic>&#x2009;=&#x2009;1&#xA0;096)</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left"><bold>Distress and ART adherence</bold></td><td align="left"><bold>Frequency</bold>
+<bold><italic>N</italic></bold><bold> (%)</bold></td></tr><tr><td align="left"><bold>Emotional distress</bold></td><td align="left"/></tr><tr><td align="left"><italic>Feelings of hopelessness</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;Absence</td><td align="left">486 (44.3)</td></tr><tr><td align="left">&#x2003;Mild</td><td align="left">251 (22.9)</td></tr><tr><td align="left">&#x2003;Moderate</td><td align="left">112 (10.2)</td></tr><tr><td align="left">&#x2003;Severe</td><td align="left">126 (11.5)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">121 (11.0)</td></tr><tr><td align="left"><italic>Taking medications for sleeping problems</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">754 (68.8)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">223 (20.3)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">119 (10.9)</td></tr><tr><td align="left"><italic>Taking medications for worry/anxiety</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">777 (70.9)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">122 (11.1)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">197 (18)</td></tr><tr><td align="left"><italic>Taking medications for depression</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">771 (70.3)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">125 (11.4)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">200 (18.2)</td></tr><tr><td align="left"><italic>Taking medications for neuropsychiatric problems</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">788 (71.9)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">38 (3.5)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">270 (24.6)</td></tr><tr><td align="left"><bold>Sexual distress</bold></td><td align="left"/></tr><tr><td align="left"><italic>Impact of HIV on sex life</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;Negative</td><td align="left">626 (57.1)</td></tr><tr><td align="left">&#x2003;Positive</td><td align="left">138 (12.6)</td></tr><tr><td align="left">&#x2003;No change</td><td align="left">166 (15.1)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">166 (15.1)</td></tr><tr><td align="left"><italic>Fear of being reported to the authorities by a sex partner</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">319 (29.1)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">609 (55.6)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">168 (15.3)</td></tr><tr><td align="left"><italic>Fear of transmitting HIV to others</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">339 (30.9)</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">423 (38.6)</td></tr><tr><td align="left">&#x2003;Do not have sex</td><td align="left">207 (18.9)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">127 (11.6)</td></tr><tr><td align="left"><italic>Wish to have children in the future</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">407 (37.1)</td></tr><tr><td align="left">&#x2003;Yes, it is very important to me</td><td align="left">168 (15.3)</td></tr><tr><td align="left">&#x2003;Yes, but it is not so important</td><td align="left">99 (9.0)</td></tr><tr><td align="left">&#x2003;Yes, but did not know PLWH could have children</td><td align="left">42 (3.8)</td></tr><tr><td align="left">&#x2003;Do not know</td><td align="left">127 (11.6)</td></tr><tr><td align="left">&#x2003;It is too late</td><td align="left">186 (17.0)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">67 (6.1)</td></tr><tr><td align="left"><bold>ART adherence</bold></td><td align="left"/></tr><tr><td align="left"><italic>ART Adherence (number of missing doses in the past&#xA0;week)</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;No doses</td><td align="left">847 (77.3)</td></tr><tr><td align="left">&#x2003;One or more doses</td><td align="left">148 (13.5)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">101 (9.2)</td></tr><tr><td align="left"><bold>Available emotional HIV-related support</bold></td><td align="left"><bold>Frequency&#xA0;</bold><bold><italic>N</italic></bold><bold> (%)</bold></td></tr><tr><td align="left"><italic>Support from partner, family, friends and others</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;Always</td><td align="left">224 (20.4)</td></tr><tr><td align="left">&#x2003;Often</td><td align="left">220 (20.1)</td></tr><tr><td align="left">&#x2003;Sometimes</td><td align="left">172 (15.7)</td></tr><tr><td align="left">&#x2003;Rarely</td><td align="left">85 (7.8)</td></tr><tr><td align="left">&#x2003;Never</td><td align="left">71 (6.5)</td></tr><tr><td align="left">&#x2003;I have not told anyone about my HIV</td><td align="left">191 (17.4)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">133 ()12.1</td></tr><tr><td align="left"><italic>Trust in HIV physician</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;Completely</td><td align="left">938 (85.6)</td></tr><tr><td align="left">&#x2003;Partly</td><td align="left">84 (7.7)</td></tr><tr><td align="left">&#x2003;No</td><td align="left">23 (2.1)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">51 (4.7)</td></tr><tr><td align="left"><italic>Trust in HIV nurse</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;Completely</td><td align="left">982 (89.6)</td></tr><tr><td align="left">&#x2003;Partly</td><td align="left">48 (4.4)</td></tr><tr><td align="left">&#x2003;No</td><td align="left">7 (0.6)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">59 (5.4)</td></tr><tr><td align="left"><italic>Trust in HIV counsellor</italic></td><td align="left"/></tr><tr><td align="left">&#x2003;Completely</td><td align="left">250 (22.8)</td></tr><tr><td align="left">&#x2003;Partly</td><td align="left">48 (4.4)</td></tr><tr><td align="left">&#x2003;No</td><td align="left">48 (4.4)</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">750 (68.4)</td></tr></tbody></table></table-wrap></p>
+            <p><italic>Demographic characteristics</italic> included gender, age, country or region of origin, permit for Swedish residency, education level, occupation, income, residential status, sexual orientation, relationship status, having children and drug use including use of pharmaceuticals without prescription during the past 6 months.</p>
+            <p><italic>Clinical HIV factors</italic> included route of HIV transmission, time since HIV diagnosis, current CD4 count, currently experiencing HIV physical symptoms, ART status, ART side effects and concurrent treatment for hepatitis C.</p>
+            <p><italic>The distress and ART adherence category</italic> included emotional and sexual distress and ART adherence. Two psychological aspects were used to measure <italic>emotional distress.</italic> Hopelessness, reflecting negative expectations concerning oneself and one&#x2019;s future and feelings of helplessness to change those expectations, was measured by the self-reported Beck Hopelessness Scale [<xref ref-type="bibr" rid="CR49">49</xref>]. The other aspect referred to having received medication for sleeping problems, worry/anxiety, depression, and or neuropsychiatric problems in the past 6 months.</p>
+            <p><italic>Sexual distress</italic> included impact of HIV on sex life, fear of being reported to authorities (County Medical Officer, the police) by a sex partner, fear of transmitting HIV to others, and wish to have children in the future.</p>
+            <p><italic>ART adherence</italic> here defined as no missed doses was measured by the question &#x201C;How many doses of ART did you miss during the past week?&#x201D;</p>
+            <p><italic>Available emotional HIV-related support</italic> included experienced emotional support from partner, family, friends and others and trust in healthcare support resources (HIV physician, HIV nurse, and HIV counsellor respectively).</p>
+          </sec>
+        </sec>
+        <sec id="Sec10">
+          <title>Data analysis</title>
+          <p id="Par33">Statistical analyses were performed with IBM SPSS version 28 and included three steps. First, descriptive statistics of the independent variables were calculated. Second, a series of bivariable one-way analyses of variance were conducted to explore the association of each independent variable with each of the four stigma manifestations. The alpha level was set to 0.05. Third, multivariable hierarchical linear regression analysis was performed for each stigma manifestation utilising three forced steps. All independent variables were included as categorical variables. The category having the highest frequency was consistently used as reference category. The responses &#x2018;do not know&#x2019; and &#x2018;do not want to answer&#x2019;, as well as missing responses were all categorized as &#x2018;missing&#x2019;.</p>
+          <p id="Par34">Only variables that had statistically significant bivariable associations with the respective stigma manifestation were included in the corresponding model. Demographic characteristics and clinical HIV factors were added in the first step, the distress and ART adherence in the second step and the available emotional HIV-related support factors in the third and final step. Self-reported sexual orientation, income and relationship status were excluded from the analysis due to multicollinearity (VIF tolerance&#x2009;&gt;&#x2009;0.4). Sexual orientation correlated with HIV transmission route, income with occupation, and relationship status with residential status.</p>
+          <p id="Par35">The &#x3B1;-level for significance was Bonferroni adjusted to 0.0125 since four regression models were calculated [<xref ref-type="bibr" rid="CR50">50</xref>]. Standardised regression coefficients&#x2019; (&#x3B2;<sub>s</sub>) contribution to the regression models were considered weak if &#x3B2;<sub>s</sub>&#x2009;&lt;&#x2009;0.2, moderate if &#x3B2;<sub>s</sub> 0.2&#x2013;0.5 and strong if &#x3B2;<sub>s</sub>&#x2009;&gt;&#x2009;0.5. Effect sizes of R<sup>2</sup> for the regression models were considered as small if R<sup>2</sup> 0.02&#x2013;0.14, medium if R<sup>2</sup> 0.15&#x2013;0.35 and large if R<sup>2</sup>&#x2009;&gt;&#x2009;0.35 [<xref ref-type="bibr" rid="CR51">51</xref>].</p>
+          <p id="Par36">To manage different degrees of missing data on the stigma manifestations the following strategy was applied. When the score was missing for one of the three items in a stigma manifestation, the missing value was imputed with a random of the individual&#x2019;s responses of the two remaining items of the given stigma manifestation. When an individual had two missing scores of the three items in a stigma manifestation, the missing values were imputed with the individual&#x2019;s single response on the remaining item. If all three items of a stigma manifestation had missing values, data were excluded from further analyses.</p>
+          <p id="Par37">Data on the personalised stigma manifestation was available for 1 004 (92%) participants, 1&#xA0;037 (95%) participants for the concern with public attitudes towards people living with HIV manifestation, 1&#xA0;060 (97%) participants for the concerns with sharing HIV status manifestation, and 1&#xA0;060 (97%) participants for the internalized stigma manifestation.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec11" sec-type="results">
+      <title>Results</title>
+      <sec id="Sec12">
+        <title>Descriptive statistics</title>
+        <p id="Par38">As shown in Table <xref rid="Tab2" ref-type="table">2</xref>, the vast majority of the participants were of male gender (70%) and the average age of the participants was 47.6 (SD 11.81, range 18 to 82) years. More than half of the participants were born in Sweden. About one half of the participants reported being non-heterosexual. More than one third were in an intimate relationship at time of data collection. The majority had at least some post-high school education and 60% were working.</p>
+        <p id="Par39">The highest stigma score was observed in concerns with sharing HIV (Mean: 9.18, SD: 2.80), followed by concerns with public attitudes towards people living with HIV (Mean: 7.7, SD: 2.57), internalized stigma (Mean: 6.45, SD: 2.76), and personalised stigma (Mean: 6.17, SD: 2.80). Using the cut off of &gt;&#x2009;7.5, most (78%) scored high on concerns with sharing HIV status and about one half (54%) scored high on concerns with public attitudes towards people living with HIV. High scores on personalised stigma and internalized stigma were reported by around one third of the participants respectively.</p>
+        <p id="Par40">There were mutually statistically significant correlations between the four HIV-related stigma manifestations. The strongest correlations were between concerns with public attitudes towards people living with HIV and concerns with sharing HIV status (<italic>r</italic>&#x2009;=&#x2009;0.54, <italic>p</italic>&#x2009;&lt;&#x2009;0.001) and concerns with public attitudes towards people living with HIV and internalized stigma (<italic>r</italic>&#x2009;=&#x2009;0.50, <italic>p</italic>&#x2009;&lt;&#x2009;0.001).</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Bivariable one-way analysis</title>
+        <p id="Par41">The bivariable one-way analyses of factors associated with the four HIV-related stigma manifestations are shown in Table&#xA0;<xref rid="Tab4" ref-type="table">4</xref>.</p>
+        <p id="Par42">
+<table-wrap id="Tab4"><label>Table 4</label><caption><p>Bivariate one-way analyses of variance predicting each of the four HIV-related stigma manifestations</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2"/><th align="left">Personalised stigma</th><th align="left">Concerns with public attitudes</th><th align="left">Concerns with sharing HIV status</th><th align="left">Internalized stigma</th></tr><tr><th align="left"><italic>N</italic>&#x2009;=&#x2009;1 004</th><th align="left"><italic>N</italic>&#x2009;=&#x2009;1 037</th><th align="left"><italic>N</italic>&#x2009;=&#x2009;1 060</th><th align="left"><italic>N</italic>&#x2009;=&#x2009;1 060</th></tr></thead><tbody><tr><td align="left"/><td align="left">F</td><td align="left">F</td><td align="left">F</td><td align="left">F</td></tr><tr><td align="left"><bold>Demographic characteristics and clinical HIV factors</bold></td><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">&#x2003;Gender</td><td align="left">5.382**</td><td align="left">11.419***</td><td align="left">2.680*</td><td align="left">3.693*</td></tr><tr><td align="left">&#x2003;Education level</td><td align="left">1.202</td><td align="left">0.942</td><td align="left">3.502**</td><td align="left">0.299</td></tr><tr><td align="left">&#x2003;Occupation</td><td align="left">2.506*</td><td align="left">5.176***</td><td align="left">11.413***</td><td align="left">1.232</td></tr><tr><td align="left">&#x2003;Income</td><td align="left">4.901***</td><td align="left">0.615</td><td align="left">4.649***</td><td align="left">1.990</td></tr><tr><td align="left">&#x2003;Residential status</td><td align="left">2.821*</td><td align="left">0.039</td><td align="left">2.807*</td><td align="left">2.528*</td></tr><tr><td align="left">&#x2003;Sexual orientation</td><td align="left">12.296***</td><td align="left">12.224***</td><td align="left">2.686*</td><td align="left">5.065***</td></tr><tr><td align="left">&#x2003;Relationship status</td><td align="left">6.019**</td><td align="left">0.126</td><td align="left">1.870</td><td align="left">5.101**</td></tr><tr><td align="left">&#x2003;Drug use during the past six months</td><td align="left">3.516*</td><td align="left">6.023***</td><td align="left">17.248***</td><td align="left">1.861</td></tr><tr><td align="left">&#x2003;Self-reported route of transmission</td><td align="left">4.574***</td><td align="left">3.061**</td><td align="left">6.502***</td><td align="left">1.203</td></tr><tr><td align="left">&#x2003;Time since HIV diagnosis</td><td align="left">3.677**</td><td align="left">7.577***</td><td align="left">4.393**</td><td align="left">7.707***</td></tr><tr><td align="left"><bold>Distress and ART adherence</bold></td><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">&#x2003;Feelings of hopelessness</td><td align="left">24.823***</td><td align="left">14.036***</td><td align="left">5.817***</td><td align="left">39.232***</td></tr><tr><td align="left">&#x2003;Taking medication for sleeping problems</td><td align="left">4.478*</td><td align="left">1.886</td><td align="left">0.249</td><td align="left">9.240***</td></tr><tr><td align="left">&#x2003;Impact of HIV on sex life</td><td align="left">6.067***</td><td align="left">2.489</td><td align="left">6.293***</td><td align="left">15.494***</td></tr><tr><td align="left">&#x2003;Fear of being reported to the authorities</td><td align="left">12.276***</td><td align="left">11.359***</td><td align="left">18.794***</td><td align="left">23.632***</td></tr><tr><td align="left">&#x2003;Fear of transmitting HIV to others</td><td align="left">9.637***</td><td align="left">6.306***</td><td align="left">11.753***</td><td align="left">21.478***</td></tr><tr><td align="left">&#x2003;Wish to have children in the future</td><td align="left">3.095**</td><td align="left">3.944**</td><td align="left">1.636</td><td align="left">7.828***</td></tr><tr><td align="left">&#x2003;Missed ART doses in the past&#xA0;week</td><td align="left">6.176**</td><td align="left">0.417</td><td align="left">1.110</td><td align="left">4.945**</td></tr><tr><td align="left"><bold>Available emotional HIV-related support</bold></td><td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr><tr><td align="left">&#x2003;Emotional support from partner, family, friends and others</td><td align="left">20.371***</td><td align="left">11.047***</td><td align="left">15.777***</td><td align="left">14.072***</td></tr><tr><td align="left">&#x2003;Trust in HIV physician</td><td align="left">2.179</td><td align="left">1.620</td><td align="left">0.478</td><td align="left">3.084*</td></tr><tr><td align="left">&#x2003;Trust in HIV counsellor</td><td align="left">2.871*</td><td align="left">4.125**</td><td align="left">0.175</td><td align="left">1.939</td></tr></tbody></table><table-wrap-foot><p>*<italic>p</italic>&#x2009;&lt;&#x2009;0.05; **<italic>p</italic>&#x2009;&lt;&#x2009;0.01; ***<italic>p</italic>&#x2009;&lt;&#x2009;0.001</p><p>The following variables were non-significant: Age; Country/region of origin; Permit for Swedish residency; Having children; CD4 cells count; Currently experiencing HIV physical symptoms; ART treatment; ART side effects; Concurrent treatment for hepatitis C; Medication for worry/anxiety; Medication for depression; Medication for neuropsychiatric condition; Trust in HIV nurse</p><p> Income, sexual orientation and relationship status&#xA0;were excluded from multivariate analysis due to collinearity</p></table-wrap-foot></table-wrap></p>
+      </sec>
+      <sec id="Sec14">
+        <title>Multivariable analysis</title>
+        <p id="Par43">Table&#xA0;<xref rid="Tab5" ref-type="table">5</xref> presents results from the multivariable hierarchical linear regression analyses of the four HIV-related stigma manifestations. Between 23 and 31% of the variance of the HIV-related stigma manifestations were explained by the same pattern of associated factors including female gender, shorter time since HIV diagnosis, feelings of hopelessness, non-sharing HIV status, and lack of available emotional HIV-related support. In addition, fear of being reported to authorities by a sexual partner associated significantly with higher scores on all the stigma manifestations except the personalised stigma. Data also showed significant associations between being a man who acquired HIV through sex with a woman and higher scores of the personalised, concern with public attitudes toward people living with HIV, and concerns of sharing HIV status concerns.</p>
+        <p id="Par44">
+<table-wrap id="Tab5"><label>Table 5</label><caption><p>Multivariate hierarchical linear regressions predicting each of the four HIV-related stigma manifestations among study participants</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left"/><th align="left">Personalised stigma<break/><italic>N</italic>&#x2009;=&#x2009;1 004</th><th align="left">Concerns with public attitudes<break/><italic>N</italic>&#x2009;=&#x2009;1 037</th><th align="left">Concerns with sharing HIV status<break/><italic>N</italic>&#x2009;=&#x2009;1 060</th><th align="left">Internalized stigma<break/><italic>N</italic>&#x2009;=&#x2009;1 060</th></tr></thead><tbody><tr><td align="left" colspan="5"><bold>Demographic characteristics and clinical HIV factors</bold></td></tr><tr><td align="left">R<sup>2</sup>, <italic>p</italic> value</td><td align="left">0.074***</td><td align="left">0.101***</td><td align="left">0.122***</td><td align="left">0.052***</td></tr><tr><td align="left"/><td align="left">&#x3B2;<sub>s</sub></td><td align="left">&#x3B2;s</td><td align="left">&#x3B2;s</td><td align="left">&#x3B2;s</td></tr><tr><td align="left" colspan="5"><italic>Gender</italic></td></tr><tr><td align="left">&#x2003;Male</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Female</td><td align="left">0.105**</td><td align="left">0.172***</td><td align="left">0.119***</td><td align="left">0.088**</td></tr><tr><td align="left">&#x2003;Other</td><td align="left">-0.011</td><td align="left">0.038</td><td align="left">0.000</td><td align="left">-0.037</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">-0.016</td><td align="left">0.033</td><td align="left">-0.011</td><td align="left">-0.011</td></tr><tr><td align="left" colspan="5"><italic>Occupation</italic></td></tr><tr><td align="left">&#x2003;Working</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left"/></tr><tr><td align="left">&#x2003;Not on the job market</td><td align="left">-0.019</td><td align="left">-0.053</td><td align="left">-0.100***</td><td align="left"/></tr><tr><td align="left">&#x2003;Long-term sick leave/ retired</td><td align="left">-0.031</td><td align="left">-0.118***</td><td align="left">-0.148***</td><td align="left"/></tr><tr><td align="left">&#x2003;Student</td><td align="left">0.005</td><td align="left">-0.029</td><td align="left">-0.015</td><td align="left"/></tr><tr><td align="left">&#x2003;Missing</td><td align="left">-0.006</td><td align="left">-0.113***</td><td align="left">-0.051</td><td align="left"/></tr><tr><td align="left" colspan="5"><italic>Residential status</italic></td></tr><tr><td align="left">&#x2003;Live with partner/family</td><td align="left">Ref</td><td align="left"/><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Share accommodation</td><td align="left">-0.016</td><td align="left"/><td align="left">-0.086**</td><td align="left">-0.025</td></tr><tr><td align="left">&#x2003;Live alone</td><td align="left">-0.068</td><td align="left"/><td align="left">-0.112***</td><td align="left">-0.066</td></tr><tr><td align="left">&#x2003;Have no home</td><td align="left">0.041</td><td align="left"/><td align="left">-0.034</td><td align="left">0.004</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">-0.030</td><td align="left"/><td align="left">-0.055</td><td align="left">0.021</td></tr><tr><td align="left" colspan="5"><italic>Drug use during the past six months</italic></td></tr><tr><td align="left">&#x2003;No</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left"/></tr><tr><td align="left">&#x2003;Non-injecting drug use</td><td align="left">-0.058</td><td align="left">-0.048</td><td align="left">-0.046</td><td align="left"/></tr><tr><td align="left">&#x2003;Injecting drug use</td><td align="left">-0.010</td><td align="left">-0.049</td><td align="left">-0.143***</td><td align="left"/></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.048</td><td align="left">0.058</td><td align="left">-0.004</td><td align="left"/></tr><tr><td align="left" colspan="5"><italic>Self-reported route of HIV transmission</italic></td></tr><tr><td align="left">&#x2003;Through sexual contact with a man</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left"/></tr><tr><td align="left">&#x2003;Through sexual contact with a woman</td><td align="left">0.094**</td><td align="left">0.100**</td><td align="left">0.082**</td><td align="left"/></tr><tr><td align="left">&#x2003;Through infected needles/syringes</td><td align="left">-0.009</td><td align="left">-0.001</td><td align="left">-0.041</td><td align="left"/></tr><tr><td align="left">&#x2003;Through blood/blood products</td><td align="left">0.024</td><td align="left">0.030</td><td align="left">-0.037</td><td align="left"/></tr><tr><td align="left">&#x2003;Through perinatal transmission</td><td align="left">-0.007</td><td align="left">-0.011</td><td align="left">-0.009</td><td align="left"/></tr><tr><td align="left">&#x2003;Other</td><td align="left">0.076**</td><td align="left">0.025</td><td align="left">0.010</td><td align="left"/></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.053</td><td align="left">0.059</td><td align="left">-0.052</td><td align="left"/></tr><tr><td align="left" colspan="5"><italic>Time since HIV diagnosis</italic></td></tr><tr><td align="left">&#x2003;6 to 12 months</td><td align="left">0.056</td><td align="left">-0.010</td><td align="left">0.035</td><td align="left">0.052</td></tr><tr><td align="left">&#x2003;1 to 5 years</td><td align="left">0.090**</td><td align="left">0.065</td><td align="left">0.085**</td><td align="left">0.129***</td></tr><tr><td align="left">&#x2003;5 to 10 years</td><td align="left">0.052</td><td align="left">-0.040</td><td align="left">-0.029</td><td align="left">0.033</td></tr><tr><td align="left">&#x2003;10 to 20 years</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;More than 20 years</td><td align="left">0.026</td><td align="left">-0.095**</td><td align="left">-0.026</td><td align="left">-0.051</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.021</td><td align="left">0.037</td><td align="left">0.034</td><td align="left">0.028</td></tr><tr><td align="left" colspan="5"><bold>Distress and ART adherence</bold></td></tr><tr><td align="left"><bold>Change in R</bold><sup><bold>2</bold></sup>, <bold><italic>p</italic></bold>
+<bold>value</bold></td><td align="left">0.126***</td><td align="left">0.091***</td><td align="left">0.093***</td><td align="left">0.227***</td></tr><tr><td align="left" colspan="5"><italic>Feelings of hopelessness</italic></td></tr><tr><td align="left">&#x2003;Absence</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Mild</td><td align="left">0.088**</td><td align="left">0.088**</td><td align="left">0.054</td><td align="left">0.097***</td></tr><tr><td align="left">&#x2003;Moderate</td><td align="left">0.129***</td><td align="left">0.100***</td><td align="left">0.050</td><td align="left">0.185***</td></tr><tr><td align="left">&#x2003;Severe</td><td align="left">0.224***</td><td align="left">0.210***</td><td align="left">0.158***</td><td align="left">0.258***</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.045</td><td align="left">0.041</td><td align="left">0.014</td><td align="left">0.069**</td></tr><tr><td align="left" colspan="5"><italic>Taking medication for sleeping problems</italic></td></tr><tr><td align="left">&#x2003;No</td><td align="left">Ref</td><td align="left"/><td align="left"/><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">-0.003</td><td align="left"/><td align="left"/><td align="left">0.035</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.051</td><td align="left"/><td align="left"/><td align="left">0.070**</td></tr><tr><td align="left" colspan="5"><italic>Impact of HIV on sex life</italic></td></tr><tr><td align="left">&#x2003;Negative</td><td align="left">Ref</td><td align="left"/><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Positive</td><td align="left">0.085**</td><td align="left"/><td align="left">-0.063</td><td align="left">-0.079**</td></tr><tr><td align="left">&#x2003;No change</td><td align="left">-0.048</td><td align="left"/><td align="left">-0.107***</td><td align="left">-0.135***</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">-0.019</td><td align="left"/><td align="left">-0.059</td><td align="left">-0.059</td></tr><tr><td align="left" colspan="5"><italic>Fear of being reported to the authorities</italic></td></tr><tr><td align="left">&#x2003;No</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">0.063</td><td align="left">0.083**</td><td align="left">0.086**</td><td align="left">0.091**</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.068</td><td align="left">0.059</td><td align="left">0.082**</td><td align="left">0.105***</td></tr><tr><td align="left" colspan="5"><italic>Fear of transmitting HIV to others</italic></td></tr><tr><td align="left">&#x2003;No</td><td align="left">-0.078</td><td align="left">-0.062</td><td align="left">-0.096**</td><td align="left">-0.129***</td></tr><tr><td align="left">&#x2003;Yes</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;No sex</td><td align="left">-0.028</td><td align="left">-0.067</td><td align="left">-0.037</td><td align="left">-0.076**</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">-0.028</td><td align="left">-0.050</td><td align="left">-0.023</td><td align="left">-0.117***</td></tr><tr><td align="left" colspan="5"><italic>Wish to have children in the future</italic></td></tr><tr><td align="left">&#x2003;No</td><td align="left">Ref</td><td align="left">Ref</td><td align="left"/><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Yes, it is very important</td><td align="left">0.038</td><td align="left">0.061</td><td align="left"/><td align="left">0.140***</td></tr><tr><td align="left">&#x2003;Yes, but it is not so important</td><td align="left">0.031</td><td align="left">0.055</td><td align="left"/><td align="left">0.055</td></tr><tr><td align="left">&#x2003;Yes, but did not know people living with HIV could have children</td><td align="left">-0.002</td><td align="left">0.021</td><td align="left"/><td align="left">0.025</td></tr><tr><td align="left">&#x2003;Do not know</td><td align="left">0.048</td><td align="left">0.030</td><td align="left"/><td align="left">0.074**</td></tr><tr><td align="left">&#x2003;It is too late</td><td align="left">0.040</td><td align="left">0.019</td><td align="left"/><td align="left">0.011</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">-0.020</td><td align="left">0.023</td><td align="left"/><td align="left">-0.029</td></tr><tr><td align="left" colspan="5"><italic>Missed doses of ART in the&#xA0;past week</italic>
+</td></tr><tr><td align="left">&#x2003;No</td><td align="left">Ref</td><td align="left"/><td align="left"/><td align="left">Ref</td></tr><tr><td align="left">&#x2003;One or more</td><td align="left">0.014</td><td align="left"/><td align="left"/><td align="left">0.029</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.021</td><td align="left"/><td align="left"/><td align="left">0.001</td></tr><tr><td align="left" colspan="5"><bold>Available emotional HIV-related support</bold></td></tr><tr><td align="left"><bold>Change in R</bold><sup><bold>2</bold></sup>, <bold><italic>p</italic></bold>
+<bold>value</bold></td><td align="left">0.06***</td><td align="left">0.039***</td><td align="left">0.049***</td><td align="left">0.031***</td></tr><tr><td align="left" colspan="5"><italic>Emotional support from partner, family, friends and others</italic></td></tr><tr><td align="left">&#x2003;Always</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Often</td><td align="left">0.062</td><td align="left">0.022</td><td align="left">-0.003</td><td align="left">0.072</td></tr><tr><td align="left">&#x2003;Sometimes</td><td align="left">0.152***</td><td align="left">0.083</td><td align="left">0.102**</td><td align="left">0.138***</td></tr><tr><td align="left">&#x2003;Rarely</td><td align="left">0.120***</td><td align="left">0.088**</td><td align="left">0.092**</td><td align="left">0.112***</td></tr><tr><td align="left">&#x2003;Never</td><td align="left">0.110***</td><td align="left">0.082**</td><td align="left">0.072</td><td align="left">0.079**</td></tr><tr><td align="left">I have not told anyone about my HIV</td><td align="left">0.287***</td><td align="left">0.203***</td><td align="left">0.251***</td><td align="left">0.178***</td></tr><tr><td align="left">Missing</td><td align="left">0.090**</td><td align="left">0.045</td><td align="left">0.112**</td><td align="left">0.091**</td></tr><tr><td align="left" colspan="5"><italic>Trust in HIV physician</italic></td></tr><tr><td align="left">&#x2003;Completely</td><td align="left"/><td align="left"/><td align="left"/><td align="left">Ref</td></tr><tr><td align="left">&#x2003;Partly</td><td align="left"/><td align="left"/><td align="left"/><td align="left">-0.026</td></tr><tr><td align="left">&#x2003;No</td><td align="left"/><td align="left"/><td align="left"/><td align="left">-0.089***</td></tr><tr><td align="left">&#x2003;Missing</td><td align="left"/><td align="left"/><td align="left"/><td align="left">-0.018</td></tr><tr><td align="left" colspan="5"><italic>Trust in HIV counsellor</italic></td></tr><tr><td align="left">&#x2003;Completely</td><td align="left">Ref</td><td align="left">Ref</td><td align="left"/><td align="left"/></tr><tr><td align="left">&#x2003;Partly</td><td align="left">0.027</td><td align="left">0.013</td><td align="left"/><td align="left"/></tr><tr><td align="left">&#x2003;No</td><td align="left">0.059</td><td align="left">0.102***</td><td align="left"/><td align="left"/></tr><tr><td align="left">&#x2003;Missing</td><td align="left">0.070</td><td align="left">0.026</td><td align="left"/><td align="left"/></tr><tr><td align="left">Final model R<sup>2</sup>, <italic>p</italic> value</td><td align="left">0.261, &lt;&#x2009;0.001</td><td align="left">0.231, &lt;&#x2009;0.001</td><td align="left">0.264, &lt;&#x2009;0.001</td><td align="left">0.311, &lt;&#x2009;0.001</td></tr></tbody></table><table-wrap-foot><p>*<italic>p</italic>&#x2009;&lt;&#x2009;0.05; **<italic>p</italic>&#x2009;&lt;&#x2009;0.01; ***<italic>p</italic>&#x2009;&lt;&#x2009;0.001</p><p>&#x3B2;s&#x2009;=&#x2009;standardized beta coefficients</p><p>The variable Education level was non-significant</p></table-wrap-foot></table-wrap></p>
+      </sec>
+    </sec>
+    <sec id="Sec15" sec-type="discussion">
+      <title>Discussion</title>
+      <p id="Par45">To our knowledge, this is the first study to examine the prevalence of four HIV-related stigma manifestations and their associated individual characteristics in people living with HIV in Sweden. In accordance with earlier international studies [<xref ref-type="bibr" rid="CR52">52</xref>, <xref ref-type="bibr" rid="CR53">53</xref>], a majority reported high levels of concerns with sharing HIV status indicating caution in sharing one&#x2019;s HIV status due to fear/worries to be rejected, abandoned and/or poorly treated by others. About half of the participants reported high concerns with public attitudes towards people living with HIV. The relatively low number of participants reporting high level of internalized stigma (34%) are in line with a Danish study among women living with HIV [<xref ref-type="bibr" rid="CR54">54</xref>] but in contrast to U.S. data, where 8 in 10 people living with HIV reported internalized stigma [<xref ref-type="bibr" rid="CR55">55</xref>]. Types of measurement and criteria of level of HIV-related stigma may account in part for differences across studies. One third of the participants had experienced rejection after HIV disclosure, i.e. experienced personalised stigma. Hedge et al. [<xref ref-type="bibr" rid="CR56">56</xref>]. suggest that personalised stigma has diminished but &#x201C;participants were unclear whether this is related to the increasing acceptance and/or the increased invisibility of people living with HIV&#x201D; ([<xref ref-type="bibr" rid="CR56">56</xref>], p. 9). Stutterheim et al. [<xref ref-type="bibr" rid="CR57">57</xref>] conclude that stigma from friends, family, acquaintances, at work, and in the financial services sector had reduced in recent years in the Netherlands. But stigma in health care has increased and stigma in the LGBTQI&#x2009;+&#x2009;community remained relatively unchanged.</p>
+      <p id="Par46">As alluded in previous research, the correlation data clearly indicated that people living with HIV may perceive more than one manifestation of HIV-related stigma, The strongest correlations were between concerns with public attitudes towards people living with HIV and concerns with sharing HIV status and concerns with public attitudes towards people living with HIV and internalized stigma respectively.</p>
+      <p id="Par47">Unanticipated, the results demonstrated across all four HIV-related stigma manifestations mainly the same pattern of associated factors linked to the three layers: Female gender, shorter time since HIV diagnosis (the first layer, demographic characteristics and clinical HIV factors), hopelessness (the second layer, distress) and lack of available emotional HIV-related support from loved ones and friends (the third layer, available emotional HIV-related support).</p>
+      <sec id="Sec16">
+        <title>Female gender</title>
+        <p id="Par48">Women are more often stigmatized than men for having HIV [<xref ref-type="bibr" rid="CR17">17</xref>, <xref ref-type="bibr" rid="CR42">42</xref>, <xref ref-type="bibr" rid="CR58">58</xref>]. It demonstrates that gendered stigmatization exists in our society, which was also reflected in the present study. Women were more likely than men to have experienced personal stigmatization, to report higher levels of anticipated as well as internalized stigma. Over two thirds of the participating women had non-Swedish origin, but in contrast to other studies, we did not find associations between female gender and non-Swedish origin [<xref ref-type="bibr" rid="CR59">59</xref>].</p>
+        <p id="Par49">In agreement with findings of Logie et al. [<xref ref-type="bibr" rid="CR60">60</xref>], adding available emotional HIV-related support in the multivariable analysis did not lessen the association between female gender and perception of HIV-related stigma.</p>
+      </sec>
+      <sec id="Sec17">
+        <title>Shorter time since HIV diagnosis</title>
+        <p id="Par50">In accordance with other studies, participants who got their HIV diagnosis 1&#x2013;5 years prior to data collection were more vulnerable to perceive high levels of personalised stigma, concerns of sharing HIV status and internalized stigma than people living with HIV diagnosed 10&#x2013;20 years prior to data collection [<xref ref-type="bibr" rid="CR61">61</xref>]. It could be speculated that the finding reflects an ongoing adaptation process in which people living with HIV need time to psychologically and socially navigate and cope with and gain perspective on the aftermath of an HIV diagnosis. On the other hand, people living with HIV who were notified about their HIV diagnosis more than 20 years prior to data collection reported lower levels of concerns about public attitudes towards people living with HIV. This finding is supported by extant research that perceived stigma on average decreases over time as a result of adjusting to HIV status [<xref ref-type="bibr" rid="CR62">62</xref>]. It could be argued that individuals who have been living with HIV for a longer time have developed strategies to cope with negative attitudes towards people living with HIV. Another explanation may be that one becomes less concerned, sensitive to, or fearful of social stigma over time [<xref ref-type="bibr" rid="CR63">63</xref>]. Societal attitudes towards HIV have also changed in Sweden over the years into a less negative direction [<xref ref-type="bibr" rid="CR64">64</xref>].</p>
+      </sec>
+      <sec id="Sec18">
+        <title>Hopelessness</title>
+        <p id="Par51">As well as HIV-related stigma is directly or indirectly associated with psychological distress [<xref ref-type="bibr" rid="CR45">45</xref>, <xref ref-type="bibr" rid="CR53">53</xref>, <xref ref-type="bibr" rid="CR65">65</xref>&#x2013;<xref ref-type="bibr" rid="CR67">67</xref>], psychological distress may also increase attention to and affect perception of HIV-related stigma in its different appearances. In this study, distress in terms of feelings of hopelessness was the strongest correlate of all four HIV-related stigma manifestations, in particular internalized stigma. Hopelessness is indicated by feelings of low personal control, expectations of negative outcomes and feelings of helplessness to change those expectations [<xref ref-type="bibr" rid="CR45">45</xref>, <xref ref-type="bibr" rid="CR49">49</xref>]. The individual may thus presuppose to be negatively treated by others because of HIV status. A substantial minority of the participants had also experienced discriminatory behaviours due to their HIV status, which in turn may reinforce feelings of hopelessness. Moreover, hopelessness contributed to internalized stigma. It could be speculated that due to feelings of no personal control, there is no intrapersonal protection towards intrusion of societal negative HIV attitudes into the individual&#x2019;s mindset.</p>
+      </sec>
+      <sec id="Sec19">
+        <title>Non-sharing HIV status</title>
+        <p id="Par52">Sharing HIV status is a way to receive emotional HIV-related support, but it also allows for the possibility of stigmatisation [<xref ref-type="bibr" rid="CR42">42</xref>]. In this study, 17% of the participants had not shared their HIV status to anyone outside the healthcare system. One possible interpretation may be that some people living with HIV worry about being badly treated upon sharing HIV status and therefore choose self-imposed social isolation to not risk revealing one&#x2019;s HIV status. Among others, another potential reason for non-sharing HIV status might be that one considers one&#x2019;s HIV status as a private matter, not of concern for anyone else [<xref ref-type="bibr" rid="CR68">68</xref>]. It is also conceivable that individuals who had not shared their HIV status may had incorporated societal negative attitudes. In that way one may become one&#x2019;s own &#x201C;persecutor&#x201D; [<xref ref-type="bibr" rid="CR69">69</xref>].</p>
+      </sec>
+      <sec id="Sec20">
+        <title>Lack of available emotional HIV-related support</title>
+        <p id="Par53">Findings indicated that lack of available emotional HIV-related support correlated with higher scores of all four HIV-related stigma manifestations, an association supported by prior research [<xref ref-type="bibr" rid="CR37">37</xref>]. It is quite likely that experiences of unmet support needs will lead to lack of trust in others for support as reflected in sharing HIV status concerns but also in concerns about public attitudes towards people living with HIV. Among HIV-positive people scoring high on internalized stigma, it is plausible that limited emotional support may be inferred as a confirmation of feelings of not being good enough to deserve support and care. As a consequence, one may withdraw from social relationships in an attempt to minimize risk of rejection by and disappointment in others. It may bring about social isolation and hence lessened chances for emotional social support.</p>
+        <p id="Par54">As our findings are based on data collected 10 years ago, a pertinent question is whether experiences of HIV-related stigma in Sweden have changed. The Swedish biomedical situation in terms of ART coverage and viral suppression is the same today as it was in 2014, when the current study was conducted, i.e. 98% ART coverage with over 95% reaching successful viral suppression [<xref ref-type="bibr" rid="CR1">1</xref>]. The Public Health Agency of Sweden performed in 2021 a web-based study among people living with HIV (<italic>n</italic>&#x2009;=&#x2009;296) [<xref ref-type="bibr" rid="CR70">70</xref>]. The aim of the study was to monitor the health, living conditions, and quality of life among people living with HIV in Sweden. HIV-related stigma was measured by the same instrument as the one in our study. The results supported our findings in that most of the participants experienced high levels of anticipatory stigma, whereas internalized stigma and personalised stigma were less common (70). Another Swedish study, conducted in 2020&#x2013;2021, showed almost identical mean scores of the four HIV-related stigma manifestations as ours among people living with HIV and who had experienced a COVID-19 event [<xref ref-type="bibr" rid="CR71">71</xref>]. These results suggest that our findings related to prevalence of HIV-related stigma from 2014 are still valid and relevant in Sweden and supported by international literature that anticipated stigma still creates challenging and difficult issues for people living with HIV [<xref ref-type="bibr" rid="CR33">33</xref>, <xref ref-type="bibr" rid="CR56">56</xref>, <xref ref-type="bibr" rid="CR72">72</xref>]. In other words, HIV-related stigma prevails despite the fact that treated HIV is not severe and not sexually transmissible.</p>
+        <p id="Par55">As there are no Swedish studies examining associated factors of HIV-related stigma manifestations, we do not know whether the correlates identified in this study are still legitimate. But our findings related to associate factors are, 10 years later, supported by current international HIV-related stigma literature. The difference between the present study and other studies is that we identified mainly the same factors associated with all four HIV-related stigma manifestations, whereas most international studies have primarily focused on contributors of total HIV-related stigma or only on one or two manifestations.</p>
+        <p id="Par56">From a clinical perspective, it is essential that healthcare personnel providing services to people living with HIV are aware and attentive to potential vulnerability factors. People living with HIV suffering from hopelessness should be offered relevant psychosocial treatment including referrals to mental health services when needed. Access to social support and feeling supported are important buffers to stressors such as HIV-related stigma [<xref ref-type="bibr" rid="CR73">73</xref>]. HIV peer support constitutes a vital resource in the support of stigma and illness burden [<xref ref-type="bibr" rid="CR74">74</xref>]. Information about HIV peer support should be shared and discussed with clients and referral made available. Moreover, as anticipated stigma was the most dominating HIV-related stigma feature, it underlines the imperative necessity to support people living with HIV to increase resilience to HIV-related stigma in its different forms.</p>
+        <p id="Par57">The present study highlights the salience of developing individual level stigma reduction interventions of anticipated stigma, as it has significant associations with concealment of HIV. Moreover, interventions focusing on individual factors, such as hopelessness, shorter time since HIV diagnosis, interpersonal factors such as non-sharing HIV status and lack of emotional HIV-related support may contribute towards reduction of HIV stigma among people living with HIV. Women are of concern as they reported higher levels on all four HIV-related stigma manifestations than men did. Thus, tailored efforts to reduce stigma for women living with HIV should be developed.</p>
+        <p id="Par58">Stigma-reduction interventions also need to address negative HIV-related attitudes and beliefs among the general population, health care and judiciary. Information-based interventions are important to increase HIV-related intellectual and emotional knowledge but also to tackle outdated HIV beliefs and stigmatizing language. As individual stigma-reductions interventions cannot be performed isolated from HIV-related stigma and discrimination in society, a key challenge is to intensify anti-stigma interventions also on the societal level.</p>
+      </sec>
+      <sec id="Sec21">
+        <title>Limitations and strengths</title>
+        <p id="Par59">As the data was collected cross-sectionally, conclusions about causal effects cannot be drawn. For example, we are unable to determine any directionality regarding hopelessness and HIV-related stigma. Does hopelessness contribute to stigma or is hopelessness an outcome of HIV-related stigma?</p>
+        <p id="Par60">Data were gathered through a self-report questionnaire, so there may have been inaccuracies in reporting HIV-related clinical information. Although the survey was anonymous, response bias cannot be excluded. Furthermore, there is no information about reasons for not participating in the study. Additionally, the sample included a smaller proportion of female gender compared to the national demographics of people living with HIV (29% vs. 38%) and a higher proportion of Swedish-born participants than in the population of people living with HIV in Sweden (55% vs. 36%), which may affect the generalizability of the findings. Another limitation is that the meaning of statistical significance of a &#x2018;missing&#x2019; response on a given variable cannot be further understood or explained as the response categories were a mixture of &#x2018;do not know&#x2019;, &#x2018;do not want to answer&#x2019; or a missing response.</p>
+        <p id="Par61">The four models all showed R<sup>2</sup> values of medium effect size, with 23&#x2013;31% of the variance explained. This indicates that a significant share of the variance in the HIV-related stigma manifestations were explained by the independent variables, although parts of the variance remain unexplained. The unexplained variance could for example be related to effects of intersectional stigma of ethnicity/sexual orientation and or structural stigma within health care facilities. However, the original survey <italic>Living with HIV in Sweden</italic> did not include measures on neither intersectional nor structural stigma. Regarding magnitude of the &#x3B2;s values of the independent variables from the final step of the respective multivariate hierarchical linear regression, severe feelings of hopelessness and not having shared one&#xB4;s HIV status with anyone showed medium effect sizes. The remaining variables with statistically significant contribution to the respective multivariate model showed &#x3B2;s values of weak effect sizes.</p>
+        <p id="Par62">Regarding the imputation scheme applied for the four HIV-related stigma manifestations, for those with two out of three missing answers on a manifestation, the two missing values were imputed with the individual&#x2019;s single response on the remaining item. This procedure may risk having skewed the data. However, it was only a few respondents that had 2 out of 3 missing answers: eight for internalized stigma, 13 for concerns with public attitudes, 14 for concerns of sharing HIV status and 29 for personalised stigma. Excluding respondents with 2 out of 3 missing answers gave no or minor changes on the mean and SD on the respective scale: internalized stigma: mean 6.45 (sd 2.76) for all vs. 6.43 (2.75) when those with 2 out of 3 responses missing excluded; concerns with public attitudes towards people living with HIV: 7.72 (2.57) vs. 7.72 (2.56); concerns with sharing HIV status: 9.18 (2.58) vs. 9.18 (2.58) and for internalized stigma: 6.17 (2.80) vs. 6.11 (2.76). We therefore conclude that the imputation procedure used resulted in minor impact on the results.</p>
+        <p id="Par63">The key strength of the present study is its nationwide, multicultural and a fairly representative sample including approximately 17% of people living with HIV in Sweden. Another strength is the engagement of the HIV community, non-governmental organisations and clinicians in the development and dissemination of the survey. Given the similarities of our prevalence and associated factors findings with international research, we suggest they could be transferable at least to the Nordic countries and Western Europe.</p>
+      </sec>
+    </sec>
+    <sec id="Sec22" sec-type="conclusion">
+      <title>Conclusions</title>
+      <p id="Par64">The most dominating stigma feature in this nationally representative study of people living with HIV in Sweden was anticipation of stigma. Female gender, shorter time since HIV diagnosis, feelings of hopelessness, non-sharing HIV status, and lack of available emotional HIV-related support constituted potential vulnerability factors of the four HIV-related stigma manifestations. Our findings highlight the vital necessity to support people living with HIV to increase their resilience to stigma in its different forms. Exploring associated factors of HIV-related stigma manifestations may give an indication of what circumstances may increase the risk of stigma burden and factors amenable to targeted interventions. As individual stigma-reductions interventions cannot be performed isolated from HIV-related stigma and discrimination in society, a key challenge is to intensify anti-stigma interventions also on the societal level.</p>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term> HIV
+</term>
+          <def>
+            <p id="Par5">Human immunodeficiency virus</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term> ART
+</term>
+          <def>
+            <p id="Par6">Antiretroviral therapy</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term> CD4
+</term>
+          <def>
+            <p id="Par7">T lymphocytes or helper T cells</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to express our gratitude to all the people living with HIV who volunteered to participate in this study and the assisting staff at each participating infectious disease outpatient clinics and needle and syringe exchange clinics. We also thank David B. Sidebottom for his input to the data analyses.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>LNS, LEE, AME, MD, MR and GZ conceived and designed the study. LEE, MD, and MR conducted the statistical analyses and, together with LNS, AME and GZ interpreted the results. MD wrote the first draft of the paper under the supervision of LEE and LNS edited and finalized the manuscript. LNS, LEE, AME, MD, MR and GZ read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>Open access funding provided by Karolinska Institute. The original study was financially supported by the Public Health Agency of Sweden to professor Anna-Mia Ekstr&#xF6;m (principal investigator).</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>All data analysed during this study is included in this article.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar3">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par65">The study was performed in compliance with the ethical standards of the Central Ethical Review Board, Sweden, governing protection of human subjects and adhered to the Declaration of Helsinki. It was reviewed and approved by the Regional Ethical Boards, Stockholm, Sweden (DNR 2013/1552 31/4). Informed consent was obtained from all individual participants included in the study.</p>
+      </notes>
+      <notes id="FPar4">
+        <title>Consent for publication</title>
+        <p id="Par66">Not applicable.</p>
+      </notes>
+      <notes id="FPar5" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par67">The authors declare no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carlander</surname><given-names>C</given-names></name><name><surname>Br&#xE4;nnstr&#xF6;m</surname><given-names>J</given-names></name><name><surname>M&#xE5;nsson</surname><given-names>F</given-names></name><name><surname>Elvstam</surname><given-names>O</given-names></name><name><surname>Albinsson</surname><given-names>P</given-names></name><name><surname>Blom</surname><given-names>S</given-names></name><etal/></person-group><article-title>Cohort profile: InfCareHIV, a prospective registry-based cohort study of people with diagnosed HIV in Sweden</article-title><source>BMJ Open</source><year>2023</year><volume>13</volume><issue>3</issue><fpage>e069688</fpage><pub-id pub-id-type="doi">10.1136/bmjopen-2022-069688</pub-id><pub-id pub-id-type="pmid">36931676</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Engebretson</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding stigma in chronic health conditions: implications for nursing</article-title>
+          <source>J Am Association Nurse Practitioners</source>
+          <year>2013</year>
+          <volume>25</volume>
+          <fpage>545</fpage>
+          <lpage>50</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Earnshaw</surname><given-names>VA</given-names></name><name><surname>Quinn</surname><given-names>DM</given-names></name></person-group><article-title>The impact of stigma in healthcare on people living with chronic illnesses</article-title><source>J Health Psychol</source><year>2012</year><volume>17</volume><issue>2</issue><fpage>157</fpage><lpage>68</lpage><pub-id pub-id-type="doi">10.1177/1359105311414952</pub-id><pub-id pub-id-type="pmid">21799078</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <mixed-citation publication-type="other">Etymology of stigma. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.etymonline.com/word/stigma">https://www.etymonline.com/word/stigma</ext-link>. Accessed 1 Apr 2024.</mixed-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Parker</surname><given-names>R</given-names></name><name><surname>Aggleton</surname><given-names>P</given-names></name></person-group><article-title>HIV and AIDS-related stigma and discrimination: a conceptual framework and implications for action</article-title><source>Soc Sci Med</source><year>2003</year><volume>57</volume><issue>1</issue><fpage>13</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.1016/S0277-9536(02)00304-0</pub-id><pub-id pub-id-type="pmid">12753813</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <mixed-citation publication-type="other">Brown LM, Coleman. Stigma: An Enigma Demystified. In The Disability Studies Reader, edited by Lennard J. Davis, 179&#x2013;192. New York, NY: Routledge, 2010.</mixed-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Conceptualizing stigma</article-title>
+          <source>Annual Rev Sociol</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <fpage>363</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev.soc.27.1.363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and its public health implications</article-title>
+          <source>Lancet</source>
+          <year>2006</year>
+          <volume>376</volume>
+          <fpage>528</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(06)68184-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Idemudia</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Olasupo</surname>
+              <given-names>MO</given-names>
+            </name>
+            <name>
+              <surname>Modibo</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and chronic illness: a comparative study of people living with HIV and/or AIDS and people living with hypertension in Limpopo Province, South Africa</article-title>
+          <source>Curationis</source>
+          <year>2018</year>
+          <volume>25</volume>
+          <issue>1</issue>
+          <fpage>41</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Joint United Nations Programme on HIV/AIDS (UNAIDS)</collab>
+          </person-group>
+          <source>HIV-related stigma, discrimination and human rights violations: case studies of successful programmes</source>
+          <year>2005</year>
+          <publisher-loc>Switzerland</publisher-loc>
+          <publisher-name>Geneva</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferguson</surname><given-names>L</given-names></name><name><surname>Gruskin</surname><given-names>S</given-names></name><name><surname>Bolshakova</surname><given-names>M</given-names></name><name><surname>Yagyu</surname><given-names>S</given-names></name><name><surname>Fu</surname><given-names>N</given-names></name><name><surname>Cabrera</surname><given-names>N</given-names></name><etal/></person-group><article-title>Frameworks and measures for HIV-related internalized stigma, stigma and discrimination in healthcare and in laws and policies: a systematic review</article-title><source>J Int AIDS Soc</source><year>2022</year><volume>25</volume><fpage>e25915</fpage><pub-id pub-id-type="doi">10.1002/jia2.25915</pub-id><pub-id pub-id-type="pmid">35818866</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Greenwood</surname><given-names>GL</given-names></name><name><surname>Wilson</surname><given-names>A</given-names></name><name><surname>Bansal</surname><given-names>GP</given-names></name><name><surname>Barnhart</surname><given-names>C</given-names></name><name><surname>Barr</surname><given-names>E</given-names></name><name><surname>Berzon</surname><given-names>R</given-names></name><etal/></person-group><article-title>HIV-Related Stigma Research as a Priority at the National Institutes of Health</article-title><source>AIDS Behav</source><year>2022</year><volume>26</volume><issue>Suppl 1</issue><fpage>5</fpage><lpage>26</lpage><pub-id pub-id-type="doi">10.1007/s10461-021-03260-6</pub-id><pub-id pub-id-type="pmid">33886010</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nyblade</surname><given-names>L</given-names></name><name><surname>Stockton</surname><given-names>MA</given-names></name><name><surname>Giger</surname><given-names>K</given-names></name><name><surname>Bond</surname><given-names>V</given-names></name><name><surname>Ekstrand</surname><given-names>ML</given-names></name><name><surname>Lean</surname><given-names>RM</given-names></name><etal/></person-group><article-title>Stigma in health facilities: why it matters and how we can change it</article-title><source>BMC Med</source><year>2019</year><volume>17</volume><issue>1</issue><fpage>25</fpage><pub-id pub-id-type="doi">10.1186/s12916-019-1256-2</pub-id><pub-id pub-id-type="pmid">30764806</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Derlage</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>Winstead</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Greene</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Serovich</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Elwood</surname>
+              <given-names>WN</given-names>
+            </name>
+          </person-group>
+          <article-title>Perceived HIV-related stigma and HIV disclosure to relationship partners after finding out about the seropositive diagnosis</article-title>
+          <source>J Health Psychol</source>
+          <year>2002</year>
+          <volume>2</volume>
+          <fpage>415</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="doi">10.1177/1359105302007004330</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smit</surname><given-names>PJ</given-names></name><name><surname>Brady</surname><given-names>M</given-names></name><name><surname>Carter</surname><given-names>M</given-names></name><name><surname>Fernandes</surname><given-names>R</given-names></name><name><surname>Lamore</surname><given-names>L</given-names></name><name><surname>Meulbroek</surname><given-names>M</given-names></name><etal/></person-group><article-title>HIV-related stigma within gay communities: a literature review</article-title><source>AIDS Care</source><year>2012</year><volume>24</volume><fpage>405</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1080/09540121.2011.613910</pub-id><pub-id pub-id-type="pmid">22117138</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Earnshaw</surname><given-names>VA</given-names></name><name><surname>Chaudoir</surname><given-names>SR</given-names></name></person-group><article-title>From conceptualizing the measuring stigma: a review of the stigma mechanism measures</article-title><source>AIDS Behav</source><year>2009</year><volume>13</volume><fpage>1160</fpage><lpage>77</lpage><pub-id pub-id-type="doi">10.1007/s10461-009-9593-3</pub-id><pub-id pub-id-type="pmid">19636699</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rzeszutek</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gruszczy&#x144;ska</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pi&#x119;ta</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Malinowska</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV/AIDS stigma and psychological well-being after 40 years of HIV/AIDS: a systematic review and meta-analysis</article-title>
+          <source>Eur J Psychotraumatol</source>
+          <year>2021</year>
+          <volume>25</volume>
+          <issue>1</issue>
+          <fpage>12</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson-Best</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>
+          <source>BMC Public Health</source>
+          <year>2018</year>
+          <volume>27</volume>
+          <issue>1</issue>
+          <fpage>18</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Karver</surname><given-names>TS</given-names></name><name><surname>Atkins</surname><given-names>K</given-names></name><name><surname>Fonner</surname><given-names>VA</given-names></name><name><surname>Rodriguez-Diaz</surname><given-names>CE</given-names></name><name><surname>Sweat</surname><given-names>MD</given-names></name><name><surname>Taggart</surname><given-names>T</given-names></name><etal/></person-group><article-title>HIV-Related intersectional stigma and discrimination measurement: state of the Science</article-title><source>Am J Public Health</source><year>2022</year><volume>112</volume><issue>S4</issue><fpage>S420</fpage><lpage>32</lpage><pub-id pub-id-type="doi">10.2105/AJPH.2021.306639</pub-id><pub-id pub-id-type="pmid">35763725</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wanjala</surname><given-names>SW</given-names></name><name><surname>Too</surname><given-names>EK</given-names></name><name><surname>Luchters</surname><given-names>S</given-names></name><name><surname>Abubakar</surname><given-names>A</given-names></name></person-group><article-title>Psychometric Properties of the Berger HIV Stigma Scale: a systematic review</article-title><source>Int J Environ Res Public Health</source><year>2021</year><volume>18</volume><issue>24</issue><fpage>13074</fpage><pub-id pub-id-type="doi">10.3390/ijerph182413074</pub-id><pub-id pub-id-type="pmid">34948690</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vanable</surname><given-names>PA</given-names></name><name><surname>Carey</surname><given-names>MP</given-names></name><name><surname>Blair</surname><given-names>DC</given-names></name><name><surname>Littlewood</surname><given-names>RA</given-names></name></person-group><article-title>Impact of HIV-related stigma on health behaviors and psychological adjustment among HIV-positive men and women</article-title><source>AIDS Behav</source><year>2006</year><volume>10</volume><issue>5</issue><fpage>473</fpage><lpage>82</lpage><pub-id pub-id-type="doi">10.1007/s10461-006-9099-1</pub-id><pub-id pub-id-type="pmid">16604295</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <mixed-citation publication-type="other">Mayer KH, Krakower DS. Antiretrovirals for HIV Treatment and Prevention The Challenges of Success. JAMA. 2016;151&#x2009;&#x2013;&#x2009;53.</mixed-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <mixed-citation publication-type="other">Felker-Kantor EA, Wallace ME, Madkour AS, Duncan DT, Andrinopoulos K, Theall K. HIV Stigma, Mental Health, and Alcohol Use disorders among people living with HIV/AIDS in New Orleans. J Urban Health. 2019;96(6):878&#x2013;88.</mixed-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <mixed-citation publication-type="other">Berger B, Ferrans C, Lashley F. Measuring stigma in people with HIV: psychometric assessment of the HIV stigma scale. Res Nurs Health. 2001;24(6):518&#x2013;29.</mixed-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <mixed-citation publication-type="other">Radcliffe S, Neaigus A, Bernard MA, Shepard C. HIV-related stigma in a New York City sample of adults in outpatient care for HIV infection: a short report. AIDS Care. 2015;27(9):1&#x2013;6.</mixed-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <mixed-citation publication-type="other">The Public Health Agency of Sweden. Att leva med HIV i Sverige&#x2014; En studie om livskvalitet hos personer som lever med HIV [Living with HIV in Sweden&#x2014;A quality of life study among people living with HIV]. 2015. Available from <ext-link ext-link-type="uri" xlink:href="http://www.folkhalsomyndigheten.se/publiceratmaterial/publikationer/Att-leva-med-hiv-i-Sverige&#x2013;En-studie-omlivskvalitet-hos-personer-som-lever-med-hiv">http://www.folkhalsomyndigheten.se/publiceratmaterial/publikationer/Att-leva-med-hiv-i-Sverige&#x2013;En-studie-omlivskvalitet-hos-personer-som-lever-med-hiv</ext-link>. Accessed 1 Apr 2024.</mixed-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Logie</surname><given-names>C</given-names></name><name><surname>James</surname><given-names>L</given-names></name><name><surname>Tharao</surname><given-names>W</given-names></name><name><surname>Loutfy</surname><given-names>M</given-names></name></person-group><article-title>Associations between HIV-related stigma, racial discrimination, gender discrimination, and depression among HIV-positive African, Caribbean, and black women in Ontario, Canada</article-title><source>AIDS Patient Care STDS</source><year>2013</year><volume>27</volume><issue>2</issue><fpage>114</fpage><lpage>22</lpage><pub-id pub-id-type="doi">10.1089/apc.2012.0296</pub-id><pub-id pub-id-type="pmid">23373665</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Loutfy</surname><given-names>MR</given-names></name><name><surname>Logie</surname><given-names>CH</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><name><surname>Blitz</surname><given-names>SL</given-names></name><name><surname>Margolese</surname><given-names>SL</given-names></name><name><surname>Tharao</surname><given-names>WE</given-names></name><etal/></person-group><article-title>Gender and ethnicity differences in HIV-related stigma experienced by people living with HIV in Ontario, Canada</article-title><source>PLoS ONE</source><year>2012</year><volume>7</volume><issue>12</issue><fpage>e48168</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0048168</pub-id><pub-id pub-id-type="pmid">23300514</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mendonca</surname><given-names>CJ</given-names></name><name><surname>Newton-John</surname><given-names>TR</given-names></name><name><surname>Alperstein</surname><given-names>DM</given-names></name><etal/></person-group><article-title>Quality of Life of People Living with HIV in Australia: the role of Stigma, Social Disconnection and Mental Health</article-title><source>AIDS Behav</source><year>2023</year><volume>27</volume><fpage>545</fpage><lpage>57</lpage><pub-id pub-id-type="doi">10.1007/s10461-022-03790-7</pub-id><pub-id pub-id-type="pmid">35831492</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turan</surname><given-names>B</given-names></name><name><surname>Crockett</surname><given-names>KB</given-names></name><name><surname>Buyukcan-Tetik</surname><given-names>A</given-names></name><name><surname>Kempf</surname><given-names>MC</given-names></name><name><surname>Konkle-Parker</surname><given-names>D</given-names></name><name><surname>Wilson</surname><given-names>TE</given-names></name><etal/></person-group><article-title>Buffering internalization of HIV stigma: implications for treatment adherence and depression</article-title><source>J Acquir Immune Defic Syndr</source><year>2019</year><volume>80</volume><issue>3</issue><fpage>284</fpage><lpage>91</lpage><pub-id pub-id-type="doi">10.1097/QAI.0000000000001915</pub-id><pub-id pub-id-type="pmid">30531493</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turan</surname><given-names>B</given-names></name><name><surname>Rice</surname><given-names>WS</given-names></name><name><surname>Crockett</surname><given-names>KB</given-names></name><name><surname>Johnson</surname><given-names>M</given-names></name><name><surname>Neilands</surname><given-names>TB</given-names></name><name><surname>Ross</surname><given-names>SN</given-names></name><etal/></person-group><article-title>Longitudinal association between internalized HIV stigma and antiretroviral therapy adherence for women living with HIV: the mediating role of depression</article-title><source>AIDS</source><year>2019</year><volume>33</volume><issue>3</issue><fpage>571</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000002071</pub-id><pub-id pub-id-type="pmid">30702521</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>van der Kooij</surname><given-names>YL</given-names></name><name><surname>den Daas</surname><given-names>C</given-names></name><name><surname>Bos</surname><given-names>AER</given-names></name><name><surname>Willems</surname><given-names>RA</given-names></name><name><surname>Stutterheim</surname><given-names>SE</given-names></name></person-group><article-title>Correlates of internalized HIV Stigma: a comprehensive systematic review</article-title><source>AIDS Educ Prev</source><year>2023</year><volume>35</volume><issue>2</issue><fpage>158</fpage><lpage>72</lpage><pub-id pub-id-type="doi">10.1521/aeap.2023.35.2.158</pub-id><pub-id pub-id-type="pmid">37129595</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cooper</surname><given-names>V</given-names></name><name><surname>Clatworthy</surname><given-names>J</given-names></name><name><surname>Harding</surname><given-names>R</given-names></name><name><surname>Whetham</surname><given-names>J</given-names></name><name><surname>Consortium</surname><given-names>E</given-names></name></person-group><article-title>Measuring quality of life among people living with HIV: a systematic review of reviews</article-title><source>Health Qual Life Outcomes</source><year>2017</year><volume>15</volume><fpage>220</fpage><pub-id pub-id-type="doi">10.1186/s12955-017-0778-6</pub-id><pub-id pub-id-type="pmid">29141645</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gruszczy&#x144;ska</surname><given-names>E</given-names></name><name><surname>Rzeszutek</surname><given-names>M</given-names></name></person-group><article-title>HIV/AIDS stigma accumulation among people living with HIV: a role of general and relative minority status</article-title><source>Sci Rep</source><year>2023</year><volume>13</volume><fpage>10709</fpage><pub-id pub-id-type="doi">10.1038/s41598-023-37948-7</pub-id><pub-id pub-id-type="pmid">37400505</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <mixed-citation publication-type="other">2025 AIDS TARGETS - UNAIDS. Putting people living with HIV and communities at risk at the centre. Available from: <ext-link ext-link-type="uri" xlink:href="https://aidstargets2025.unaids.org/">https://aidstargets2025.unaids.org/</ext-link>. Accessed 1 Apr 2024.</mixed-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Williams</surname><given-names>R</given-names></name><name><surname>Brumback</surname><given-names>B</given-names></name><name><surname>Cook</surname><given-names>R</given-names></name><name><surname>Cook</surname><given-names>C</given-names></name><name><surname>Ezenwa</surname><given-names>M</given-names></name><name><surname>Lucero</surname><given-names>R</given-names></name></person-group><article-title>Prevalence of HIV-related stigma in adults living with HIV &amp; disability in Florida, 2015&#x2013;2016</article-title><source>AIDS Care</source><year>2022</year><volume>34</volume><fpage>47-54</fpage><pub-id pub-id-type="doi">10.1080/09540121.2021.1929812</pub-id><pub-id pub-id-type="pmid">34011205</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sahoo</surname><given-names>SS</given-names></name><name><surname>Khanna</surname><given-names>P</given-names></name><name><surname>Verma</surname><given-names>R</given-names></name><name><surname>Verma</surname><given-names>M</given-names></name><name><surname>Mahapatra</surname><given-names>S</given-names></name><name><surname>Parija</surname><given-names>PP</given-names></name><name><surname>Panda</surname><given-names>UK</given-names></name></person-group><article-title>Social stigma and its determinants among people living with HIV/AIDS: a cross-sectional study at ART center in North India</article-title><source>J Family Med Prim Care</source><year>2020</year><volume>9</volume><issue>11</issue><fpage>5646</fpage><lpage>51</lpage><pub-id pub-id-type="doi">10.4103/jfmpc.jfmpc_981_20</pub-id><pub-id pub-id-type="pmid">33532408</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Armoon</surname><given-names>B</given-names></name><name><surname>Fleury</surname><given-names>MJ</given-names></name><name><surname>Bayat</surname><given-names>AH</given-names></name><name><surname>Fakhri</surname><given-names>Y</given-names></name><name><surname>Higgs</surname><given-names>P</given-names></name><name><surname>Moghaddam</surname><given-names>LF</given-names></name><name><surname>Gonabadi-Nezhad</surname><given-names>L</given-names></name></person-group><article-title>HIV-related stigma associated with social support, alcohol use disorders, depression, anxiety, and suicidal ideation among people living with HIV: a systematic review and meta-analysis</article-title><source>Int J Ment Health Syst</source><year>2022</year><volume>16</volume><fpage>17</fpage><pub-id pub-id-type="doi">10.1186/s13033-022-00527-w</pub-id><pub-id pub-id-type="pmid">35246211</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ion</surname><given-names>A</given-names></name><name><surname>Wagner</surname><given-names>AC</given-names></name><name><surname>Greene</surname><given-names>S</given-names></name><name><surname>Loutfy</surname><given-names>MR</given-names></name><collab>HIV Mothering Study Team</collab></person-group><article-title>HIV-related stigma in pregnancy and early postpartum of mothers living with HIV in Ontario, Canada</article-title><source>AIDS Care</source><year>2017</year><volume>29</volume><issue>2</issue><fpage>137</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1080/09540121.2016.1211608</pub-id><pub-id pub-id-type="pmid">27449254</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>M</given-names></name><name><surname>Serovich</surname><given-names>J</given-names></name><name><surname>Laschober</surname><given-names>T</given-names></name><name><surname>Kimberly</surname><given-names>J</given-names></name><name><surname>Lescano</surname><given-names>C</given-names></name></person-group><article-title>Ways of coping and perceived HIV-related stigma among people living with HIV: moderation by sex and sexual orientation</article-title><source>Psychol Health Med</source><year>2020</year><volume>25</volume><fpage>867</fpage><lpage>78</lpage><pub-id pub-id-type="doi">10.1080/13548506.2019.1680852</pub-id><pub-id pub-id-type="pmid">31631682</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirabira</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ashaba</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Favina</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Maling</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Nansera</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Zanoni</surname>
+              <given-names>BC</given-names>
+            </name>
+          </person-group>
+          <article-title>Intrapersonal predictors of internalized stigma among school going adolescents living with HIV in southwestern Uganda</article-title>
+          <source>Psychol Health Med</source>
+          <year>2022</year>
+          <volume>28</volume>
+          <fpage>2300</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi">10.1080/13548506.2023.2198244</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deering</surname><given-names>KN</given-names></name><name><surname>Logie</surname><given-names>C</given-names></name><name><surname>Kr&#xFC;si</surname><given-names>A</given-names></name><name><surname>Ranville</surname><given-names>F</given-names></name><name><surname>Braschel</surname><given-names>M</given-names></name><name><surname>Duff</surname><given-names>P</given-names></name><name><surname>Shannon</surname><given-names>K</given-names></name></person-group><article-title>Prevalence and correlates of HIV Stigma among women living with HIV in Metro Vancouver, Canada</article-title><source>AIDS Behav</source><year>2021</year><volume>25</volume><issue>6</issue><fpage>1688</fpage><lpage>98</lpage><pub-id pub-id-type="doi">10.1007/s10461-020-03084-w</pub-id><pub-id pub-id-type="pmid">33389325</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <mixed-citation publication-type="other">The Public Health Agency of Sweden. HIV infection. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistik-a-o/sjukdomsstatistik/hivinfektion/">https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistik-a-o/sjukdomsstatistik/hivinfektion/</ext-link>. Accessed 1 Apr 2024.</mixed-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zeluf-Andersson</surname><given-names>G</given-names></name><name><surname>Eriksson</surname><given-names>LE</given-names></name><name><surname>Sch&#xF6;nnesson</surname><given-names>LN</given-names></name><name><surname>H&#xF6;ijer</surname><given-names>J</given-names></name><name><surname>M&#xE5;nehall</surname><given-names>P</given-names></name><name><surname>Ekstr&#xF6;m</surname><given-names>AM</given-names></name></person-group><article-title>Beyond viral suppression: the quality of life of people living with HIV in Sweden</article-title><source>AIDS Care</source><year>2019</year><volume>31</volume><issue>4</issue><fpage>403</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.1080/09540121.2018.1545990</pub-id><pub-id pub-id-type="pmid">30444140</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nilsson Sch&#xF6;nnesson</surname><given-names>L</given-names></name><name><surname>Ross</surname><given-names>MW</given-names></name><name><surname>Garcia-Huidobro</surname><given-names>D</given-names></name><name><surname>Eriksson</surname><given-names>LE</given-names></name><name><surname>Andersson</surname><given-names>G</given-names></name><name><surname>Williams</surname><given-names>ML</given-names></name><name><surname>Ekstr&#xF6;m</surname><given-names>AM</given-names></name></person-group><article-title>Hopelessness and HIV infection: an exploratory study with a gender-specific perspective</article-title><source>BMC Psychol</source><year>2022</year><volume>10</volume><fpage>46</fpage><pub-id pub-id-type="doi">10.1186/s40359-022-00755-2</pub-id><pub-id pub-id-type="pmid">35227317</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reinius</surname><given-names>M</given-names></name><name><surname>Wettergren</surname><given-names>L</given-names></name><name><surname>Wiklander</surname><given-names>M</given-names></name><name><surname>Svedhem</surname><given-names>V</given-names></name><name><surname>Ekstrom</surname><given-names>AM</given-names></name><name><surname>Eriksson</surname><given-names>LE</given-names></name></person-group><article-title>Development of a 12-item short version of the HIV stigma scale</article-title><source>Health Qual Life Outcomes</source><year>2017</year><volume>15</volume><issue>1</issue><fpage>115</fpage><pub-id pub-id-type="doi">10.1186/s12955-017-0691-z</pub-id><pub-id pub-id-type="pmid">28558805</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindberg</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Wettergren</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Wiklander</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Svedhem-Johansson</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Eriksson</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>Psychometric evaluation of the HIV stigma scale in a Swedish context</article-title>
+          <source>PLoS ONE</source>
+          <year>2014</year>
+          <volume>18</volume>
+          <issue>12</issue>
+          <fpage>e114867</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0114867</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <mixed-citation publication-type="other">People First Charter &#x2013; HIV Language, Person First Language. Available from: <ext-link ext-link-type="uri" xlink:href="https://peoplefirstcharter.org/">https://peoplefirstcharter.org/</ext-link>. Accessed 1 Apr 2024.</mixed-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Beck</surname><given-names>AT</given-names></name><name><surname>Weissman</surname><given-names>A</given-names></name><name><surname>Lester</surname><given-names>D</given-names></name><name><surname>Trexler</surname><given-names>L</given-names></name></person-group><article-title>The measurement of pessimism: the hopelessness scale</article-title><source>J Consult Clin Psychol</source><year>1974</year><volume>42</volume><issue>6</issue><fpage>861</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1037/h0037562</pub-id><pub-id pub-id-type="pmid">4436473</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tabachnick</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Fidell</surname>
+              <given-names>LS</given-names>
+            </name>
+          </person-group>
+          <source>Using multivariate statistics</source>
+          <year>2013</year>
+          <edition>6</edition>
+          <publisher-loc>Boston</publisher-loc>
+          <publisher-name>Pearson Education</publisher-name>
+          <fpage>983</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cohen</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source>The Effect size. Statistical Power Analysis for the behavioral sciences</source>
+          <year>1988</year>
+          <publisher-loc>Abingdon</publisher-loc>
+          <publisher-name>Routledge</publisher-name>
+          <fpage>77</fpage>
+          <lpage>83</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lowther</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Selman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Harding</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Higginson</surname>
+              <given-names>IJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Experience of persistent psychological symptoms and perceived stigma among people with HIV on antiretroviral therapy (ART): a systematic review</article-title>
+          <source>Int J Nurs</source>
+          <year>2014</year>
+          <volume>51</volume>
+          <issue>8</issue>
+          <fpage>1171</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijnurstu.2014.01.015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lo Hog Tian</surname><given-names>JM</given-names></name><name><surname>Watson</surname><given-names>JR</given-names></name><name><surname>Ib&#xE1;&#xF1;ez-Carrasco</surname><given-names>F</given-names></name><name><surname>Tran</surname><given-names>B</given-names></name><name><surname>Parsons</surname><given-names>JA</given-names></name><name><surname>Maunder</surname><given-names>RG</given-names></name><etal/></person-group><article-title>Impact of experienced HIV stigma on health is mediated by internalized stigma and depression: results from the HIV stigma index in Ontario</article-title><source>BMC Public Health</source><year>2021</year><volume>21</volume><issue>1</issue><fpage>1595</fpage><pub-id pub-id-type="doi">10.1186/s12889-021-11596-w</pub-id><pub-id pub-id-type="pmid">34496825</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wessman</surname><given-names>M</given-names></name><name><surname>Thorsteinsson</surname><given-names>K</given-names></name><name><surname>Storgaard</surname><given-names>M</given-names></name><name><surname>R&#xF8;nsholt</surname><given-names>FF</given-names></name><name><surname>Johansen</surname><given-names>IS</given-names></name><name><surname>Pedersen</surname><given-names>G</given-names></name><etal/></person-group><article-title>HIV disclosure and stigma among women living with HIV in Denmark</article-title><source>J Virus Erad</source><year>2017</year><volume>3</volume><issue>3</issue><fpage>140</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.1016/S2055-6640(20)30332-0</pub-id><pub-id pub-id-type="pmid">28758021</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baugher</surname><given-names>AR</given-names></name><name><surname>Beer</surname><given-names>L</given-names></name><name><surname>Fagan</surname><given-names>JL</given-names></name><name><surname>Mattson</surname><given-names>CL</given-names></name><name><surname>Freedman</surname><given-names>M</given-names></name><name><surname>Skarbinski</surname><given-names>J</given-names></name><name><surname>Shouse</surname><given-names>RL</given-names></name><collab>Medical Monitoring Project</collab></person-group><article-title>Prevalence of internalized HIV-Related Stigma among HIV-Infected adults in Care, United States, 2011&#x2013;2013</article-title><source>AIDS Behav</source><year>2017</year><volume>21</volume><issue>9</issue><fpage>2600</fpage><lpage>08</lpage><pub-id pub-id-type="doi">10.1007/s10461-017-1712-y</pub-id><pub-id pub-id-type="pmid">28213821</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hedge</surname><given-names>B</given-names></name><name><surname>Devan</surname><given-names>K</given-names></name><name><surname>Catalan</surname><given-names>J</given-names></name><name><surname>Cheshire</surname><given-names>A</given-names></name><name><surname>Ridge</surname><given-names>D</given-names></name></person-group><article-title>HIV-related stigma in the UK then and now: to what extent are we on track to eliminate stigma? A qualitative investigation</article-title><source>BMC Public Health</source><year>2021</year><volume>21</volume><issue>1</issue><fpage>1022</fpage><pub-id pub-id-type="doi">10.1186/s12889-021-11000-7</pub-id><pub-id pub-id-type="pmid">34053441</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR57">
+        <label>57.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stutterheim</surname><given-names>SE</given-names></name><name><surname>Kuijpers</surname><given-names>KJR</given-names></name><name><surname>Wald&#xE9;n</surname><given-names>MI</given-names></name><name><surname>Finkenfl&#xFC;gel</surname><given-names>RNN</given-names></name><name><surname>Brokx</surname><given-names>PAR</given-names></name><name><surname>Bos</surname><given-names>AER</given-names></name></person-group><article-title>Trends in HIV stigma experienced by people living with HIV in the Netherlands: a comparison of cross-sectional surveys over time</article-title><source>AIDS Educ Prev</source><year>2022</year><volume>34</volume><issue>1</issue><fpage>33</fpage><lpage>52</lpage><pub-id pub-id-type="doi">10.1521/aeap.2022.34.1.33</pub-id><pub-id pub-id-type="pmid">35192394</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR58">
+        <label>58.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ho</surname><given-names>SS</given-names></name><name><surname>Holloway</surname><given-names>A</given-names></name></person-group><article-title>The impact of HIV-related stigma on the lives of HIV-positive women: an integrated literature review</article-title><source>J Clin Nurs</source><year>2016</year><volume>25</volume><issue>1&#x2013;2</issue><fpage>8</fpage><lpage>19</lpage><pub-id pub-id-type="doi">10.1111/jocn.12938</pub-id><pub-id pub-id-type="pmid">26234952</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR59">
+        <label>59.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reinius</surname><given-names>M</given-names></name><name><surname>Wiklander</surname><given-names>M</given-names></name><name><surname>Wettergren</surname><given-names>L</given-names></name><name><surname>Svedhem</surname><given-names>V</given-names></name><name><surname>Eriksson</surname><given-names>LE</given-names></name></person-group><article-title>The Relationship between Stigma and Health-Related Quality of Life in people living with HIV who have full Access to Antiretroviral Treatment: an Assessment of Earnshaw and Chaudoir&#x2019;s HIV Stigma Framework using empirical data</article-title><source>AIDS Behav</source><year>2018</year><volume>22</volume><issue>12</issue><fpage>3795</fpage><lpage>806</lpage><pub-id pub-id-type="doi">10.1007/s10461-018-2041-5</pub-id><pub-id pub-id-type="pmid">29417350</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR60">
+        <label>60.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Logie</surname><given-names>C</given-names></name><name><surname>Gadalla</surname><given-names>TM</given-names></name></person-group><article-title>Meta-analysis of health and demographic correlates of stigma towards people living with HIV</article-title><source>AIDS Care</source><year>2009</year><volume>21</volume><issue>6</issue><fpage>742</fpage><lpage>53</lpage><pub-id pub-id-type="doi">10.1080/09540120802511877</pub-id><pub-id pub-id-type="pmid">19806490</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR61">
+        <label>61.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galvan</surname><given-names>FH</given-names></name><name><surname>Davis</surname><given-names>EM</given-names></name><name><surname>Banks</surname><given-names>D</given-names></name><name><surname>Bing</surname><given-names>EG</given-names></name></person-group><article-title>HIV stigma and social support among African americans</article-title><source>AIDS Patient Care STDS</source><year>2008</year><volume>22</volume><issue>5</issue><fpage>423</fpage><lpage>36</lpage><pub-id pub-id-type="doi">10.1089/apc.2007.0169</pub-id><pub-id pub-id-type="pmid">18373417</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR62">
+        <label>62.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yigit</surname><given-names>I</given-names></name><name><surname>Bayramoglu</surname><given-names>Y</given-names></name><name><surname>Weiser</surname><given-names>SD</given-names></name><name><surname>Johnson</surname><given-names>MO</given-names></name><name><surname>Mugavero</surname><given-names>MJ</given-names></name><name><surname>Turan</surname><given-names>JM</given-names></name><name><surname>Turan</surname><given-names>B</given-names></name></person-group><article-title>Changes in internalized stigma and HIV Health outcomes in individuals New to HIV Care: the mediating roles of Depression and Treatment Self-Efficacy</article-title><source>AIDS Patient Care STDS</source><year>2020</year><volume>34</volume><issue>11</issue><fpage>491</fpage><lpage>97</lpage><pub-id pub-id-type="doi">10.1089/apc.2020.0114</pub-id><pub-id pub-id-type="pmid">33147084</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR63">
+        <label>63.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Travaglini</surname><given-names>LE</given-names></name><name><surname>Himelhoch</surname><given-names>SS</given-names></name><name><surname>Fang</surname><given-names>LJ</given-names></name></person-group><article-title>HIV stigma and its relation to mental, physical and social health among black women living with HIV/AIDS</article-title><source>AIDS Behav</source><year>2018</year><volume>22</volume><issue>12</issue><fpage>3783</fpage><lpage>94</lpage><pub-id pub-id-type="doi">10.1007/s10461-018-2037-1</pub-id><pub-id pub-id-type="pmid">29417351</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR64">
+        <label>64.</label>
+        <mixed-citation publication-type="other">The Public Health Agency of Sweden. HIV in Sweden 2022: A study about knowledge, attitudes and approach to HIV in the Swedish population. [Report in Swedish, Summary in English]. Public Health Agency of Sweden. 2022. Available from: <ext-link ext-link-type="uri" xlink:href="https://www.folkhalsomyndigheten.se/publikationer-ochmaterial/publikationsarkiv/a/allmanhetens-kunskap-om-och-attityder-till-hiv-/?pub=117934">https://www.folkhalsomyndigheten.se/publikationer-ochmaterial/publikationsarkiv/a/allmanhetens-kunskap-om-och-attityder-till-hiv-/?pub=117934</ext-link>. Accessed 1 Apr 2024.</mixed-citation>
+      </ref>
+      <ref id="CR65">
+        <label>65.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Geibel</surname><given-names>S</given-names></name><name><surname>Gottert</surname><given-names>A</given-names></name><name><surname>Friedland</surname><given-names>BA</given-names></name><name><surname>Jeremiah</surname><given-names>K</given-names></name><name><surname>McClair</surname><given-names>TL</given-names></name><name><surname>Mallouris</surname><given-names>C</given-names></name><etal/></person-group><article-title>Internalized stigma among people living with HIV: assessing the internalized AIDS-Related Stigma Scale in four countries</article-title><source>AIDS</source><year>2020</year><volume>34</volume><issue>Suppl 1</issue><fpage>S33</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.1097/QAD.0000000000002649</pub-id><pub-id pub-id-type="pmid">32881792</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR66">
+        <label>66.</label>
+        <mixed-citation publication-type="other">Turan B, Budhwani H, Fazeli PL, Browning WR, Raper JL, Mugavero MJ, Turan JM. How does stigma affect people living with HIV? The mediating roles of internalized and anticipated HIV stigma in the effects of perceived community stigma on health and psychosocial outcomes. AIDS Behav. 2017;21(1):283&#x2013;91.</mixed-citation>
+      </ref>
+      <ref id="CR67">
+        <label>67.</label>
+        <mixed-citation publication-type="other">Thapinta D, Srithanaviboonchai K, Uthis P, Suktrakul S, Wiwatwongnawa R, Tangmunkongvorakul A, et al. Association between Internalized Stigma and Depression among people living with HIV in Thailand. Int J Environ Res Public Health. 2022;19(8):4471.</mixed-citation>
+      </ref>
+      <ref id="CR68">
+        <label>68.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reinius</surname><given-names>M</given-names></name><name><surname>Andersson</surname><given-names>GZ</given-names></name><name><surname>Swedhem</surname><given-names>V</given-names></name><name><surname>Wettergren</surname><given-names>L</given-names></name><name><surname>Wiklander</surname><given-names>M</given-names></name><name><surname>Eriksson</surname><given-names>LE</given-names></name></person-group><article-title>Towards a new understanding of HIV-related stigma in the era of efficient treatment - A qualitative reconceptualization of existing theory</article-title><source>J Adv Nurs</source><year>2021</year><volume>77</volume><issue>5</issue><fpage>2472</fpage><lpage>80</lpage><pub-id pub-id-type="doi">10.1111/jan.14774</pub-id><pub-id pub-id-type="pmid">33599309</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR69">
+        <label>69.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nilsson Sch&#xF6;nnesson</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Ross</surname>
+              <given-names>MW</given-names>
+            </name>
+          </person-group>
+          <source>Coping with HIV infection. Psychological and existential responses in gay men</source>
+          <year>1999</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Kluwer Academic/Plenum</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR70">
+        <label>70.</label>
+        <mixed-citation publication-type="other">Public Health Agency of Sweden. Att leva med hiv 2021&#x2013;2022 &#x2013; Resultat fr&#xE5;n en enk&#xE4;tunders&#xF6;kning bland personer som lever med hiv i Sverige. (Living with HIV 2021&#x2013;2022: Results from a survey among people living with HIV in Sweden). Att leva med hiv 2021&#x2013;2022 &#x2013; Resultat fr&#xE5;n en enk&#xE4;tunders&#xF6;kning bland personer som lever med hiv i Sverige &#x2014; Folkh&#xE4;lsomyndigheten (folkhalsomyndigheten.se).</mixed-citation>
+      </ref>
+      <ref id="CR71">
+        <label>71.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reinius</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Svedhem</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Bruchfeld</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Holmstr&#xF6;m Larm</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Nygren-Bonnier</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Eriksson</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>COVID-19-related stigma among infected people in Sweden; psychometric properties and levels of stigma in two cohorts as measured by a COVID-19 stigma scale</article-title>
+          <source>PLoS ONE</source>
+          <year>2023</year>
+          <volume>2</volume>
+          <issue>6</issue>
+          <fpage>18</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR72">
+        <label>72.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moradzadeh</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Zamanian</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV-Related Stigma among people living with HIV in Iran: a cross-sectional study</article-title>
+          <source>J Assoc Nurses AIDS Care</source>
+          <year>2021</year>
+          <volume>01</volume>
+          <issue>5</issue>
+          <fpage>610</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1097/JNC.0000000000000251</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR73">
+        <label>73.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cohen</surname><given-names>S</given-names></name><name><surname>Wills</surname><given-names>TA</given-names></name></person-group><article-title>Stress, social support, and the buffering hypothesis</article-title><source>Psychol Bull.</source><year>1985</year><volume>98</volume><issue>2</issue><fpage>310</fpage><lpage>57</lpage><pub-id pub-id-type="doi">10.1037/0033-2909.98.2.310</pub-id><pub-id pub-id-type="pmid">3901065</pub-id>
+</element-citation>
+      </ref>
+      <ref id="CR74">
+        <label>74.</label>
+        <element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Berg</surname><given-names>RC</given-names></name><name><surname>Page</surname><given-names>S</given-names></name><name><surname>&#xD8;g&#xE5;rd-Rep&#xE5;l</surname><given-names>A</given-names></name></person-group><article-title>The effectiveness of peer-support for people living with HIV: a systematic review and meta-analysis</article-title><source>PLoS ONE</source><year>2021</year><volume>16</volume><issue>6</issue><fpage>e0252623</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0252623</pub-id><pub-id pub-id-type="pmid">34138897</pub-id>
+</element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
