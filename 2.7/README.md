@@ -1,1 +1,2 @@
 # Developing a Data Processing Pipeline: Integrating Machine Learning for Anomaly Detection
+This project is an implementation of a small pipeline with interacting components, integrating concepts from machine learning, programming, and software engineering principles. The pipeline is designed to handle anomaly detection in sensor data and real-time monitoring, with the ability to train a machine learning model, persist it, and use it for prediction on new data.
