@@ -1,0 +1,10 @@
+2024-06-09 22:30:03,395 INFO 2024-06-09 22:30:03  Found new data file: valid.csv
+2024-06-09 22:30:03,722 INFO 2024-06-09 22:30:03  Loaded the file: valid.csv
+2024-06-09 22:30:03,782 INFO 2024-06-09 22:30:03  Received transformed data
+2024-06-09 22:30:05,394 INFO 2024-06-09 22:30:05  Received predictions
+2024-06-09 22:30:07,046 INFO 2024-06-09 22:30:07  Saving predictions to C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/output\valid.csv
+2024-06-09 22:30:07,212 INFO 2024-06-09 22:30:07  Saving image C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/image\valid.csv-sensor_00.png
+2024-06-09 22:30:07,282 INFO 2024-06-09 22:30:07  Saving image C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/image\valid.csv-sensor_01.png
+2024-06-09 22:30:07,353 INFO 2024-06-09 22:30:07  Saving image C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/image\valid.csv-sensor_02.png
+2024-06-09 22:30:07,355 INFO 2024-06-09 22:30:07  Removed original file valid.csv
+2024-06-09 22:30:07,355 INFO 2024-06-09 22:30:07  Resuming listening

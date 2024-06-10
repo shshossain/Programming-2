@@ -1,0 +1,14 @@
+{
+    "input_directory": "C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/input",
+    "output_directory": "C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/output",
+    "image_directory": "C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/image",
+    "model_path": "C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/model.joblib",
+    "scaler_path": "C:/Users/HP Pavilion Gaming/Desktop/Programming_2/2.7/scaler.joblib",
+    
+    "sensors_to_draw": [
+        "sensor_00",
+        "sensor_01",
+        "sensor_02"
+    ],
+    "check_interval": 1
+}
